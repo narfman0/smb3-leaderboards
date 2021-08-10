@@ -162,7 +162,7 @@ categories: speedrun
 | 153 | LeddaLawrence | 0:03:57 | 2016-09-19 | [link](https://www.youtube.com/watch?v=krKg45_ueH0) |
 | 154 | DashGamer | 0:03:57 | 2021-07-22 | [link](https://www.youtube.com/watch?v=_6sbg8LrKN8) |
 | 155 | TanAyonM | 0:03:57 | 2019-10-12 | [link](https://www.youtube.com/watch?v=2CR9jlfFeK8&t=241s) |
-| 156 | CréatiX14 | 0:03:57 | 2020-09-06 | [link](https://youtu.be/OyoIxN5IcfE) |
+| 156 | CreatiX14 | 0:03:57 | 2020-09-06 | [link](https://youtu.be/OyoIxN5IcfE) |
 | 157 | Tmitt7 | 0:03:58 | 2017-11-04 | [link](https://www.youtube.com/watch?v=_12jMiqkAMM) |
 | 158 | Eichi | 0:03:58 | 2017-02-21 | [link](https://www.youtube.com/watch?v=udH2JtOA3GY) |
 | 159 | Sc0tty047 | 0:03:58 | 2019-09-03 | [link](https://www.youtube.com/watch?v=m5zVHdUIKDk&t=11s) |
@@ -363,7 +363,7 @@ categories: speedrun
 | 354 | ivandeluxeee | 0:04:42 | 2021-04-18 | [link](https://youtu.be/ueWc30mSfu0) |
 | 355 | Keyro | 0:04:43 | 2018-05-27 | [link](https://www.youtube.com/watch?v=ypvkN4KG8J8&feature=youtu.be) |
 | 356 | Waza__Alex | 0:04:43 | 2020-05-31 | [link](https://youtu.be/UYN5pfiS1lE) |
-| 357 | GreñudoGames | 0:04:43 | 2020-09-25 | [link](https://www.youtube.com/watch?v=crBFf9hAvsE) |
+| 357 | GrenudoGames | 0:04:43 | 2020-09-25 | [link](https://www.youtube.com/watch?v=crBFf9hAvsE) |
 | 358 | RealMim | 0:04:45 | 2021-05-04 | [link](https://youtu.be/mTWBgpYxcG8) |
 | 359 | Djinnesis | 0:04:45 | 2019-03-22 | [link](https://youtu.be/LKkJglzvMf4) |
 | 360 | Esthrus | 0:04:45 | 2019-06-07 | [link](https://youtu.be/nq-erkE5FKs) |

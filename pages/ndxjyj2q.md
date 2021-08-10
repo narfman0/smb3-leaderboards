@@ -196,7 +196,7 @@ categories: speedrun
 | 187 | bassguitarbill | 0:12:40 | 2016-02-09 | [link](http://www.twitch.tv/bassguitarbill/v/42904742) |
 | 188 | baseball_caniac | 0:12:40 | 2016-03-07 | [link](https://youtu.be/sqs3VSGu7YE) |
 | 189 | Overswarm | 0:12:41 | 2019-10-21 | [link](https://www.twitch.tv/videos/497598375) |
-| 190 | DaniëlHarteveld | 0:12:41 | 2020-01-11 | [link](https://youtu.be/mZqzmkHeEFE) |
+| 190 | DanielHarteveld | 0:12:41 | 2020-01-11 | [link](https://youtu.be/mZqzmkHeEFE) |
 | 191 | JonnyLink | 0:12:42 | 2019-03-04 | [link](https://www.youtube.com/watch?v=ETLcsyVrh30) |
 | 192 | wolfman2000 | 0:12:45 | 2019-12-17 | [link](https://www.twitch.tv/videos/522574232) |
 | 193 | theotherjim | 0:12:46 | 2017-02-27 | [link](https://youtu.be/ijuo2nRT_9s) |
