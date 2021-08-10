@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "SMB3 Leaderboards [read-only replica](http://www.speedrun.com/smb3)"
+title: "SMB3 Leaderboards"
 ---
+
+Read-only replica for [src leaderboards](http://www.speedrun.com/smb3)
 
 ## Categories
 
