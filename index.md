@@ -12,11 +12,11 @@ Read-only replica for [src leaderboards](http://www.speedrun.com/smb3)
 
 [100%]({{ site.baseurl }}{% link pages/7dg8z424.md %})
 
-[Any%]({{ site.baseurl }}{% link pages/ndxjyj2q.md %})
+[Any% No Wrong Warp]({{ site.baseurl }}{% link pages/ndxjyj2q.md %})
 
 [Warpless]({{ site.baseurl }}{% link pages/rklxwwkn.md %})
 
-[No Wrong Warp]({{ site.baseurl }}{% link pages/wkpjpvkr.md %})
+[Any%]({{ site.baseurl }}{% link pages/wkpjpvkr.md %})
 
 ## Other
 
