@@ -1,0 +1,13 @@
+title: SMB3 Leaderboards
+email: narfman0@gmail.com
+description: >-
+  SMB3 Leaderboards is a read only replica of src data
+baseurl: "/smb3-leaderboards"
+url: "https://narfman0.github.io"
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+header_pages:
+  - pages/links.md
