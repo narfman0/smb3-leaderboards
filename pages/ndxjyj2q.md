@@ -7,10 +7,10 @@ categories: speedrun
 
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
-| 1 | Czikubi | 0:10:44 | 2021-07-26 | [link](https://www.twitch.tv/videos/1098482605) |
-| 1 | mitchflowerpower | 0:10:44 | 2018-10-22 | [link](https://www.twitch.tv/videos/326119606) |
-| 3 | Kirua | 0:10:45 | 2017-08-08 | [link](https://www.twitch.tv/videos/165395327) |
-| 3 | jtknott | 0:10:45 | 2021-06-27 | [link](https://youtu.be/RXfM2aVcGx0) |
+| 1 | Czikubi | 0:10:44.066000 | 2021-07-26 | [link](https://www.twitch.tv/videos/1098482605) |
+| 2 | mitchflowerpower | 0:10:44.416000 | 2018-10-22 | [link](https://www.twitch.tv/videos/326119606) |
+| 3 | Kirua | 0:10:45.350000 | 2017-08-08 | [link](https://www.twitch.tv/videos/165395327) |
+| 4 | jtknott | 0:10:45.400000 | 2021-06-27 | [link](https://youtu.be/RXfM2aVcGx0) |
 | 5 | eddiecatgaming | 0:10:46 | 2021-06-24 | [link](https://www.youtube.com/watch?v=CJEDhn0P-so) |
 | 6 | Miniland | 0:10:48 | 2021-07-23 | [link](https://youtu.be/A5Eh3eKw69c) |
 | 6 | Lui | 0:10:48 | 2021-07-03 | [link](https://www.twitch.tv/videos/1076009696) |

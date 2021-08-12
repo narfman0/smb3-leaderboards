@@ -9,8 +9,8 @@ categories: speedrun
  ---- | ------ | ---- | ---- | ----- 
 | 1 | mitchflowerpower | 0:50:30 | 2020-08-05 | [link](https://www.youtube.com/watch?v=WFKfWMfJCCw) |
 | 2 | Czikubi | 0:50:54 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
-| 3 | maibaRTA | 0:50:57 | 2021-07-22 | [link](https://www.twitch.tv/videos/1095656104) |
-| 3 | Kirua | 0:50:57 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
+| 3 | maibaRTA | 0:50:57.083000 | 2021-07-22 | [link](https://www.twitch.tv/videos/1095656104) |
+| 4 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
 | 5 | Furopen | 0:51:12 | 2021-06-26 | [link](https://youtu.be/B4EwgWgGgg8) |
 | 6 | IluvMario | 0:51:17 | 2018-04-09 | [link](https://www.twitch.tv/videos/248583120) |
 | 7 | ZoneVD | 0:51:19 | 2021-04-22 | [link](https://www.twitch.tv/videos/995985992) |
