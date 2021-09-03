@@ -159,8 +159,8 @@ categories: speedrun
 | 150 | Schicksal | 0:59:44 | 2018-05-09 | [link](https://www.twitch.tv/videos/259545648) |
 | 151 | windcask | 0:59:46 | 2017-02-12 | [link](https://www.youtube.com/watch?v=-RDnkzPAq_I) |
 | 152 | Remz | 0:59:48 | 2017-11-23 | [link](https://www.twitch.tv/videos/203719293) |
-| 153 | Acmlm | 0:59:55 | 2014-01-04 | [link](http://www.twitch.tv/acmlm/c/3492492) |
-| 154 | budzyRNG | 1:00:03 | 2021-09-01 | [link](https://www.twitch.tv/videos/1136509978) |
+| 153 | budzyRNG | 0:59:54 | 2021-09-02 | [link](https://www.twitch.tv/videos/1137403070) |
+| 154 | Acmlm | 0:59:55 | 2014-01-04 | [link](http://www.twitch.tv/acmlm/c/3492492) |
 | 155 | JSR_ | 1:00:10 | 2021-04-03 | [link](https://www.twitch.tv/videos/974527277) |
 | 156 | glutamic_acid | 1:00:14 | 2020-10-10 | [link](https://www.twitch.tv/videos/766631321) |
 | 157 | Adotis | 1:00:15 | 2020-11-30 | [link](https://www.twitch.tv/videos/820683849) |
