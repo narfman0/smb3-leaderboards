@@ -110,6 +110,7 @@ categories: speedrun
 | 97 | DeadmanPR | 0:03:51 | 2020-12-20 | [link](https://www.twitch.tv/videos/844504796) |
 | 97 | DelTaz | 0:03:51 | 2016-12-14 | [link](https://www.youtube.com/watch?v=1xJ5dhsxtyk&feature=youtu.be) |
 | 97 | CasualTom | 0:03:51 | 2019-03-30 | [link](https://www.youtube.com/watch?v=27CJsHO1Qt0) |
+| 104 | Alvaca | 0:03:52 | 2021-09-07 | [link](https://youtu.be/aEqVkOTfOB4) |
 | 104 | JoeyWheeler | 0:03:52 | 2019-07-08 | [link](https://www.youtube.com/watch?v=nxI2jPfBFpI) |
 | 104 | crasyfingers | 0:03:52 | 2019-02-09 | [link](https://www.twitch.tv/videos/377672762) |
 | 104 | Uvideo | 0:03:52 | 2020-04-15 | [link](https://www.youtube.com/watch?v=fw4wjXq7dOE) |
@@ -119,7 +120,6 @@ categories: speedrun
 | 104 | CarlEmilEx | 0:03:52 | 2017-03-13 | [link](https://youtu.be/Fg0kcSOYfwk) |
 | 104 | FURiOUS | 0:03:52 | 2015-06-19 | [link](https://www.youtube.com/watch?v=qnC1fzT7oXM) |
 | 104 | zaqwa | 0:03:52 | 2017-09-07 | [link](https://www.youtube.com/watch?v=CrhfO2MdsfY) |
-| 104 | Alvaca | 0:03:52 | 2021-09-07 | [link](https://youtu.be/aEqVkOTfOB4) |
 | 114 | Ribb95 | 0:03:53 | 2018-10-27 | [link](https://www.youtube.com/watch?v=Rml4m5X437Y&t=2s) |
 | 114 | icterus440 | 0:03:53 | 2018-03-28 | [link](https://www.youtube.com/watch?v=N3SFFZvh6_A&feature=youtu.be) |
 | 114 | Beerfullofbelly | 0:03:53 | 2018-06-01 | [link](https://www.twitch.tv/videos/267957481) |
