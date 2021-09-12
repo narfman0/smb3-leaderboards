@@ -148,9 +148,9 @@ categories: speedrun
 | 138 | Javeliin | 0:58:56 | 2021-07-21 | [link](https://youtu.be/kDLVQw4uXbE) |
 | 140 | Skybilz | 0:58:59 | 2014-04-03 | [link](http://www.twitch.tv/skybilz/c/4001194) |
 | 141 | sashoboss | 0:59:07 | 2021-01-22 | [link](https://www.twitch.tv/videos/883006606) |
-| 142 | LmaoItsBool | 0:59:27 | 2018-04-02 | [link](https://youtu.be/uC_BFagiQIQ) |
-| 143 | WhicheverMirror | 0:59:28 | 2021-08-11 | [link](https://youtu.be/nY7SiJ4QfOY) |
-| 144 | budzyRNG | 0:59:31 | 2021-09-06 | [link](https://www.twitch.tv/videos/1140467659) |
+| 142 | budzyRNG | 0:59:10 | 2021-09-11 | [link](https://www.twitch.tv/videos/1143596787) |
+| 143 | LmaoItsBool | 0:59:27 | 2018-04-02 | [link](https://youtu.be/uC_BFagiQIQ) |
+| 144 | WhicheverMirror | 0:59:28 | 2021-08-11 | [link](https://youtu.be/nY7SiJ4QfOY) |
 | 145 | JonnyLink | 0:59:32 | 2020-12-19 | [link](https://youtu.be/J4Gg5wODKVc) |
 | 145 | baseball_caniac | 0:59:32 | 2016-04-02 | [link](https://www.youtube.com/watch?v=1vryuDYs3YM) |
 | 147 | icterus440 | 0:59:38 | 2018-04-27 | [link](https://www.youtube.com/watch?v=opx0fdQy7NY&feature=youtu.be) |
@@ -194,9 +194,9 @@ categories: speedrun
 | 185 | sYn | 1:04:45 | 2018-07-05 | [link](https://www.twitch.tv/videos/281380929) |
 | 186 | jamesjmarkeyjr | 1:04:52 | 2021-08-16 | [link](https://youtu.be/8stxbStpMSA) |
 | 187 | deuisy | 1:05:05 | 2021-03-21 | [link](https://www.twitch.tv/videos/957671579) |
-| 188 | amourietta | 1:05:19 | 2019-02-26 | [link](https://www.twitch.tv/videos/387146231) |
-| 189 | de_oScar | 1:06:09 | 2021-07-16 | [link](https://www.youtube.com/watch?v=erITQTv1Cm4) |
-| 190 | cleveland_tom | 1:06:20 | 2021-09-04 | [link](https://www.twitch.tv/videos/1138912671) |
+| 188 | cleveland_tom | 1:05:17 | 2021-09-11 | [link](https://www.twitch.tv/videos/1145616630) |
+| 189 | amourietta | 1:05:19 | 2019-02-26 | [link](https://www.twitch.tv/videos/387146231) |
+| 190 | de_oScar | 1:06:09 | 2021-07-16 | [link](https://www.youtube.com/watch?v=erITQTv1Cm4) |
 | 191 | Drako93 | 1:06:24 | 2019-08-11 | [link](https://www.youtube.com/watch?v=E8J-xkIUfqQ&t=7s) |
 | 192 | Picante | 1:06:39 | 2019-11-07 | [link](https://www.twitch.tv/videos/507370164) |
 | 193 | Luvbaseball58 | 1:07:06 | 2018-08-17 | [link](https://youtu.be/Kl6TDxSBKZ0) |
