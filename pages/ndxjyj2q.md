@@ -58,8 +58,8 @@ categories: speedrun
 | 49 | ibuba7 | 0:11:08 | 2019-03-16 | [link](https://www.youtube.com/watch?v=wbWvA6XiNiE) |
 | 50 | EthanRTA | 0:11:09 | 2018-05-15 | [link](https://www.twitch.tv/videos/261783915) |
 | 50 | Lawso42 | 0:11:09 | 2018-04-26 | [link](https://www.twitch.tv/videos/254877046) |
-| 52 | duckfist | 0:11:10 | 2017-02-26 | [link](https://www.twitch.tv/videos/124754155) |
 | 52 | uninerd | 0:11:10 | 2021-09-11 | [link](https://www.twitch.tv/videos/1145575198) |
+| 52 | duckfist | 0:11:10 | 2017-02-26 | [link](https://www.twitch.tv/videos/124754155) |
 | 54 | WRD116 | 0:11:11 | 2021-04-12 | [link](https://www.youtube.com/watch?v=j4qEvY4Gcw8) |
 | 54 | Chelney | 0:11:11 | 2016-05-25 | [link](https://www.twitch.tv/chelney1/v/68486199) |
 | 56 | CujoIHSV | 0:11:12 | 2016-01-20 | [link](https://youtu.be/1N58EZFINZ4) |
