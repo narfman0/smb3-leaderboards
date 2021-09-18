@@ -77,8 +77,8 @@ categories: speedrun
 | 68 | riscky | 0:03:46 | 2017-10-04 | [link](https://youtu.be/6PuHaIBrXSI) |
 | 68 | Okmenaut | 0:03:46 | 2017-08-09 | [link](https://youtu.be/V5kPwNLaXmQ) |
 | 68 | junkyard_dave | 0:03:46 | 2020-05-26 | [link](https://www.youtube.com/watch?v=tijENQEnEWY) |
-| 68 | Carter44 | 0:03:46 | 2018-04-15 | [link](https://youtu.be/7Ld33MD9wlQ) |
 | 68 | ObsoleteGamer2004 | 0:03:46 | 2021-06-15 | [link](https://www.youtube.com/watch?v=BiBgDbgC214) |
+| 68 | Carter44 | 0:03:46 | 2018-04-15 | [link](https://youtu.be/7Ld33MD9wlQ) |
 | 68 | CujoIHSV | 0:03:46 | 2015-10-29 | [link](http://www.twitch.tv/cujoihsv/v/23111363) |
 | 74 | Tex-Saralonde | 0:03:47 | 2020-08-29 | [link](https://youtu.be/2x2W5SRFMVw) |
 | 74 | AD2 | 0:03:47 | 2017-03-18 | [link](https://www.twitch.tv/videos/129453312) |
@@ -121,12 +121,12 @@ categories: speedrun
 | 104 | FURiOUS | 0:03:52 | 2015-06-19 | [link](https://www.youtube.com/watch?v=qnC1fzT7oXM) |
 | 104 | zaqwa | 0:03:52 | 2017-09-07 | [link](https://www.youtube.com/watch?v=CrhfO2MdsfY) |
 | 114 | Ribb95 | 0:03:53 | 2018-10-27 | [link](https://www.youtube.com/watch?v=Rml4m5X437Y&t=2s) |
+| 114 | yeabruh | 0:03:53 | 2021-09-15 | [link](https://youtu.be/s8r9Lk6floA) |
 | 114 | icterus440 | 0:03:53 | 2018-03-28 | [link](https://www.youtube.com/watch?v=N3SFFZvh6_A&feature=youtu.be) |
 | 114 | Beerfullofbelly | 0:03:53 | 2018-06-01 | [link](https://www.twitch.tv/videos/267957481) |
 | 114 | Aydles | 0:03:53 | 2018-06-13 | [link](https://youtu.be/1qpvwqmvhkg) |
 | 114 | kei | 0:03:53 | 2018-03-25 | [link](https://www.youtube.com/watch?v=lc9gjWkGu98) |
 | 114 | Nowey | 0:03:53 | 2018-03-07 | [link](https://www.youtube.com/watch?v=wIAWr3da_wM) |
-| 114 | yeabruh | 0:03:53 | 2021-09-15 | [link](https://youtu.be/s8r9Lk6floA) |
 | 121 | Mr.JacoPbass | 0:03:54 | 2018-05-22 | [link](https://www.youtube.com/watch?v=-58ezFfKTx4) |
 | 121 | Volpey | 0:03:54 | 2019-09-27 | [link](https://www.youtube.com/watch?v=z_j7-TOOYME) |
 | 121 | alpha_ray_burst | 0:03:54 | 2020-12-17 | [link](https://www.twitch.tv/videos/840496035) |
