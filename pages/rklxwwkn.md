@@ -27,10 +27,10 @@ categories: speedrun
 | 18 | Outside_Lutz | 0:51:53 | 2014-03-23 | [link](https://www.youtube.com/watch?v=IjSx5GHtB78) |
 | 19 | ibuba7 | 0:51:54 | 2021-02-25 | [link](https://www.youtube.com/watch?v=fdKLbhv9TZQ&ab_channel=iBuba7) |
 | 20 | dom | 0:51:55 | 2021-05-18 | [link](https://youtu.be/AkLx3ODwW8w) |
-| 21 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
-| 22 | yatokami9 | 0:51:59 | 2021-06-18 | [link](https://www.twitch.tv/videos/1060261196) |
-| 23 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
-| 24 | Scarface | 0:52:17 | 2021-04-24 | [link](https://youtu.be/dTlqb-j2QXo) |
+| 21 | Scarface | 0:51:56 | 2021-09-21 | [link](https://youtu.be/4nOUUbs6KVo) |
+| 22 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
+| 23 | yatokami9 | 0:51:59 | 2021-06-18 | [link](https://www.twitch.tv/videos/1060261196) |
+| 24 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
 | 25 | Macobra52 | 0:52:26 | 2020-07-31 | [link](https://www.twitch.tv/videos/696469338) |
 | 26 | MoonJi | 0:52:30 | 2019-01-10 | [link](https://www.youtube.com/watch?v=95c6tX8tY_c&t=1498s) |
 | 27 | jtknott | 0:52:36 | 2020-12-29 | [link](https://www.youtube.com/watch?v=mFVaOOPTA9A) |
