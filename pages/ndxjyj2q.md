@@ -203,9 +203,9 @@ categories: speedrun
 | 194 | Toastyglint420 | 0:12:39 | 2016-02-08 | [link](http://www.twitch.tv/toastyglint420/v/42258650) |
 | 195 | bassguitarbill | 0:12:40 | 2016-02-09 | [link](http://www.twitch.tv/bassguitarbill/v/42904742) |
 | 195 | baseball_caniac | 0:12:40 | 2016-03-07 | [link](https://youtu.be/sqs3VSGu7YE) |
+| 197 | kevinprado13 | 0:12:41 | 2021-09-22 | [link](https://www.twitch.tv/videos/1156087198) |
 | 197 | DanilHarteveld | 0:12:41 | 2020-01-11 | [link](https://youtu.be/mZqzmkHeEFE) |
 | 197 | Overswarm | 0:12:41 | 2019-10-21 | [link](https://www.twitch.tv/videos/497598375) |
-| 197 | kevinprado13 | 0:12:41 | 2021-09-22 | [link](https://www.twitch.tv/videos/1156087198) |
 | 200 | JonnyLink | 0:12:42 | 2019-03-04 | [link](https://www.youtube.com/watch?v=ETLcsyVrh30) |
 | 201 | wolfman2000 | 0:12:45 | 2019-12-17 | [link](https://www.twitch.tv/videos/522574232) |
 | 202 | theotherjim | 0:12:46 | 2017-02-27 | [link](https://youtu.be/ijuo2nRT_9s) |

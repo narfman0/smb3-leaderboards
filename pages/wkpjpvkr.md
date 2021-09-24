@@ -11,7 +11,7 @@ categories: speedrun
 | 2 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
 | 3 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
 | 4 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
-| 5 | Joshua69yt | 0:03:08.050000 | 2021-09-19 | [link](https://youtu.be/yXdWt7ulfFE) |
+| 5 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
 | 6 | narfman0 | 0:03:08.433000 | 2021-09-12 | [link](https://youtu.be/h2xeo2zJERc) |
 | 7 | Ellonija | 0:03:08.716000 | 2018-11-14 | [link](https://www.twitch.tv/videos/335488260) |
 | 8 | eddiecatgaming | 0:03:09 | 2021-08-08 | [link](https://www.youtube.com/watch?v=sPdj_LJr8PI) |
@@ -184,11 +184,11 @@ categories: speedrun
 | 162 | Karyno | 0:03:58 | 2017-05-13 | [link](https://www.youtube.com/watch?v=JvjeloAySEY) |
 | 176 | Sofa1 | 0:03:59 | 2018-02-02 | [link](https://www.twitch.tv/videos/224762764) |
 | 176 | IluvMario | 0:03:59 | 2014-05-21 | [link](https://www.twitch.tv/iluvmario/v/49223345) |
-| 176 | Kuto1k | 0:03:59 | 2021-09-22 | [link](https://youtu.be/HXcl78_Ubpg) |
 | 176 | Nikelaus | 0:03:59 | 2017-06-01 | [link](https://www.youtube.com/watch?v=mRU-DR2kNjs) |
 | 176 | TheGoodGoomba | 0:03:59 | 2020-10-25 | [link](https://youtu.be/QHp6RWDZKJo) |
 | 176 | HJA | 0:03:59 | 2017-10-23 | [link](https://www.youtube.com/watch?v=_CmANw241yo) |
 | 176 | jtknott | 0:03:59 | 2018-04-21 | [link](https://youtu.be/6OflYL17Sbg) |
+| 176 | Kuto1k | 0:03:59 | 2021-09-22 | [link](https://youtu.be/HXcl78_Ubpg) |
 | 176 | ThePigKing | 0:03:59 | 2020-01-13 | [link](https://youtu.be/IvhV07eVwq8) |
 | 176 | CreatiX | 0:03:59 | 2020-02-22 | [link](https://youtu.be/cThrF_3Invs) |
 | 176 | Dellowood | 0:03:59 | 2021-01-08 | [link](https://www.youtube.com/watch?v=-mHo4ksbReY) |
