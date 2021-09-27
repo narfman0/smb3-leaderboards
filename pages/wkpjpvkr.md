@@ -34,8 +34,8 @@ categories: speedrun
 | 25 | sloblock | 0:03:23 | 2016-10-02 | [link](https://youtu.be/5uyTrSC5Mwc) |
 | 25 | Renakun | 0:03:23 | 2019-01-23 | [link](https://youtu.be/AZKoTuEogxs) |
 | 25 | Lawso42 | 0:03:23 | 2016-06-11 | [link](https://www.twitch.tv/videos/71778940) |
-| 28 | Sikbit | 0:03:24 | 2018-06-02 | [link](https://www.youtube.com/watch?v=TC5AzXHNqjE) |
 | 28 | Kuto1k | 0:03:24 | 2021-09-25 | [link](https://www.youtube.com/watch?v=9-Dk0fu1G88) |
+| 28 | Sikbit | 0:03:24 | 2018-06-02 | [link](https://www.youtube.com/watch?v=TC5AzXHNqjE) |
 | 30 | ROOK_jpn | 0:03:25 | 2019-06-15 | [link](https://www.youtube.com/watch?v=DVGqsSpeH9w) |
 | 30 | Boethiah | 0:03:25 | 2020-01-26 | [link](https://www.twitch.tv/videos/542022781) |
 | 30 | robertalbertson240 | 0:03:25 | 2021-06-17 | [link](https://www.youtube.com/watch?v=W8fZe2ofmLY&ab_channel=mitchleafpower) |
