@@ -117,9 +117,9 @@ categories: speedrun
 | 108 | Kofca | 0:56:54 | 2017-07-12 | [link](https://www.twitch.tv/videos/158446470) |
 | 109 | TheBeastMonster_ | 0:57:07 | 2021-03-24 | [link](https://youtu.be/CgoI6vS84ok) |
 | 110 | AnimusUnited | 0:57:08 | 2021-04-17 | [link](https://www.twitch.tv/videos/991323385) |
-| 111 | Mr.JacoPbass | 0:57:18 | 2018-11-28 | [link](https://www.twitch.tv/videos/341875055) |
-| 111 | beardylocks | 0:57:18 | 2021-04-29 | [link](https://youtu.be/FdhiO-l1jko) |
-| 113 | budzyRNG | 0:57:21 | 2021-09-22 | [link](https://www.twitch.tv/videos/1155272199) |
+| 111 | budzyRNG | 0:57:14 | 2021-09-26 | [link](https://www.twitch.tv/videos/1160293206) |
+| 112 | Mr.JacoPbass | 0:57:18 | 2018-11-28 | [link](https://www.twitch.tv/videos/341875055) |
+| 112 | beardylocks | 0:57:18 | 2021-04-29 | [link](https://youtu.be/FdhiO-l1jko) |
 | 114 | Jokubotti | 0:57:27 | 2021-09-12 | [link](https://www.twitch.tv/videos/1140763147) |
 | 115 | IsoFrieze | 0:57:29 | 2016-12-07 | [link](https://www.youtube.com/watch?v=7-WO3P7viG8) |
 | 115 | Madu | 0:57:29 | 2017-11-13 | [link](https://www.twitch.tv/videos/201113997) |
