@@ -177,9 +177,9 @@ categories: speedrun
 | 168 | link_7777 | 0:12:17 | 2018-03-17 | [link](https://www.twitch.tv/videos/240012832) |
 | 168 | pJ00nas | 0:12:17 | 2021-05-06 | [link](https://www.twitch.tv/pj00nas/v/1012035042?sr=a&t=0s) |
 | 170 | jahaley64 | 0:12:18 | 2020-08-09 | [link](https://www.twitch.tv/videos/705717342) |
+| 171 | P1MuRTA0311 | 0:12:21 | 2021-10-08 | [link](https://www.twitch.tv/videos/1170860346) |
 | 171 | MtOlympus | 0:12:21 | 2021-03-05 | [link](https://youtu.be/MhuZ2mlERLY) |
 | 171 | esmo88 | 0:12:21 | 2019-05-27 | [link](https://www.twitch.tv/videos/430790914) |
-| 171 | P1MuRTA0311 | 0:12:21 | 2021-10-08 | [link](https://www.twitch.tv/videos/1170860346) |
 | 174 | skateman222 | 0:12:23 | 2019-01-23 | [link](https://www.twitch.tv/videos/368876008) |
 | 175 | cureabees | 0:12:24 | 2019-03-09 | [link](https://www.youtube.com/watch?v=o4HUMRlOzpg) |
 | 176 | r3dninjajosh | 0:12:25 | 2016-12-06 | [link](https://www.twitch.tv/r3dninjajosh/v/105913325) |
