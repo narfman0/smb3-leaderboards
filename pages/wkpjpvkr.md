@@ -79,11 +79,11 @@ categories: speedrun
 | 68 | Katti | 0:03:45 | 2021-08-20 | [link](https://www.twitch.tv/videos/1124287194) |
 | 71 | riscky | 0:03:46 | 2017-10-04 | [link](https://youtu.be/6PuHaIBrXSI) |
 | 71 | Okmenaut | 0:03:46 | 2017-08-09 | [link](https://youtu.be/V5kPwNLaXmQ) |
+| 71 | Alvaca | 0:03:46 | 2021-10-14 | [link](https://youtu.be/zhBcbJEZL0Y) |
 | 71 | junkyard_dave | 0:03:46 | 2020-05-26 | [link](https://www.youtube.com/watch?v=tijENQEnEWY) |
 | 71 | ObsoleteGamer2004 | 0:03:46 | 2021-06-15 | [link](https://www.youtube.com/watch?v=BiBgDbgC214) |
 | 71 | Carter44 | 0:03:46 | 2018-04-15 | [link](https://youtu.be/7Ld33MD9wlQ) |
 | 71 | CujoIHSV | 0:03:46 | 2015-10-29 | [link](http://www.twitch.tv/cujoihsv/v/23111363) |
-| 71 | Alvaca | 0:03:46 | 2021-10-14 | [link](https://youtu.be/zhBcbJEZL0Y) |
 | 78 | Tex-Saralonde | 0:03:47 | 2020-08-29 | [link](https://youtu.be/2x2W5SRFMVw) |
 | 78 | AD2 | 0:03:47 | 2017-03-18 | [link](https://www.twitch.tv/videos/129453312) |
 | 78 | Rocksy | 0:03:47 | 2017-09-17 | [link](https://www.twitch.tv/videos/175410694) |
@@ -216,10 +216,10 @@ categories: speedrun
 | 202 | abrahamw999 | 0:04:02 | 2021-05-24 | [link](https://www.youtube.com/watch?v=R1JZt64AS00&ab_channel=Abrahamw999) |
 | 202 | MajorGamer | 0:04:02 | 2021-08-17 | [link](https://www.youtube.com/watch?v=EOQewZfCibg) |
 | 202 | Cannalyst | 0:04:02 | 2020-11-04 | [link](https://youtu.be/wZnRhjZt-sg) |
-| 210 | Falkite | 0:04:03 | 2021-10-08 | [link](https://youtu.be/9VCLMbrogIU) |
 | 210 | Romxn | 0:04:03 | 2018-06-13 | [link](https://www.twitch.tv/videos/272904639) |
 | 210 | IvanSt33zy | 0:04:03 | 2018-07-07 | [link](https://www.youtube.com/watch?v=OdWeLkY4V4o) |
 | 210 | Choigogi | 0:04:03 | 2020-06-07 | [link](https://youtu.be/o-bUc8eabWc) |
+| 210 | Falkite | 0:04:03 | 2021-10-08 | [link](https://youtu.be/9VCLMbrogIU) |
 | 210 | LEITHAL | 0:04:03 | 2019-06-14 | [link](https://youtu.be/aPLPluWlSV0) |
 | 210 | Sariiger | 0:04:03 | 2018-09-06 | [link](https://www.youtube.com/watch?v=rAPoFOouJA8) |
 | 210 | BriGuy13 | 0:04:03 | 2018-02-14 | [link](https://youtu.be/PTfYAIAS0FQ) |
