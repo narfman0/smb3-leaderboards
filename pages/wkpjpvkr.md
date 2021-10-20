@@ -21,10 +21,10 @@ categories: speedrun
 | 12 | Maggara1 | 0:03:13 | 2016-11-11 | [link](https://www.twitch.tv/noreallyihavenothing/v/100408423) |
 | 13 | 10ooki | 0:03:14 | 2015-12-20 | [link](https://youtu.be/XZe4swasQm4) |
 | 13 | Producks | 0:03:14 | 2014-11-20 | [link](https://www.youtube.com/watch?v=RQFX9IUZwbc) |
+| 15 | TheCrit | 0:03:16 | 2021-10-16 | [link](https://www.youtube.com/watch?v=x8-mgaAQR5Q&t=1s) |
 | 15 | ManiacsMeteor | 0:03:16 | 2019-05-19 | [link](https://youtu.be/1JYZI8IX4BU) |
 | 15 | Binski48 | 0:03:16 | 2021-08-02 | [link](https://youtu.be/txIpnZ0GDQQ) |
 | 15 | Kuto1k | 0:03:16 | 2021-09-27 | [link](https://www.youtube.com/watch?v=ZWE1VJmN__s) |
-| 15 | TheCrit | 0:03:16 | 2021-10-16 | [link](https://www.youtube.com/watch?v=x8-mgaAQR5Q&t=1s) |
 | 19 | sjfk_ | 0:03:18 | 2018-11-11 | [link](https://www.youtube.com/watch?v=EM7I5TIljJI) |
 | 20 | Baddap1 | 0:03:19 | 2018-09-28 | [link](https://youtu.be/IjTeKwIxIx4) |
 | 20 | mar573kan | 0:03:19 | 2020-02-16 | [link](https://youtu.be/KpAi_9i7iLQ) |
@@ -79,9 +79,9 @@ categories: speedrun
 | 68 | Katti | 0:03:45 | 2021-08-20 | [link](https://www.twitch.tv/videos/1124287194) |
 | 71 | riscky | 0:03:46 | 2017-10-04 | [link](https://youtu.be/6PuHaIBrXSI) |
 | 71 | Okmenaut | 0:03:46 | 2017-08-09 | [link](https://youtu.be/V5kPwNLaXmQ) |
-| 71 | Alvaca | 0:03:46 | 2021-10-14 | [link](https://youtu.be/zhBcbJEZL0Y) |
 | 71 | junkyard_dave | 0:03:46 | 2020-05-26 | [link](https://www.youtube.com/watch?v=tijENQEnEWY) |
 | 71 | ObsoleteGamer2004 | 0:03:46 | 2021-06-15 | [link](https://www.youtube.com/watch?v=BiBgDbgC214) |
+| 71 | Alvaca | 0:03:46 | 2021-10-14 | [link](https://youtu.be/zhBcbJEZL0Y) |
 | 71 | Carter44 | 0:03:46 | 2018-04-15 | [link](https://youtu.be/7Ld33MD9wlQ) |
 | 71 | CujoIHSV | 0:03:46 | 2015-10-29 | [link](http://www.twitch.tv/cujoihsv/v/23111363) |
 | 78 | Tex-Saralonde | 0:03:47 | 2020-08-29 | [link](https://youtu.be/2x2W5SRFMVw) |
