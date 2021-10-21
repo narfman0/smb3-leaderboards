@@ -86,8 +86,8 @@ categories: speedrun
 | 76 | Rh4kor | 0:54:47 | 2021-04-28 | [link](https://www.youtube.com/watch?v=W2KoVYlKRgA) |
 | 78 | Dr_TrashPanda | 0:54:49 | 2021-03-10 | [link](https://www.twitch.tv/videos/944897352) |
 | 79 | scalpel | 0:54:59 | 2021-07-31 | [link](https://youtu.be/TVLrnpX5u-s) |
-| 80 | xeroplanes | 0:55:01 | 2020-06-22 | [link](https://www.twitch.tv/videos/658458987) |
 | 80 | RetroDial | 0:55:01 | 2021-10-18 | [link](https://www.twitch.tv/videos/1181042209) |
+| 80 | xeroplanes | 0:55:01 | 2020-06-22 | [link](https://www.twitch.tv/videos/658458987) |
 | 82 | Akisto | 0:55:08 | 2015-06-05 | [link](https://www.youtube.com/watch?v=cU8SEb1i7yg) |
 | 83 | Boy22Blue | 0:55:13 | 2021-05-17 | [link](https://www.youtube.com/watch?v=tqI-18-NQQ8) |
 | 84 | SuperSonic | 0:55:15 | 2018-07-24 | [link](https://www.twitch.tv/videos/288919864) |
