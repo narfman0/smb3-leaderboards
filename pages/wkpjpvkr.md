@@ -274,13 +274,13 @@ categories: speedrun
 | 263 | FGrim | 0:04:12 | 2019-12-29 | [link](https://youtu.be/WvYAtqIN7yg) |
 | 263 | grandpoobear | 0:04:12 | 2017-05-28 | [link](https://youtu.be/6JgulD05ou0) |
 | 267 | 360Chrism | 0:04:13 | 2020-02-08 | [link](https://www.twitch.tv/videos/549481827) |
+| 267 | SAMUR | 0:04:13 | 2021-10-25 | [link](https://www.youtube.com/watch?v=4c-DpQTWrnA) |
 | 267 | Checkmate6659 | 0:04:13 | 2020-07-12 | [link](https://youtu.be/0fWJRVJsYN0) |
 | 267 | SwemxdTV | 0:04:13 | 2020-10-07 | [link](https://www.youtube.com/watch?v=SOu9_7QKfbw&ab_channel=SwemxdTV) |
 | 267 | SuperM | 0:04:13 | 2018-12-26 | [link](https://www.youtube.com/watch?v=AuBhetnUiP4) |
 | 267 | NinWorld | 0:04:13 | 2018-07-09 | [link](https://www.youtube.com/watch?v=Sr1Np54wYfw&t=3140s) |
 | 267 | greatjhon | 0:04:13 | 2017-04-12 | [link](https://www.twitch.tv/videos/135261476) |
 | 267 | smartalec24 | 0:04:13 | 2016-12-20 | [link](https://www.twitch.tv/videos/108559639) |
-| 267 | SAMUR | 0:04:13 | 2021-10-25 | [link](https://www.youtube.com/watch?v=4c-DpQTWrnA) |
 | 275 | Jayaye78 | 0:04:14 | 2021-05-14 | [link](https://www.twitch.tv/videos/1025365133) |
 | 275 | zutetflute | 0:04:14 | 2018-03-02 | [link](https://youtu.be/jrsHceWF7vM) |
 | 275 | OneWingdAngel | 0:04:14 | 2018-03-20 | [link](https://youtu.be/E38FBfMZe5k) |
