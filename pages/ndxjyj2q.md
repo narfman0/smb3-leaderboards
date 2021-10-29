@@ -116,9 +116,9 @@ categories: speedrun
 | 107 | iateyoursenpai | 0:11:44 | 2017-11-23 | [link](https://youtu.be/9luhmfDnEUs) |
 | 107 | ZeeGee_ | 0:11:44 | 2020-02-19 | [link](https://www.twitch.tv/videos/554344924) |
 | 107 | chickenfish4 | 0:11:44 | 2017-05-09 | [link](https://youtu.be/hgTQ4JuZGTE) |
-| 110 | budzyRNG | 0:11:46 | 2021-10-21 | [link](https://www.twitch.tv/videos/1183045059) |
 | 110 | TheTerrificTracy | 0:11:46 | 2021-02-16 | [link](https://youtu.be/1voAI4JhuoQ) |
 | 110 | WhicheverMirror | 0:11:46 | 2021-08-25 | [link](https://www.youtube.com/watch?v=_8Fcbyc27Fc) |
+| 110 | budzyRNG | 0:11:46 | 2021-10-21 | [link](https://www.twitch.tv/videos/1183045059) |
 | 110 | SuperPlayer | 0:11:46 | 2018-07-21 | [link](https://www.youtube.com/watch?v=SJ6Bsmwy978&feature=youtu.be) |
 | 114 | skabezon | 0:11:47 | 2021-04-06 | [link](https://www.twitch.tv/videos/977208677) |
 | 114 | OnlyMoneyNotTalent | 0:11:47 | 2020-12-09 | [link](https://www.youtube.com/watch?v=HSQEqJewU_8) |
