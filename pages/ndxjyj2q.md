@@ -148,9 +148,9 @@ categories: speedrun
 | 136 | Mizumaririn | 0:11:57 | 2021-03-21 | [link](https://www.twitch.tv/videos/957683478) |
 | 136 | HocusPocus | 0:11:57 | 2021-07-03 | [link](https://www.twitch.tv/videos/1076513492) |
 | 136 | KLM1187 | 0:11:57 | 2020-07-18 | [link](https://youtu.be/W1jlmX81NjQ) |
+| 142 | BodanMusic | 0:11:58 | 2021-11-02 | [link](https://youtu.be/UgQObln-suk) |
 | 142 | BuzzThunder | 0:11:58 | 2016-05-22 | [link](https://www.youtube.com/watch?v=bLcDHqkFK_I) |
 | 142 | Sten | 0:11:58 | 2016-10-06 | [link](https://www.youtube.com/watch?v=A-Z1NdYUVM8) |
-| 142 | BodanMusic | 0:11:58 | 2021-11-02 | [link](https://youtu.be/UgQObln-suk) |
 | 145 | dubiousdinobot | 0:11:59 | 2020-09-16 | [link](https://www.twitch.tv/videos/743434038) |
 | 145 | Thumopolis | 0:11:59 | 2019-04-11 | [link](https://youtu.be/8E5yL-0BsuU) |
 | 145 | PixelPerfectRuns | 0:11:59 | 2019-10-18 | [link](https://youtu.be/P8sSSOqCZZs) |
