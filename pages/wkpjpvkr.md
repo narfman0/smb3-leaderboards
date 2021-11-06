@@ -12,8 +12,8 @@ categories: speedrun
 | 3 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
 | 4 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
 | 5 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
-| 6 | narfman0 | 0:03:08.433000 | 2021-09-12 | [link](https://youtu.be/h2xeo2zJERc) |
-| 7 | Kuto1k | 0:03:08.633000 | 2021-10-31 | [link](https://youtu.be/bF4QIG4OsFI) |
+| 6 | Kuto1k | 0:03:08.016000 | 2021-11-05 | [link](https://youtu.be/Xquu43mZA_I) |
+| 7 | narfman0 | 0:03:08.433000 | 2021-09-12 | [link](https://youtu.be/h2xeo2zJERc) |
 | 8 | Ellonija | 0:03:08.716000 | 2018-11-14 | [link](https://www.twitch.tv/videos/335488260) |
 | 9 | eddiecatgaming | 0:03:09 | 2021-08-08 | [link](https://www.youtube.com/watch?v=sPdj_LJr8PI) |
 | 9 | mitchflowerpower | 0:03:09 | 2015-02-09 | [link](http://www.twitch.tv/mitchflowerpower/v/3767813) |
