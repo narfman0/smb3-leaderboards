@@ -40,9 +40,9 @@ categories: speedrun
 | 30 | dom | 0:10:58 | 2021-04-20 | [link](https://www.twitch.tv/videos/994542334) |
 | 30 | darbian | 0:10:58 | 2016-09-18 | [link](https://www.twitch.tv/darbian/v/97167568) |
 | 30 | NathanAlmighty | 0:10:58 | 2017-11-10 | [link](https://www.youtube.com/watch?v=Tmvby-WW7eU&feature=youtu.be) |
+| 34 | TheCrit | 0:10:59 | 2021-11-04 | [link](https://www.youtube.com/watch?v=6tmjJF8dh4o) |
 | 34 | goofychocobo | 0:10:59 | 2021-03-27 | [link](https://www.youtube.com/watch?v=8l6EkRzBsNA) |
 | 34 | Revelyte23 | 0:10:59 | 2019-09-01 | [link](https://www.youtube.com/watch?v=Ppc9gZ4xQCs) |
-| 34 | TheCrit | 0:10:59 | 2021-11-04 | [link](https://www.youtube.com/watch?v=6tmjJF8dh4o) |
 | 37 | AbellaBrothers1 | 0:11:00 | 2021-08-31 | [link](https://m.youtube.com/watch?v=pOGgBjSKFlI) |
 | 37 | MoonJi | 0:11:00 | 2018-05-19 | [link](https://youtu.be/lDOU-ET2LGM) |
 | 39 | GTAce99 | 0:11:02 | 2019-12-06 | [link](https://youtu.be/4noHGCgBz5A) |
@@ -144,8 +144,8 @@ categories: speedrun
 | 133 | spins | 0:11:55 | 2020-07-17 | [link](https://www.twitch.tv/videos/682207732) |
 | 136 | LattMackey | 0:11:56 | 2018-02-07 | [link](https://youtu.be/j7joBwj1SQk) |
 | 137 | HJA | 0:11:57 | 2017-11-18 | [link](https://www.youtube.com/watch?v=KptKXsQKNqg) |
-| 137 | AceOfArrows | 0:11:57 | 2017-06-14 | [link](https://www.twitch.tv/videos/151869805) |
 | 137 | gamercal | 0:11:57 | 2019-04-22 | [link](https://www.twitch.tv/videos/415004904) |
+| 137 | AceOfArrows | 0:11:57 | 2017-06-14 | [link](https://www.twitch.tv/videos/151869805) |
 | 137 | Mizumaririn | 0:11:57 | 2021-03-21 | [link](https://www.twitch.tv/videos/957683478) |
 | 137 | HocusPocus | 0:11:57 | 2021-07-03 | [link](https://www.twitch.tv/videos/1076513492) |
 | 137 | KLM1187 | 0:11:57 | 2020-07-18 | [link](https://youtu.be/W1jlmX81NjQ) |

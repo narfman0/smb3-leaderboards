@@ -10,9 +10,9 @@ categories: speedrun
 | 1 | Czikubi | 0:03:02.383000 | 2021-03-29 | [link](https://www.twitch.tv/videos/968510773) |
 | 2 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
 | 3 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
-| 4 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
-| 5 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
-| 6 | Kuto1k | 0:03:08.016000 | 2021-11-05 | [link](https://youtu.be/Xquu43mZA_I) |
+| 4 | Kuto1k | 0:03:06.800000 | 2021-11-08 | [link](https://www.youtube.com/watch?v=zMXsLuMXY_s) |
+| 5 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
+| 6 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
 | 7 | narfman0 | 0:03:08.433000 | 2021-09-12 | [link](https://youtu.be/h2xeo2zJERc) |
 | 8 | Ellonija | 0:03:08.716000 | 2018-11-14 | [link](https://www.twitch.tv/videos/335488260) |
 | 9 | eddiecatgaming | 0:03:09 | 2021-08-08 | [link](https://www.youtube.com/watch?v=sPdj_LJr8PI) |
@@ -43,8 +43,8 @@ categories: speedrun
 | 31 | robertalbertson240 | 0:03:25 | 2021-06-17 | [link](https://www.youtube.com/watch?v=W8fZe2ofmLY&ab_channel=mitchleafpower) |
 | 35 | Sluggy | 0:03:27 | 2021-09-06 | [link](https://youtu.be/YEi0P21-Y38) |
 | 36 | chickenfish4 | 0:03:29 | 2017-06-25 | [link](https://youtu.be/yOOKGKufp4U) |
-| 36 | smythe | 0:03:29 | 2021-09-30 | [link](https://youtu.be/siRWVnaZWoo) |
 | 36 | MrSavageKitty | 0:03:29 | 2021-11-07 | [link](https://www.youtube.com/watch?v=34qNQqpCC4w) |
+| 36 | smythe | 0:03:29 | 2021-09-30 | [link](https://youtu.be/siRWVnaZWoo) |
 | 39 | Blobopro | 0:03:30 | 2016-10-13 | [link](https://www.youtube.com/watch?v=4ydV0_AgITQ&feature=youtu.be) |
 | 39 | Scarface | 0:03:30 | 2020-11-12 | [link](https://youtu.be/sx7RXE0W9X4) |
 | 39 | Xelaa | 0:03:30 | 2018-11-29 | [link](https://youtu.be/6yvbt_hN7iM) |
@@ -177,12 +177,12 @@ categories: speedrun
 | 167 | Sc0tty047 | 0:03:58 | 2019-09-03 | [link](https://www.youtube.com/watch?v=m5zVHdUIKDk&t=11s) |
 | 167 | Eichi | 0:03:58 | 2017-02-21 | [link](https://www.youtube.com/watch?v=udH2JtOA3GY) |
 | 167 | MelonTheFelon | 0:03:58 | 2018-09-29 | [link](https://www.twitch.tv/videos/316331417) |
-| 167 | SuperMariLo | 0:03:58 | 2019-02-21 | [link](https://youtu.be/TK_DDOMJVCU) |
 | 167 | Validusername16 | 0:03:58 | 2019-09-16 | [link](https://www.youtube.com/watch?v=VJGGGLGZnPA) |
 | 167 | SAOkyy | 0:03:58 | 2021-01-04 | [link](https://www.youtube.com/watch?v=miY3UoLN4Ng) |
 | 167 | stewie_cartman | 0:03:58 | 2021-05-14 | [link](https://www.twitch.tv/videos/1023074699) |
 | 167 | Tintin08 | 0:03:58 | 2021-08-25 | [link](https://www.youtube.com/watch?v=dxusMFPOKOU) |
 | 167 | DogDeeDer | 0:03:58 | 2021-08-26 | [link](https://www.youtube.com/watch?v=17Rn6se7A0Q) |
+| 167 | SuperMariLo | 0:03:58 | 2019-02-21 | [link](https://youtu.be/TK_DDOMJVCU) |
 | 167 | zdoroviy_antony | 0:03:58 | 2017-08-30 | [link](https://www.youtube.com/watch?v=L-BZNH_8ufQ&feature=youtu.be) |
 | 167 | Kosmic | 0:03:58 | 2017-08-29 | [link](https://www.twitch.tv/videos/171132847) |
 | 167 | aidenlt | 0:03:58 | 2019-10-22 | [link](https://www.youtube.com/watch?v=KgeG1twsE48) |
