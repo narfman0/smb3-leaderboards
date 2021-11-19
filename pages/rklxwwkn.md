@@ -106,8 +106,8 @@ categories: speedrun
 | 97 | Sakaali | 0:55:51 | 2021-11-09 | [link](https://www.twitch.tv/videos/1200776582) |
 | 98 | SuperMegaDav | 0:55:52 | 2021-01-23 | [link](https://www.twitch.tv/videos/897929872) |
 | 99 | RoyLT | 0:55:59 | 2020-09-20 | [link](https://youtu.be/5K221OrzOt8) |
-| 100 | budzyRNG | 0:56:03 | 2021-11-11 | [link](https://www.twitch.tv/videos/1202702530) |
-| 101 | Galatea86 | 0:56:06 | 2021-11-02 | [link](https://www.youtube.com/watch?v=kMpSbQGahp4&ab_channel=Galatea86) |
+| 100 | Galatea86 | 0:56:00 | 2021-11-19 | [link](https://youtu.be/fAW0EPGy1oI) |
+| 101 | budzyRNG | 0:56:03 | 2021-11-11 | [link](https://www.twitch.tv/videos/1202702530) |
 | 102 | dethwing | 0:56:16 | 2013-08-24 | [link](http://www.twitch.tv/dethwing/c/2810379) |
 | 103 | TheMexicanRunner | 0:56:20 | 2015-04-29 | [link](http://www.twitch.tv/themexicanrunner/v/4545463) |
 | 104 | Kanis999 | 0:56:35 | 2020-08-29 | [link](https://www.youtube.com/watch?v=S4PBvcU5tuA) |
