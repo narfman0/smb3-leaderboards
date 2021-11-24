@@ -352,12 +352,12 @@ categories: speedrun
 | 343 | OblivionStoned | 0:04:31 | 2017-02-05 | [link](https://www.youtube.com/watch?v=hM8UmtJ5lxQ) |
 | 343 | WalrusShoes | 0:04:31 | 2018-10-17 | [link](https://www.youtube.com/watch?v=Pkw7U1RT4Eg) |
 | 343 | SantasLittleNibbler | 0:04:31 | 2018-11-25 | [link](https://youtu.be/2kRUzFZUgOA) |
+| 346 | ecobb23 | 0:04:32 | 2021-11-22 | [link](https://youtu.be/L8w1XyxgAqs) |
 | 346 | CooperJW13 | 0:04:32 | 2018-12-30 | [link](https://www.youtube.com/watch?v=PIobUwAqwp4&t=27s&list=PL7-CHhvyavsL50_wOpvfl1yU2pfr_VQXq&index=11) |
 | 346 | Casqui | 0:04:32 | 2021-02-21 | [link](https://youtu.be/PvvR6WOR-kk) |
 | 346 | TwinChubbs | 0:04:32 | 2020-06-18 | [link](https://youtu.be/gZ1Tay9himo) |
 | 346 | brman85 | 0:04:32 | 2017-03-23 | [link](https://www.youtube.com/watch?v=Pwq3apILbXs) |
 | 346 | SoakChannel | 0:04:32 | 2018-03-01 | [link](https://youtu.be/T3EtzI38gFQ) |
-| 346 | ecobb23 | 0:04:32 | 2021-11-22 | [link](https://youtu.be/L8w1XyxgAqs) |
 | 352 | Ajarmar | 0:04:33 | 2017-09-11 | [link](https://www.twitch.tv/videos/173994895) |
 | 352 | Toadtoad | 0:04:33 | 2018-01-06 | [link](https://drive.google.com/file/d/14Cy8TAT94iw7L-FEsNjQIfl4Hm_tvWeC/preview) |
 | 354 | Chocomantis | 0:04:35 | 2018-08-30 | [link](https://www.youtube.com/watch?v=XFw0zFlRiR4&feature=youtu.be) |
