@@ -24,8 +24,8 @@ categories: speedrun
 | 13 | [se]Frezy_man | 0:10:52 | 2009-10-17 | [link](https://www.youtube.com/watch?v=m_rHATfUZnM) |
 | 13 | Ellonija | 0:10:52 | 2017-05-08 | [link](https://www.twitch.tv/videos/141022605) |
 | 17 | TEEX88 | 0:10:53 | 2020-06-18 | [link](https://www.twitch.tv/videos/654280402) |
-| 18 | narfman0 | 0:10:54 | 2021-08-09 | [link](https://www.twitch.tv/videos/1113720866) |
 | 18 | JeremyMKW | 0:10:54 | 2021-06-07 | [link](https://youtu.be/nT_CN-C2X6s) |
+| 18 | narfman0 | 0:10:54 | 2021-08-09 | [link](https://www.twitch.tv/videos/1113720866) |
 | 18 | Mars02 | 0:10:54 | 2021-02-25 | [link](https://www.youtube.com/watch?v=w3pPyL8tfMQ) |
 | 18 | HorseDad | 0:10:54 | 2017-04-23 | [link](https://www.twitch.tv/videos/137697987) |
 | 18 | COOLKID | 0:10:54 | 2018-09-15 | [link](https://www.twitch.tv/videos/310149029) |
@@ -66,8 +66,8 @@ categories: speedrun
 | 56 | Magician_Type_0 | 0:11:11 | 2021-10-14 | [link](https://www.twitch.tv/videos/1176913758) |
 | 56 | Chelney | 0:11:11 | 2016-05-25 | [link](https://www.twitch.tv/chelney1/v/68486199) |
 | 59 | CujoIHSV | 0:11:12 | 2016-01-20 | [link](https://youtu.be/1N58EZFINZ4) |
-| 59 | Dayphid | 0:11:12 | 2019-01-06 | [link](https://www.twitch.tv/videos/360009485) |
 | 59 | SuperMegaDav | 0:11:12 | 2020-11-11 | [link](https://www.twitch.tv/videos/799959700) |
+| 59 | Dayphid | 0:11:12 | 2019-01-06 | [link](https://www.twitch.tv/videos/360009485) |
 | 59 | PMniac | 0:11:12 | 2017-02-10 | [link](https://www.twitch.tv/videos/121063699) |
 | 63 | Rh4kor | 0:11:13 | 2021-08-01 | [link](https://www.twitch.tv/videos/1105217550) |
 | 63 | Schaaa | 0:11:13 | 2017-07-26 | [link](https://www.twitch.tv/videos/162204249) |
@@ -91,8 +91,8 @@ categories: speedrun
 | 82 | HUmanMustard | 0:11:27 | 2020-05-29 | [link](https://www.twitch.tv/videos/635121671) |
 | 83 | Katti | 0:11:28 | 2021-11-04 | [link](https://www.twitch.tv/videos/1195628529) |
 | 84 | Ribb95 | 0:11:30 | 2018-12-15 | [link](https://www.youtube.com/watch?v=BqrPLbZ5OKE) |
-| 84 | Sowny25 | 0:11:30 | 2020-11-18 | [link](https://www.youtube.com/watch?v=XWbu-ihgu94) |
 | 84 | Danieltatis | 0:11:30 | 2019-10-01 | [link](https://www.twitch.tv/videos/489097474) |
+| 84 | Sowny25 | 0:11:30 | 2020-11-18 | [link](https://www.youtube.com/watch?v=XWbu-ihgu94) |
 | 84 | Suey7 | 0:11:30 | 2017-08-15 | [link](https://www.twitch.tv/videos/167161630) |
 | 88 | Macobra52 | 0:11:31 | 2019-06-02 | [link](https://www.twitch.tv/videos/433666319) |
 | 88 | ThePKing | 0:11:31 | 2020-07-09 | [link](https://youtu.be/nHaX9gS781U) |
@@ -104,8 +104,8 @@ categories: speedrun
 | 94 | Grayskull83 | 0:11:34 | 2021-07-28 | [link](https://www.twitch.tv/videos/1100579420) |
 | 96 | ShadowPanda | 0:11:35 | 2016-11-19 | [link](https://www.twitch.tv/shadowpanda__/v/102042340) |
 | 97 | Ahmed | 0:11:36 | 2021-10-29 | [link](https://www.youtube.com/watch?v=PsO5LxxwfvM) |
-| 97 | HiroMunii | 0:11:36 | 2021-08-29 | [link](https://youtu.be/vdlXEr3-Nh0) |
 | 97 | SpUnKeN_DK | 0:11:36 | 2021-06-10 | [link](https://www.twitch.tv/videos/1052211903) |
+| 97 | HiroMunii | 0:11:36 | 2021-08-29 | [link](https://youtu.be/vdlXEr3-Nh0) |
 | 100 | moistgoolash | 0:11:38 | 2018-04-06 | [link](https://www.twitch.tv/videos/247094705) |
 | 100 | Varek | 0:11:38 | 2021-05-13 | [link](https://www.youtube.com/watch?v=FcxQeF6DcX4) |
 | 100 | rockdet | 0:11:38 | 2017-01-22 | [link](https://www.twitch.tv/rockdet/v/116708806) |
@@ -113,8 +113,8 @@ categories: speedrun
 | 103 | Riccioli88 | 0:11:40 | 2021-05-27 | [link](https://www.youtube.com/watch?v=xAaiq0lT3vI) |
 | 103 | Adotis | 0:11:40 | 2021-07-15 | [link](https://www.twitch.tv/videos/1087629082) |
 | 106 | nerd4LERT | 0:11:41 | 2021-04-26 | [link](https://www.youtube.com/watch?v=OLrEJd2Gq4U) |
-| 107 | roopert83 | 0:11:42 | 2021-07-05 | [link](https://www.youtube.com/watch?v=0ghxzr73ODQ) |
 | 107 | riscky | 0:11:42 | 2017-08-13 | [link](https://youtu.be/uZtI_bD_fzk) |
+| 107 | roopert83 | 0:11:42 | 2021-07-05 | [link](https://www.youtube.com/watch?v=0ghxzr73ODQ) |
 | 109 | jonnylegz | 0:11:43 | 2019-01-12 | [link](https://www.twitch.tv/videos/362997488) |
 | 110 | iateyoursenpai | 0:11:44 | 2017-11-23 | [link](https://youtu.be/9luhmfDnEUs) |
 | 110 | ZeeGee_ | 0:11:44 | 2020-02-19 | [link](https://www.twitch.tv/videos/554344924) |
@@ -147,8 +147,8 @@ categories: speedrun
 | 138 | HJA | 0:11:57 | 2017-11-18 | [link](https://www.youtube.com/watch?v=KptKXsQKNqg) |
 | 138 | gamercal | 0:11:57 | 2019-04-22 | [link](https://www.twitch.tv/videos/415004904) |
 | 138 | AceOfArrows | 0:11:57 | 2017-06-14 | [link](https://www.twitch.tv/videos/151869805) |
-| 138 | Mizumaririn | 0:11:57 | 2021-03-21 | [link](https://www.twitch.tv/videos/957683478) |
 | 138 | HocusPocus | 0:11:57 | 2021-07-03 | [link](https://www.twitch.tv/videos/1076513492) |
+| 138 | Mizumaririn | 0:11:57 | 2021-03-21 | [link](https://www.twitch.tv/videos/957683478) |
 | 138 | KLM1187 | 0:11:57 | 2020-07-18 | [link](https://youtu.be/W1jlmX81NjQ) |
 | 144 | BodanMusic | 0:11:58 | 2021-11-02 | [link](https://youtu.be/UgQObln-suk) |
 | 144 | BuzzThunder | 0:11:58 | 2016-05-22 | [link](https://www.youtube.com/watch?v=bLcDHqkFK_I) |
@@ -181,8 +181,8 @@ categories: speedrun
 | 172 | link_7777 | 0:12:17 | 2018-03-17 | [link](https://www.twitch.tv/videos/240012832) |
 | 172 | pJ00nas | 0:12:17 | 2021-05-06 | [link](https://www.twitch.tv/pj00nas/v/1012035042?sr=a&t=0s) |
 | 174 | jahaley64 | 0:12:18 | 2020-08-09 | [link](https://www.twitch.tv/videos/705717342) |
-| 175 | P1MuRTA0311 | 0:12:21 | 2021-10-08 | [link](https://www.twitch.tv/videos/1170860346) |
 | 175 | MtOlympus | 0:12:21 | 2021-03-05 | [link](https://youtu.be/MhuZ2mlERLY) |
+| 175 | P1MuRTA0311 | 0:12:21 | 2021-10-08 | [link](https://www.twitch.tv/videos/1170860346) |
 | 175 | esmo88 | 0:12:21 | 2019-05-27 | [link](https://www.twitch.tv/videos/430790914) |
 | 178 | skateman222 | 0:12:23 | 2019-01-23 | [link](https://www.twitch.tv/videos/368876008) |
 | 179 | cureabees | 0:12:24 | 2019-03-09 | [link](https://www.youtube.com/watch?v=o4HUMRlOzpg) |
@@ -190,8 +190,8 @@ categories: speedrun
 | 181 | tylerthomson84 | 0:12:26 | 2017-03-27 | [link](https://www.youtube.com/watch?v=EMIs_OhaIuE) |
 | 181 | kirbocyhn | 0:12:26 | 2019-02-17 | [link](https://www.twitch.tv/videos/382485932) |
 | 183 | PeekingBoo | 0:12:29 | 2018-11-26 | [link](https://www.twitch.tv/videos/340945692) |
-| 184 | chadilak | 0:12:30 | 2018-07-11 | [link](https://www.youtube.com/watch?v=5x8wH-dj0xI) |
 | 184 | robbyk | 0:12:30 | 2019-01-02 | [link](https://www.youtube.com/watch?v=6h4_PkIWgAc) |
+| 184 | chadilak | 0:12:30 | 2018-07-11 | [link](https://www.youtube.com/watch?v=5x8wH-dj0xI) |
 | 184 | TheElderSpork | 0:12:30 | 2020-01-21 | [link](https://www.twitch.tv/videos/539607692) |
 | 184 | DarthTyrael | 0:12:30 | 2021-01-17 | [link](https://youtu.be/bhOBKA7E02A) |
 | 184 | Blobopro | 0:12:30 | 2016-08-19 | [link](https://www.youtube.com/watch?v=Mjkz_KQ4pb8) |
@@ -209,8 +209,8 @@ categories: speedrun
 | 200 | Toastyglint420 | 0:12:39 | 2016-02-08 | [link](http://www.twitch.tv/toastyglint420/v/42258650) |
 | 201 | bassguitarbill | 0:12:40 | 2016-02-09 | [link](http://www.twitch.tv/bassguitarbill/v/42904742) |
 | 201 | baseball_caniac | 0:12:40 | 2016-03-07 | [link](https://youtu.be/sqs3VSGu7YE) |
-| 203 | DanilHarteveld | 0:12:41 | 2020-01-11 | [link](https://youtu.be/mZqzmkHeEFE) |
 | 203 | Overswarm | 0:12:41 | 2019-10-21 | [link](https://www.twitch.tv/videos/497598375) |
+| 203 | DanilHarteveld | 0:12:41 | 2020-01-11 | [link](https://youtu.be/mZqzmkHeEFE) |
 | 203 | kevinprado13 | 0:12:41 | 2021-09-22 | [link](https://www.twitch.tv/videos/1156087198) |
 | 206 | JonnyLink | 0:12:42 | 2019-03-04 | [link](https://www.youtube.com/watch?v=ETLcsyVrh30) |
 | 207 | wolfman2000 | 0:12:45 | 2019-12-17 | [link](https://www.twitch.tv/videos/522574232) |
@@ -247,8 +247,8 @@ categories: speedrun
 | 238 | Matepe | 0:13:12 | 2021-08-08 | [link](https://www.twitch.tv/videos/1111962500) |
 | 239 | Ben | 0:13:15 | 2017-10-14 | [link](https://youtu.be/tcd9wxbC2M4) |
 | 240 | RosesThorn | 0:13:20 | 2017-04-07 | [link](https://www.youtube.com/watch?v=35X-cwKx2GY) |
-| 240 | GrowingUp8Bit | 0:13:20 | 2020-12-23 | [link](https://www.twitch.tv/videos/848178164) |
 | 240 | LieutenantSwift | 0:13:20 | 2021-05-31 | [link](https://www.youtube.com/watch?v=cYH47Aay1jg) |
+| 240 | GrowingUp8Bit | 0:13:20 | 2020-12-23 | [link](https://www.twitch.tv/videos/848178164) |
 | 243 | Jellyman102 | 0:13:21 | 2016-08-14 | [link](https://www.twitch.tv/jellyman67890/v/83631208) |
 | 243 | ValCauor | 0:13:21 | 2020-06-28 | [link](https://youtu.be/hWW5bvnCVww) |
 | 245 | bmfm | 0:13:22 | 2013-11-05 | [link](http://www.twitch.tv/bmfm/c/3206620) |
