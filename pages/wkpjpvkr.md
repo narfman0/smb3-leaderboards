@@ -228,12 +228,12 @@ categories: speedrun
 | 219 | CoconutsX | 0:04:04 | 2017-05-17 | [link](https://www.youtube.com/watch?v=j3XZgsyORe4) |
 | 219 | Lomiig | 0:04:04 | 2017-11-12 | [link](https://youtu.be/z9QRlSaOIGc) |
 | 219 | RoyLT | 0:04:04 | 2017-07-07 | [link](https://www.twitch.tv/videos/157376963) |
+| 219 | spsxis | 0:04:04 | 2021-02-22 | [link](https://www.twitch.tv/videos/924856840) |
 | 219 | Traklon | 0:04:04 | 2017-10-31 | [link](https://www.youtube.com/watch?v=1Uo-x5f-MUM) |
 | 219 | lookitdisguy | 0:04:04 | 2018-05-29 | [link](https://www.twitch.tv/videos/266940452) |
 | 219 | Bokonon_Lives | 0:04:04 | 2019-02-08 | [link](https://www.twitch.tv/videos/377552963) |
 | 219 | nerphblaster27 | 0:04:04 | 2021-11-20 | [link](https://youtu.be/-qx7SQV05HI) |
 | 219 | Snowpie | 0:04:04 | 2021-01-17 | [link](https://www.twitch.tv/videos/877708357) |
-| 219 | spsxis | 0:04:04 | 2021-02-22 | [link](https://www.twitch.tv/videos/924856840) |
 | 219 | TheRealSampai | 0:04:04 | 2018-10-14 | [link](https://youtu.be/LTPTzReuH_A) |
 | 219 | Miki | 0:04:04 | 2016-12-08 | [link](https://www.youtube.com/watch?v=0cPTB-sYsrQ) |
 | 230 | crashatwill1731 | 0:04:05 | 2020-02-02 | [link](https://www.twitch.tv/videos/545956231) |
