@@ -98,11 +98,11 @@ categories: speedrun
 | 89 | jahaley64 | 0:55:23 | 2021-07-06 | [link](https://www.twitch.tv/videos/1078997452) |
 | 90 | favoritepie | 0:55:27 | 2021-08-15 | [link](https://www.youtube.com/watch?v=QkaZs3RsUGo) |
 | 90 | Shoryupiff | 0:55:27 | 2016-06-27 | [link](https://www.twitch.tv/shoryupiff/v/74817967) |
-| 92 | Galatea86 | 0:55:32 | 2021-11-28 | [link](https://www.youtube.com/watch?v=H3mYvG2HfK0&ab_channel=Galatea86) |
-| 93 | Grayskull83 | 0:55:34 | 2021-11-13 | [link](https://www.twitch.tv/videos/1204246458) |
-| 94 | highflyer28 | 0:55:35 | 2021-11-13 | [link](https://www.twitch.tv/videos/1204163354) |
-| 95 | Tompa | 0:55:38 | 2021-11-30 | [link](https://www.twitch.tv/videos/1220273519) |
-| 96 | budzyRNG | 0:55:39 | 2021-12-01 | [link](https://www.twitch.tv/videos/1221171202) |
+| 92 | budzyRNG | 0:55:29 | 2021-12-03 | [link](https://www.twitch.tv/videos/1224802113) |
+| 93 | Galatea86 | 0:55:32 | 2021-11-28 | [link](https://www.youtube.com/watch?v=H3mYvG2HfK0&ab_channel=Galatea86) |
+| 94 | Grayskull83 | 0:55:34 | 2021-11-13 | [link](https://www.twitch.tv/videos/1204246458) |
+| 95 | highflyer28 | 0:55:35 | 2021-11-13 | [link](https://www.twitch.tv/videos/1204163354) |
+| 96 | Tompa | 0:55:38 | 2021-11-30 | [link](https://www.twitch.tv/videos/1220273519) |
 | 97 | Growly87 | 0:55:41 | 2021-03-25 | [link](https://www.twitch.tv/videos/962376915) |
 | 98 | Sakaali | 0:55:44 | 2021-12-01 | [link](https://www.twitch.tv/videos/1221215852) |
 | 99 | proa007 | 0:55:48 | 2021-01-27 | [link](https://www.twitch.tv/videos/890704690) |
