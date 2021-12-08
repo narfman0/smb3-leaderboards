@@ -58,9 +58,9 @@ categories: speedrun
 | 49 | RoyLT | 0:11:07 | 2020-06-09 | [link](https://youtu.be/QYfsNa6dNkM) |
 | 50 | iceball8314 | 0:11:08 | 2021-09-18 | [link](https://www.youtube.com/watch?v=gAEgJ60Auz8) |
 | 50 | ibuba7 | 0:11:08 | 2019-03-16 | [link](https://www.youtube.com/watch?v=wbWvA6XiNiE) |
+| 52 | Katti | 0:11:09 | 2021-12-05 | [link](https://youtu.be/ncKwCfbFKjQ) |
 | 52 | EthanRTA | 0:11:09 | 2018-05-15 | [link](https://www.twitch.tv/videos/261783915) |
 | 52 | Lawso42 | 0:11:09 | 2018-04-26 | [link](https://www.twitch.tv/videos/254877046) |
-| 52 | Katti | 0:11:09 | 2021-12-05 | [link](https://youtu.be/ncKwCfbFKjQ) |
 | 55 | uninerd | 0:11:10 | 2021-09-11 | [link](https://www.twitch.tv/videos/1145575198) |
 | 55 | Hasauce | 0:11:10 | 2021-11-16 | [link](https://youtu.be/ZQiZ2Owh0YQ) |
 | 55 | duckfist | 0:11:10 | 2017-02-26 | [link](https://www.twitch.tv/videos/124754155) |
