@@ -115,8 +115,8 @@ categories: speedrun
 | 106 | mrcab55 | 0:56:39 | 2019-12-23 | [link](https://www.youtube.com/watch?v=_N6U3s9yKEE) |
 | 106 | TuttiPullo | 0:56:39 | 2021-01-12 | [link](https://youtu.be/7KwD1QIn170) |
 | 108 | Vobard | 0:56:40 | 2016-02-14 | [link](http://www.twitch.tv/vobard/v/36880592) |
-| 109 | KLM1187 | 0:56:47 | 2020-07-06 | [link](https://www.twitch.tv/videos/671888605) |
 | 109 | Jokubotti | 0:56:47 | 2021-12-06 | [link](https://www.twitch.tv/videos/1225966034) |
+| 109 | KLM1187 | 0:56:47 | 2020-07-06 | [link](https://www.twitch.tv/videos/671888605) |
 | 111 | iateyoursenpai | 0:56:51 | 2017-11-26 | [link](https://youtu.be/52yimTTPhjs) |
 | 112 | bluhell | 0:56:53 | 2017-08-05 | [link](https://youtu.be/ju4rHgWTCw4) |
 | 113 | Kofca | 0:56:54 | 2017-07-12 | [link](https://www.twitch.tv/videos/158446470) |
