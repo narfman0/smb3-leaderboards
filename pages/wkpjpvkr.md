@@ -8,8 +8,8 @@ categories: speedrun
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
 | 1 | Czikubi | 0:03:02.383000 | 2021-03-29 | [link](https://www.twitch.tv/videos/968510773) |
-| 2 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
-| 3 | Kuto1k | 0:03:04.283000 | 2021-11-10 | [link](https://youtu.be/oeOQrqdh4ms) |
+| 2 | Kuto1k | 0:03:03.900000 | 2021-12-09 | [link](https://youtu.be/tkQiNlmnl5g) |
+| 3 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
 | 4 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
 | 5 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
 | 6 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
