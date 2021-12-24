@@ -270,12 +270,12 @@ categories: speedrun
 | 257 | Yosch | 0:04:09 | 2021-03-27 | [link](https://www.youtube.com/watch?v=sup42wDHXU4) |
 | 257 | Lipe_Berserker | 0:04:09 | 2017-02-23 | [link](https://www.youtube.com/watch?v=HytnSGqrous) |
 | 257 | Darkmariosan | 0:04:09 | 2018-01-28 | [link](https://www.youtube.com/watch?v=WA2avBuWtpk) |
+| 264 | chinoe | 0:04:10 | 2021-12-22 | [link](https://youtu.be/43TbHWwshrg) |
 | 264 | Thelxinoe | 0:04:10 | 2020-09-06 | [link](https://www.twitch.tv/videos/730836076) |
 | 264 | ViolentCrumble | 0:04:10 | 2016-07-16 | [link](https://www.youtube.com/watch?v=Br47sxEbpQ8&feature=youtu.be) |
 | 264 | Parrot_Dash | 0:04:10 | 2019-04-17 | [link](https://youtu.be/7b0MFKNSNh4) |
 | 264 | Datenshineko | 0:04:10 | 2017-01-27 | [link](https://www.youtube.com/watch?v=kkfTM37j-NU) |
 | 264 | NeonSpeak | 0:04:10 | 2018-06-19 | [link](https://www.twitch.tv/videos/275057288) |
-| 264 | chinoe | 0:04:10 | 2021-12-22 | [link](https://youtu.be/43TbHWwshrg) |
 | 270 | Fuzzyzilla | 0:04:11 | 2018-02-23 | [link](https://www.youtube.com/watch?v=f82fxeCG6Fo) |
 | 271 | BubuMC | 0:04:12 | 2018-09-07 | [link](https://www.twitch.tv/videos/345499715) |
 | 271 | KiD_ViD | 0:04:12 | 2018-03-11 | [link](https://youtu.be/uo8FWar7_gE) |
