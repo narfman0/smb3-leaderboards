@@ -55,9 +55,9 @@ categories: speedrun
 | 46 | skyehoppers | 0:11:06 | 2019-08-26 | [link](https://www.youtube.com/watch?v=YD4qYXyfiv0) |
 | 46 | AndrewG | 0:11:06 | 2008-06-30 | [link](https://www.youtube.com/watch?v=GDs08NwIG7I) |
 | 46 | Ezeron | 0:11:06 | 2017-04-28 | [link](https://www.youtube.com/watch?v=gnW1QLHMDps) |
-| 49 | RoyLT | 0:11:07 | 2020-06-09 | [link](https://youtu.be/QYfsNa6dNkM) |
-| 50 | iceball8314 | 0:11:08 | 2021-09-18 | [link](https://www.youtube.com/watch?v=gAEgJ60Auz8) |
-| 50 | ibuba7 | 0:11:08 | 2019-03-16 | [link](https://www.youtube.com/watch?v=wbWvA6XiNiE) |
+| 46 | iceball8314 | 0:11:06 | 2021-12-27 | [link](https://www.youtube.com/watch?v=hbQLp8m-X7s) |
+| 50 | RoyLT | 0:11:07 | 2020-06-09 | [link](https://youtu.be/QYfsNa6dNkM) |
+| 51 | ibuba7 | 0:11:08 | 2019-03-16 | [link](https://www.youtube.com/watch?v=wbWvA6XiNiE) |
 | 52 | EthanRTA | 0:11:09 | 2018-05-15 | [link](https://www.twitch.tv/videos/261783915) |
 | 52 | Katti | 0:11:09 | 2021-12-05 | [link](https://youtu.be/ncKwCfbFKjQ) |
 | 52 | Lawso42 | 0:11:09 | 2018-04-26 | [link](https://www.twitch.tv/videos/254877046) |
