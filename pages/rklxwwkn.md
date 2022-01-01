@@ -42,8 +42,8 @@ categories: speedrun
 | 33 | TheLostLlama | 0:52:47 | 2016-02-03 | [link](http://www.twitch.tv/thelostllama/v/40275470) |
 | 34 | uninerd | 0:52:49 | 2021-06-21 | [link](https://www.twitch.tv/videos/1063252825) |
 | 35 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
-| 36 | nissault | 0:52:57 | 2021-06-17 | [link](https://www.twitch.tv/videos/1059713933) |
-| 37 | MarstoS | 0:53:03 | 2021-08-24 | [link](https://www.twitch.tv/videos/1128167487?filter=all&sort=time) |
+| 36 | MarstoS | 0:52:55 | 2021-12-29 | [link](https://www.twitch.tv/videos/1247044334) |
+| 37 | nissault | 0:52:57 | 2021-06-17 | [link](https://www.twitch.tv/videos/1059713933) |
 | 38 | Mondii | 0:53:04 | 2021-11-30 | [link](https://www.twitch.tv/videos/1220126700) |
 | 39 | GungeonLover | 0:53:09 | 2021-07-12 | [link](https://www.twitch.tv/videos/1084276488) |
 | 40 | Aweglib | 0:53:10 | 2017-06-09 | [link](https://www.twitch.tv/videos/150756657) |
