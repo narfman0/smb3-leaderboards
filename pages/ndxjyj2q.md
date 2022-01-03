@@ -52,8 +52,8 @@ categories: speedrun
 | 43 | DaveLindo | 0:11:05 | 2019-08-15 | [link](https://www.twitch.tv/videos/467866687) |
 | 43 | DenimVest25 | 0:11:05 | 2017-09-05 | [link](https://www.youtube.com/watch?v=a0JNbxNOgG4) |
 | 43 | Baddap1 | 0:11:05 | 2019-03-21 | [link](https://youtu.be/d36TjUJUxdI) |
-| 46 | iceball8314 | 0:11:06 | 2021-12-27 | [link](https://www.youtube.com/watch?v=hbQLp8m-X7s) |
 | 46 | skyehoppers | 0:11:06 | 2019-08-26 | [link](https://www.youtube.com/watch?v=YD4qYXyfiv0) |
+| 46 | iceball8314 | 0:11:06 | 2021-12-27 | [link](https://www.youtube.com/watch?v=hbQLp8m-X7s) |
 | 46 | AndrewG | 0:11:06 | 2008-06-30 | [link](https://www.youtube.com/watch?v=GDs08NwIG7I) |
 | 46 | Ezeron | 0:11:06 | 2017-04-28 | [link](https://www.youtube.com/watch?v=gnW1QLHMDps) |
 | 50 | RoyLT | 0:11:07 | 2020-06-09 | [link](https://youtu.be/QYfsNa6dNkM) |
@@ -103,8 +103,8 @@ categories: speedrun
 | 94 | TapatioJ | 0:11:33 | 2015-10-19 | [link](http://www.twitch.tv/tapatioj/v/21539389) |
 | 95 | Francis_Metadinha | 0:11:34 | 2018-10-09 | [link](https://youtu.be/oAjNzvDg28M) |
 | 95 | Grayskull83 | 0:11:34 | 2021-07-28 | [link](https://www.twitch.tv/videos/1100579420) |
-| 97 | ShadowPanda | 0:11:35 | 2016-11-19 | [link](https://www.twitch.tv/shadowpanda__/v/102042340) |
 | 97 | BodanMusic | 0:11:35 | 2022-01-01 | [link](https://youtu.be/QVBo1jidzvc) |
+| 97 | ShadowPanda | 0:11:35 | 2016-11-19 | [link](https://www.twitch.tv/shadowpanda__/v/102042340) |
 | 99 | Ahmed | 0:11:36 | 2021-10-29 | [link](https://www.youtube.com/watch?v=PsO5LxxwfvM) |
 | 99 | SpUnKeN_DK | 0:11:36 | 2021-06-10 | [link](https://www.twitch.tv/videos/1052211903) |
 | 99 | HiroMunii | 0:11:36 | 2021-08-29 | [link](https://youtu.be/vdlXEr3-Nh0) |
