@@ -13,7 +13,7 @@ categories: speedrun
 | 4 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
 | 5 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
 | 6 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
-| 7 | TheCrit | 0:03:08.350000 | 2021-12-27 | [link](https://www.youtube.com/watch?v=rESaya5wtFw&lc=UgzBw8NGBE5CCtzIMtV4AaABAg) |
+| 7 | TheCrit | 0:03:07.833000 | 2022-01-04 | [link](https://www.youtube.com/watch?v=Xg8ZH6tyS80) |
 | 8 | narfman0 | 0:03:08.433000 | 2021-09-12 | [link](https://youtu.be/h2xeo2zJERc) |
 | 9 | Ellonija | 0:03:08.716000 | 2018-11-14 | [link](https://www.twitch.tv/videos/335488260) |
 | 10 | eddiecatgaming | 0:03:09 | 2021-08-08 | [link](https://www.youtube.com/watch?v=sPdj_LJr8PI) |
