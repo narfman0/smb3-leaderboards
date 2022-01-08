@@ -46,7 +46,7 @@ categories: speedrun
 | 37 | roopert83 | 0:11:00 | 2021-10-26 | [link](https://www.youtube.com/watch?v=0gx6U3cQYNc) |
 | 37 | AbellaBrothers1 | 0:11:00 | 2021-08-31 | [link](https://m.youtube.com/watch?v=pOGgBjSKFlI) |
 | 37 | MoonJi | 0:11:00 | 2018-05-19 | [link](https://youtu.be/lDOU-ET2LGM) |
-| 40 | iceball8314 | 0:11:01 | 2022-01-02 | [link](https://www.youtube.com/watch?v=7Jh6QE3vhwo) |
+| 40 | iceball8314 | 0:11:01 | 2022-01-06 | [link](https://www.youtube.com/watch?v=l9bV92FnLgI) |
 | 41 | GTAce99 | 0:11:02 | 2019-12-06 | [link](https://youtu.be/4noHGCgBz5A) |
 | 42 | Bertstarebro | 0:11:03 | 2014-09-17 | [link](https://www.youtube.com/watch?v=aTmUEpEu680) |
 | 43 | YerocXx | 0:11:04 | 2020-07-25 | [link](https://youtu.be/tWNbecUrM44) |
