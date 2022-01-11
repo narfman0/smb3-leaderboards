@@ -40,13 +40,13 @@ categories: speedrun
 | 30 | dom | 0:10:58 | 2021-04-20 | [link](https://www.twitch.tv/videos/994542334) |
 | 30 | darbian | 0:10:58 | 2016-09-18 | [link](https://www.twitch.tv/darbian/v/97167568) |
 | 30 | NathanAlmighty | 0:10:58 | 2017-11-10 | [link](https://www.youtube.com/watch?v=Tmvby-WW7eU&feature=youtu.be) |
+| 34 | iceball8314 | 0:10:59 | 2022-01-09 | [link](https://www.youtube.com/watch?v=BSBzWdmDBWs) |
 | 34 | goofychocobo | 0:10:59 | 2021-03-27 | [link](https://www.youtube.com/watch?v=8l6EkRzBsNA) |
 | 34 | TheCrit | 0:10:59 | 2021-11-04 | [link](https://www.youtube.com/watch?v=6tmjJF8dh4o) |
 | 34 | Revelyte23 | 0:10:59 | 2019-09-01 | [link](https://www.youtube.com/watch?v=Ppc9gZ4xQCs) |
-| 37 | roopert83 | 0:11:00 | 2021-10-26 | [link](https://www.youtube.com/watch?v=0gx6U3cQYNc) |
-| 37 | AbellaBrothers1 | 0:11:00 | 2021-08-31 | [link](https://m.youtube.com/watch?v=pOGgBjSKFlI) |
-| 37 | MoonJi | 0:11:00 | 2018-05-19 | [link](https://youtu.be/lDOU-ET2LGM) |
-| 40 | iceball8314 | 0:11:01 | 2022-01-06 | [link](https://www.youtube.com/watch?v=l9bV92FnLgI) |
+| 38 | roopert83 | 0:11:00 | 2021-10-26 | [link](https://www.youtube.com/watch?v=0gx6U3cQYNc) |
+| 38 | AbellaBrothers1 | 0:11:00 | 2021-08-31 | [link](https://m.youtube.com/watch?v=pOGgBjSKFlI) |
+| 38 | MoonJi | 0:11:00 | 2018-05-19 | [link](https://youtu.be/lDOU-ET2LGM) |
 | 41 | GTAce99 | 0:11:02 | 2019-12-06 | [link](https://youtu.be/4noHGCgBz5A) |
 | 42 | Bertstarebro | 0:11:03 | 2014-09-17 | [link](https://www.youtube.com/watch?v=aTmUEpEu680) |
 | 43 | YerocXx | 0:11:04 | 2020-07-25 | [link](https://youtu.be/tWNbecUrM44) |
