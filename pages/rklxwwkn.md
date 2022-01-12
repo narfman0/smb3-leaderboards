@@ -94,9 +94,9 @@ categories: speedrun
 | 84 | scalpel | 0:54:59 | 2021-07-31 | [link](https://youtu.be/TVLrnpX5u-s) |
 | 86 | xeroplanes | 0:55:01 | 2020-06-22 | [link](https://www.twitch.tv/videos/658458987) |
 | 87 | Akisto | 0:55:08 | 2015-06-05 | [link](https://www.youtube.com/watch?v=cU8SEb1i7yg) |
-| 88 | denkiya | 0:55:10 | 2021-12-04 | [link](https://www.youtube.com/watch?v=CAx9rBuogbE) |
-| 89 | Boy22Blue | 0:55:13 | 2021-05-17 | [link](https://www.youtube.com/watch?v=tqI-18-NQQ8) |
-| 90 | SuperSonic | 0:55:15 | 2018-07-24 | [link](https://www.twitch.tv/videos/288919864) |
+| 88 | SuperSonic | 0:55:09 | 2022-01-11 | [link](https://youtu.be/8GwTtth0jjY) |
+| 89 | denkiya | 0:55:10 | 2021-12-04 | [link](https://www.youtube.com/watch?v=CAx9rBuogbE) |
+| 90 | Boy22Blue | 0:55:13 | 2021-05-17 | [link](https://www.youtube.com/watch?v=tqI-18-NQQ8) |
 | 91 | Killamox | 0:55:18 | 2016-03-18 | [link](http://www.twitch.tv/killamox18/v/55107584) |
 | 92 | bowtie1320 | 0:55:19 | 2021-01-19 | [link](https://www.twitch.tv/videos/880694645) |
 | 93 | jahaley64 | 0:55:23 | 2021-07-06 | [link](https://www.twitch.tv/videos/1078997452) |
