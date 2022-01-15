@@ -60,10 +60,10 @@ categories: speedrun
 | 51 | KobrahCJ | 0:53:38 | 2021-10-16 | [link](https://www.twitch.tv/videos/1178706560) |
 | 52 | Doomtap | 0:53:39 | 2021-07-13 | [link](https://www.twitch.tv/videos/1085567648) |
 | 53 | COOLKID | 0:53:41 | 2019-03-19 | [link](https://www.twitch.tv/videos/398148894) |
-| 54 | TheClassicOne88 | 0:53:50 | 2020-07-26 | [link](https://www.twitch.tv/videos/691257713) |
-| 55 | roopert83 | 0:53:52 | 2020-04-15 | [link](https://www.twitch.tv/videos/593379949) |
-| 56 | ryukahr | 0:53:55 | 2017-05-17 | [link](https://www.twitch.tv/videos/144815209) |
-| 57 | Japezu | 0:53:56 | 2021-08-20 | [link](https://www.twitch.tv/videos/1123572533) |
+| 54 | Japezu | 0:53:49 | 2022-01-15 | [link](https://www.twitch.tv/videos/1263810197?filter=highlights&sort=time) |
+| 55 | TheClassicOne88 | 0:53:50 | 2020-07-26 | [link](https://www.twitch.tv/videos/691257713) |
+| 56 | roopert83 | 0:53:52 | 2020-04-15 | [link](https://www.twitch.tv/videos/593379949) |
+| 57 | ryukahr | 0:53:55 | 2017-05-17 | [link](https://www.twitch.tv/videos/144815209) |
 | 58 | TheLightYagami | 0:53:58 | 2015-09-08 | [link](http://www.twitch.tv/thelightyagami/v/15146872) |
 | 58 | Track1 | 0:53:58 | 2022-01-09 | [link](https://www.youtube.com/watch?v=6K7a_JScAb8) |
 | 60 | esmo88 | 0:53:59 | 2020-02-01 | [link](https://www.twitch.tv/videos/545533125) |
