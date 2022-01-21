@@ -70,10 +70,10 @@ categories: speedrun
 | 60 | Magician_Type_0 | 0:11:11 | 2021-10-14 | [link](https://www.twitch.tv/videos/1176913758) |
 | 60 | Chelney | 0:11:11 | 2016-05-25 | [link](https://www.twitch.tv/chelney1/v/68486199) |
 | 63 | CujoIHSV | 0:11:12 | 2016-01-20 | [link](https://youtu.be/1N58EZFINZ4) |
+| 63 | Grayskull83 | 0:11:12 | 2022-01-19 | [link](https://www.twitch.tv/videos/1269375317) |
 | 63 | Dayphid | 0:11:12 | 2019-01-06 | [link](https://www.twitch.tv/videos/360009485) |
 | 63 | SuperMegaDav | 0:11:12 | 2020-11-11 | [link](https://www.twitch.tv/videos/799959700) |
 | 63 | PMniac | 0:11:12 | 2017-02-10 | [link](https://www.twitch.tv/videos/121063699) |
-| 63 | Grayskull83 | 0:11:12 | 2022-01-19 | [link](https://www.twitch.tv/videos/1269375317) |
 | 68 | Rh4kor | 0:11:13 | 2021-08-01 | [link](https://www.twitch.tv/videos/1105217550) |
 | 68 | Schaaa | 0:11:13 | 2017-07-26 | [link](https://www.twitch.tv/videos/162204249) |
 | 68 | AD2 | 0:11:13 | 2017-12-06 | [link](https://www.twitch.tv/videos/207168171) |
