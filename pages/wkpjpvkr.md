@@ -332,12 +332,12 @@ categories: speedrun
 | 314 | pahchi | 0:04:20 | 2017-09-11 | [link](https://www.twitch.tv/videos/173933796) |
 | 314 | Claire | 0:04:20 | 2019-10-20 | [link](https://www.twitch.tv/videos/497807984) |
 | 325 | mister_nibbles | 0:04:21 | 2018-07-28 | [link](https://www.youtube.com/watch?v=-_us_yli8_I) |
+| 325 | tdiogo_gamer | 0:04:21 | 2022-01-26 | [link](https://youtu.be/W3XDkfItYsw) |
 | 325 | KALLAX | 0:04:21 | 2021-03-09 | [link](https://youtu.be/_sxaBGeb95A) |
 | 325 | ThatOneRottenSpud | 0:04:21 | 2017-04-30 | [link](https://www.youtube.com/watch?v=NGsQXCRHyxE) |
 | 325 | LucasFidelis | 0:04:21 | 2017-02-20 | [link](https://youtu.be/m1gI4RQTgDI) |
 | 325 | Supernickid | 0:04:21 | 2017-05-25 | [link](https://www.youtube.com/watch?v=OtZnsTfna4M) |
 | 325 | NaiieX | 0:04:21 | 2018-03-07 | [link](https://www.youtube.com/watch?v=FqcMDXu5BkQ) |
-| 325 | tdiogo_gamer | 0:04:21 | 2022-01-26 | [link](https://youtu.be/W3XDkfItYsw) |
 | 332 | BOTSam | 0:04:22 | 2020-12-26 | [link](https://youtu.be/jXALZLgW11I) |
 | 333 | cerealmasticator | 0:04:23 | 2020-01-15 | [link](https://www.twitch.tv/videos/536734568) |
 | 334 | Temmichel | 0:04:24 | 2021-01-31 | [link](https://www.youtube.com/watch?v=rRN5tRjjIPY) |
