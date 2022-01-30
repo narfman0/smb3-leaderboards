@@ -332,8 +332,8 @@ categories: speedrun
 | 314 | pahchi | 0:04:20 | 2017-09-11 | [link](https://www.twitch.tv/videos/173933796) |
 | 314 | Claire | 0:04:20 | 2019-10-20 | [link](https://www.twitch.tv/videos/497807984) |
 | 325 | mister_nibbles | 0:04:21 | 2018-07-28 | [link](https://www.youtube.com/watch?v=-_us_yli8_I) |
-| 325 | tdiogo_gamer | 0:04:21 | 2022-01-26 | [link](https://youtu.be/W3XDkfItYsw) |
 | 325 | KALLAX | 0:04:21 | 2021-03-09 | [link](https://youtu.be/_sxaBGeb95A) |
+| 325 | tdiogo_gamer | 0:04:21 | 2022-01-26 | [link](https://youtu.be/W3XDkfItYsw) |
 | 325 | ThatOneRottenSpud | 0:04:21 | 2017-04-30 | [link](https://www.youtube.com/watch?v=NGsQXCRHyxE) |
 | 325 | LucasFidelis | 0:04:21 | 2017-02-20 | [link](https://youtu.be/m1gI4RQTgDI) |
 | 325 | Supernickid | 0:04:21 | 2017-05-25 | [link](https://www.youtube.com/watch?v=OtZnsTfna4M) |
@@ -424,5 +424,6 @@ categories: speedrun
 | 415 | Maestro227 | 0:05:20 | 2016-02-02 | [link](https://www.youtube.com/watch?v=GN1IRaMI7_E) |
 | 416 | jgmadman | 0:05:21 | 2017-02-10 | [link](https://www.twitch.tv/videos/121022751) |
 | 417 | tryhardsnipehrd | 0:05:24 | 2020-06-03 | [link](https://youtu.be/1gbwIpsmaaQ) |
-| 418 | dom | 0:06:23 | 2021-04-14 | [link](https://www.twitch.tv/videos/985126025?filter=highlights&sort=time) |
-| 419 | 100th_Coin | 0:07:02 | 2021-05-16 | [link](https://www.youtube.com/watch?v=9uZnuX-jnl0) |
+| 418 | Billybob157 | 0:05:30 | 2022-01-28 | [link](https://youtu.be/0qKhXQ0cNR0) |
+| 419 | dom | 0:06:23 | 2021-04-14 | [link](https://www.twitch.tv/videos/985126025?filter=highlights&sort=time) |
+| 420 | 100th_Coin | 0:07:02 | 2021-05-16 | [link](https://www.youtube.com/watch?v=9uZnuX-jnl0) |
