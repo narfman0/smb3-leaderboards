@@ -36,8 +36,8 @@ categories: speedrun
 | 27 | Katti | 0:52:31 | 2021-11-24 | [link](https://www.twitch.tv/videos/1214847563) |
 | 27 | TrueHyperMario | 0:52:31 | 2021-12-01 | [link](https://www.twitch.tv/videos/1220478627) |
 | 29 | jtknott | 0:52:36 | 2020-12-29 | [link](https://www.youtube.com/watch?v=mFVaOOPTA9A) |
-| 30 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 30 | Mondii | 0:52:44 | 2022-02-02 | [link](https://www.twitch.tv/videos/1284632227) |
+| 30 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 32 | brocis420 | 0:52:45 | 2021-03-13 | [link](https://www.twitch.tv/videos/948528837) |
 | 33 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
 | 34 | TheLostLlama | 0:52:47 | 2016-02-03 | [link](http://www.twitch.tv/thelostllama/v/40275470) |
@@ -122,8 +122,8 @@ categories: speedrun
 | 113 | bluhell | 0:56:53 | 2017-08-05 | [link](https://youtu.be/ju4rHgWTCw4) |
 | 114 | Kofca | 0:56:54 | 2017-07-12 | [link](https://www.twitch.tv/videos/158446470) |
 | 115 | CraigSMB3 | 0:57:04 | 2021-11-14 | [link](https://www.twitch.tv/videos/1206481559) |
-| 116 | SpicyChickenSpiciBoi | 0:57:07 | 2022-01-31 | [link](https://youtu.be/qN8z5XxS3iE) |
 | 116 | TheBeastMonster_ | 0:57:07 | 2021-03-24 | [link](https://youtu.be/CgoI6vS84ok) |
+| 116 | SpicyChickenSpiciBoi | 0:57:07 | 2022-01-31 | [link](https://youtu.be/qN8z5XxS3iE) |
 | 118 | AnimusUnited | 0:57:08 | 2021-04-17 | [link](https://www.twitch.tv/videos/991323385) |
 | 119 | Mr.JacoPbass | 0:57:18 | 2018-11-28 | [link](https://www.twitch.tv/videos/341875055) |
 | 119 | beardylocks | 0:57:18 | 2021-04-29 | [link](https://youtu.be/FdhiO-l1jko) |
@@ -223,8 +223,8 @@ categories: speedrun
 | 214 | PeekingBoo | 1:11:34 | 2018-04-01 | [link](https://www.twitch.tv/videos/245412680) |
 | 215 | Vultus | 1:11:36 | 2019-01-06 | [link](https://www.twitch.tv/videos/359874017) |
 | 216 | CurtsNewBrand | 1:12:09 | 2021-07-31 | [link](https://youtu.be/sAN286xGeeY) |
-| 217 | Snowpie | 1:12:17 | 2021-11-07 | [link](https://www.twitch.tv/videos/1199074759) |
 | 217 | thetantalus | 1:12:17 | 2021-03-19 | [link](https://www.twitch.tv/videos/957367746) |
+| 217 | Snowpie | 1:12:17 | 2021-11-07 | [link](https://www.twitch.tv/videos/1199074759) |
 | 219 | ThreeToadSloth | 1:12:38 | 2020-01-06 | [link](https://youtu.be/itGPpMAGFHo) |
 | 220 | SherriAttacks | 1:13:12 | 2017-09-25 | [link](https://www.twitch.tv/videos/176412324) |
 | 221 | Antilles58 | 1:13:15 | 2018-07-16 | [link](https://www.twitch.tv/videos/285774915) |
