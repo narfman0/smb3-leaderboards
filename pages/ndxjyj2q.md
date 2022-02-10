@@ -178,8 +178,8 @@ categories: speedrun
 | 169 | limestoners | 0:12:11 | 2021-06-03 | [link](https://www.twitch.tv/videos/1044206911) |
 | 169 | Tofuboi1986 | 0:12:11 | 2017-03-01 | [link](https://www.twitch.tv/videos/125780760) |
 | 169 | Remz | 0:12:11 | 2017-01-23 | [link](https://www.twitch.tv/remzlab/v/116726913) |
-| 172 | Hoofenstomper | 0:12:12 | 2020-10-27 | [link](https://www.youtube.com/watch?v=u-39z_kOxSA) |
 | 172 | yeabruh | 0:12:12 | 2022-02-08 | [link](https://www.twitch.tv/videos/1291115004) |
+| 172 | Hoofenstomper | 0:12:12 | 2020-10-27 | [link](https://www.youtube.com/watch?v=u-39z_kOxSA) |
 | 174 | barnowl | 0:12:13 | 2016-01-08 | [link](http://www.twitch.tv/barnowl/v/34188063) |
 | 175 | NTLag | 0:12:14 | 2021-06-22 | [link](https://youtu.be/llDiQ9naDHw) |
 | 176 | grimlocksoflove | 0:12:16 | 2021-09-16 | [link](https://www.twitch.tv/videos/1150266179) |
