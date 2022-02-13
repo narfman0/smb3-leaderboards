@@ -198,7 +198,6 @@ categories: speedrun
 | 176 | aidenlt | 0:03:58 | 2019-10-22 | [link](https://www.youtube.com/watch?v=KgeG1twsE48) |
 | 176 | Karyno | 0:03:58 | 2017-05-13 | [link](https://www.youtube.com/watch?v=JvjeloAySEY) |
 | 191 | IluvMario | 0:03:59 | 2014-05-21 | [link](https://www.twitch.tv/iluvmario/v/49223345) |
-| 191 | Nikelaus | 0:03:59 | 2017-06-01 | [link](https://www.youtube.com/watch?v=mRU-DR2kNjs) |
 | 191 | Sofa1 | 0:03:59 | 2018-02-02 | [link](https://www.twitch.tv/videos/224762764) |
 | 191 | ThePigKing | 0:03:59 | 2020-01-13 | [link](https://youtu.be/IvhV07eVwq8) |
 | 191 | HJA | 0:03:59 | 2017-10-23 | [link](https://www.youtube.com/watch?v=_CmANw241yo) |
@@ -206,6 +205,7 @@ categories: speedrun
 | 191 | jtknott | 0:03:59 | 2018-04-21 | [link](https://youtu.be/6OflYL17Sbg) |
 | 191 | CreatiX | 0:03:59 | 2020-02-22 | [link](https://youtu.be/cThrF_3Invs) |
 | 191 | Dellowood | 0:03:59 | 2021-01-08 | [link](https://www.youtube.com/watch?v=-mHo4ksbReY) |
+| 191 | Nikelaus | 0:03:59 | 2017-06-01 | [link](https://www.youtube.com/watch?v=mRU-DR2kNjs) |
 | 191 | KobrahCJ | 0:03:59 | 2017-03-01 | [link](https://www.twitch.tv/videos/125546008) |
 | 191 | KaiserKrister | 0:03:59 | 2017-09-19 | [link](https://www.twitch.tv/videos/175971008) |
 | 191 | KLM1187 | 0:03:59 | 2020-06-23 | [link](https://youtu.be/TNTEEsu3Nrc) |
@@ -377,9 +377,9 @@ categories: speedrun
 | 367 | Broran01 | 0:04:35 | 2017-05-22 | [link](https://www.youtube.com/watch?v=9IQfBpbyfJE) |
 | 367 | fsvgm777 | 0:04:35 | 2020-05-02 | [link](https://youtu.be/4NodT0WoFxc) |
 | 367 | AksisSR | 0:04:35 | 2020-01-29 | [link](https://youtu.be/IT_6_gcRNwE) |
+| 371 | Odme_ | 0:04:36 | 2022-02-11 | [link](https://www.twitch.tv/videos/1294665176) |
 | 371 | Pushungo507 | 0:04:36 | 2018-02-13 | [link](https://www.youtube.com/watch?v=hkl26VDkrrk) |
 | 371 | The_TK | 0:04:36 | 2018-03-26 | [link](https://www.youtube.com/watch?v=-BGlf-784l4) |
-| 371 | Odme_ | 0:04:36 | 2022-02-11 | [link](https://www.twitch.tv/videos/1294665176) |
 | 374 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
 | 374 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
 | 374 | Lao | 0:04:38 | 2018-03-01 | [link](https://www.youtube.com/watch?v=6p9FOkAU4AM) |
