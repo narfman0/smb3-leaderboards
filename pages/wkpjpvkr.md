@@ -260,10 +260,10 @@ categories: speedrun
 | 250 | DanDizz | 0:04:07 | 2019-05-16 | [link](https://youtu.be/m5QypThYY3U) |
 | 250 | Clementox_Liano | 0:04:07 | 2018-11-24 | [link](https://youtu.be/7f2VLtpt3qc) |
 | 250 | tchfunkta | 0:04:07 | 2017-04-19 | [link](https://youtu.be/iQZ3f5Z1goI) |
-| 254 | antodur | 0:04:08 | 2018-03-04 | [link](https://youtu.be/847zQgQMelA) |
 | 254 | LordHVetinari | 0:04:08 | 2018-12-24 | [link](https://youtu.be/MLb-W8CPt1E) |
 | 254 | Jama7301 | 0:04:08 | 2016-10-04 | [link](https://www.twitch.tv/jama7301/v/92990429) |
 | 254 | DrgnRAGE | 0:04:08 | 2017-03-26 | [link](https://www.youtube.com/watch?v=ekgbcKiQypk) |
+| 254 | antodur | 0:04:08 | 2018-03-04 | [link](https://youtu.be/847zQgQMelA) |
 | 254 | Saturnb | 0:04:08 | 2021-03-30 | [link](https://youtu.be/Wx174Ydh8wY) |
 | 254 | Ulrisse | 0:04:08 | 2018-02-23 | [link](https://www.youtube.com/watch?v=3D8Oz4tuvbI&feature=youtu.be) |
 | 254 | Typhlo | 0:04:08 | 2018-07-17 | [link](https://www.youtube.com/watch?v=z7CDGAnbrfk) |
