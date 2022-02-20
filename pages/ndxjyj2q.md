@@ -72,8 +72,8 @@ categories: speedrun
 | 61 | Chelney | 0:11:11 | 2016-05-25 | [link](https://www.twitch.tv/chelney1/v/68486199) |
 | 64 | CujoIHSV | 0:11:12 | 2016-01-20 | [link](https://youtu.be/1N58EZFINZ4) |
 | 64 | Grayskull83 | 0:11:12 | 2022-01-19 | [link](https://www.twitch.tv/videos/1269375317) |
-| 64 | Dayphid | 0:11:12 | 2019-01-06 | [link](https://www.twitch.tv/videos/360009485) |
 | 64 | SuperMegaDav | 0:11:12 | 2020-11-11 | [link](https://www.twitch.tv/videos/799959700) |
+| 64 | Dayphid | 0:11:12 | 2019-01-06 | [link](https://www.twitch.tv/videos/360009485) |
 | 64 | PMniac | 0:11:12 | 2017-02-10 | [link](https://www.twitch.tv/videos/121063699) |
 | 69 | Rh4kor | 0:11:13 | 2021-08-01 | [link](https://www.twitch.tv/videos/1105217550) |
 | 69 | Schaaa | 0:11:13 | 2017-07-26 | [link](https://www.twitch.tv/videos/162204249) |
@@ -139,8 +139,8 @@ categories: speedrun
 | 130 | mrpickaxe | 0:11:49 | 2020-09-25 | [link](https://youtu.be/gr8V3sIwfPQ) |
 | 130 | lackattack | 0:11:49 | 2016-11-05 | [link](https://www.twitch.tv/lackattack24/v/99640921) |
 | 130 | Jhugomega | 0:11:49 | 2017-07-03 | [link](https://youtu.be/e5rFgk2ea2Q) |
-| 133 | Espo_ | 0:11:50 | 2020-10-28 | [link](https://www.twitch.tv/videos/784520836) |
 | 133 | SpicyChickenSpiciBoi | 0:11:50 | 2022-02-18 | [link](https://youtu.be/aLj79anDqe8) |
+| 133 | Espo_ | 0:11:50 | 2020-10-28 | [link](https://www.twitch.tv/videos/784520836) |
 | 135 | xenkaroshi | 0:11:51 | 2019-02-27 | [link](https://www.youtube.com/watch?v=4Iu4bVJdlz4) |
 | 136 | loganthepredator | 0:11:52 | 2021-04-04 | [link](https://www.youtube.com/watch?v=z1yKjQo1QoY&ab_channel=LoganThePredator) |
 | 137 | aramusbelmont | 0:11:53 | 2021-04-03 | [link](https://www.twitch.tv/videos/975490148) |
@@ -151,9 +151,9 @@ categories: speedrun
 | 141 | MelonTheFelon | 0:11:55 | 2018-10-31 | [link](https://www.twitch.tv/videos/332618768) |
 | 141 | spins | 0:11:55 | 2020-07-17 | [link](https://www.twitch.tv/videos/682207732) |
 | 144 | LattMackey | 0:11:56 | 2018-02-07 | [link](https://youtu.be/j7joBwj1SQk) |
-| 145 | HJA | 0:11:57 | 2017-11-18 | [link](https://www.youtube.com/watch?v=KptKXsQKNqg) |
 | 145 | gamercal | 0:11:57 | 2019-04-22 | [link](https://www.twitch.tv/videos/415004904) |
 | 145 | AceOfArrows | 0:11:57 | 2017-06-14 | [link](https://www.twitch.tv/videos/151869805) |
+| 145 | HJA | 0:11:57 | 2017-11-18 | [link](https://www.youtube.com/watch?v=KptKXsQKNqg) |
 | 145 | Mizumaririn | 0:11:57 | 2021-03-21 | [link](https://www.twitch.tv/videos/957683478) |
 | 145 | HocusPocus | 0:11:57 | 2021-07-03 | [link](https://www.twitch.tv/videos/1076513492) |
 | 145 | KLM1187 | 0:11:57 | 2020-07-18 | [link](https://youtu.be/W1jlmX81NjQ) |
