@@ -46,11 +46,11 @@ categories: speedrun
 | 37 | uninerd | 0:52:49 | 2021-06-21 | [link](https://www.twitch.tv/videos/1063252825) |
 | 38 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
 | 39 | nissault | 0:52:57 | 2021-06-17 | [link](https://www.twitch.tv/videos/1059713933) |
-| 40 | GungeonLover | 0:53:09 | 2021-07-12 | [link](https://www.twitch.tv/videos/1084276488) |
-| 41 | Aweglib | 0:53:10 | 2017-06-09 | [link](https://www.twitch.tv/videos/150756657) |
-| 42 | Japezu | 0:53:14 | 2022-01-16 | [link](https://www.twitch.tv/videos/1265121259) |
-| 42 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
-| 44 | AdamFerrari64 | 0:53:17 | 2022-02-14 | [link](https://www.twitch.tv/videos/1298170237) |
+| 39 | AdamFerrari64 | 0:52:57 | 2022-02-17 | [link](https://www.twitch.tv/videos/1304832186) |
+| 41 | GungeonLover | 0:53:09 | 2021-07-12 | [link](https://www.twitch.tv/videos/1084276488) |
+| 42 | Aweglib | 0:53:10 | 2017-06-09 | [link](https://www.twitch.tv/videos/150756657) |
+| 43 | Japezu | 0:53:14 | 2022-01-16 | [link](https://www.twitch.tv/videos/1265121259) |
+| 43 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
 | 45 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
 | 46 | HUmanMustard | 0:53:23 | 2021-08-30 | [link](https://www.twitch.tv/videos/1133806164) |
 | 47 | Mars02 | 0:53:24 | 2020-09-14 | [link](https://www.youtube.com/watch?v=kqvEqxN6-Kk) |
