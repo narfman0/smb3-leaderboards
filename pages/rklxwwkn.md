@@ -45,8 +45,8 @@ categories: speedrun
 | 36 | TheLostLlama | 0:52:47 | 2016-02-03 | [link](http://www.twitch.tv/thelostllama/v/40275470) |
 | 37 | uninerd | 0:52:49 | 2021-06-21 | [link](https://www.twitch.tv/videos/1063252825) |
 | 38 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
-| 39 | nissault | 0:52:57 | 2021-06-17 | [link](https://www.twitch.tv/videos/1059713933) |
 | 39 | AdamFerrari64 | 0:52:57 | 2022-02-17 | [link](https://www.twitch.tv/videos/1304832186) |
+| 39 | nissault | 0:52:57 | 2021-06-17 | [link](https://www.twitch.tv/videos/1059713933) |
 | 41 | GungeonLover | 0:53:09 | 2021-07-12 | [link](https://www.twitch.tv/videos/1084276488) |
 | 42 | Aweglib | 0:53:10 | 2017-06-09 | [link](https://www.twitch.tv/videos/150756657) |
 | 43 | Japezu | 0:53:14 | 2022-01-16 | [link](https://www.twitch.tv/videos/1265121259) |
@@ -207,11 +207,11 @@ categories: speedrun
 | 198 | jamesjmarkeyjr | 1:04:52 | 2021-08-16 | [link](https://youtu.be/8stxbStpMSA) |
 | 199 | deuisy | 1:05:05 | 2021-03-21 | [link](https://www.twitch.tv/videos/957671579) |
 | 200 | amourietta | 1:05:19 | 2019-02-26 | [link](https://www.twitch.tv/videos/387146231) |
-| 201 | de_oScar | 1:06:09 | 2021-07-16 | [link](https://www.youtube.com/watch?v=erITQTv1Cm4) |
-| 202 | Drako93 | 1:06:24 | 2019-08-11 | [link](https://www.youtube.com/watch?v=E8J-xkIUfqQ&t=7s) |
-| 203 | Picante | 1:06:39 | 2019-11-07 | [link](https://www.twitch.tv/videos/507370164) |
-| 204 | Luvbaseball58 | 1:07:06 | 2018-08-17 | [link](https://youtu.be/Kl6TDxSBKZ0) |
-| 205 | CurtsNewBrand | 1:08:02 | 2022-02-12 | [link](https://www.twitch.tv/videos/1296316296) |
+| 201 | CurtsNewBrand | 1:05:51 | 2022-02-20 | [link](https://www.twitch.tv/videos/1304775275) |
+| 202 | de_oScar | 1:06:09 | 2021-07-16 | [link](https://www.youtube.com/watch?v=erITQTv1Cm4) |
+| 203 | Drako93 | 1:06:24 | 2019-08-11 | [link](https://www.youtube.com/watch?v=E8J-xkIUfqQ&t=7s) |
+| 204 | Picante | 1:06:39 | 2019-11-07 | [link](https://www.twitch.tv/videos/507370164) |
+| 205 | Luvbaseball58 | 1:07:06 | 2018-08-17 | [link](https://youtu.be/Kl6TDxSBKZ0) |
 | 206 | LarviStar | 1:08:14 | 2018-12-08 | [link](https://youtu.be/qfah1XcHFlY) |
 | 207 | tmyoukai | 1:08:20 | 2020-07-20 | [link](https://www.twitch.tv/videos/686071690) |
 | 208 | Chrisplayer | 1:08:34 | 2018-11-03 | [link](https://www.youtube.com/watch?v=3TC91Ixine8) |

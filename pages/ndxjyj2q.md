@@ -139,8 +139,8 @@ categories: speedrun
 | 130 | mrpickaxe | 0:11:49 | 2020-09-25 | [link](https://youtu.be/gr8V3sIwfPQ) |
 | 130 | lackattack | 0:11:49 | 2016-11-05 | [link](https://www.twitch.tv/lackattack24/v/99640921) |
 | 130 | Jhugomega | 0:11:49 | 2017-07-03 | [link](https://youtu.be/e5rFgk2ea2Q) |
-| 133 | SpicyChickenSpiciBoi | 0:11:50 | 2022-02-18 | [link](https://youtu.be/aLj79anDqe8) |
 | 133 | Espo_ | 0:11:50 | 2020-10-28 | [link](https://www.twitch.tv/videos/784520836) |
+| 133 | SpicyChickenSpiciBoi | 0:11:50 | 2022-02-18 | [link](https://youtu.be/aLj79anDqe8) |
 | 135 | xenkaroshi | 0:11:51 | 2019-02-27 | [link](https://www.youtube.com/watch?v=4Iu4bVJdlz4) |
 | 136 | loganthepredator | 0:11:52 | 2021-04-04 | [link](https://www.youtube.com/watch?v=z1yKjQo1QoY&ab_channel=LoganThePredator) |
 | 137 | aramusbelmont | 0:11:53 | 2021-04-03 | [link](https://www.twitch.tv/videos/975490148) |
