@@ -70,8 +70,8 @@ categories: speedrun
 | 61 | esmo88 | 0:53:59 | 2020-02-01 | [link](https://www.twitch.tv/videos/545533125) |
 | 62 | Chelney | 0:54:01 | 2016-02-28 | [link](http://www.twitch.tv/chelney1/v/51413068) |
 | 63 | helfmyselp | 0:54:07 | 2021-12-01 | [link](https://www.youtube.com/watch?v=kLOp9f9TZbI) |
-| 64 | zyzex_remix | 0:54:10 | 2020-05-22 | [link](https://www.twitch.tv/videos/629130264) |
 | 64 | budzyRNG | 0:54:10 | 2022-02-22 | [link](https://www.twitch.tv/videos/1306752774) |
+| 64 | zyzex_remix | 0:54:10 | 2020-05-22 | [link](https://www.twitch.tv/videos/629130264) |
 | 66 | highflyer28 | 0:54:12 | 2022-01-09 | [link](https://www.twitch.tv/videos/1258303972) |
 | 67 | Sakaali | 0:54:17 | 2022-01-02 | [link](https://www.twitch.tv/videos/1250845460) |
 | 68 | J_Ephemeral | 0:54:21 | 2021-04-04 | [link](https://www.youtube.com/watch?v=7SDCi3r30GM) |
