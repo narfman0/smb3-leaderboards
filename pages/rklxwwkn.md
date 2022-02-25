@@ -44,10 +44,10 @@ categories: speedrun
 | 34 | Track1 | 0:52:46 | 2022-02-06 | [link](https://www.youtube.com/watch?v=PDUmlKBv15s) |
 | 36 | TheLostLlama | 0:52:47 | 2016-02-03 | [link](http://www.twitch.tv/thelostllama/v/40275470) |
 | 37 | uninerd | 0:52:49 | 2021-06-21 | [link](https://www.twitch.tv/videos/1063252825) |
-| 38 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
-| 39 | AdamFerrari64 | 0:52:57 | 2022-02-17 | [link](https://www.twitch.tv/videos/1304832186) |
-| 39 | nissault | 0:52:57 | 2021-06-17 | [link](https://www.twitch.tv/videos/1059713933) |
-| 41 | GungeonLover | 0:53:09 | 2021-07-12 | [link](https://www.twitch.tv/videos/1084276488) |
+| 38 | GungeonLover | 0:52:50 | 2022-02-24 | [link](https://www.twitch.tv/videos/1407131122) |
+| 39 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
+| 40 | AdamFerrari64 | 0:52:57 | 2022-02-17 | [link](https://www.twitch.tv/videos/1304832186) |
+| 40 | nissault | 0:52:57 | 2021-06-17 | [link](https://www.twitch.tv/videos/1059713933) |
 | 42 | Aweglib | 0:53:10 | 2017-06-09 | [link](https://www.twitch.tv/videos/150756657) |
 | 43 | Japezu | 0:53:14 | 2022-01-16 | [link](https://www.twitch.tv/videos/1265121259) |
 | 43 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |

@@ -73,11 +73,11 @@ categories: speedrun
 | 61 | bjw | 0:03:40 | 2017-09-10 | [link](https://www.twitch.tv/videos/173691599) |
 | 61 | Lul_ecks_dee | 0:03:40 | 2018-06-16 | [link](https://www.twitch.tv/videos/273828634) |
 | 66 | Rh4kor | 0:03:41 | 2021-09-28 | [link](https://www.youtube.com/watch?v=jmWHkwRsXdM) |
-| 67 | ImDangerous20 | 0:03:43 | 2018-03-29 | [link](https://www.twitch.tv/videos/244103093) |
-| 67 | KarlsGB | 0:03:43 | 2020-04-15 | [link](https://www.youtube.com/watch?v=QGdAFbW1CY0) |
-| 67 | joshuatalato | 0:03:43 | 2021-03-07 | [link](https://www.youtube.com/watch?v=lVtoeIsGmHA) |
-| 67 | BusterMan | 0:03:43 | 2017-12-25 | [link](https://www.twitch.tv/videos/212381887) |
-| 67 | fastatcc | 0:03:43 | 2017-10-07 | [link](https://www.twitch.tv/videos/180741051) |
+| 67 | BusterMan | 0:03:42 | 2022-02-22 | [link](https://www.youtube.com/watch?v=7rlD3_MQxXE) |
+| 68 | ImDangerous20 | 0:03:43 | 2018-03-29 | [link](https://www.twitch.tv/videos/244103093) |
+| 68 | KarlsGB | 0:03:43 | 2020-04-15 | [link](https://www.youtube.com/watch?v=QGdAFbW1CY0) |
+| 68 | joshuatalato | 0:03:43 | 2021-03-07 | [link](https://www.youtube.com/watch?v=lVtoeIsGmHA) |
+| 68 | fastatcc | 0:03:43 | 2017-10-07 | [link](https://www.twitch.tv/videos/180741051) |
 | 72 | Iambennguin | 0:03:44 | 2017-12-06 | [link](https://www.twitch.tv/videos/207225534) |
 | 72 | GreenDeathFlavor | 0:03:44 | 2017-09-10 | [link](https://www.youtube.com/watch?v=voISV8Q0QDc) |
 | 72 | jojoledda | 0:03:44 | 2017-09-06 | [link](https://www.youtube.com/watch?v=oB3SN6RHw9Q) |
