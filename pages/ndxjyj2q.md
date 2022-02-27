@@ -57,10 +57,10 @@ categories: speedrun
 | 48 | DaveLindo | 0:11:05 | 2019-08-15 | [link](https://www.twitch.tv/videos/467866687) |
 | 48 | DenimVest25 | 0:11:05 | 2017-09-05 | [link](https://www.youtube.com/watch?v=a0JNbxNOgG4) |
 | 48 | Baddap1 | 0:11:05 | 2019-03-21 | [link](https://youtu.be/d36TjUJUxdI) |
+| 51 | nissault | 0:11:06 | 2022-02-25 | [link](https://www.twitch.tv/videos/1408134436) |
 | 51 | skyehoppers | 0:11:06 | 2019-08-26 | [link](https://www.youtube.com/watch?v=YD4qYXyfiv0) |
 | 51 | AndrewG | 0:11:06 | 2008-06-30 | [link](https://www.youtube.com/watch?v=GDs08NwIG7I) |
 | 51 | Ezeron | 0:11:06 | 2017-04-28 | [link](https://www.youtube.com/watch?v=gnW1QLHMDps) |
-| 51 | nissault | 0:11:06 | 2022-02-25 | [link](https://www.twitch.tv/videos/1408134436) |
 | 55 | RoyLT | 0:11:07 | 2020-06-09 | [link](https://youtu.be/QYfsNa6dNkM) |
 | 56 | ibuba7 | 0:11:08 | 2019-03-16 | [link](https://www.youtube.com/watch?v=wbWvA6XiNiE) |
 | 57 | EthanRTA | 0:11:09 | 2018-05-15 | [link](https://www.twitch.tv/videos/261783915) |
@@ -260,8 +260,8 @@ categories: speedrun
 | 251 | Ben | 0:13:15 | 2017-10-14 | [link](https://youtu.be/tcd9wxbC2M4) |
 | 252 | NilesMonkey | 0:13:19 | 2022-01-26 | [link](https://www.youtube.com/watch?v=dHPE8mfwX38) |
 | 253 | RosesThorn | 0:13:20 | 2017-04-07 | [link](https://www.youtube.com/watch?v=35X-cwKx2GY) |
-| 253 | GrowingUp8Bit | 0:13:20 | 2020-12-23 | [link](https://www.twitch.tv/videos/848178164) |
 | 253 | LieutenantSwift | 0:13:20 | 2021-05-31 | [link](https://www.youtube.com/watch?v=cYH47Aay1jg) |
+| 253 | GrowingUp8Bit | 0:13:20 | 2020-12-23 | [link](https://www.twitch.tv/videos/848178164) |
 | 256 | Jellyman102 | 0:13:21 | 2016-08-14 | [link](https://www.twitch.tv/jellyman67890/v/83631208) |
 | 256 | ValCauor | 0:13:21 | 2020-06-28 | [link](https://youtu.be/hWW5bvnCVww) |
 | 258 | bmfm | 0:13:22 | 2013-11-05 | [link](http://www.twitch.tv/bmfm/c/3206620) |

@@ -326,11 +326,11 @@ categories: speedrun
 | 317 | Akisto | 0:04:20 | 2015-06-05 | [link](https://www.youtube.com/watch?v=cOUZUYgoFWs) |
 | 317 | Ceriel | 0:04:20 | 2017-12-08 | [link](https://www.twitch.tv/videos/207820479) |
 | 317 | pacoistaco459 | 0:04:20 | 2019-06-29 | [link](https://youtu.be/9CoiLLp2rh4) |
-| 317 | Jean20B | 0:04:20 | 2018-09-19 | [link](https://youtu.be/vTrN4I-30Ac) |
 | 317 | Flamedemon612 | 0:04:20 | 2020-08-20 | [link](https://youtu.be/7uIrn_9-iAY) |
 | 317 | Elohzee | 0:04:20 | 2021-03-21 | [link](https://youtu.be/dxNPQ-o0FXQ) |
 | 317 | 456Productions_YT | 0:04:20 | 2021-05-21 | [link](https://www.youtube.com/watch?v=wIjaWEixbsM) |
 | 317 | JuanSantamaria | 0:04:20 | 2021-07-11 | [link](https://www.twitch.tv/zencl4/v/1083277816?sr=a&t=184s) |
+| 317 | Jean20B | 0:04:20 | 2018-09-19 | [link](https://youtu.be/vTrN4I-30Ac) |
 | 317 | Falling_Tacos | 0:04:20 | 2022-01-16 | [link](https://www.twitch.tv/videos/1266208515) |
 | 317 | pahchi | 0:04:20 | 2017-09-11 | [link](https://www.twitch.tv/videos/173933796) |
 | 317 | Claire | 0:04:20 | 2019-10-20 | [link](https://www.twitch.tv/videos/497807984) |
