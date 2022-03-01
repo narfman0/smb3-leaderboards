@@ -234,8 +234,8 @@ categories: speedrun
 | 225 | YoBGS | 0:12:50 | 2019-05-23 | [link](https://www.twitch.tv/videos/429200561) |
 | 226 | Oakman978 | 0:12:52 | 2018-03-15 | [link](https://www.youtube.com/watch?v=sZWnUZR3fVo) |
 | 227 | ahoychinesefood | 0:12:53 | 2017-03-30 | [link](https://www.twitch.tv/videos/132184785) |
-| 228 | Cad225 | 0:12:54 | 2018-12-27 | [link](https://www.youtube.com/watch?v=zYv6RdQBZRY) |
 | 228 | NilesMonkey | 0:12:54 | 2022-02-05 | [link](https://www.youtube.com/watch?v=fg60uJxWas8) |
+| 228 | Cad225 | 0:12:54 | 2018-12-27 | [link](https://www.youtube.com/watch?v=zYv6RdQBZRY) |
 | 230 | MDragmire | 0:12:56 | 2018-02-01 | [link](https://youtu.be/7TIHxQ7TCOo) |
 | 231 | RDTUniverse | 0:12:59 | 2019-01-13 | [link](https://www.twitch.tv/videos/363599737) |
 | 231 | unrealKosh | 0:12:59 | 2020-11-04 | [link](https://www.youtube.com/watch?v=iRXKUs-ywOs) |
