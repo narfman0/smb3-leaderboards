@@ -183,6 +183,7 @@ categories: speedrun
 | 164 | LeddaLawrence | 0:03:57 | 2016-09-19 | [link](https://www.youtube.com/watch?v=krKg45_ueH0) |
 | 164 | TanAyonM | 0:03:57 | 2019-10-12 | [link](https://www.youtube.com/watch?v=2CR9jlfFeK8&t=241s) |
 | 164 | CratiX14 | 0:03:57 | 2020-09-06 | [link](https://youtu.be/OyoIxN5IcfE) |
+| 177 | TheBaconator108 | 0:03:58 | 2022-03-03 | [link](https://www.youtube.com/watch?v=mrQ2gs4X2OA) |
 | 177 | Eichi | 0:03:58 | 2017-02-21 | [link](https://www.youtube.com/watch?v=udH2JtOA3GY) |
 | 177 | Tmitt7 | 0:03:58 | 2017-11-04 | [link](https://www.youtube.com/watch?v=_12jMiqkAMM) |
 | 177 | MelonTheFelon | 0:03:58 | 2018-09-29 | [link](https://www.twitch.tv/videos/316331417) |
@@ -198,7 +199,6 @@ categories: speedrun
 | 177 | Kosmic | 0:03:58 | 2017-08-29 | [link](https://www.twitch.tv/videos/171132847) |
 | 177 | aidenlt | 0:03:58 | 2019-10-22 | [link](https://www.youtube.com/watch?v=KgeG1twsE48) |
 | 177 | Karyno | 0:03:58 | 2017-05-13 | [link](https://www.youtube.com/watch?v=JvjeloAySEY) |
-| 177 | TheBaconator108 | 0:03:58 | 2022-03-03 | [link](https://www.youtube.com/watch?v=mrQ2gs4X2OA) |
 | 193 | IluvMario | 0:03:59 | 2014-05-21 | [link](https://www.twitch.tv/iluvmario/v/49223345) |
 | 193 | Sofa1 | 0:03:59 | 2018-02-02 | [link](https://www.twitch.tv/videos/224762764) |
 | 193 | TheGoodGoomba | 0:03:59 | 2020-10-25 | [link](https://youtu.be/QHp6RWDZKJo) |
@@ -263,10 +263,10 @@ categories: speedrun
 | 253 | DanDizz | 0:04:07 | 2019-05-16 | [link](https://youtu.be/m5QypThYY3U) |
 | 253 | Clementox_Liano | 0:04:07 | 2018-11-24 | [link](https://youtu.be/7f2VLtpt3qc) |
 | 253 | tchfunkta | 0:04:07 | 2017-04-19 | [link](https://youtu.be/iQZ3f5Z1goI) |
-| 257 | antodur | 0:04:08 | 2018-03-04 | [link](https://youtu.be/847zQgQMelA) |
 | 257 | Jama7301 | 0:04:08 | 2016-10-04 | [link](https://www.twitch.tv/jama7301/v/92990429) |
 | 257 | LordHVetinari | 0:04:08 | 2018-12-24 | [link](https://youtu.be/MLb-W8CPt1E) |
 | 257 | DrgnRAGE | 0:04:08 | 2017-03-26 | [link](https://www.youtube.com/watch?v=ekgbcKiQypk) |
+| 257 | antodur | 0:04:08 | 2018-03-04 | [link](https://youtu.be/847zQgQMelA) |
 | 257 | Odme_ | 0:04:08 | 2022-02-22 | [link](https://www.twitch.tv/videos/1306646261) |
 | 257 | Saturnb | 0:04:08 | 2021-03-30 | [link](https://youtu.be/Wx174Ydh8wY) |
 | 257 | Thole | 0:04:08 | 2022-02-25 | [link](https://youtu.be/0CNXZ8-7zzg) |
