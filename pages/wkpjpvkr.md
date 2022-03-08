@@ -183,7 +183,6 @@ categories: speedrun
 | 164 | LeddaLawrence | 0:03:57 | 2016-09-19 | [link](https://www.youtube.com/watch?v=krKg45_ueH0) |
 | 164 | TanAyonM | 0:03:57 | 2019-10-12 | [link](https://www.youtube.com/watch?v=2CR9jlfFeK8&t=241s) |
 | 164 | CratiX14 | 0:03:57 | 2020-09-06 | [link](https://youtu.be/OyoIxN5IcfE) |
-| 177 | TheBaconator108 | 0:03:58 | 2022-03-03 | [link](https://www.youtube.com/watch?v=mrQ2gs4X2OA) |
 | 177 | Eichi | 0:03:58 | 2017-02-21 | [link](https://www.youtube.com/watch?v=udH2JtOA3GY) |
 | 177 | Tmitt7 | 0:03:58 | 2017-11-04 | [link](https://www.youtube.com/watch?v=_12jMiqkAMM) |
 | 177 | MelonTheFelon | 0:03:58 | 2018-09-29 | [link](https://www.twitch.tv/videos/316331417) |
@@ -192,6 +191,7 @@ categories: speedrun
 | 177 | DogDeeDer | 0:03:58 | 2021-08-26 | [link](https://www.youtube.com/watch?v=17Rn6se7A0Q) |
 | 177 | SAOkyy | 0:03:58 | 2021-01-04 | [link](https://www.youtube.com/watch?v=miY3UoLN4Ng) |
 | 177 | stewie_cartman | 0:03:58 | 2021-05-14 | [link](https://www.twitch.tv/videos/1023074699) |
+| 177 | TheBaconator108 | 0:03:58 | 2022-03-03 | [link](https://www.youtube.com/watch?v=mrQ2gs4X2OA) |
 | 177 | miletic_ivan | 0:03:58 | 2022-01-17 | [link](https://www.youtube.com/watch?v=qSk_nPABXtU) |
 | 177 | Sc0tty047 | 0:03:58 | 2019-09-03 | [link](https://www.youtube.com/watch?v=m5zVHdUIKDk&t=11s) |
 | 177 | SuperMariLo | 0:03:58 | 2019-02-21 | [link](https://youtu.be/TK_DDOMJVCU) |
