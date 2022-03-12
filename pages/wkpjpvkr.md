@@ -435,5 +435,6 @@ categories: speedrun
 | 426 | jgmadman | 0:05:21 | 2017-02-10 | [link](https://www.twitch.tv/videos/121022751) |
 | 427 | tryhardsnipehrd | 0:05:24 | 2020-06-03 | [link](https://youtu.be/1gbwIpsmaaQ) |
 | 428 | Billybob157 | 0:05:30 | 2022-01-28 | [link](https://youtu.be/0qKhXQ0cNR0) |
-| 429 | dom | 0:06:23 | 2021-04-14 | [link](https://www.twitch.tv/videos/985126025?filter=highlights&sort=time) |
-| 430 | 100th_Coin | 0:07:02 | 2021-05-16 | [link](https://www.youtube.com/watch?v=9uZnuX-jnl0) |
+| 429 | afmstreams | 0:05:39 | 2022-03-10 | [link](https://www.twitch.tv/videos/1422017064) |
+| 430 | dom | 0:06:23 | 2021-04-14 | [link](https://www.twitch.tv/videos/985126025?filter=highlights&sort=time) |
+| 431 | 100th_Coin | 0:07:02 | 2021-05-16 | [link](https://www.youtube.com/watch?v=9uZnuX-jnl0) |
