@@ -52,9 +52,9 @@ categories: speedrun
 | 43 | Japezu | 0:53:14 | 2022-01-16 | [link](https://www.twitch.tv/videos/1265121259) |
 | 43 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
 | 45 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
-| 46 | HUmanMustard | 0:53:23 | 2021-08-30 | [link](https://www.twitch.tv/videos/1133806164) |
-| 47 | Mars02 | 0:53:24 | 2020-09-14 | [link](https://www.youtube.com/watch?v=kqvEqxN6-Kk) |
-| 47 | Doomtap | 0:53:24 | 2022-02-27 | [link](https://www.twitch.tv/videos/1410036529) |
+| 46 | Doomtap | 0:53:22 | 2022-03-16 | [link](https://www.twitch.tv/videos/1427468055) |
+| 47 | HUmanMustard | 0:53:23 | 2021-08-30 | [link](https://www.twitch.tv/videos/1133806164) |
+| 48 | Mars02 | 0:53:24 | 2020-09-14 | [link](https://www.youtube.com/watch?v=kqvEqxN6-Kk) |
 | 49 | duckfist | 0:53:30 | 2014-04-27 | [link](https://archive.org/details/duckfist_smb3warpless_53-50) |
 | 49 | Baddap1 | 0:53:30 | 2019-03-25 | [link](https://youtu.be/Yh2kdoX0e1g) |
 | 51 | AliceHK8 | 0:53:31 | 2021-07-31 | [link](https://www.twitch.tv/videos/1103911579) |
@@ -92,8 +92,8 @@ categories: speedrun
 | 83 | Dr_TrashPanda | 0:54:49 | 2021-03-10 | [link](https://www.twitch.tv/videos/944897352) |
 | 84 | Grayskull83 | 0:54:59 | 2021-12-18 | [link](https://www.twitch.tv/videos/1237348243) |
 | 84 | scalpel | 0:54:59 | 2021-07-31 | [link](https://youtu.be/TVLrnpX5u-s) |
-| 86 | SpicyChickenSpiciBoi | 0:55:01 | 2022-03-14 | [link](https://youtu.be/6hG70VsOF8o) |
 | 86 | xeroplanes | 0:55:01 | 2020-06-22 | [link](https://www.twitch.tv/videos/658458987) |
+| 86 | SpicyChickenSpiciBoi | 0:55:01 | 2022-03-14 | [link](https://youtu.be/6hG70VsOF8o) |
 | 88 | Akisto | 0:55:08 | 2015-06-05 | [link](https://www.youtube.com/watch?v=cU8SEb1i7yg) |
 | 89 | SuperSonic | 0:55:09 | 2022-01-11 | [link](https://youtu.be/8GwTtth0jjY) |
 | 90 | denkiya | 0:55:10 | 2021-12-04 | [link](https://www.youtube.com/watch?v=CAx9rBuogbE) |
