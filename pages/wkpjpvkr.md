@@ -426,9 +426,9 @@ categories: speedrun
 | 415 | seungoh1 | 0:04:52 | 2021-03-22 | [link](https://youtu.be/UsxZSXjzTVA) |
 | 418 | Gumbraise | 0:04:54 | 2018-02-28 | [link](https://youtu.be/N9gNeL9uXGg) |
 | 419 | Louis-MathisRako | 0:04:55 | 2018-01-22 | [link](https://youtu.be/GSpIbhiMBqg) |
-| 420 | jonathanirvings | 0:05:00 | 2022-03-18 | [link](https://www.youtube.com/watch?v=BsKl1uPIhhw) |
 | 420 | scottzirra | 0:05:00 | 2017-04-05 | [link](https://www.youtube.com/watch?v=DCt8vVoPZjw) |
 | 420 | VITA_retro | 0:05:00 | 2021-01-25 | [link](https://youtu.be/X1ajHPIgucU) |
+| 420 | jonathanirvings | 0:05:00 | 2022-03-18 | [link](https://www.youtube.com/watch?v=BsKl1uPIhhw) |
 | 423 | Leggs | 0:05:02 | 2021-04-27 | [link](https://youtu.be/FLW9stUSjic) |
 | 424 | Powergamerpro | 0:05:07 | 2019-08-05 | [link](https://youtu.be/NjOVU5fnGWs) |
 | 425 | louiskanak | 0:05:09 | 2020-05-24 | [link](https://www.youtube.com/watch?v=Q_N88wqO4OI) |
