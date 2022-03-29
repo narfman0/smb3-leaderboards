@@ -130,9 +130,9 @@ categories: speedrun
 | 121 | iateyoursenpai | 0:11:44 | 2017-11-23 | [link](https://youtu.be/9luhmfDnEUs) |
 | 121 | ZeeGee_ | 0:11:44 | 2020-02-19 | [link](https://www.twitch.tv/videos/554344924) |
 | 121 | chickenfish4 | 0:11:44 | 2017-05-09 | [link](https://youtu.be/hgTQ4JuZGTE) |
-| 124 | jahaley64 | 0:11:46 | 2022-03-24 | [link](https://www.twitch.tv/videos/1435743701) |
 | 124 | TheTerrificTracy | 0:11:46 | 2021-02-16 | [link](https://youtu.be/1voAI4JhuoQ) |
 | 124 | WhicheverMirror | 0:11:46 | 2021-08-25 | [link](https://www.youtube.com/watch?v=_8Fcbyc27Fc) |
+| 124 | jahaley64 | 0:11:46 | 2022-03-24 | [link](https://www.twitch.tv/videos/1435743701) |
 | 127 | OnlyMoneyNotTalent | 0:11:47 | 2020-12-09 | [link](https://www.youtube.com/watch?v=HSQEqJewU_8) |
 | 128 | proa007 | 0:11:48 | 2019-12-31 | [link](https://www.twitch.tv/videos/529026133) |
 | 128 | bowtie1320 | 0:11:48 | 2021-02-13 | [link](https://www.twitch.tv/videos/913315628) |
