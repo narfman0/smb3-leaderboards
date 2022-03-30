@@ -409,10 +409,10 @@ categories: speedrun
 | 400 | yaacovmiguel | 0:20:18 | 2018-11-03 | [link](https://youtu.be/LIjEUPD2t6I) |
 | 401 | AgentKoolaid | 0:21:00 | 2017-05-08 | [link](https://www.twitch.tv/videos/140950247) |
 | 402 | Punchin_Treez | 0:21:29 | 2015-08-29 | [link](https://www.youtube.com/watch?v=Q0I35dNfKLE) |
-| 403 | d4rk0men | 0:23:03 | 2016-11-11 | [link](https://www.twitch.tv/zshakespeare/v/100324522) |
-| 404 | SamuelStokesMusic | 0:24:55 | 2021-01-04 | [link](https://youtu.be/tyNckQ9OzCg) |
-| 405 | kabAudio | 0:27:07 | 2022-02-06 | [link](https://www.twitch.tv/videos/1289635912) |
-| 406 | ScarletIbis | 0:27:29 | 2022-02-01 | [link](https://youtu.be/9JoPciGnJgw) |
+| 403 | ScarletIbis | 0:21:46 | 2022-03-29 | [link](https://www.youtube.com/watch?v=0doYH7x7jlM) |
+| 404 | d4rk0men | 0:23:03 | 2016-11-11 | [link](https://www.twitch.tv/zshakespeare/v/100324522) |
+| 405 | SamuelStokesMusic | 0:24:55 | 2021-01-04 | [link](https://youtu.be/tyNckQ9OzCg) |
+| 406 | kabAudio | 0:27:07 | 2022-02-06 | [link](https://www.twitch.tv/videos/1289635912) |
 | 407 | mammaru339 | 0:30:09 | 2019-03-18 | [link](https://www.twitch.tv/videos/398919815) |
 | 408 | derrykyle | 0:34:05 | 2019-09-01 | [link](https://www.twitch.tv/videos/475477284) |
 | 409 | Drumboardist | 0:40:39 | 2019-03-02 | [link](https://www.twitch.tv/videos/393869021) |
