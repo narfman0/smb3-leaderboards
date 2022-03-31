@@ -38,8 +38,8 @@ categories: speedrun
 | 29 | Katti | 0:52:31 | 2021-11-24 | [link](https://www.twitch.tv/videos/1214847563) |
 | 29 | TrueHyperMario | 0:52:31 | 2021-12-01 | [link](https://www.twitch.tv/videos/1220478627) |
 | 31 | jtknott | 0:52:36 | 2020-12-29 | [link](https://www.youtube.com/watch?v=mFVaOOPTA9A) |
-| 32 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 32 | Track1 | 0:52:44 | 2022-03-29 | [link](https://www.youtube.com/watch?v=bsY_4f8dx24) |
+| 32 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 34 | Doomtap | 0:52:45 | 2022-03-18 | [link](https://www.twitch.tv/videos/1429529667) |
 | 34 | brocis420 | 0:52:45 | 2021-03-13 | [link](https://www.twitch.tv/videos/948528837) |
 | 36 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
@@ -124,8 +124,8 @@ categories: speedrun
 | 115 | Vobard | 0:56:40 | 2016-02-14 | [link](http://www.twitch.tv/vobard/v/36880592) |
 | 116 | Spongeday | 0:56:41 | 2022-03-20 | [link](https://www.twitch.tv/videos/1431833737) |
 | 117 | beardylocks | 0:56:45 | 2022-03-09 | [link](https://youtu.be/c3At-0_3-4E) |
-| 118 | KLM1187 | 0:56:47 | 2020-07-06 | [link](https://www.twitch.tv/videos/671888605) |
 | 118 | chinesehulk | 0:56:47 | 2022-03-30 | [link](https://www.twitch.tv/videos/1440841634) |
+| 118 | KLM1187 | 0:56:47 | 2020-07-06 | [link](https://www.twitch.tv/videos/671888605) |
 | 120 | iateyoursenpai | 0:56:51 | 2017-11-26 | [link](https://youtu.be/52yimTTPhjs) |
 | 121 | bluhell | 0:56:53 | 2017-08-05 | [link](https://youtu.be/ju4rHgWTCw4) |
 | 122 | Kofca | 0:56:54 | 2017-07-12 | [link](https://www.twitch.tv/videos/158446470) |
