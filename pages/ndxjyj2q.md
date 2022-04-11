@@ -200,9 +200,9 @@ categories: speedrun
 | 191 | cureabees | 0:12:24 | 2019-03-09 | [link](https://www.youtube.com/watch?v=o4HUMRlOzpg) |
 | 191 | austin_swish16 | 0:12:24 | 2022-04-05 | [link](https://www.youtube.com/watch?v=EWOYZZJo6j4) |
 | 193 | r3dninjajosh | 0:12:25 | 2016-12-06 | [link](https://www.twitch.tv/r3dninjajosh/v/105913325) |
-| 194 | AaronTruitt | 0:12:26 | 2022-04-08 | [link](https://www.twitch.tv/videos/1450316515) |
 | 194 | tylerthomson84 | 0:12:26 | 2017-03-27 | [link](https://www.youtube.com/watch?v=EMIs_OhaIuE) |
 | 194 | kirbocyhn | 0:12:26 | 2019-02-17 | [link](https://www.twitch.tv/videos/382485932) |
+| 194 | AaronTruitt | 0:12:26 | 2022-04-08 | [link](https://www.twitch.tv/videos/1450316515) |
 | 197 | PeekingBoo | 0:12:29 | 2018-11-26 | [link](https://www.twitch.tv/videos/340945692) |
 | 198 | robbyk | 0:12:30 | 2019-01-02 | [link](https://www.youtube.com/watch?v=6h4_PkIWgAc) |
 | 198 | chadilak | 0:12:30 | 2018-07-11 | [link](https://www.youtube.com/watch?v=5x8wH-dj0xI) |
