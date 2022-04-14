@@ -263,8 +263,8 @@ categories: speedrun
 | 249 | DylanClarkWebb | 0:04:06 | 2018-02-15 | [link](https://youtu.be/WhjzZ0OnnF4) |
 | 249 | Unstea | 0:04:06 | 2016-11-27 | [link](https://www.youtube.com/watch?v=_i-YBdoeuJQ&feature=youtu.be) |
 | 249 | Jellyman102 | 0:04:06 | 2016-07-16 | [link](https://secure.twitch.tv/jellyman67890/v/78424660) |
-| 257 | defybydefault | 0:04:07 | 2022-03-25 | [link](https://www.twitch.tv/videos/1435999373) |
 | 257 | LightWers_ | 0:04:07 | 2018-02-14 | [link](https://www.youtube.com/watch?v=x1W6vKjQmiI) |
+| 257 | defybydefault | 0:04:07 | 2022-03-25 | [link](https://www.twitch.tv/videos/1435999373) |
 | 257 | Gumbraise | 0:04:07 | 2022-03-19 | [link](https://www.twitch.tv/videos/1430752952) |
 | 257 | DanDizz | 0:04:07 | 2019-05-16 | [link](https://youtu.be/m5QypThYY3U) |
 | 257 | Clementox_Liano | 0:04:07 | 2018-11-24 | [link](https://youtu.be/7f2VLtpt3qc) |
