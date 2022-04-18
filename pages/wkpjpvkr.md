@@ -278,12 +278,12 @@ categories: speedrun
 | 263 | Thole | 0:04:08 | 2022-02-25 | [link](https://youtu.be/0CNXZ8-7zzg) |
 | 263 | Ulrisse | 0:04:08 | 2018-02-23 | [link](https://www.youtube.com/watch?v=3D8Oz4tuvbI&feature=youtu.be) |
 | 263 | Typhlo | 0:04:08 | 2018-07-17 | [link](https://www.youtube.com/watch?v=z7CDGAnbrfk) |
-| 272 | SAMUR | 0:04:09 | 2022-04-12 | [link](https://youtu.be/mIZh09PUw64) |
 | 272 | bmoncayito | 0:04:09 | 2020-06-25 | [link](https://www.youtube.com/watch?v=6iRI_Y9Ngv0) |
 | 272 | __LoS_ | 0:04:09 | 2018-06-25 | [link](https://youtu.be/HJc8MROZUV0) |
 | 272 | klebdotio | 0:04:09 | 2018-07-15 | [link](https://youtu.be/oG-zlc1hTVQ) |
 | 272 | sdmx | 0:04:09 | 2018-11-17 | [link](https://www.youtube.com/watch?v=Aut2GUbHtGo) |
 | 272 | Yosch | 0:04:09 | 2021-03-27 | [link](https://www.youtube.com/watch?v=sup42wDHXU4) |
+| 272 | SAMUR | 0:04:09 | 2022-04-12 | [link](https://youtu.be/mIZh09PUw64) |
 | 272 | Lipe_Berserker | 0:04:09 | 2017-02-23 | [link](https://www.youtube.com/watch?v=HytnSGqrous) |
 | 272 | Darkmariosan | 0:04:09 | 2018-01-28 | [link](https://www.youtube.com/watch?v=WA2avBuWtpk) |
 | 280 | Thelxinoe | 0:04:10 | 2020-09-06 | [link](https://www.twitch.tv/videos/730836076) |
