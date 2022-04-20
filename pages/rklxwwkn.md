@@ -19,11 +19,11 @@ categories: speedrun
 | 10 | ZoneVD | 0:51:19 | 2021-04-22 | [link](https://www.twitch.tv/videos/995985992) |
 | 11 | Ellonija | 0:51:21 | 2017-05-24 | [link](https://www.twitch.tv/videos/146750506) |
 | 12 | Scarface | 0:51:26 | 2022-04-04 | [link](https://youtu.be/rxJoeyjzlDA) |
+| 13 | thebagler5 | 0:51:27 | 2022-04-18 | [link](https://www.twitch.tv/videos/1460488428) |
 | 13 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
-| 14 | yatokami9 | 0:51:28 | 2022-04-02 | [link](https://www.youtube.com/watch?v=E3lUxI6S4Qc&ab_channel=YatoKami) |
-| 15 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
-| 16 | narfman0 | 0:51:39 | 2021-06-17 | [link](https://www.twitch.tv/videos/1059731084) |
-| 17 | thebagler5 | 0:51:41 | 2022-04-16 | [link](https://www.twitch.tv/videos/1458265398) |
+| 15 | yatokami9 | 0:51:28 | 2022-04-02 | [link](https://www.youtube.com/watch?v=E3lUxI6S4Qc&ab_channel=YatoKami) |
+| 16 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
+| 17 | narfman0 | 0:51:39 | 2021-06-17 | [link](https://www.twitch.tv/videos/1059731084) |
 | 18 | stewie_cartman | 0:51:50 | 2022-04-11 | [link](https://www.twitch.tv/videos/1453415214) |
 | 19 | WhenChukAttacks | 0:51:51 | 2018-03-29 | [link](https://www.twitch.tv/videos/244391585) |
 | 20 | Outside_Lutz | 0:51:53 | 2014-03-23 | [link](https://www.youtube.com/watch?v=IjSx5GHtB78) |
