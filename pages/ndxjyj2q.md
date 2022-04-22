@@ -239,8 +239,8 @@ categories: speedrun
 | 230 | StrandedKnight | 0:12:49 | 2021-07-27 | [link](https://www.youtube.com/watch?v=f1bUFD4ThkI) |
 | 230 | Luvbaseball58 | 0:12:49 | 2016-12-01 | [link](https://m.youtube.com/watch?v=axhZJ7jRdI4) |
 | 232 | YoBGS | 0:12:50 | 2019-05-23 | [link](https://www.twitch.tv/videos/429200561) |
-| 233 | Oakman978 | 0:12:52 | 2018-03-15 | [link](https://www.youtube.com/watch?v=sZWnUZR3fVo) |
 | 233 | k1ngk0opa | 0:12:52 | 2022-04-20 | [link](https://youtu.be/sdaoljDz9KE) |
+| 233 | Oakman978 | 0:12:52 | 2018-03-15 | [link](https://www.youtube.com/watch?v=sZWnUZR3fVo) |
 | 235 | ahoychinesefood | 0:12:53 | 2017-03-30 | [link](https://www.twitch.tv/videos/132184785) |
 | 236 | NilesMonkey | 0:12:54 | 2022-02-05 | [link](https://www.youtube.com/watch?v=fg60uJxWas8) |
 | 236 | Cad225 | 0:12:54 | 2018-12-27 | [link](https://www.youtube.com/watch?v=zYv6RdQBZRY) |
