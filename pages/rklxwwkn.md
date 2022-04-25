@@ -13,8 +13,8 @@ categories: speedrun
 | 4 | maibaRTA | 0:50:57.083000 | 2021-07-22 | [link](https://www.twitch.tv/videos/1095656104) |
 | 5 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
 | 6 | TEEX88 | 0:51:02 | 2022-03-20 | [link](https://www.twitch.tv/videos/1431820906) |
-| 7 | Lui | 0:51:12.550000 | 2022-03-27 | [link](https://youtu.be/soMuKQfoYOM) |
-| 8 | Furopen | 0:51:12.783000 | 2021-06-26 | [link](https://youtu.be/B4EwgWgGgg8) |
+| 7 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
+| 8 | Lui | 0:51:12.550000 | 2022-03-27 | [link](https://youtu.be/soMuKQfoYOM) |
 | 9 | IluvMario | 0:51:17 | 2018-04-09 | [link](https://www.twitch.tv/videos/248583120) |
 | 10 | ZoneVD | 0:51:19 | 2021-04-22 | [link](https://www.twitch.tv/videos/995985992) |
 | 11 | Ellonija | 0:51:21 | 2017-05-24 | [link](https://www.twitch.tv/videos/146750506) |
