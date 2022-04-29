@@ -119,9 +119,9 @@ categories: speedrun
 | 104 | TEEX88 | 0:03:50 | 2019-03-19 | [link](https://www.twitch.tv/videos/397806515) |
 | 111 | dubiousdinobot | 0:03:51 | 2020-08-06 | [link](https://www.twitch.tv/videos/702129272) |
 | 111 | NathanAlmighty | 0:03:51 | 2017-10-23 | [link](https://www.youtube.com/watch?v=pAvdf5a677k&feature=youtu.be) |
-| 111 | HarrisonCheng | 0:03:51 | 2022-04-15 | [link](https://youtu.be/zPdtbYwq6Ss) |
 | 111 | Mrvic | 0:03:51 | 2020-10-27 | [link](https://youtu.be/s7yJjpPaRaA) |
 | 111 | Hmw1337 | 0:03:51 | 2018-11-23 | [link](https://www.twitch.tv/videos/339779040) |
+| 111 | HarrisonCheng | 0:03:51 | 2022-04-15 | [link](https://youtu.be/zPdtbYwq6Ss) |
 | 111 | Supermariobruh | 0:03:51 | 2022-03-23 | [link](https://youtu.be/8IZJQcCRh6Y) |
 | 111 | DeadmanPR | 0:03:51 | 2020-12-20 | [link](https://www.twitch.tv/videos/844504796) |
 | 111 | DelTaz | 0:03:51 | 2016-12-14 | [link](https://www.youtube.com/watch?v=1xJ5dhsxtyk&feature=youtu.be) |
