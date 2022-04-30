@@ -192,11 +192,11 @@ categories: speedrun
 | 183 | itsbeeve | 1:01:39 | 2022-01-30 | [link](https://www.twitch.tv/videos/1281797471) |
 | 184 | riscky | 1:01:50 | 2018-03-30 | [link](https://youtu.be/UEFUtJmqm2U) |
 | 185 | grimlocksoflove | 1:01:54 | 2021-09-14 | [link](https://www.twitch.tv/videos/1148803650) |
-| 186 | DAIKON | 1:02:50 | 2016-09-06 | [link](https://www.twitch.tv/officialdaikon/v/87943522) |
-| 187 | VintageClassicGamer | 1:02:54 | 2020-04-09 | [link](https://www.twitch.tv/videos/587930656) |
-| 187 | extyman | 1:02:54 | 2018-04-18 | [link](https://www.youtube.com/watch?v=OP1USSOZXSo) |
-| 189 | Justinmetal | 1:03:24 | 2021-10-31 | [link](https://m.youtube.com/watch?v=leZy-Bdfew8&t=2390s) |
-| 190 | rink2022 | 1:03:27 | 2022-04-11 | [link](https://youtu.be/0B1qNkBccto) |
+| 186 | rink2022 | 1:02:24 | 2022-04-30 | [link](https://youtu.be/KlRmwz4FmGk) |
+| 187 | DAIKON | 1:02:50 | 2016-09-06 | [link](https://www.twitch.tv/officialdaikon/v/87943522) |
+| 188 | VintageClassicGamer | 1:02:54 | 2020-04-09 | [link](https://www.twitch.tv/videos/587930656) |
+| 188 | extyman | 1:02:54 | 2018-04-18 | [link](https://www.youtube.com/watch?v=OP1USSOZXSo) |
+| 190 | Justinmetal | 1:03:24 | 2021-10-31 | [link](https://m.youtube.com/watch?v=leZy-Bdfew8&t=2390s) |
 | 191 | SeanRaider | 1:03:31 | 2021-06-20 | [link](https://www.twitch.tv/videos/1057097019) |
 | 192 | barkeep | 1:03:33 | 2020-12-03 | [link](https://www.youtube.com/watch?v=JSaTxeWQyaM&feature=youtu.be) |
 | 193 | SirRocafort | 1:03:49 | 2020-08-02 | [link](https://www.twitch.tv/videos/698493207) |
