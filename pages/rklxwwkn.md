@@ -40,8 +40,8 @@ categories: speedrun
 | 30 | TrueHyperMario | 0:52:31 | 2021-12-01 | [link](https://www.twitch.tv/videos/1220478627) |
 | 30 | Doomtap | 0:52:31 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450856849) |
 | 33 | jtknott | 0:52:36 | 2020-12-29 | [link](https://www.youtube.com/watch?v=mFVaOOPTA9A) |
-| 34 | Track1 | 0:52:44 | 2022-03-29 | [link](https://www.youtube.com/watch?v=bsY_4f8dx24) |
 | 34 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
+| 34 | Track1 | 0:52:44 | 2022-03-29 | [link](https://www.youtube.com/watch?v=bsY_4f8dx24) |
 | 34 | AliceHK8 | 0:52:44 | 2022-04-04 | [link](https://www.twitch.tv/videos/1446185510) |
 | 37 | brocis420 | 0:52:45 | 2021-03-13 | [link](https://www.twitch.tv/videos/948528837) |
 | 38 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
@@ -58,8 +58,8 @@ categories: speedrun
 | 49 | Japezu | 0:53:14 | 2022-01-16 | [link](https://www.twitch.tv/videos/1265121259) |
 | 49 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
 | 51 | highflyer28 | 0:53:15 | 2022-04-04 | [link](https://www.twitch.tv/videos/1446593541) |
-| 52 | Mars02 | 0:53:18 | 2022-05-02 | [link](https://www.youtube.com/watch?v=bi2ZjwM2t9g) |
 | 52 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
+| 52 | Mars02 | 0:53:18 | 2022-05-02 | [link](https://www.youtube.com/watch?v=bi2ZjwM2t9g) |
 | 54 | SpicyChickenSpiciBoi | 0:53:22 | 2022-04-04 | [link](https://youtu.be/Juul4d37OdI) |
 | 55 | HUmanMustard | 0:53:23 | 2021-08-30 | [link](https://www.twitch.tv/videos/1133806164) |
 | 56 | roopert83 | 0:53:25 | 2022-02-12 | [link](https://www.youtube.com/watch?v=Hep_3nc0Xhc) |
@@ -110,8 +110,8 @@ categories: speedrun
 | 101 | CraigSMB3 | 0:55:27 | 2022-04-09 | [link](https://www.twitch.tv/videos/1451129661) |
 | 101 | favoritepie | 0:55:27 | 2021-08-15 | [link](https://www.youtube.com/watch?v=QkaZs3RsUGo) |
 | 101 | Shoryupiff | 0:55:27 | 2016-06-27 | [link](https://www.twitch.tv/shoryupiff/v/74817967) |
-| 104 | Sharchid | 0:55:28 | 2022-04-06 | [link](https://www.twitch.tv/videos/1448176079) |
 | 104 | Jokubotti | 0:55:28 | 2022-03-13 | [link](https://www.twitch.tv/videos/1424466339) |
+| 104 | Sharchid | 0:55:28 | 2022-04-06 | [link](https://www.twitch.tv/videos/1448176079) |
 | 106 | Galatea86 | 0:55:32 | 2021-11-28 | [link](https://www.youtube.com/watch?v=H3mYvG2HfK0&ab_channel=Galatea86) |
 | 107 | Growly87 | 0:55:41 | 2021-03-25 | [link](https://www.twitch.tv/videos/962376915) |
 | 108 | proa007 | 0:55:48 | 2021-01-27 | [link](https://www.twitch.tv/videos/890704690) |
