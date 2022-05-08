@@ -83,10 +83,10 @@ categories: speedrun
 | 74 | Take72 | 0:11:16 | 2020-03-14 | [link](https://www.twitch.tv/videos/568029858) |
 | 75 | Jabem | 0:11:17 | 2018-06-07 | [link](https://www.youtube.com/watch?v=FT3oy61eka4) |
 | 76 | DavidRoberts | 0:11:18 | 2020-09-07 | [link](https://youtu.be/ORlqTL-Gc_M) |
+| 77 | Varek | 0:11:20 | 2022-05-06 | [link](https://youtu.be/BiUNgLTwu1M) |
 | 77 | skabezon | 0:11:20 | 2022-01-21 | [link](https://www.youtube.com/watch?v=v8TkTS-yUHE&ab_channel=Supersmashbong) |
 | 77 | beardylocks | 0:11:20 | 2022-02-04 | [link](https://youtu.be/6QAVl9dUoBU) |
 | 77 | Kosmic | 0:11:20 | 2017-03-20 | [link](https://www.twitch.tv/videos/129953800) |
-| 77 | Varek | 0:11:20 | 2022-05-06 | [link](https://youtu.be/BiUNgLTwu1M) |
 | 81 | wotsuh_thedeal | 0:11:21 | 2021-10-05 | [link](https://www.twitch.tv/videos/1168454040) |
 | 81 | Carter44 | 0:11:21 | 2019-07-23 | [link](https://www.youtube.com/watch?v=6yMOexUENJE) |
 | 83 | Konaxs1 | 0:11:22 | 2021-03-20 | [link](https://www.twitch.tv/videos/955765002?filter=highlights&sort=time) |
