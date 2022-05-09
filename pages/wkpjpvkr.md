@@ -397,8 +397,8 @@ categories: speedrun
 | 387 | Seriouslysam25 | 0:04:36 | 2022-03-11 | [link](https://www.youtube.com/watch?v=lR1XcnLQobA&ab_channel=ShinyGiveaways) |
 | 387 | The_TK | 0:04:36 | 2018-03-26 | [link](https://www.youtube.com/watch?v=-BGlf-784l4) |
 | 390 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
-| 390 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
 | 390 | Lao | 0:04:38 | 2018-03-01 | [link](https://www.youtube.com/watch?v=6p9FOkAU4AM) |
+| 390 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
 | 393 | owilderman | 0:04:39 | 2020-03-29 | [link](https://youtu.be/S2-w2HdiWoc) |
 | 393 | hazelnym | 0:04:39 | 2018-04-14 | [link](https://www.youtube.com/watch?v=OsM3ZqS8ARs) |
 | 395 | misterweber | 0:04:40 | 2021-02-26 | [link](https://youtu.be/pRswFXxiEak) |

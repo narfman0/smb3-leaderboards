@@ -83,8 +83,8 @@ categories: speedrun
 | 74 | Take72 | 0:11:16 | 2020-03-14 | [link](https://www.twitch.tv/videos/568029858) |
 | 75 | Jabem | 0:11:17 | 2018-06-07 | [link](https://www.youtube.com/watch?v=FT3oy61eka4) |
 | 76 | DavidRoberts | 0:11:18 | 2020-09-07 | [link](https://youtu.be/ORlqTL-Gc_M) |
-| 77 | Varek | 0:11:20 | 2022-05-06 | [link](https://youtu.be/BiUNgLTwu1M) |
 | 77 | skabezon | 0:11:20 | 2022-01-21 | [link](https://www.youtube.com/watch?v=v8TkTS-yUHE&ab_channel=Supersmashbong) |
+| 77 | Varek | 0:11:20 | 2022-05-06 | [link](https://youtu.be/BiUNgLTwu1M) |
 | 77 | beardylocks | 0:11:20 | 2022-02-04 | [link](https://youtu.be/6QAVl9dUoBU) |
 | 77 | Kosmic | 0:11:20 | 2017-03-20 | [link](https://www.twitch.tv/videos/129953800) |
 | 81 | wotsuh_thedeal | 0:11:21 | 2021-10-05 | [link](https://www.twitch.tv/videos/1168454040) |
@@ -424,8 +424,8 @@ categories: speedrun
 | 415 | Punchin_Treez | 0:21:29 | 2015-08-29 | [link](https://www.youtube.com/watch?v=Q0I35dNfKLE) |
 | 416 | d4rk0men | 0:23:03 | 2016-11-11 | [link](https://www.twitch.tv/zshakespeare/v/100324522) |
 | 417 | SamuelStokesMusic | 0:24:55 | 2021-01-04 | [link](https://youtu.be/tyNckQ9OzCg) |
-| 418 | kabAudio | 0:27:07 | 2022-02-06 | [link](https://www.twitch.tv/videos/1289635912) |
-| 419 | Mingura666 | 0:28:11 | 2022-05-04 | [link](https://youtu.be/wi7n4_pe3lY) |
+| 418 | Mingura666 | 0:26:38 | 2022-05-07 | [link](https://youtu.be/rMkFjLHThEk) |
+| 419 | kabAudio | 0:27:07 | 2022-02-06 | [link](https://www.twitch.tv/videos/1289635912) |
 | 420 | mammaru339 | 0:30:09 | 2019-03-18 | [link](https://www.twitch.tv/videos/398919815) |
 | 421 | derrykyle | 0:34:05 | 2019-09-01 | [link](https://www.twitch.tv/videos/475477284) |
 | 422 | Drumboardist | 0:40:39 | 2019-03-02 | [link](https://www.twitch.tv/videos/393869021) |
