@@ -346,8 +346,8 @@ categories: speedrun
 | 337 | TripleAce | 0:14:18 | 2021-03-04 | [link](https://youtu.be/fv2G-Hmkfds) |
 | 337 | LF | 0:14:18 | 2018-11-07 | [link](https://youtu.be/skra2C2u85Y) |
 | 337 | SUNNYblue | 0:14:18 | 2020-11-05 | [link](https://youtu.be/8BGMcpbMpjs) |
-| 340 | Vicksland | 0:14:20 | 2020-08-29 | [link](https://www.twitch.tv/videos/725799599) |
 | 340 | MonkeyGarbage | 0:14:20 | 2021-08-10 | [link](https://www.youtube.com/watch?v=nGp59KlHUrc) |
+| 340 | Vicksland | 0:14:20 | 2020-08-29 | [link](https://www.twitch.tv/videos/725799599) |
 | 342 | KingRhodesTn | 0:14:21 | 2018-07-25 | [link](https://www.twitch.tv/videos/289117141) |
 | 343 | TheSkeeterBronson | 0:14:23 | 2020-10-12 | [link](https://youtu.be/JZJ_d3XYG7s) |
 | 344 | wedu09 | 0:14:29 | 2022-05-04 | [link](https://www.twitch.tv/videos/1474735587?filter=highlights&sort=time) |
