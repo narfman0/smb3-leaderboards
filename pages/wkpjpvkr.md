@@ -41,12 +41,12 @@ categories: speedrun
 | 32 | sloblock | 0:03:23 | 2016-10-02 | [link](https://youtu.be/5uyTrSC5Mwc) |
 | 32 | Renakun | 0:03:23 | 2019-01-23 | [link](https://youtu.be/AZKoTuEogxs) |
 | 32 | Lawso42 | 0:03:23 | 2016-06-11 | [link](https://www.twitch.tv/videos/71778940) |
+| 35 | Kyuvolka | 0:03:24 | 2022-05-14 | [link](https://youtu.be/klKKzccKuYk) |
 | 35 | Sikbit | 0:03:24 | 2018-06-02 | [link](https://www.youtube.com/watch?v=TC5AzXHNqjE) |
-| 36 | Boethiah | 0:03:25 | 2020-01-26 | [link](https://www.twitch.tv/videos/542022781) |
-| 36 | Themasterpro1212 | 0:03:25 | 2021-06-26 | [link](https://youtu.be/67cSAuse6Rs) |
-| 36 | ROOK_jpn | 0:03:25 | 2019-06-15 | [link](https://www.youtube.com/watch?v=DVGqsSpeH9w) |
-| 39 | Kyuvolka | 0:03:26 | 2022-03-22 | [link](https://youtu.be/lORJU1g2ANE) |
-| 39 | MatyMak | 0:03:26 | 2021-12-13 | [link](https://www.youtube.com/watch?v=UkVLLBdX6lw&ab_channel=MatyMak) |
+| 37 | Boethiah | 0:03:25 | 2020-01-26 | [link](https://www.twitch.tv/videos/542022781) |
+| 37 | Themasterpro1212 | 0:03:25 | 2021-06-26 | [link](https://youtu.be/67cSAuse6Rs) |
+| 37 | ROOK_jpn | 0:03:25 | 2019-06-15 | [link](https://www.youtube.com/watch?v=DVGqsSpeH9w) |
+| 40 | MatyMak | 0:03:26 | 2021-12-13 | [link](https://www.youtube.com/watch?v=UkVLLBdX6lw&ab_channel=MatyMak) |
 | 41 | Sluggy | 0:03:27 | 2021-09-06 | [link](https://youtu.be/YEi0P21-Y38) |
 | 42 | chickenfish4 | 0:03:29 | 2017-06-25 | [link](https://youtu.be/yOOKGKufp4U) |
 | 42 | smythe | 0:03:29 | 2021-09-30 | [link](https://youtu.be/siRWVnaZWoo) |
