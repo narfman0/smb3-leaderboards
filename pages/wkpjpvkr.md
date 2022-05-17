@@ -41,8 +41,8 @@ categories: speedrun
 | 32 | sloblock | 0:03:23 | 2016-10-02 | [link](https://youtu.be/5uyTrSC5Mwc) |
 | 32 | Renakun | 0:03:23 | 2019-01-23 | [link](https://youtu.be/AZKoTuEogxs) |
 | 32 | Lawso42 | 0:03:23 | 2016-06-11 | [link](https://www.twitch.tv/videos/71778940) |
-| 35 | Kyuvolka | 0:03:24 | 2022-05-14 | [link](https://youtu.be/klKKzccKuYk) |
 | 35 | Sikbit | 0:03:24 | 2018-06-02 | [link](https://www.youtube.com/watch?v=TC5AzXHNqjE) |
+| 35 | Kyuvolka | 0:03:24 | 2022-05-14 | [link](https://youtu.be/klKKzccKuYk) |
 | 37 | Boethiah | 0:03:25 | 2020-01-26 | [link](https://www.twitch.tv/videos/542022781) |
 | 37 | Themasterpro1212 | 0:03:25 | 2021-06-26 | [link](https://youtu.be/67cSAuse6Rs) |
 | 37 | ROOK_jpn | 0:03:25 | 2019-06-15 | [link](https://www.youtube.com/watch?v=DVGqsSpeH9w) |
