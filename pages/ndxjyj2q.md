@@ -351,8 +351,8 @@ categories: speedrun
 | 342 | KingRhodesTn | 0:14:21 | 2018-07-25 | [link](https://www.twitch.tv/videos/289117141) |
 | 343 | TheSkeeterBronson | 0:14:23 | 2020-10-12 | [link](https://youtu.be/JZJ_d3XYG7s) |
 | 344 | wedu09 | 0:14:29 | 2022-05-04 | [link](https://www.twitch.tv/videos/1474735587?filter=highlights&sort=time) |
-| 345 | Mr_Self_DestrucTT | 0:14:30 | 2022-05-12 | [link](https://www.twitch.tv/videos/1482531494) |
 | 345 | Mingura666 | 0:14:30 | 2022-05-16 | [link](https://youtu.be/QoaaqCDtqkk) |
+| 345 | Mr_Self_DestrucTT | 0:14:30 | 2022-05-12 | [link](https://www.twitch.tv/videos/1482531494) |
 | 347 | BoomBeatle3 | 0:14:32 | 2022-01-21 | [link](https://youtu.be/j33x3zoVOtQ) |
 | 348 | FoxyLove | 0:14:33 | 2020-11-13 | [link](https://www.youtube.com/watch?v=aYshXHstltU) |
 | 349 | Clackiam | 0:14:35 | 2018-07-04 | [link](https://youtu.be/g2Zo7oWUmBE) |
