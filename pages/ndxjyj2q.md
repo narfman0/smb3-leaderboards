@@ -237,8 +237,8 @@ categories: speedrun
 | 228 | donalduck386 | 0:12:47 | 2022-02-07 | [link](https://www.twitch.tv/videos/1290616601) |
 | 228 | Xein64 | 0:12:47 | 2018-03-02 | [link](https://www.youtube.com/watch?v=KnZCm88OXt8&feature=youtu.be) |
 | 228 | ViruseReturns | 0:12:47 | 2019-10-14 | [link](https://www.youtube.com/watch?v=DkirxEdCrEI) |
-| 231 | andrews_myth | 0:12:48 | 2022-05-17 | [link](https://www.twitch.tv/videos/1487218029?t=00h00m00s) |
 | 231 | Chocomantis | 0:12:48 | 2018-08-21 | [link](https://www.youtube.com/watch?v=U4OeGhOJHIs) |
+| 231 | andrews_myth | 0:12:48 | 2022-05-17 | [link](https://www.twitch.tv/videos/1487218029?t=00h00m00s) |
 | 233 | StrandedKnight | 0:12:49 | 2021-07-27 | [link](https://www.youtube.com/watch?v=f1bUFD4ThkI) |
 | 233 | Luvbaseball58 | 0:12:49 | 2016-12-01 | [link](https://m.youtube.com/watch?v=axhZJ7jRdI4) |
 | 235 | YoBGS | 0:12:50 | 2019-05-23 | [link](https://www.twitch.tv/videos/429200561) |

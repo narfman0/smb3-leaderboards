@@ -10,7 +10,7 @@ categories: speedrun
 | 1 | mitchflowerpower | 0:50:27 | 2022-04-09 | [link](https://www.youtube.com/watch?v=9_rcENOsqv4) |
 | 2 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
 | 3 | Czikubi | 0:50:54 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
-| 4 | maibaRTA | 0:50:57.083000 | 2021-07-22 | [link](https://www.twitch.tv/videos/1095656104) |
+| 4 | maibaRTA | 0:50:56 | 2022-05-22 | [link](https://www.twitch.tv/videos/1490705034) |
 | 5 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
 | 6 | TEEX88 | 0:51:02 | 2022-03-20 | [link](https://www.twitch.tv/videos/1431820906) |
 | 7 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
