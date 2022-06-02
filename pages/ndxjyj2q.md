@@ -11,10 +11,10 @@ categories: speedrun
 | 2 | Czikubi | 0:10:44.066000 | 2021-07-26 | [link](https://www.twitch.tv/videos/1098482605) |
 | 3 | Kirua | 0:10:45.350000 | 2017-08-08 | [link](https://www.twitch.tv/videos/165395327) |
 | 4 | jtknott | 0:10:45.400000 | 2021-06-27 | [link](https://youtu.be/RXfM2aVcGx0) |
-| 5 | Lui | 0:10:46.300000 | 2021-08-30 | [link](https://www.twitch.tv/videos/1134863592) |
-| 6 | eddiecatgaming | 0:10:46.950000 | 2021-06-24 | [link](https://www.youtube.com/watch?v=CJEDhn0P-so) |
-| 7 | jscarbo | 0:10:48.183000 | 2021-07-26 | [link](https://youtu.be/wZ4yCw3VTCI) |
-| 8 | Joshua69yt | 0:10:48.883000 | 2021-06-22 | [link](https://youtu.be/Dc0Xz4b2FI4) |
+| 5 | Joshua69yt | 0:10:45.733000 | 2022-05-25 | [link](https://youtu.be/PwX2a2U2Rng) |
+| 6 | Lui | 0:10:46.300000 | 2021-08-30 | [link](https://www.twitch.tv/videos/1134863592) |
+| 7 | eddiecatgaming | 0:10:46.950000 | 2021-06-24 | [link](https://www.youtube.com/watch?v=CJEDhn0P-so) |
+| 8 | jscarbo | 0:10:48.183000 | 2021-07-26 | [link](https://youtu.be/wZ4yCw3VTCI) |
 | 9 | Miniland | 0:10:48.900000 | 2021-07-23 | [link](https://youtu.be/A5Eh3eKw69c) |
 | 10 | SkylightFox | 0:10:49.366000 | 2017-03-05 | [link](https://www.twitch.tv/videos/126600230) |
 | 11 | stewie_cartman | 0:10:49.866000 | 2021-05-30 | [link](https://www.twitch.tv/videos/1040422997) |
