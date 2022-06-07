@@ -223,9 +223,9 @@ categories: speedrun
 | 214 | amourietta | 1:05:19 | 2019-02-26 | [link](https://www.twitch.tv/videos/387146231) |
 | 215 | de_oScar | 1:06:09 | 2021-07-16 | [link](https://www.youtube.com/watch?v=erITQTv1Cm4) |
 | 216 | Drako93 | 1:06:24 | 2019-08-11 | [link](https://www.youtube.com/watch?v=E8J-xkIUfqQ&t=7s) |
-| 217 | Picante | 1:06:39 | 2019-11-07 | [link](https://www.twitch.tv/videos/507370164) |
-| 218 | Caskaboom | 1:06:47 | 2022-04-13 | [link](https://www.twitch.tv/videos/1455214281) |
-| 219 | BameGoy | 1:06:48 | 2022-05-19 | [link](https://www.twitch.tv/videos/1488324302) |
+| 217 | BameGoy | 1:06:30 | 2022-06-05 | [link](https://www.twitch.tv/videos/1495219569) |
+| 218 | Picante | 1:06:39 | 2019-11-07 | [link](https://www.twitch.tv/videos/507370164) |
+| 219 | Caskaboom | 1:06:47 | 2022-04-13 | [link](https://www.twitch.tv/videos/1455214281) |
 | 220 | Luvbaseball58 | 1:07:06 | 2018-08-17 | [link](https://youtu.be/Kl6TDxSBKZ0) |
 | 221 | LarviStar | 1:08:14 | 2018-12-08 | [link](https://youtu.be/qfah1XcHFlY) |
 | 222 | tmyoukai | 1:08:20 | 2020-07-20 | [link](https://www.twitch.tv/videos/686071690) |
