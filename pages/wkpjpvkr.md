@@ -7,8 +7,8 @@ categories: speedrun
 
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
-| 1 | Czikubi | 0:03:02.383000 | 2021-03-29 | [link](https://www.twitch.tv/videos/968510773) |
-| 2 | Kuto1k | 0:03:03.166000 | 2021-12-19 | [link](https://www.twitch.tv/videos/1237443027) |
+| 1 | Kuto1k | 0:03:02.250000 | 2022-06-09 | [link](https://www.twitch.tv/videos/1498716659) |
+| 2 | Czikubi | 0:03:02.383000 | 2021-03-29 | [link](https://www.twitch.tv/videos/968510773) |
 | 3 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
 | 4 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
 | 5 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
@@ -163,7 +163,6 @@ categories: speedrun
 | 147 | xenkaroshi | 0:03:55 | 2019-02-27 | [link](https://www.youtube.com/watch?v=QM714I2II9Y) |
 | 147 | Warpx3 | 0:03:55 | 2017-05-12 | [link](https://www.twitch.tv/videos/143384195) |
 | 156 | Vireth | 0:03:56 | 2020-06-07 | [link](https://youtu.be/YweVOyYi3FQ) |
-| 156 | Magica1l_guyr | 0:03:56 | 2022-06-05 | [link](https://youtu.be/E7QS1-p3uyw) |
 | 156 | Adam1205 | 0:03:56 | 2017-08-22 | [link](https://www.youtube.com/watch?v=8Z2r2MucCmI&feature=youtu.be) |
 | 156 | Velodh | 0:03:56 | 2021-08-17 | [link](https://youtu.be/LFgn9Sb2EBY) |
 | 156 | epicnubedemelon | 0:03:56 | 2019-03-28 | [link](https://www.youtube.com/watch?v=9OhFY4Ckf4Y&feature=youtu.be) |
@@ -172,6 +171,7 @@ categories: speedrun
 | 156 | Kojr55 | 0:03:56 | 2018-07-01 | [link](https://www.youtube.com/watch?v=-C0PMYgCI6Y) |
 | 156 | FozyCX | 0:03:56 | 2021-04-27 | [link](https://www.twitch.tv/videos/1002603632) |
 | 156 | Magestikal | 0:03:56 | 2021-06-19 | [link](https://www.youtube.com/watch?v=1S5zyfYdV6s) |
+| 156 | Magica1l_guyr | 0:03:56 | 2022-06-05 | [link](https://youtu.be/E7QS1-p3uyw) |
 | 156 | yatokami9 | 0:03:56 | 2021-06-30 | [link](https://www.twitch.tv/videos/1071691925) |
 | 156 | Dr_Syltonic | 0:03:56 | 2018-02-27 | [link](https://youtu.be/6h6xje91tbw) |
 | 156 | Drako93 | 0:03:56 | 2018-09-13 | [link](https://www.youtube.com/watch?v=Fzn5EvnL4G4&t=2s) |
