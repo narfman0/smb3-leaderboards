@@ -91,10 +91,10 @@ categories: speedrun
 | 81 | youtubeman06 | 0:03:45 | 2018-07-04 | [link](https://www.twitch.tv/videos/280868982) |
 | 81 | Katti | 0:03:45 | 2021-08-20 | [link](https://www.twitch.tv/videos/1124287194) |
 | 84 | Okmenaut | 0:03:46 | 2017-08-09 | [link](https://youtu.be/V5kPwNLaXmQ) |
-| 84 | Magica1l_guyr | 0:03:46 | 2022-06-17 | [link](https://youtu.be/WokdxWodYUY) |
 | 84 | riscky | 0:03:46 | 2017-10-04 | [link](https://youtu.be/6PuHaIBrXSI) |
 | 84 | junkyard_dave | 0:03:46 | 2020-05-26 | [link](https://www.youtube.com/watch?v=tijENQEnEWY) |
 | 84 | Alvaca | 0:03:46 | 2021-10-14 | [link](https://youtu.be/zhBcbJEZL0Y) |
+| 84 | Magica1l_guyr | 0:03:46 | 2022-06-17 | [link](https://youtu.be/WokdxWodYUY) |
 | 84 | Carter44 | 0:03:46 | 2018-04-15 | [link](https://youtu.be/7Ld33MD9wlQ) |
 | 84 | CujoIHSV | 0:03:46 | 2015-10-29 | [link](http://www.twitch.tv/cujoihsv/v/23111363) |
 | 91 | Tex-Saralonde | 0:03:47 | 2020-08-29 | [link](https://youtu.be/2x2W5SRFMVw) |
