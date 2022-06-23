@@ -20,9 +20,9 @@ categories: speedrun
 | 11 | Ellonija | 0:51:21 | 2017-05-24 | [link](https://www.twitch.tv/videos/146750506) |
 | 12 | jtknott | 0:51:22 | 2022-05-27 | [link](https://youtu.be/SvXJbx-LYGA) |
 | 13 | Scarface | 0:51:26 | 2022-04-04 | [link](https://youtu.be/rxJoeyjzlDA) |
+| 14 | narfman0 | 0:51:27 | 2022-06-21 | [link](https://youtu.be/avrIT0PFq3c) |
 | 14 | thebagler5 | 0:51:27 | 2022-04-18 | [link](https://www.twitch.tv/videos/1460488428) |
 | 14 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
-| 14 | narfman0 | 0:51:27 | 2022-06-21 | [link](https://youtu.be/avrIT0PFq3c) |
 | 17 | yatokami9 | 0:51:28 | 2022-04-02 | [link](https://www.youtube.com/watch?v=E3lUxI6S4Qc&ab_channel=YatoKami) |
 | 18 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
 | 19 | stewie_cartman | 0:51:50 | 2022-04-11 | [link](https://www.twitch.tv/videos/1453415214) |
@@ -45,8 +45,8 @@ categories: speedrun
 | 36 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 36 | Track1 | 0:52:44 | 2022-03-29 | [link](https://www.youtube.com/watch?v=bsY_4f8dx24) |
 | 36 | AliceHK8 | 0:52:44 | 2022-04-04 | [link](https://www.twitch.tv/videos/1446185510) |
-| 39 | Sakaali | 0:52:45 | 2022-06-20 | [link](https://www.twitch.tv/videos/1508936588) |
 | 39 | brocis420 | 0:52:45 | 2021-03-13 | [link](https://www.twitch.tv/videos/948528837) |
+| 39 | Sakaali | 0:52:45 | 2022-06-20 | [link](https://www.twitch.tv/videos/1508936588) |
 | 41 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
 | 42 | duckfist | 0:52:47 | 2021-09-04 | [link](https://www.twitch.tv/videos/1139437792?collection=pgQmVpxPpBao_Q) |
 | 42 | TheLostLlama | 0:52:47 | 2016-02-03 | [link](http://www.twitch.tv/thelostllama/v/40275470) |
