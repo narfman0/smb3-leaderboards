@@ -83,11 +83,11 @@ categories: speedrun
 | 73 | KarlsGB | 0:03:43 | 2020-04-15 | [link](https://www.youtube.com/watch?v=QGdAFbW1CY0) |
 | 73 | joshuatalato | 0:03:43 | 2021-03-07 | [link](https://www.youtube.com/watch?v=lVtoeIsGmHA) |
 | 73 | fastatcc | 0:03:43 | 2017-10-07 | [link](https://www.twitch.tv/videos/180741051) |
+| 77 | Magica1l_guyr | 0:03:44 | 2022-06-24 | [link](https://youtu.be/wWo13w-yD68) |
 | 77 | Iambennguin | 0:03:44 | 2017-12-06 | [link](https://www.twitch.tv/videos/207225534) |
 | 77 | GreenDeathFlavor | 0:03:44 | 2017-09-10 | [link](https://www.youtube.com/watch?v=voISV8Q0QDc) |
 | 77 | jojoledda | 0:03:44 | 2017-09-06 | [link](https://www.youtube.com/watch?v=oB3SN6RHw9Q) |
 | 77 | AngryKermit | 0:03:44 | 2022-03-19 | [link](https://www.twitch.tv/videos/1430678337) |
-| 77 | Magica1l_guyr | 0:03:44 | 2022-06-24 | [link](https://youtu.be/wWo13w-yD68) |
 | 82 | Xein64 | 0:03:45 | 2018-03-18 | [link](https://www.youtube.com/watch?v=3omQ1NSe840&t) |
 | 82 | youtubeman06 | 0:03:45 | 2018-07-04 | [link](https://www.twitch.tv/videos/280868982) |
 | 82 | Katti | 0:03:45 | 2021-08-20 | [link](https://www.twitch.tv/videos/1124287194) |
@@ -405,8 +405,8 @@ categories: speedrun
 | 396 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
 | 396 | Lao | 0:04:38 | 2018-03-01 | [link](https://www.youtube.com/watch?v=6p9FOkAU4AM) |
 | 396 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
-| 399 | BoBoTheMonkey | 0:04:39 | 2022-06-22 | [link](https://www.youtube.com/watch?v=YfX9WUBTNZU) |
 | 399 | owilderman | 0:04:39 | 2020-03-29 | [link](https://youtu.be/S2-w2HdiWoc) |
+| 399 | BoBoTheMonkey | 0:04:39 | 2022-06-22 | [link](https://www.youtube.com/watch?v=YfX9WUBTNZU) |
 | 399 | hazelnym | 0:04:39 | 2018-04-14 | [link](https://www.youtube.com/watch?v=OsM3ZqS8ARs) |
 | 402 | misterweber | 0:04:40 | 2021-02-26 | [link](https://youtu.be/pRswFXxiEak) |
 | 402 | JoakoLab | 0:04:40 | 2019-01-29 | [link](https://youtu.be/3vS8tMXhj8U) |
@@ -437,8 +437,8 @@ categories: speedrun
 | 427 | CaillouKan | 0:04:51 | 2017-06-06 | [link](https://www.youtube.com/watch?v=dW9eyncKCas) |
 | 427 | PeeBee | 0:04:51 | 2018-01-14 | [link](https://youtu.be/_HuT9V04YkU) |
 | 430 | DJMiller | 0:04:52 | 2019-09-25 | [link](https://www.twitch.tv/videos/486300081) |
-| 430 | biox | 0:04:52 | 2020-09-03 | [link](https://www.youtube.com/watch?v=WNb5Ilw5WLU) |
 | 430 | seungoh1 | 0:04:52 | 2021-03-22 | [link](https://youtu.be/UsxZSXjzTVA) |
+| 430 | biox | 0:04:52 | 2020-09-03 | [link](https://www.youtube.com/watch?v=WNb5Ilw5WLU) |
 | 433 | Louis-MathisRako | 0:04:55 | 2018-01-22 | [link](https://youtu.be/GSpIbhiMBqg) |
 | 434 | scottzirra | 0:05:00 | 2017-04-05 | [link](https://www.youtube.com/watch?v=DCt8vVoPZjw) |
 | 434 | VITA_retro | 0:05:00 | 2021-01-25 | [link](https://youtu.be/X1ajHPIgucU) |
