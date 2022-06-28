@@ -116,11 +116,11 @@ categories: speedrun
 | 107 | eHolden | 0:11:32 | 2020-06-15 | [link](https://youtu.be/9NZJhZ1WNKg) |
 | 108 | Alvaca | 0:11:33 | 2022-05-24 | [link](https://youtu.be/zheNl4Tk22Y) |
 | 108 | TapatioJ | 0:11:33 | 2015-10-19 | [link](http://www.twitch.tv/tapatioj/v/21539389) |
-| 110 | Francis_Metadinha | 0:11:34 | 2018-10-09 | [link](https://youtu.be/oAjNzvDg28M) |
-| 111 | ShadowPanda | 0:11:35 | 2016-11-19 | [link](https://www.twitch.tv/shadowpanda__/v/102042340) |
-| 112 | Ahmed | 0:11:36 | 2021-10-29 | [link](https://www.youtube.com/watch?v=PsO5LxxwfvM) |
-| 112 | HiroMunii | 0:11:36 | 2021-08-29 | [link](https://youtu.be/vdlXEr3-Nh0) |
-| 112 | SpUnKeN_DK | 0:11:36 | 2021-06-10 | [link](https://www.twitch.tv/videos/1052211903) |
+| 108 | SpUnKeN_DK | 0:11:33 | 2022-06-27 | [link](https://www.twitch.tv/videos/1515631969) |
+| 111 | Francis_Metadinha | 0:11:34 | 2018-10-09 | [link](https://youtu.be/oAjNzvDg28M) |
+| 112 | ShadowPanda | 0:11:35 | 2016-11-19 | [link](https://www.twitch.tv/shadowpanda__/v/102042340) |
+| 113 | Ahmed | 0:11:36 | 2021-10-29 | [link](https://www.youtube.com/watch?v=PsO5LxxwfvM) |
+| 113 | HiroMunii | 0:11:36 | 2021-08-29 | [link](https://youtu.be/vdlXEr3-Nh0) |
 | 115 | helfmyselp | 0:11:37 | 2022-02-03 | [link](https://www.youtube.com/watch?v=Aha2QhQZ3jc) |
 | 115 | SuperPlayer | 0:11:37 | 2022-01-25 | [link](https://youtu.be/7yqLNRqyKuE) |
 | 117 | moistgoolash | 0:11:38 | 2018-04-06 | [link](https://www.twitch.tv/videos/247094705) |
