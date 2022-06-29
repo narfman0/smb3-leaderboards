@@ -42,11 +42,11 @@ categories: speedrun
 | 33 | Katti | 0:52:31 | 2021-11-24 | [link](https://www.twitch.tv/videos/1214847563) |
 | 33 | TrueHyperMario | 0:52:31 | 2021-12-01 | [link](https://www.twitch.tv/videos/1220478627) |
 | 33 | Doomtap | 0:52:31 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450856849) |
+| 36 | Sakaali | 0:52:44 | 2022-06-27 | [link](https://www.twitch.tv/videos/1515878458) |
 | 36 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 36 | Track1 | 0:52:44 | 2022-03-29 | [link](https://www.youtube.com/watch?v=bsY_4f8dx24) |
 | 36 | AliceHK8 | 0:52:44 | 2022-04-04 | [link](https://www.twitch.tv/videos/1446185510) |
-| 39 | brocis420 | 0:52:45 | 2021-03-13 | [link](https://www.twitch.tv/videos/948528837) |
-| 39 | Sakaali | 0:52:45 | 2022-06-20 | [link](https://www.twitch.tv/videos/1508936588) |
+| 40 | brocis420 | 0:52:45 | 2021-03-13 | [link](https://www.twitch.tv/videos/948528837) |
 | 41 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
 | 42 | duckfist | 0:52:47 | 2021-09-04 | [link](https://www.twitch.tv/videos/1139437792?collection=pgQmVpxPpBao_Q) |
 | 42 | TheLostLlama | 0:52:47 | 2016-02-03 | [link](http://www.twitch.tv/thelostllama/v/40275470) |
