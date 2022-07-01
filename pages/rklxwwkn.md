@@ -33,8 +33,8 @@ categories: speedrun
 | 24 | EthanRTA | 0:51:56 | 2022-04-17 | [link](https://youtu.be/u5DaRhfjaQo) |
 | 25 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
 | 26 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
-| 27 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
-| 28 | MarstoS | 0:52:16 | 2022-04-16 | [link](https://www.twitch.tv/videos/1457638726) |
+| 27 | MarstoS | 0:52:04 | 2022-06-30 | [link](https://www.twitch.tv/videos/1517895782) |
+| 28 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
 | 29 | Mars02 | 0:52:20 | 2022-05-11 | [link](https://www.youtube.com/watch?v=1C25VtfZqIs) |
 | 30 | Macobra52 | 0:52:26 | 2020-07-31 | [link](https://www.twitch.tv/videos/696469338) |
 | 31 | Mondii | 0:52:29 | 2022-03-03 | [link](https://www.twitch.tv/videos/1413869428) |
@@ -42,10 +42,10 @@ categories: speedrun
 | 33 | Katti | 0:52:31 | 2021-11-24 | [link](https://www.twitch.tv/videos/1214847563) |
 | 33 | TrueHyperMario | 0:52:31 | 2021-12-01 | [link](https://www.twitch.tv/videos/1220478627) |
 | 33 | Doomtap | 0:52:31 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450856849) |
-| 36 | Sakaali | 0:52:44 | 2022-06-27 | [link](https://www.twitch.tv/videos/1515878458) |
-| 36 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
-| 36 | Track1 | 0:52:44 | 2022-03-29 | [link](https://www.youtube.com/watch?v=bsY_4f8dx24) |
-| 36 | AliceHK8 | 0:52:44 | 2022-04-04 | [link](https://www.twitch.tv/videos/1446185510) |
+| 36 | Track1 | 0:52:39 | 2022-06-30 | [link](https://www.twitch.tv/videos/1517844058?filter=highlights&sort=time) |
+| 37 | Sakaali | 0:52:44 | 2022-06-27 | [link](https://www.twitch.tv/videos/1515878458) |
+| 37 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
+| 37 | AliceHK8 | 0:52:44 | 2022-04-04 | [link](https://www.twitch.tv/videos/1446185510) |
 | 40 | brocis420 | 0:52:45 | 2021-03-13 | [link](https://www.twitch.tv/videos/948528837) |
 | 41 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
 | 42 | duckfist | 0:52:47 | 2021-09-04 | [link](https://www.twitch.tv/videos/1139437792?collection=pgQmVpxPpBao_Q) |
