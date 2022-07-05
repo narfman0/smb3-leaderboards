@@ -21,8 +21,8 @@ categories: speedrun
 | 11 | mitchflowerpower | 0:03:09 | 2015-02-09 | [link](http://www.twitch.tv/mitchflowerpower/v/3767813) |
 | 13 | kabAudio | 0:03:09.183000 | 2021-09-16 | [link](https://www.twitch.tv/videos/1149616892) |
 | 14 | Nolmy | 0:03:09.200000 | 2022-01-29 | [link](https://www.youtube.com/watch?v=krBY4On6XY0) |
-| 15 | tavenwebb2002 | 0:03:09.700000 | 2017-07-15 | [link](https://youtu.be/q8pYk9VkVns) |
-| 16 | iceball8314 | 0:03:10.333000 | 2022-07-01 | [link](https://www.youtube.com/watch?v=FWVXqAuESBU) |
+| 15 | iceball8314 | 0:03:09.383000 | 2022-07-03 | [link](https://www.youtube.com/watch?v=TN2_oo4CJQE) |
+| 16 | tavenwebb2002 | 0:03:09.700000 | 2017-07-15 | [link](https://youtu.be/q8pYk9VkVns) |
 | 17 | robertalbertson240 | 0:03:12.416000 | 2022-02-06 | [link](https://youtu.be/mEwRlQDsWTk) |
 | 18 | Maggara1 | 0:03:13.833000 | 2016-11-11 | [link](https://www.twitch.tv/noreallyihavenothing/v/100408423) |
 | 19 | 10ooki | 0:03:14 | 2015-12-20 | [link](https://youtu.be/XZe4swasQm4) |
@@ -168,11 +168,11 @@ categories: speedrun
 | 158 | Adam1205 | 0:03:56 | 2017-08-22 | [link](https://www.youtube.com/watch?v=8Z2r2MucCmI&feature=youtu.be) |
 | 158 | Velodh | 0:03:56 | 2021-08-17 | [link](https://youtu.be/LFgn9Sb2EBY) |
 | 158 | epicnubedemelon | 0:03:56 | 2019-03-28 | [link](https://www.youtube.com/watch?v=9OhFY4Ckf4Y&feature=youtu.be) |
-| 158 | 33quentin | 0:03:56 | 2018-02-01 | [link](https://www.youtube.com/watch?v=6S9mj09sRPk) |
 | 158 | TakoGamesAu | 0:03:56 | 2021-06-15 | [link](https://www.youtube.com/watch?v=e-9BfExjtKQ) |
 | 158 | Kojr55 | 0:03:56 | 2018-07-01 | [link](https://www.youtube.com/watch?v=-C0PMYgCI6Y) |
 | 158 | FozyCX | 0:03:56 | 2021-04-27 | [link](https://www.twitch.tv/videos/1002603632) |
 | 158 | Magestikal | 0:03:56 | 2021-06-19 | [link](https://www.youtube.com/watch?v=1S5zyfYdV6s) |
+| 158 | 33quentin | 0:03:56 | 2018-02-01 | [link](https://www.youtube.com/watch?v=6S9mj09sRPk) |
 | 158 | yatokami9 | 0:03:56 | 2021-06-30 | [link](https://www.twitch.tv/videos/1071691925) |
 | 158 | Dr_Syltonic | 0:03:56 | 2018-02-27 | [link](https://youtu.be/6h6xje91tbw) |
 | 158 | Drako93 | 0:03:56 | 2018-09-13 | [link](https://www.youtube.com/watch?v=Fzn5EvnL4G4&t=2s) |
