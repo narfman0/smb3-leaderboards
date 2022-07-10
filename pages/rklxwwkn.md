@@ -34,8 +34,8 @@ categories: speedrun
 | 25 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
 | 26 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
 | 27 | MarstoS | 0:52:04 | 2022-06-30 | [link](https://www.twitch.tv/videos/1517895782) |
-| 28 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
 | 28 | Track1 | 0:52:14 | 2022-07-07 | [link](https://www.twitch.tv/videos/1525215299?filter=highlights&sort=time) |
+| 28 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
 | 30 | Mars02 | 0:52:20 | 2022-05-11 | [link](https://www.youtube.com/watch?v=1C25VtfZqIs) |
 | 31 | TrueHyperMario | 0:52:23 | 2022-07-04 | [link](https://www.twitch.tv/videos/1521720482) |
 | 32 | Macobra52 | 0:52:26 | 2020-07-31 | [link](https://www.twitch.tv/videos/696469338) |
