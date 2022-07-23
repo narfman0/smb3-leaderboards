@@ -53,8 +53,8 @@ categories: speedrun
 | 44 | uninerd | 0:52:49 | 2021-06-21 | [link](https://www.twitch.tv/videos/1063252825) |
 | 45 | GungeonLover | 0:52:50 | 2022-02-24 | [link](https://www.twitch.tv/videos/1407131122) |
 | 46 | uropsalis | 0:52:53 | 2022-04-10 | [link](https://www.twitch.tv/videos/1452488499) |
-| 47 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
 | 47 | budzyRNG | 0:52:54 | 2022-07-21 | [link](https://www.twitch.tv/videos/1538319001) |
+| 47 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
 | 49 | nissault | 0:52:57 | 2021-06-17 | [link](https://www.twitch.tv/videos/1059713933) |
 | 50 | Malachibros20085721 | 0:53:07 | 2022-06-06 | [link](https://www.twitch.tv/videos/1496529200) |
 | 51 | Aweglib | 0:53:10 | 2017-06-09 | [link](https://www.twitch.tv/videos/150756657) |
