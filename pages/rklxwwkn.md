@@ -329,7 +329,7 @@ categories: speedrun
 | 320 | twistedlabs | 2:34:23 | 2022-04-26 | [link](https://www.twitch.tv/videos/1467438658) |
 | 321 | brunobrolly | 2:46:29 | 2022-04-04 | [link](https://www.youtube.com/watch?v=rzE1-Pp3ONA) |
 | 322 | KaiserKrister | 2:47:29 | 2017-06-06 | [link](https://www.twitch.tv/videos/149819915) |
-| 323 | FurretTurret | 2:55:49 | 2015-01-17 | [link](http://www.twitch.tv/furretturret/c/5944563) |
+| 323 | FurretTurret | 2:55:49 | 2015-01-17 | [link](https://www.twitch.tv/videos/41891156) |
 | 324 | stephen_irl | 3:16:41 | 2017-05-19 | [link](https://www.twitch.tv/videos/145468114) |
 | 325 | Johny_Mandarino | 3:59:24 | 2018-03-24 | [link](https://www.youtube.com/watch?v=Zxn7SulO_m8) |
 | 326 | derrykyle | 4:04:10 | 2019-08-19 | [link](https://www.twitch.tv/videos/236889131) |

@@ -69,10 +69,10 @@ categories: speedrun
 | 59 | MSP-Wakas | 0:03:38 | 2018-10-12 | [link](https://www.youtube.com/watch?v=qRrxttC30AE) |
 | 59 | Elipsis | 0:03:38 | 2016-11-07 | [link](https://www.twitch.tv/elipsys/v/99557803) |
 | 62 | SuperSonic | 0:03:39 | 2022-02-08 | [link](https://youtu.be/670o9mEAFj4) |
+| 62 | Skippy | 0:03:39 | 2022-07-26 | [link](https://youtu.be/AXQjo_nBrc8) |
 | 62 | TheOnlyTrueGod | 0:03:39 | 2022-05-26 | [link](https://youtu.be/cU_i5EKAZ7c) |
 | 62 | GTAce99 | 0:03:39 | 2019-10-11 | [link](https://youtu.be/mW6wcP6aAxQ) |
 | 62 | ObsoleteGamer2004 | 0:03:39 | 2022-02-04 | [link](https://youtube.com/watch?v=oY4w9ZTeIwc) |
-| 62 | Skippy | 0:03:39 | 2022-07-26 | [link](https://youtu.be/AXQjo_nBrc8) |
 | 67 | scalpel | 0:03:40 | 2021-08-02 | [link](https://youtu.be/lHG-yd0VO_Q) |
 | 67 | KingOf_JonnyBoy | 0:03:40 | 2020-06-05 | [link](https://www.youtube.com/watch?v=V7Tk1Nq7jsc) |
 | 67 | LeKukie | 0:03:40 | 2021-04-07 | [link](https://www.youtube.com/watch?v=fbSx1aMVsnI) |
