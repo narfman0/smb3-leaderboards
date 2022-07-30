@@ -105,10 +105,10 @@ categories: speedrun
 | 93 | Fish_Noob | 0:11:26 | 2021-08-03 | [link](https://www.youtube.com/watch?v=Vpc0ZWe29OE) |
 | 93 | Japezu | 0:11:26 | 2022-01-18 | [link](https://www.twitch.tv/videos/1267504400?filter=highlights&sort=time) |
 | 98 | HUmanMustard | 0:11:27 | 2020-05-29 | [link](https://www.twitch.tv/videos/635121671) |
-| 99 | GlitchyPa | 0:11:30 | 2022-06-05 | [link](https://www.twitch.tv/videos/1495382599) |
 | 99 | Ribb95 | 0:11:30 | 2018-12-15 | [link](https://www.youtube.com/watch?v=BqrPLbZ5OKE) |
 | 99 | Danieltatis | 0:11:30 | 2019-10-01 | [link](https://www.twitch.tv/videos/489097474) |
 | 99 | Sowny25 | 0:11:30 | 2020-11-18 | [link](https://www.youtube.com/watch?v=XWbu-ihgu94) |
+| 99 | GlitchyPa | 0:11:30 | 2022-06-05 | [link](https://www.twitch.tv/videos/1495382599) |
 | 99 | Suey7 | 0:11:30 | 2017-08-15 | [link](https://www.twitch.tv/videos/167161630) |
 | 104 | ThePKing | 0:11:31 | 2020-07-09 | [link](https://youtu.be/nHaX9gS781U) |
 | 104 | Macobra52 | 0:11:31 | 2019-06-02 | [link](https://www.twitch.tv/videos/433666319) |
