@@ -11,10 +11,10 @@ categories: speedrun
 | 2 | Czikubi | 0:03:02.383000 | 2021-03-29 | [link](https://www.twitch.tv/videos/968510773) |
 | 3 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
 | 4 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
-| 5 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
-| 6 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
-| 7 | iceball8314 | 0:03:07.766000 | 2022-07-08 | [link](https://www.youtube.com/watch?v=pWIPoyKOmSc) |
-| 8 | TheCrit | 0:03:07.833000 | 2022-01-04 | [link](https://www.youtube.com/watch?v=Xg8ZH6tyS80) |
+| 5 | TheCrit | 0:03:06.683000 | 2022-07-30 | [link](https://www.youtube.com/watch?v=fhBrApfeIdY) |
+| 6 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
+| 7 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
+| 8 | iceball8314 | 0:03:07.766000 | 2022-07-08 | [link](https://www.youtube.com/watch?v=pWIPoyKOmSc) |
 | 9 | narfman0 | 0:03:08.433000 | 2021-09-12 | [link](https://youtu.be/h2xeo2zJERc) |
 | 10 | Ellonija | 0:03:08.716000 | 2018-11-14 | [link](https://www.twitch.tv/videos/335488260) |
 | 11 | MrSavageKitty | 0:03:08.733000 | 2022-02-27 | [link](https://www.youtube.com/watch?v=0Spt16Z_2vU) |
