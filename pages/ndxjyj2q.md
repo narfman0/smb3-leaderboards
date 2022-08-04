@@ -33,10 +33,10 @@ categories: speedrun
 | 21 | GTAce99 | 0:10:54 | 2022-02-09 | [link](https://youtu.be/U7wy1OnHCz4) |
 | 21 | HorseDad | 0:10:54 | 2017-04-23 | [link](https://www.twitch.tv/videos/137697987) |
 | 21 | COOLKID | 0:10:54 | 2018-09-15 | [link](https://www.twitch.tv/videos/310149029) |
+| 27 | iceball8314 | 0:10:55 | 2022-08-02 | [link](https://www.youtube.com/watch?v=sB4fzR5XedM) |
 | 27 | LeKukie | 0:10:55 | 2020-09-21 | [link](https://www.youtube.com/watch?v=KVRK68_JTo0&ab_channel=-LeKukie-) |
 | 27 | TheHaxor | 0:10:55 | 2019-03-04 | [link](https://www.twitch.tv/videos/390625028) |
 | 27 | Svenne | 0:10:55 | 2016-05-31 | [link](https://www.twitch.tv/retrogaminglivetv/v/69764511) |
-| 27 | iceball8314 | 0:10:55 | 2022-08-02 | [link](https://www.youtube.com/watch?v=sB4fzR5XedM) |
 | 31 | brocis420 | 0:10:56 | 2021-06-06 | [link](https://youtu.be/sS8p_H9acWw) |
 | 31 | yatokami9 | 0:10:56 | 2021-07-05 | [link](https://www.twitch.tv/videos/1077654280) |
 | 31 | YourFreeChicken | 0:10:56 | 2021-06-06 | [link](https://youtu.be/2JOusJtAAN0) |
@@ -333,8 +333,8 @@ categories: speedrun
 | 324 | LateLearner | 0:14:01 | 2018-04-04 | [link](https://www.twitch.tv/videos/246539513) |
 | 325 | megmactv | 0:14:05 | 2019-02-18 | [link](https://www.youtube.com/watch?v=ulsHq71Woj8) |
 | 326 | TheNoodleUdon | 0:14:06 | 2015-12-09 | [link](http://www.twitch.tv/thenoodleudon/v/36158265) |
-| 327 | TheGoobiest | 0:14:07 | 2016-07-16 | [link](https://youtu.be/eaQQXbnZctw) |
 | 327 | SUNNYblue | 0:14:07 | 2022-08-02 | [link](https://youtu.be/Y6FtkvmPFBE) |
+| 327 | TheGoobiest | 0:14:07 | 2016-07-16 | [link](https://youtu.be/eaQQXbnZctw) |
 | 329 | Raul_1138 | 0:14:08 | 2020-03-30 | [link](https://www.twitch.tv/videos/579104275) |
 | 329 | SteamMeme | 0:14:08 | 2020-07-12 | [link](https://youtu.be/hw4VN_WTKlY) |
 | 329 | ckellyedits | 0:14:08 | 2021-01-24 | [link](https://www.youtube.com/watch?v=rJvxTtKtXGo) |
