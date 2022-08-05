@@ -7,7 +7,7 @@ categories: speedrun
 
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
-| 1 | mitchflowerpower | 0:50:27 | 2022-04-09 | [link](https://www.youtube.com/watch?v=9_rcENOsqv4) |
+| 1 | mitchflowerpower | 0:50:25 | 2022-08-03 | [link](https://www.youtube.com/watch?v=0QYOrI5IHic) |
 | 2 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
 | 3 | Czikubi | 0:50:54 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
 | 4 | maibaRTA | 0:50:56 | 2022-05-22 | [link](https://www.twitch.tv/videos/1490705034) |
