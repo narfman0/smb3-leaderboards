@@ -333,6 +333,7 @@ categories: speedrun
 | 321 | Billy_bongsalot | 0:04:17 | 2021-05-26 | [link](https://www.twitch.tv/videos/1036910309) |
 | 325 | MinusWorldJay | 0:04:18 | 2020-06-22 | [link](https://youtu.be/0rQ9pTXMSYg) |
 | 325 | ShesChardcore | 0:04:18 | 2019-09-13 | [link](https://www.twitch.tv/videos/481011276) |
+| 325 | Darkman_ | 0:04:18 | 2022-08-10 | [link](https://www.youtube.com/watch?v=hvYhMI3e2bU) |
 | 325 | Leybo | 0:04:18 | 2018-03-18 | [link](https://www.youtube.com/watch?v=V3PeKBjqClc) |
 | 325 | Twafad | 0:04:18 | 2021-05-24 | [link](https://youtu.be/SWGM77pHuls) |
 | 325 | AnimusUnited | 0:04:18 | 2020-12-04 | [link](https://www.twitch.tv/videos/825412475) |
@@ -340,7 +341,6 @@ categories: speedrun
 | 325 | JuegAriel | 0:04:18 | 2017-03-21 | [link](https://www.twitch.tv/videos/130239510) |
 | 325 | 6regory | 0:04:18 | 2017-09-09 | [link](https://youtu.be/xozuG7fSB2M) |
 | 325 | Bullfrog | 0:04:18 | 2017-02-23 | [link](https://www.twitch.tv/videos/124119242) |
-| 325 | Darkman_ | 0:04:18 | 2022-08-10 | [link](https://www.youtube.com/watch?v=hvYhMI3e2bU) |
 | 335 | ThreeToadSloth | 0:04:19 | 2019-12-31 | [link](https://youtu.be/4Bwv4pbl4qg) |
 | 335 | Lilpuri | 0:04:19 | 2022-04-29 | [link](https://www.youtube.com/watch?v=SqifPD81Wsk) |
 | 335 | SickMyDuck | 0:04:19 | 2018-01-26 | [link](https://youtu.be/IrFvbdj5mow) |
@@ -447,8 +447,8 @@ categories: speedrun
 | 438 | scottzirra | 0:05:00 | 2017-04-05 | [link](https://www.youtube.com/watch?v=DCt8vVoPZjw) |
 | 438 | VITA_retro | 0:05:00 | 2021-01-25 | [link](https://youtu.be/X1ajHPIgucU) |
 | 438 | jonathanirvings | 0:05:00 | 2022-03-18 | [link](https://www.youtube.com/watch?v=BsKl1uPIhhw) |
-| 441 | DrPackun | 0:05:02 | 2022-08-03 | [link](https://youtu.be/E0SFTXfyA9U) |
 | 441 | Leggs | 0:05:02 | 2021-04-27 | [link](https://youtu.be/FLW9stUSjic) |
+| 441 | DrPackun | 0:05:02 | 2022-08-03 | [link](https://youtu.be/E0SFTXfyA9U) |
 | 443 | Powergamerpro | 0:05:07 | 2019-08-05 | [link](https://youtu.be/NjOVU5fnGWs) |
 | 444 | louiskanak | 0:05:09 | 2020-05-24 | [link](https://www.youtube.com/watch?v=Q_N88wqO4OI) |
 | 445 | clearlycharlie | 0:05:15 | 2017-02-22 | [link](https://www.twitch.tv/videos/123864008) |
