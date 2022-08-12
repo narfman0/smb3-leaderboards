@@ -75,9 +75,9 @@ categories: speedrun
 | 66 | iceball8314 | 0:53:57 | 2022-04-24 | [link](https://www.youtube.com/watch?v=lfn4d_eieB4) |
 | 67 | Tompa | 0:53:58 | 2022-06-02 | [link](https://www.twitch.tv/videos/1503754373) |
 | 67 | TheLightYagami | 0:53:58 | 2015-09-08 | [link](http://www.twitch.tv/thelightyagami/v/15146872) |
+| 69 | helfmyselp | 0:53:59 | 2022-08-08 | [link](https://www.youtube.com/watch?v=S6_lR4HhR60) |
 | 69 | esmo88 | 0:53:59 | 2020-02-01 | [link](https://www.twitch.tv/videos/545533125) |
-| 70 | Chelney | 0:54:01 | 2016-02-28 | [link](http://www.twitch.tv/chelney1/v/51413068) |
-| 71 | helfmyselp | 0:54:07 | 2021-12-01 | [link](https://www.youtube.com/watch?v=kLOp9f9TZbI) |
+| 71 | Chelney | 0:54:01 | 2016-02-28 | [link](http://www.twitch.tv/chelney1/v/51413068) |
 | 72 | zyzex_remix | 0:54:10 | 2020-05-22 | [link](https://www.twitch.tv/videos/629130264) |
 | 73 | nopons | 0:54:12 | 2022-06-24 | [link](https://www.youtube.com/watch?v=jAAKaYRn1MI) |
 | 74 | HocusPocus | 0:54:21 | 2021-08-27 | [link](https://www.twitch.tv/videos/1131428124) |
