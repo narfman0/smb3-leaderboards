@@ -41,8 +41,8 @@ categories: speedrun
 | 31 | Simplistic_Memes | 0:10:56 | 2022-08-10 | [link](https://youtu.be/jJFK1zMJZhg) |
 | 31 | yatokami9 | 0:10:56 | 2021-07-05 | [link](https://www.twitch.tv/videos/1077654280) |
 | 31 | YourFreeChicken | 0:10:56 | 2021-06-06 | [link](https://youtu.be/2JOusJtAAN0) |
-| 35 | dom | 0:10:58 | 2021-04-20 | [link](https://www.twitch.tv/videos/994542334) |
 | 35 | Scarface | 0:10:58 | 2021-02-06 | [link](https://youtu.be/PUMN-IGCodU) |
+| 35 | dom | 0:10:58 | 2021-04-20 | [link](https://www.twitch.tv/videos/994542334) |
 | 35 | Eclipsed | 0:10:58 | 2022-01-23 | [link](https://youtu.be/Sj2hoErY-d0) |
 | 35 | darbian | 0:10:58 | 2016-09-18 | [link](https://www.twitch.tv/darbian/v/97167568) |
 | 35 | NathanAlmighty | 0:10:58 | 2017-11-10 | [link](https://www.youtube.com/watch?v=Tmvby-WW7eU&feature=youtu.be) |
@@ -100,10 +100,10 @@ categories: speedrun
 | 91 | Javeliin | 0:11:25 | 2020-04-19 | [link](https://youtu.be/fx5AjqLR2xc) |
 | 91 | TuttiPullo | 0:11:25 | 2021-01-02 | [link](https://youtu.be/2Pc0sOtSTbY) |
 | 91 | GFXS | 0:11:25 | 2019-03-16 | [link](https://www.youtube.com/watch?v=dfey0jFaOHM&t=121s) |
-| 94 | helfmyselp | 0:11:26 | 2022-08-14 | [link](https://www.youtube.com/watch?v=FZ8pq_BzjmY) |
 | 94 | budzyRNG | 0:11:26 | 2022-04-15 | [link](https://www.twitch.tv/videos/1456964421) |
 | 94 | MC_2018 | 0:11:26 | 2018-12-27 | [link](https://www.youtube.com/watch?v=VaKWV3RWOJM) |
 | 94 | icterus440 | 0:11:26 | 2021-03-13 | [link](https://youtu.be/lfQFhzmm40I) |
+| 94 | helfmyselp | 0:11:26 | 2022-08-14 | [link](https://www.youtube.com/watch?v=FZ8pq_BzjmY) |
 | 94 | Fish_Noob | 0:11:26 | 2021-08-03 | [link](https://www.youtube.com/watch?v=Vpc0ZWe29OE) |
 | 94 | Japezu | 0:11:26 | 2022-01-18 | [link](https://www.twitch.tv/videos/1267504400?filter=highlights&sort=time) |
 | 100 | HUmanMustard | 0:11:27 | 2020-05-29 | [link](https://www.twitch.tv/videos/635121671) |
@@ -112,8 +112,8 @@ categories: speedrun
 | 101 | Sowny25 | 0:11:30 | 2020-11-18 | [link](https://www.youtube.com/watch?v=XWbu-ihgu94) |
 | 101 | GlitchyPa | 0:11:30 | 2022-06-05 | [link](https://www.twitch.tv/videos/1495382599) |
 | 101 | Suey7 | 0:11:30 | 2017-08-15 | [link](https://www.twitch.tv/videos/167161630) |
-| 106 | ThePKing | 0:11:31 | 2020-07-09 | [link](https://youtu.be/nHaX9gS781U) |
 | 106 | Macobra52 | 0:11:31 | 2019-06-02 | [link](https://www.twitch.tv/videos/433666319) |
+| 106 | ThePKing | 0:11:31 | 2020-07-09 | [link](https://youtu.be/nHaX9gS781U) |
 | 106 | amorujao | 0:11:31 | 2019-06-04 | [link](https://www.youtube.com/watch?v=tid0Rnae8Rk) |
 | 109 | eHolden | 0:11:32 | 2020-06-15 | [link](https://youtu.be/9NZJhZ1WNKg) |
 | 110 | Alvaca | 0:11:33 | 2022-05-24 | [link](https://youtu.be/zheNl4Tk22Y) |
@@ -138,12 +138,12 @@ categories: speedrun
 | 128 | ZeeGee_ | 0:11:44 | 2020-02-19 | [link](https://www.twitch.tv/videos/554344924) |
 | 128 | chickenfish4 | 0:11:44 | 2017-05-09 | [link](https://youtu.be/hgTQ4JuZGTE) |
 | 131 | SamuraiYudansha | 0:11:45 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450924685) |
+| 132 | jahaley64 | 0:11:46 | 2022-03-24 | [link](https://www.twitch.tv/videos/1435743701) |
 | 132 | TheTerrificTracy | 0:11:46 | 2021-02-16 | [link](https://youtu.be/1voAI4JhuoQ) |
 | 132 | WhicheverMirror | 0:11:46 | 2021-08-25 | [link](https://www.youtube.com/watch?v=_8Fcbyc27Fc) |
-| 132 | jahaley64 | 0:11:46 | 2022-03-24 | [link](https://www.twitch.tv/videos/1435743701) |
 | 135 | OnlyMoneyNotTalent | 0:11:47 | 2020-12-09 | [link](https://www.youtube.com/watch?v=HSQEqJewU_8) |
-| 136 | proa007 | 0:11:48 | 2019-12-31 | [link](https://www.twitch.tv/videos/529026133) |
 | 136 | bowtie1320 | 0:11:48 | 2021-02-13 | [link](https://www.twitch.tv/videos/913315628) |
+| 136 | proa007 | 0:11:48 | 2019-12-31 | [link](https://www.twitch.tv/videos/529026133) |
 | 136 | THE_T_V1RUS | 0:11:48 | 2016-12-08 | [link](https://www.youtube.com/watch?v=RAuDdUcJGbg) |
 | 139 | mrpickaxe | 0:11:49 | 2020-09-25 | [link](https://youtu.be/gr8V3sIwfPQ) |
 | 139 | lackattack | 0:11:49 | 2016-11-05 | [link](https://www.twitch.tv/lackattack24/v/99640921) |
@@ -182,8 +182,8 @@ categories: speedrun
 | 173 | VonGerstenberg | 0:12:06 | 2021-06-08 | [link](https://www.twitch.tv/videos/1050521893) |
 | 174 | Rocksy | 0:12:07 | 2016-05-21 | [link](https://www.twitch.tv/friendlyrock/v/67692623) |
 | 175 | Mr.JacoPbass | 0:12:08 | 2018-05-25 | [link](https://youtu.be/VyayZG5MKmo) |
-| 176 | DeadmanPR | 0:12:09 | 2020-09-12 | [link](https://www.twitch.tv/videos/739523464) |
 | 176 | mrcab55 | 0:12:09 | 2019-02-24 | [link](https://www.youtube.com/watch?v=ENfR1dp1hdE) |
+| 176 | DeadmanPR | 0:12:09 | 2020-09-12 | [link](https://www.twitch.tv/videos/739523464) |
 | 176 | joons88 | 0:12:09 | 2021-11-20 | [link](https://www.youtube.com/watch?v=6vgRkjdza84) |
 | 176 | HommePNIS | 0:12:09 | 2016-04-30 | [link](https://www.youtube.com/watch?v=3EPRLYKbqFs&feature=youtu.be) |
 | 180 | limestoners | 0:12:11 | 2021-06-03 | [link](https://www.twitch.tv/videos/1044206911) |
@@ -246,8 +246,8 @@ categories: speedrun
 | 237 | StrandedKnight | 0:12:49 | 2021-07-27 | [link](https://www.youtube.com/watch?v=f1bUFD4ThkI) |
 | 237 | Luvbaseball58 | 0:12:49 | 2016-12-01 | [link](https://m.youtube.com/watch?v=axhZJ7jRdI4) |
 | 239 | YoBGS | 0:12:50 | 2019-05-23 | [link](https://www.twitch.tv/videos/429200561) |
-| 240 | k1ngk0opa | 0:12:52 | 2022-04-20 | [link](https://youtu.be/sdaoljDz9KE) |
 | 240 | Oakman978 | 0:12:52 | 2018-03-15 | [link](https://www.youtube.com/watch?v=sZWnUZR3fVo) |
+| 240 | k1ngk0opa | 0:12:52 | 2022-04-20 | [link](https://youtu.be/sdaoljDz9KE) |
 | 242 | ahoychinesefood | 0:12:53 | 2017-03-30 | [link](https://www.twitch.tv/videos/132184785) |
 | 243 | Cad225 | 0:12:54 | 2018-12-27 | [link](https://www.youtube.com/watch?v=zYv6RdQBZRY) |
 | 243 | NilesMonkey | 0:12:54 | 2022-02-05 | [link](https://www.youtube.com/watch?v=fg60uJxWas8) |
@@ -284,8 +284,8 @@ categories: speedrun
 | 275 | parkerjam | 0:13:21.870000 | 2022-04-01 | [link](https://www.twitch.tv/videos/1443782552) |
 | 276 | bmfm | 0:13:22 | 2013-11-05 | [link](http://www.twitch.tv/bmfm/c/3206620) |
 | 277 | rink2022 | 0:13:23 | 2022-04-10 | [link](https://youtu.be/qCKKsRn-CHQ) |
-| 277 | JoshKeys | 0:13:23 | 2020-02-26 | [link](https://youtu.be/wUOBgq252hQ) |
 | 277 | Shauny7188 | 0:13:23 | 2020-04-04 | [link](https://www.youtube.com/watch?v=a53BkJmwFcU) |
+| 277 | JoshKeys | 0:13:23 | 2020-02-26 | [link](https://youtu.be/wUOBgq252hQ) |
 | 277 | iokua84 | 0:13:23 | 2015-09-12 | [link](http://www.twitch.tv/iokua84/v/15666337) |
 | 281 | eggman_92 | 0:13:24 | 2021-02-13 | [link](https://www.twitch.tv/videos/911884493) |
 | 282 | penjii | 0:13:26 | 2022-01-01 | [link](https://youtu.be/SDZPxQfR2hc) |
