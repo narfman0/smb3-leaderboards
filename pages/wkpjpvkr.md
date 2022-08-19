@@ -313,11 +313,11 @@ categories: speedrun
 | 299 | NinWorld | 0:04:13 | 2018-07-09 | [link](https://www.youtube.com/watch?v=Sr1Np54wYfw&t=3140s) |
 | 299 | greatjhon | 0:04:13 | 2017-04-12 | [link](https://www.twitch.tv/videos/135261476) |
 | 299 | smartalec24 | 0:04:13 | 2016-12-20 | [link](https://www.twitch.tv/videos/108559639) |
+| 307 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
 | 307 | Jayaye78 | 0:04:14 | 2021-05-14 | [link](https://www.twitch.tv/videos/1025365133) |
 | 307 | zutetflute | 0:04:14 | 2018-03-02 | [link](https://youtu.be/jrsHceWF7vM) |
 | 307 | OneWingdAngel | 0:04:14 | 2018-03-20 | [link](https://youtu.be/E38FBfMZe5k) |
 | 307 | JonnyLink | 0:04:14 | 2021-06-07 | [link](https://youtu.be/UkZ13jmSKhM) |
-| 307 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
 | 312 | nicorasu | 0:04:15 | 2019-12-22 | [link](https://www.twitch.tv/videos/524752526) |
 | 312 | WontedEvil158 | 0:04:15 | 2022-05-23 | [link](https://youtu.be/TgGbfOnS_Sg) |
 | 312 | melloflowz | 0:04:15 | 2019-03-19 | [link](https://www.twitch.tv/videos/398382567) |

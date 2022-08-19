@@ -92,8 +92,8 @@ categories: speedrun
 | 83 | SkylightFox | 0:54:30 | 2017-04-07 | [link](https://www.twitch.tv/videos/134025630) |
 | 84 | The_Col | 0:54:32 | 2018-07-15 | [link](https://www.twitch.tv/videos/285019580) |
 | 84 | Joshua69yt | 0:54:32 | 2020-08-13 | [link](https://youtu.be/TlfXut4Psws) |
-| 86 | OnlyMoneyNotTalent | 0:54:38 | 2020-08-18 | [link](https://www.youtube.com/watch?v=MLXqEicjJL8) |
 | 86 | Hasauce | 0:54:38 | 2022-08-17 | [link](https://youtu.be/LFyaRZ3o1ZY) |
+| 86 | OnlyMoneyNotTalent | 0:54:38 | 2020-08-18 | [link](https://www.youtube.com/watch?v=MLXqEicjJL8) |
 | 88 | kekumanshoyu | 0:54:42 | 2021-05-20 | [link](https://www.twitch.tv/videos/1029009373) |
 | 89 | lackattack | 0:54:43 | 2018-05-09 | [link](https://www.twitch.tv/videos/259689453) |
 | 90 | Arcus | 0:54:45 | 2019-10-09 | [link](https://www.twitch.tv/videos/492542362) |
