@@ -10,8 +10,8 @@ categories: speedrun
 | 1 | Kuto1k | 0:03:02.250000 | 2022-06-09 | [link](https://www.twitch.tv/videos/1498716659) |
 | 2 | Czikubi | 0:03:02.383000 | 2021-03-29 | [link](https://www.twitch.tv/videos/968510773) |
 | 3 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
-| 4 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
-| 5 | TheCrit | 0:03:06.683000 | 2022-07-30 | [link](https://www.youtube.com/watch?v=fhBrApfeIdY) |
+| 4 | TheCrit | 0:03:04.866000 | 2022-08-15 | [link](https://www.youtube.com/watch?v=jim2pj8PXsA) |
+| 5 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
 | 6 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
 | 7 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
 | 8 | iceball8314 | 0:03:07.766000 | 2022-07-08 | [link](https://www.youtube.com/watch?v=pWIPoyKOmSc) |
@@ -313,11 +313,11 @@ categories: speedrun
 | 299 | NinWorld | 0:04:13 | 2018-07-09 | [link](https://www.youtube.com/watch?v=Sr1Np54wYfw&t=3140s) |
 | 299 | greatjhon | 0:04:13 | 2017-04-12 | [link](https://www.twitch.tv/videos/135261476) |
 | 299 | smartalec24 | 0:04:13 | 2016-12-20 | [link](https://www.twitch.tv/videos/108559639) |
-| 307 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
 | 307 | Jayaye78 | 0:04:14 | 2021-05-14 | [link](https://www.twitch.tv/videos/1025365133) |
 | 307 | zutetflute | 0:04:14 | 2018-03-02 | [link](https://youtu.be/jrsHceWF7vM) |
 | 307 | OneWingdAngel | 0:04:14 | 2018-03-20 | [link](https://youtu.be/E38FBfMZe5k) |
 | 307 | JonnyLink | 0:04:14 | 2021-06-07 | [link](https://youtu.be/UkZ13jmSKhM) |
+| 307 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
 | 312 | nicorasu | 0:04:15 | 2019-12-22 | [link](https://www.twitch.tv/videos/524752526) |
 | 312 | WontedEvil158 | 0:04:15 | 2022-05-23 | [link](https://youtu.be/TgGbfOnS_Sg) |
 | 312 | melloflowz | 0:04:15 | 2019-03-19 | [link](https://www.twitch.tv/videos/398382567) |
