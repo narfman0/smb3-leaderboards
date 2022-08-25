@@ -9,13 +9,13 @@ categories: speedrun
  ---- | ------ | ---- | ---- | ----- 
 | 1 | mitchflowerpower | 0:50:25 | 2022-08-03 | [link](https://www.youtube.com/watch?v=0QYOrI5IHic) |
 | 2 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
-| 3 | Czikubi | 0:50:54 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
-| 4 | maibaRTA | 0:50:56 | 2022-05-22 | [link](https://www.twitch.tv/videos/1490705034) |
-| 5 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
-| 6 | TEEX88 | 0:51:02 | 2022-03-20 | [link](https://www.twitch.tv/videos/1431820906) |
-| 7 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
-| 8 | narfman0 | 0:51:12 | 2022-07-24 | [link](https://youtu.be/iVijRNB8K0E) |
-| 8 | Lui | 0:51:12 | 2022-03-27 | [link](https://youtu.be/soMuKQfoYOM) |
+| 3 | narfman0 | 0:50:54.733000 | 2022-08-24 | [link](https://youtu.be/zAkNYqeygEk) |
+| 4 | Czikubi | 0:50:54.866000 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
+| 5 | maibaRTA | 0:50:56 | 2022-05-22 | [link](https://www.twitch.tv/videos/1490705034) |
+| 6 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
+| 7 | TEEX88 | 0:51:02 | 2022-03-20 | [link](https://www.twitch.tv/videos/1431820906) |
+| 8 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
+| 9 | Lui | 0:51:12 | 2022-03-27 | [link](https://youtu.be/soMuKQfoYOM) |
 | 10 | IluvMario | 0:51:17 | 2018-04-09 | [link](https://www.twitch.tv/videos/248583120) |
 | 11 | ZoneVD | 0:51:19 | 2021-04-22 | [link](https://www.twitch.tv/videos/995985992) |
 | 12 | Ellonija | 0:51:21 | 2017-05-24 | [link](https://www.twitch.tv/videos/146750506) |
