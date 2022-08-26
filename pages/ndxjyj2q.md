@@ -128,8 +128,8 @@ categories: speedrun
 | 118 | rockdet | 0:11:38 | 2017-01-22 | [link](https://www.twitch.tv/rockdet/v/116708806) |
 | 120 | Riccioli88 | 0:11:40 | 2021-05-27 | [link](https://www.youtube.com/watch?v=xAaiq0lT3vI) |
 | 120 | Adotis | 0:11:40 | 2021-07-15 | [link](https://www.twitch.tv/videos/1087629082) |
-| 122 | CooperJW13 | 0:11:41 | 2022-08-18 | [link](https://www.twitch.tv/videos/1565298970) |
 | 122 | Malachibros20085721 | 0:11:41 | 2022-02-05 | [link](https://www.twitch.tv/videos/1287650272) |
+| 122 | CooperJW13 | 0:11:41 | 2022-08-18 | [link](https://www.twitch.tv/videos/1565298970) |
 | 122 | mace_ | 0:11:41 | 2022-05-08 | [link](https://www.youtube.com/watch?v=RxXrAK3kfhw) |
 | 122 | nerd4LERT | 0:11:41 | 2021-04-26 | [link](https://www.youtube.com/watch?v=OLrEJd2Gq4U) |
 | 126 | riscky | 0:11:42 | 2017-08-13 | [link](https://youtu.be/uZtI_bD_fzk) |
