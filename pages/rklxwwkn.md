@@ -34,11 +34,11 @@ categories: speedrun
 | 25 | EthanRTA | 0:51:56 | 2022-04-17 | [link](https://youtu.be/u5DaRhfjaQo) |
 | 26 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
 | 27 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
-| 28 | MarstoS | 0:52:04 | 2022-06-30 | [link](https://www.twitch.tv/videos/1517895782) |
-| 29 | Sakaali | 0:52:05 | 2022-08-24 | [link](https://www.twitch.tv/videos/1571452867) |
-| 30 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
-| 30 | Track1 | 0:52:14 | 2022-07-07 | [link](https://www.twitch.tv/videos/1525215299?filter=highlights&sort=time) |
-| 32 | TrueHyperMario | 0:52:23 | 2022-07-04 | [link](https://www.twitch.tv/videos/1521720482) |
+| 28 | TrueHyperMario | 0:52:01 | 2022-08-30 | [link](https://www.twitch.tv/videos/1577053133) |
+| 29 | MarstoS | 0:52:04 | 2022-06-30 | [link](https://www.twitch.tv/videos/1517895782) |
+| 30 | Sakaali | 0:52:05 | 2022-08-24 | [link](https://www.twitch.tv/videos/1571452867) |
+| 31 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
+| 31 | Track1 | 0:52:14 | 2022-07-07 | [link](https://www.twitch.tv/videos/1525215299?filter=highlights&sort=time) |
 | 33 | Macobra52 | 0:52:26 | 2020-07-31 | [link](https://www.twitch.tv/videos/696469338) |
 | 34 | Mondii | 0:52:29 | 2022-03-03 | [link](https://www.twitch.tv/videos/1413869428) |
 | 35 | MoonJi | 0:52:30 | 2019-01-10 | [link](https://www.youtube.com/watch?v=95c6tX8tY_c&t=1498s) |
