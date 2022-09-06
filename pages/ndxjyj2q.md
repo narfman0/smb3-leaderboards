@@ -36,9 +36,9 @@ categories: speedrun
 | 23 | HorseDad | 0:10:54 | 2017-04-23 | [link](https://www.twitch.tv/videos/137697987) |
 | 23 | COOLKID | 0:10:54 | 2018-09-15 | [link](https://www.twitch.tv/videos/310149029) |
 | 29 | LeKukie | 0:10:55 | 2020-09-21 | [link](https://www.youtube.com/watch?v=KVRK68_JTo0&ab_channel=-LeKukie-) |
+| 29 | TheCrit | 0:10:55 | 2022-09-03 | [link](https://www.youtube.com/watch?v=Zwpbgj66V40) |
 | 29 | TheHaxor | 0:10:55 | 2019-03-04 | [link](https://www.twitch.tv/videos/390625028) |
 | 29 | Svenne | 0:10:55 | 2016-05-31 | [link](https://www.twitch.tv/retrogaminglivetv/v/69764511) |
-| 29 | TheCrit | 0:10:55 | 2022-09-03 | [link](https://www.youtube.com/watch?v=Zwpbgj66V40) |
 | 33 | brocis420 | 0:10:56 | 2021-06-06 | [link](https://youtu.be/sS8p_H9acWw) |
 | 33 | Simplistic_Memes | 0:10:56 | 2022-08-10 | [link](https://youtu.be/jJFK1zMJZhg) |
 | 33 | yatokami9 | 0:10:56 | 2021-07-05 | [link](https://www.twitch.tv/videos/1077654280) |
