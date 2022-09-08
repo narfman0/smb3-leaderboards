@@ -133,11 +133,11 @@ categories: speedrun
 | 116 | CasualTom | 0:03:51 | 2019-03-30 | [link](https://www.youtube.com/watch?v=27CJsHO1Qt0) |
 | 125 | crasyfingers | 0:03:52 | 2019-02-09 | [link](https://www.twitch.tv/videos/377672762) |
 | 125 | JoeyWheeler | 0:03:52 | 2019-07-08 | [link](https://www.youtube.com/watch?v=nxI2jPfBFpI) |
+| 125 | stewie_cartman | 0:03:52 | 2022-03-06 | [link](https://www.twitch.tv/videos/1417916689) |
 | 125 | Uvideo | 0:03:52 | 2020-04-15 | [link](https://www.youtube.com/watch?v=fw4wjXq7dOE) |
 | 125 | Bebert5014 | 0:03:52 | 2021-03-11 | [link](https://youtu.be/hfoHPRvjEnU) |
 | 125 | Mingura666 | 0:03:52 | 2021-04-12 | [link](https://youtu.be/sd02-v4Qxxg) |
 | 125 | WhicheverMirror | 0:03:52 | 2021-06-29 | [link](https://www.youtube.com/watch?v=GM2xy6YLkmU) |
-| 125 | stewie_cartman | 0:03:52 | 2022-03-06 | [link](https://www.twitch.tv/videos/1417916689) |
 | 125 | CarlEmilEx | 0:03:52 | 2017-03-13 | [link](https://youtu.be/Fg0kcSOYfwk) |
 | 125 | FURiOUS | 0:03:52 | 2015-06-19 | [link](https://www.youtube.com/watch?v=qnC1fzT7oXM) |
 | 125 | zaqwa | 0:03:52 | 2017-09-07 | [link](https://www.youtube.com/watch?v=CrhfO2MdsfY) |
@@ -292,8 +292,8 @@ categories: speedrun
 | 281 | klebdotio | 0:04:09 | 2018-07-15 | [link](https://youtu.be/oG-zlc1hTVQ) |
 | 281 | sdmx | 0:04:09 | 2018-11-17 | [link](https://www.youtube.com/watch?v=Aut2GUbHtGo) |
 | 281 | Yosch | 0:04:09 | 2021-03-27 | [link](https://www.youtube.com/watch?v=sup42wDHXU4) |
-| 281 | FyrizZ | 0:04:09 | 2022-07-22 | [link](https://youtu.be/_0tZ3wMROPg) |
 | 281 | SAMUR | 0:04:09 | 2022-04-12 | [link](https://youtu.be/mIZh09PUw64) |
+| 281 | FyrizZ | 0:04:09 | 2022-07-22 | [link](https://youtu.be/_0tZ3wMROPg) |
 | 281 | Lipe_Berserker | 0:04:09 | 2017-02-23 | [link](https://www.youtube.com/watch?v=HytnSGqrous) |
 | 281 | Darkmariosan | 0:04:09 | 2018-01-28 | [link](https://www.youtube.com/watch?v=WA2avBuWtpk) |
 | 290 | Thelxinoe | 0:04:10 | 2020-09-06 | [link](https://www.twitch.tv/videos/730836076) |
@@ -355,8 +355,8 @@ categories: speedrun
 | 343 | Flamedemon612 | 0:04:20 | 2020-08-20 | [link](https://youtu.be/7uIrn_9-iAY) |
 | 343 | Elohzee | 0:04:20 | 2021-03-21 | [link](https://youtu.be/dxNPQ-o0FXQ) |
 | 343 | 456Productions_YT | 0:04:20 | 2021-05-21 | [link](https://www.youtube.com/watch?v=wIjaWEixbsM) |
-| 343 | JuanSantamaria | 0:04:20 | 2021-07-11 | [link](https://www.twitch.tv/zencl4/v/1083277816?sr=a&t=184s) |
 | 343 | Falling_Tacos | 0:04:20 | 2022-01-16 | [link](https://www.twitch.tv/videos/1266208515) |
+| 343 | JuanSantamaria | 0:04:20 | 2021-07-11 | [link](https://www.twitch.tv/zencl4/v/1083277816?sr=a&t=184s) |
 | 343 | Jean20B | 0:04:20 | 2018-09-19 | [link](https://youtu.be/vTrN4I-30Ac) |
 | 343 | pahchi | 0:04:20 | 2017-09-11 | [link](https://www.twitch.tv/videos/173933796) |
 | 343 | Claire | 0:04:20 | 2019-10-20 | [link](https://www.twitch.tv/videos/497807984) |
@@ -371,8 +371,8 @@ categories: speedrun
 | 362 | diemb | 0:04:24 | 2021-05-05 | [link](https://www.youtube.com/watch?v=BELMPNC4iRA) |
 | 362 | Temmichel | 0:04:24 | 2021-01-31 | [link](https://www.youtube.com/watch?v=rRN5tRjjIPY) |
 | 364 | miba | 0:04:25 | 2018-02-10 | [link](https://youtu.be/yJiY1rBj27k) |
-| 364 | ZeldasKitten | 0:04:25 | 2021-03-14 | [link](https://youtu.be/tX4Bs4lkTtI) |
 | 364 | beast14356 | 0:04:25 | 2021-12-06 | [link](https://www.youtube.com/watch?v=B3XDda29iWc) |
+| 364 | ZeldasKitten | 0:04:25 | 2021-03-14 | [link](https://youtu.be/tX4Bs4lkTtI) |
 | 364 | Carnageraiser1 | 0:04:25 | 2018-05-28 | [link](https://www.twitch.tv/videos/247330800) |
 | 364 | KuLemon | 0:04:25 | 2019-09-07 | [link](https://www.youtube.com/watch?v=Ve7IZy0tnnE&ab_channel=Ku%27Lemon) |
 | 369 | tenguliam | 0:04:26 | 2017-10-24 | [link](https://www.twitch.tv/videos/184648530) |
@@ -428,8 +428,8 @@ categories: speedrun
 | 419 | RealMim | 0:04:45 | 2021-05-04 | [link](https://youtu.be/mTWBgpYxcG8) |
 | 419 | Djinnesis | 0:04:45 | 2019-03-22 | [link](https://youtu.be/LKkJglzvMf4) |
 | 419 | Esthrus | 0:04:45 | 2019-06-07 | [link](https://youtu.be/nq-erkE5FKs) |
-| 422 | Yalemarr | 0:04:46 | 2020-09-22 | [link](https://m.youtube.com/watch?v=vruug4_sfDU) |
 | 422 | zombieSR | 0:04:46 | 2022-02-27 | [link](https://youtu.be/PtvFswKbTGs) |
+| 422 | Yalemarr | 0:04:46 | 2020-09-22 | [link](https://m.youtube.com/watch?v=vruug4_sfDU) |
 | 422 | Contraslayer | 0:04:46 | 2017-01-26 | [link](https://www.twitch.tv/contraslayer/v/117521496) |
 | 425 | Firelemon | 0:04:47 | 2020-07-24 | [link](https://www.youtube.com/watch?v=KCpkefiEBho&feature=youtu.be) |
 | 425 | Uriroitgrund | 0:04:47 | 2020-12-28 | [link](https://youtu.be/QTHjTlLDhb4) |
