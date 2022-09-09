@@ -159,8 +159,8 @@ categories: speedrun
 | 143 | Echon | 0:03:54 | 2021-12-12 | [link](https://www.twitch.tv/videos/1231252315) |
 | 151 | Growly87 | 0:03:55 | 2021-03-04 | [link](https://www.twitch.tv/videos/937539476) |
 | 151 | Javeliin | 0:03:55 | 2021-08-07 | [link](https://youtu.be/xuTwO1j9YOc) |
-| 151 | wake911 | 0:03:55 | 2018-12-05 | [link](https://youtu.be/dEe-iBjZAhA) |
 | 151 | Konaxs1 | 0:03:55 | 2021-01-30 | [link](https://www.youtube.com/watch?v=tu_txngKU9o) |
+| 151 | wake911 | 0:03:55 | 2018-12-05 | [link](https://youtu.be/dEe-iBjZAhA) |
 | 151 | topher123890 | 0:03:55 | 2017-09-06 | [link](https://youtu.be/0iv4c-qasqs) |
 | 151 | Scrimsion | 0:03:55 | 2019-08-26 | [link](https://youtu.be/Up5hmjy4VgQ) |
 | 151 | quesmues | 0:03:55 | 2016-09-19 | [link](https://www.youtube.com/watch?v=YBs5IrDC33M&feature=youtu.be) |
@@ -233,13 +233,13 @@ categories: speedrun
 | 218 | ThePKing | 0:04:00 | 2020-07-07 | [link](https://www.youtube.com/watch?v=tJD0sxPq5OU&t=247s) |
 | 225 | Henear | 0:04:01 | 2020-07-03 | [link](https://www.youtube.com/watch?v=YaPeg0NyMUM) |
 | 225 | Smirn | 0:04:01 | 2018-06-29 | [link](https://youtu.be/vlG3OSJ5HjM) |
-| 227 | Honkalaaa | 0:04:02 | 2022-09-02 | [link](https://youtu.be/Sl7b8QUVuFA) |
 | 227 | ACB | 0:04:02 | 2018-06-21 | [link](https://youtu.be/b_OoHHsCvBk) |
 | 227 | I_Enjoy_Games | 0:04:02 | 2020-12-31 | [link](https://youtu.be/pDJP2Co8k_A) |
 | 227 | MagicK | 0:04:02 | 2020-05-14 | [link](https://www.youtube.com/watch?v=0LIBMy9gJ3E) |
 | 227 | DrNexo | 0:04:02 | 2020-07-25 | [link](https://www.youtube.com/watch?v=MqtTqT1rSXw) |
 | 227 | MajorGamer | 0:04:02 | 2021-08-17 | [link](https://www.youtube.com/watch?v=EOQewZfCibg) |
 | 227 | Oxwaa | 0:04:02 | 2020-06-11 | [link](https://www.youtube.com/watch?v=5QSxx5v5KNs) |
+| 227 | Honkalaaa | 0:04:02 | 2022-09-02 | [link](https://youtu.be/Sl7b8QUVuFA) |
 | 227 | abrahamw999 | 0:04:02 | 2021-05-24 | [link](https://www.youtube.com/watch?v=R1JZt64AS00&ab_channel=Abrahamw999) |
 | 227 | Cannalyst | 0:04:02 | 2020-11-04 | [link](https://youtu.be/wZnRhjZt-sg) |
 | 236 | Romxn | 0:04:03 | 2018-06-13 | [link](https://www.twitch.tv/videos/272904639) |
