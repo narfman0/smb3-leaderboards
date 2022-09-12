@@ -8,12 +8,12 @@ categories: speedrun
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
 | 1 | mitchflowerpower | 0:50:25 | 2022-08-03 | [link](https://www.youtube.com/watch?v=0QYOrI5IHic) |
+| 2 | TEEX88 | 0:50:53 | 2022-09-10 | [link](https://www.twitch.tv/videos/1587591151) |
 | 2 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
-| 3 | narfman0 | 0:50:54.733000 | 2022-08-24 | [link](https://youtu.be/zAkNYqeygEk) |
-| 4 | Czikubi | 0:50:54.866000 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
-| 5 | maibaRTA | 0:50:56 | 2022-05-22 | [link](https://www.twitch.tv/videos/1490705034) |
-| 6 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
-| 7 | TEEX88 | 0:51:02 | 2022-03-20 | [link](https://www.twitch.tv/videos/1431820906) |
+| 4 | narfman0 | 0:50:54.733000 | 2022-08-24 | [link](https://youtu.be/zAkNYqeygEk) |
+| 5 | Czikubi | 0:50:54.866000 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
+| 6 | maibaRTA | 0:50:56 | 2022-05-22 | [link](https://www.twitch.tv/videos/1490705034) |
+| 7 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
 | 8 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
 | 9 | Lui | 0:51:12 | 2022-03-27 | [link](https://youtu.be/soMuKQfoYOM) |
 | 10 | IluvMario | 0:51:17 | 2018-04-09 | [link](https://www.twitch.tv/videos/248583120) |
@@ -114,8 +114,8 @@ categories: speedrun
 | 105 | CraigSMB3 | 0:55:27 | 2022-04-09 | [link](https://www.twitch.tv/videos/1451129661) |
 | 105 | favoritepie | 0:55:27 | 2021-08-15 | [link](https://www.youtube.com/watch?v=QkaZs3RsUGo) |
 | 105 | Shoryupiff | 0:55:27 | 2016-06-27 | [link](https://www.twitch.tv/shoryupiff/v/74817967) |
-| 108 | assemble_me | 0:55:28 | 2022-09-08 | [link](https://youtu.be/-KUpEYMGRXY?t=112) |
 | 108 | Jokubotti | 0:55:28 | 2022-03-13 | [link](https://www.twitch.tv/videos/1424466339) |
+| 108 | assemble_me | 0:55:28 | 2022-09-08 | [link](https://youtu.be/-KUpEYMGRXY?t=112) |
 | 108 | Sharchid | 0:55:28 | 2022-04-06 | [link](https://www.twitch.tv/videos/1448176079) |
 | 111 | Galatea86 | 0:55:32 | 2021-11-28 | [link](https://www.youtube.com/watch?v=H3mYvG2HfK0&ab_channel=Galatea86) |
 | 112 | Growly87 | 0:55:41 | 2021-03-25 | [link](https://www.twitch.tv/videos/962376915) |
