@@ -283,10 +283,10 @@ categories: speedrun
 | 274 | RosesThorn | 0:13:20 | 2017-04-07 | [link](https://www.youtube.com/watch?v=35X-cwKx2GY) |
 | 274 | LieutenantSwift | 0:13:20 | 2021-05-31 | [link](https://www.youtube.com/watch?v=cYH47Aay1jg) |
 | 274 | GrowingUp8Bit | 0:13:20 | 2020-12-23 | [link](https://www.twitch.tv/videos/848178164) |
+| 277 | Kyrptonite | 0:13:21 | 2022-09-11 | [link](https://youtu.be/KrYbRYpKJnY) |
 | 277 | parkerjam | 0:13:21 | 2022-04-01 | [link](https://www.twitch.tv/videos/1443782552) |
 | 277 | Jellyman102 | 0:13:21 | 2016-08-14 | [link](https://www.twitch.tv/jellyman67890/v/83631208) |
 | 277 | ValCauor | 0:13:21 | 2020-06-28 | [link](https://youtu.be/hWW5bvnCVww) |
-| 277 | Kyrptonite | 0:13:21 | 2022-09-11 | [link](https://youtu.be/KrYbRYpKJnY) |
 | 281 | bmfm | 0:13:22 | 2013-11-05 | [link](http://www.twitch.tv/bmfm/c/3206620) |
 | 282 | Shauny7188 | 0:13:23 | 2020-04-04 | [link](https://www.youtube.com/watch?v=a53BkJmwFcU) |
 | 282 | JoshKeys | 0:13:23 | 2020-02-26 | [link](https://youtu.be/wUOBgq252hQ) |
