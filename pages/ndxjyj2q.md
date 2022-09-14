@@ -9,17 +9,17 @@ categories: speedrun
  ---- | ------ | ---- | ---- | ----- 
 | 1 | mitchflowerpower | 0:10:41.700000 | 2021-08-31 | [link](https://www.youtube.com/watch?v=9rnyXaSZ3uU&t=643s) |
 | 2 | Czikubi | 0:10:44.066000 | 2021-07-26 | [link](https://www.twitch.tv/videos/1098482605) |
-| 3 | Kirua | 0:10:45.350000 | 2017-08-08 | [link](https://www.twitch.tv/videos/165395327) |
-| 4 | jtknott | 0:10:45.400000 | 2021-06-27 | [link](https://youtu.be/RXfM2aVcGx0) |
-| 5 | Joshua69yt | 0:10:45.733000 | 2022-05-25 | [link](https://youtu.be/PwX2a2U2Rng) |
-| 6 | Kuto1k | 0:10:46.083000 | 2022-09-06 | [link](https://www.youtube.com/watch?v=0sHSdPAgPHo) |
+| 3 | Kuto1k | 0:10:44.600000 | 2022-09-12 | [link](https://www.youtube.com/watch?v=PQ28yFusY1k) |
+| 4 | Kirua | 0:10:45.350000 | 2017-08-08 | [link](https://www.twitch.tv/videos/165395327) |
+| 5 | jtknott | 0:10:45.400000 | 2021-06-27 | [link](https://youtu.be/RXfM2aVcGx0) |
+| 6 | Joshua69yt | 0:10:45.733000 | 2022-05-25 | [link](https://youtu.be/PwX2a2U2Rng) |
 | 7 | Lui | 0:10:46.300000 | 2021-08-30 | [link](https://www.twitch.tv/videos/1134863592) |
 | 8 | eddiecatgaming | 0:10:46.950000 | 2021-06-24 | [link](https://www.youtube.com/watch?v=CJEDhn0P-so) |
 | 9 | jscarbo | 0:10:48.183000 | 2021-07-26 | [link](https://youtu.be/wZ4yCw3VTCI) |
 | 10 | Miniland | 0:10:48.900000 | 2021-07-23 | [link](https://youtu.be/A5Eh3eKw69c) |
 | 11 | SkylightFox | 0:10:49.366000 | 2017-03-05 | [link](https://www.twitch.tv/videos/126600230) |
 | 12 | stewie_cartman | 0:10:49.866000 | 2021-05-30 | [link](https://www.twitch.tv/videos/1040422997) |
-| 13 | iceball8314 | 0:10:50.433000 | 2022-09-04 | [link](https://www.youtube.com/watch?v=Ed4KVgyCv6c) |
+| 13 | iceball8314 | 0:10:50 | 2022-09-12 | [link](https://www.youtube.com/watch?v=P4AbXdBEvJg) |
 | 14 | 10ooki | 0:10:51.183000 | 2015-11-24 | [link](https://youtu.be/w6hygIQyxws) |
 | 15 | [se]Frezy_man | 0:10:52 | 2009-10-17 | [link](https://www.youtube.com/watch?v=m_rHATfUZnM) |
 | 15 | Ellonija | 0:10:52 | 2017-05-08 | [link](https://www.twitch.tv/videos/141022605) |
