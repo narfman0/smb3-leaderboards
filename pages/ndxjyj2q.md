@@ -20,10 +20,10 @@ categories: speedrun
 | 11 | SkylightFox | 0:10:49.366000 | 2017-03-05 | [link](https://www.twitch.tv/videos/126600230) |
 | 12 | stewie_cartman | 0:10:49.866000 | 2021-05-30 | [link](https://www.twitch.tv/videos/1040422997) |
 | 13 | iceball8314 | 0:10:50 | 2022-09-12 | [link](https://www.youtube.com/watch?v=P4AbXdBEvJg) |
-| 14 | 10ooki | 0:10:51.183000 | 2015-11-24 | [link](https://youtu.be/w6hygIQyxws) |
-| 15 | [se]Frezy_man | 0:10:52 | 2009-10-17 | [link](https://www.youtube.com/watch?v=m_rHATfUZnM) |
-| 15 | Ellonija | 0:10:52 | 2017-05-08 | [link](https://www.twitch.tv/videos/141022605) |
-| 17 | TheCrit | 0:10:52.066000 | 2022-09-10 | [link](https://www.youtube.com/watch?v=QB3SNnKOzDA) |
+| 14 | TheCrit | 0:10:50.550000 | 2022-09-18 | [link](https://www.youtube.com/watch?v=crmx1DvDSjE) |
+| 15 | 10ooki | 0:10:51.183000 | 2015-11-24 | [link](https://youtu.be/w6hygIQyxws) |
+| 16 | [se]Frezy_man | 0:10:52 | 2009-10-17 | [link](https://www.youtube.com/watch?v=m_rHATfUZnM) |
+| 16 | Ellonija | 0:10:52 | 2017-05-08 | [link](https://www.twitch.tv/videos/141022605) |
 | 18 | Glitchman24 | 0:10:52.083000 | 2022-01-12 | [link](https://www.youtube.com/watch?v=dxcKz-i0-q0) |
 | 19 | IluvMario | 0:10:52.516000 | 2020-05-27 | [link](https://www.twitch.tv/videos/633891121) |
 | 20 | AdamFerrari64 | 0:10:52.800000 | 2022-02-17 | [link](https://www.twitch.tv/videos/1304843370) |
@@ -101,8 +101,8 @@ categories: speedrun
 | 92 | SuperSonic | 0:11:23 | 2017-03-04 | [link](https://www.twitch.tv/videos/126530355) |
 | 93 | highflyer28 | 0:11:24 | 2022-02-03 | [link](https://www.twitch.tv/videos/1285566880) |
 | 94 | Javeliin | 0:11:25 | 2020-04-19 | [link](https://youtu.be/fx5AjqLR2xc) |
-| 94 | Scrimsion | 0:11:25 | 2022-09-17 | [link](https://youtu.be/waFyPHzwesw) |
 | 94 | TuttiPullo | 0:11:25 | 2021-01-02 | [link](https://youtu.be/2Pc0sOtSTbY) |
+| 94 | Scrimsion | 0:11:25 | 2022-09-17 | [link](https://youtu.be/waFyPHzwesw) |
 | 94 | GFXS | 0:11:25 | 2019-03-16 | [link](https://www.youtube.com/watch?v=dfey0jFaOHM&t=121s) |
 | 98 | budzyRNG | 0:11:26 | 2022-04-15 | [link](https://www.twitch.tv/videos/1456964421) |
 | 98 | MC_2018 | 0:11:26 | 2018-12-27 | [link](https://www.youtube.com/watch?v=VaKWV3RWOJM) |

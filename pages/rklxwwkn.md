@@ -8,10 +8,10 @@ categories: speedrun
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
 | 1 | mitchflowerpower | 0:50:25 | 2022-08-03 | [link](https://www.youtube.com/watch?v=0QYOrI5IHic) |
-| 2 | TheHaxor | 0:50:53.483000 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
-| 3 | TEEX88 | 0:50:53.816000 | 2022-09-10 | [link](https://www.twitch.tv/videos/1587591151) |
-| 4 | narfman0 | 0:50:54.733000 | 2022-08-24 | [link](https://youtu.be/zAkNYqeygEk) |
-| 5 | Czikubi | 0:50:54.866000 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
+| 2 | narfman0 | 0:50:46 | 2022-09-19 | [link](https://youtu.be/DpLke4WDKks) |
+| 3 | TheHaxor | 0:50:53.483000 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
+| 4 | TEEX88 | 0:50:53.816000 | 2022-09-10 | [link](https://www.twitch.tv/videos/1587591151) |
+| 5 | Czikubi | 0:50:54 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
 | 6 | maibaRTA | 0:50:56 | 2022-05-22 | [link](https://www.twitch.tv/videos/1490705034) |
 | 7 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
 | 8 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
