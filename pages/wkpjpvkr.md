@@ -169,12 +169,12 @@ categories: speedrun
 | 160 | Vireth | 0:03:56 | 2020-06-07 | [link](https://youtu.be/YweVOyYi3FQ) |
 | 160 | Velodh | 0:03:56 | 2021-08-17 | [link](https://youtu.be/LFgn9Sb2EBY) |
 | 160 | Adam1205 | 0:03:56 | 2017-08-22 | [link](https://www.youtube.com/watch?v=8Z2r2MucCmI&feature=youtu.be) |
-| 160 | 33quentin | 0:03:56 | 2018-02-01 | [link](https://www.youtube.com/watch?v=6S9mj09sRPk) |
 | 160 | Kojr55 | 0:03:56 | 2018-07-01 | [link](https://www.youtube.com/watch?v=-C0PMYgCI6Y) |
 | 160 | TakoGamesAu | 0:03:56 | 2021-06-15 | [link](https://www.youtube.com/watch?v=e-9BfExjtKQ) |
 | 160 | epicnubedemelon | 0:03:56 | 2019-03-28 | [link](https://www.youtube.com/watch?v=9OhFY4Ckf4Y&feature=youtu.be) |
 | 160 | FozyCX | 0:03:56 | 2021-04-27 | [link](https://www.twitch.tv/videos/1002603632) |
 | 160 | Magestikal | 0:03:56 | 2021-06-19 | [link](https://www.youtube.com/watch?v=1S5zyfYdV6s) |
+| 160 | 33quentin | 0:03:56 | 2018-02-01 | [link](https://www.youtube.com/watch?v=6S9mj09sRPk) |
 | 160 | yatokami9 | 0:03:56 | 2021-06-30 | [link](https://www.twitch.tv/videos/1071691925) |
 | 160 | Dr_Syltonic | 0:03:56 | 2018-02-27 | [link](https://youtu.be/6h6xje91tbw) |
 | 160 | Drako93 | 0:03:56 | 2018-09-13 | [link](https://www.youtube.com/watch?v=Fzn5EvnL4G4&t=2s) |
