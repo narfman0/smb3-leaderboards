@@ -82,11 +82,11 @@ categories: speedrun
 | 69 | Lul_ecks_dee | 0:03:40 | 2018-06-16 | [link](https://www.twitch.tv/videos/273828634) |
 | 74 | Rh4kor | 0:03:41 | 2021-09-28 | [link](https://www.youtube.com/watch?v=jmWHkwRsXdM) |
 | 75 | BusterMan | 0:03:42 | 2022-02-22 | [link](https://www.youtube.com/watch?v=7rlD3_MQxXE) |
+| 76 | Scrimsion | 0:03:43 | 2022-09-24 | [link](https://youtu.be/iKRiJ7pkAbE) |
 | 76 | ImDangerous20 | 0:03:43 | 2018-03-29 | [link](https://www.twitch.tv/videos/244103093) |
 | 76 | KarlsGB | 0:03:43 | 2020-04-15 | [link](https://www.youtube.com/watch?v=QGdAFbW1CY0) |
 | 76 | joshuatalato | 0:03:43 | 2021-03-07 | [link](https://www.youtube.com/watch?v=lVtoeIsGmHA) |
 | 76 | fastatcc | 0:03:43 | 2017-10-07 | [link](https://www.twitch.tv/videos/180741051) |
-| 76 | Scrimsion | 0:03:43 | 2022-09-24 | [link](https://youtu.be/iKRiJ7pkAbE) |
 | 81 | Iambennguin | 0:03:44 | 2017-12-06 | [link](https://www.twitch.tv/videos/207225534) |
 | 81 | GreenDeathFlavor | 0:03:44 | 2017-09-10 | [link](https://www.youtube.com/watch?v=voISV8Q0QDc) |
 | 81 | jojoledda | 0:03:44 | 2017-09-06 | [link](https://www.youtube.com/watch?v=oB3SN6RHw9Q) |
