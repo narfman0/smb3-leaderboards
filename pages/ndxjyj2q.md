@@ -254,9 +254,9 @@ categories: speedrun
 | 245 | Oakman978 | 0:12:52 | 2018-03-15 | [link](https://www.youtube.com/watch?v=sZWnUZR3fVo) |
 | 245 | k1ngk0opa | 0:12:52 | 2022-04-20 | [link](https://youtu.be/sdaoljDz9KE) |
 | 247 | ahoychinesefood | 0:12:53 | 2017-03-30 | [link](https://www.twitch.tv/videos/132184785) |
-| 248 | WillixTheWolf | 0:12:54 | 2022-09-27 | [link](https://www.twitch.tv/videos/1603378501) |
 | 248 | Cad225 | 0:12:54 | 2018-12-27 | [link](https://www.youtube.com/watch?v=zYv6RdQBZRY) |
 | 248 | NilesMonkey | 0:12:54 | 2022-02-05 | [link](https://www.youtube.com/watch?v=fg60uJxWas8) |
+| 248 | WillixTheWolf | 0:12:54 | 2022-09-27 | [link](https://www.twitch.tv/videos/1603378501) |
 | 251 | MDragmire | 0:12:56 | 2018-02-01 | [link](https://youtu.be/7TIHxQ7TCOo) |
 | 252 | RDTUniverse | 0:12:59 | 2019-01-13 | [link](https://www.twitch.tv/videos/363599737) |
 | 252 | unrealKosh | 0:12:59 | 2020-11-04 | [link](https://www.youtube.com/watch?v=iRXKUs-ywOs) |
@@ -375,8 +375,8 @@ categories: speedrun
 | 366 | Benja | 0:14:43 | 2017-08-20 | [link](https://www.youtube.com/watch?v=lmR2jdq0CeE) |
 | 367 | Blue_Scuti | 0:14:45 | 2020-08-17 | [link](https://www.youtube.com/watch?v=7odN5BVPkJI) |
 | 367 | TheShark | 0:14:45 | 2019-02-18 | [link](https://youtu.be/W5aRYnfh8BU) |
-| 369 | CollinAWojcik | 0:14:46 | 2016-05-09 | [link](https://www.youtube.com/watch?v=6cf4_pFeees) |
 | 369 | Firebroth | 0:14:46 | 2022-09-27 | [link](https://www.twitch.tv/videos/1603361595) |
+| 369 | CollinAWojcik | 0:14:46 | 2016-05-09 | [link](https://www.youtube.com/watch?v=6cf4_pFeees) |
 | 371 | zaryis | 0:14:47 | 2022-01-17 | [link](https://www.youtube.com/watch?v=ud036oWyR0k) |
 | 371 | grandpoobear | 0:14:47 | 2015-09-04 | [link](http://www.twitch.tv/grand_poobear/v/14321034) |
 | 371 | kylew121 | 0:14:47 | 2018-04-09 | [link](https://youtu.be/dXNXAS82DMI) |

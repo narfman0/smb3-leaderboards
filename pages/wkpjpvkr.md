@@ -50,8 +50,8 @@ categories: speedrun
 | 39 | ROOK_jpn | 0:03:25 | 2019-06-15 | [link](https://www.youtube.com/watch?v=DVGqsSpeH9w) |
 | 42 | MatyMak | 0:03:26 | 2021-12-13 | [link](https://www.youtube.com/watch?v=UkVLLBdX6lw&ab_channel=MatyMak) |
 | 43 | Sluggy | 0:03:27 | 2021-09-06 | [link](https://youtu.be/YEi0P21-Y38) |
-| 44 | Simplistic_Memes | 0:03:28 | 2021-10-10 | [link](https://youtu.be/tQzvlE17_Vk) |
 | 44 | Scrimsion | 0:03:28 | 2022-09-27 | [link](https://youtu.be/ox1wIUHc5Fo) |
+| 44 | Simplistic_Memes | 0:03:28 | 2021-10-10 | [link](https://youtu.be/tQzvlE17_Vk) |
 | 46 | chickenfish4 | 0:03:29 | 2017-06-25 | [link](https://youtu.be/yOOKGKufp4U) |
 | 46 | smythe | 0:03:29 | 2021-09-30 | [link](https://youtu.be/siRWVnaZWoo) |
 | 48 | Blobopro | 0:03:30 | 2016-10-13 | [link](https://www.youtube.com/watch?v=4ydV0_AgITQ&feature=youtu.be) |
