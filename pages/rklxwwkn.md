@@ -7,7 +7,7 @@ categories: speedrun
 
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
-| 1 | mitchflowerpower | 0:50:25 | 2022-08-03 | [link](https://www.youtube.com/watch?v=0QYOrI5IHic) |
+| 1 | mitchflowerpower | 0:50:10 | 2022-09-03 | [link](https://www.youtube.com/watch?v=_3n12tb9Sg8&t=15s) |
 | 2 | narfman0 | 0:50:46 | 2022-09-19 | [link](https://youtu.be/DpLke4WDKks) |
 | 3 | TheHaxor | 0:50:53.483000 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
 | 4 | TEEX88 | 0:50:53.816000 | 2022-09-10 | [link](https://www.twitch.tv/videos/1587591151) |
@@ -25,10 +25,10 @@ categories: speedrun
 | 15 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
 | 17 | yatokami9 | 0:51:28 | 2022-04-02 | [link](https://www.youtube.com/watch?v=E3lUxI6S4Qc&ab_channel=YatoKami) |
 | 18 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
-| 19 | stewie_cartman | 0:51:50 | 2022-04-11 | [link](https://www.twitch.tv/videos/1453415214) |
-| 20 | Mars02 | 0:51:51 | 2022-08-06 | [link](https://www.youtube.com/watch?v=jHfnOtf6HlA) |
-| 20 | WhenChukAttacks | 0:51:51 | 2018-03-29 | [link](https://www.twitch.tv/videos/244391585) |
-| 22 | Sakaali | 0:51:52 | 2022-09-05 | [link](https://www.twitch.tv/videos/1582756840) |
+| 19 | Sakaali | 0:51:49 | 2022-10-02 | [link](https://www.twitch.tv/videos/1607565744) |
+| 20 | stewie_cartman | 0:51:50 | 2022-04-11 | [link](https://www.twitch.tv/videos/1453415214) |
+| 21 | Mars02 | 0:51:51 | 2022-08-06 | [link](https://www.youtube.com/watch?v=jHfnOtf6HlA) |
+| 21 | WhenChukAttacks | 0:51:51 | 2018-03-29 | [link](https://www.twitch.tv/videos/244391585) |
 | 23 | Outside_Lutz | 0:51:53 | 2014-03-23 | [link](https://www.youtube.com/watch?v=IjSx5GHtB78) |
 | 24 | ibuba7 | 0:51:54 | 2021-02-25 | [link](https://www.youtube.com/watch?v=fdKLbhv9TZQ&ab_channel=iBuba7) |
 | 25 | dom | 0:51:55 | 2021-05-18 | [link](https://youtu.be/AkLx3ODwW8w) |
