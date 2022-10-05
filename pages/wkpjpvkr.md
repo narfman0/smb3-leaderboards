@@ -57,9 +57,9 @@ categories: speedrun
 | 48 | Blobopro | 0:03:30 | 2016-10-13 | [link](https://www.youtube.com/watch?v=4ydV0_AgITQ&feature=youtu.be) |
 | 48 | Scarface | 0:03:30 | 2020-11-12 | [link](https://youtu.be/sx7RXE0W9X4) |
 | 48 | Xelaa | 0:03:30 | 2018-11-29 | [link](https://youtu.be/6yvbt_hN7iM) |
-| 51 | TheNoSwearGuy | 0:03:31 | 2022-09-27 | [link](https://www.youtube.com/watch?v=J0UNpJh3uHk) |
 | 51 | FranLMSP | 0:03:31 | 2018-04-08 | [link](https://youtu.be/1SRbWDCgHN4) |
 | 51 | Larsonix | 0:03:31 | 2019-03-19 | [link](https://streamable.com/xb9cx) |
+| 51 | TheNoSwearGuy | 0:03:31 | 2022-09-27 | [link](https://www.youtube.com/watch?v=J0UNpJh3uHk) |
 | 54 | Axodo | 0:03:32 | 2015-02-16 | [link](https://www.youtube.com/watch?v=vYjXcIl7K34) |
 | 55 | amorujao | 0:03:33 | 2018-10-26 | [link](https://www.youtube.com/watch?v=5Fn63YnGaaE) |
 | 56 | IsoFrieze | 0:03:34 | 2016-10-08 | [link](https://www.youtube.com/watch?v=O6uSrvU7K4I) |
@@ -352,6 +352,7 @@ categories: speedrun
 | 340 | DramenDays | 0:04:19 | 2018-04-12 | [link](https://youtu.be/Hja2Abo-2GE) |
 | 340 | Slackh | 0:04:19 | 2020-05-21 | [link](https://www.twitch.tv/videos/627706353) |
 | 345 | Akisto | 0:04:20 | 2015-06-05 | [link](https://www.youtube.com/watch?v=cOUZUYgoFWs) |
+| 345 | Moarf23 | 0:04:20 | 2022-09-30 | [link](https://www.youtube.com/watch?v=tcLLH5Xco3M) |
 | 345 | Ceriel | 0:04:20 | 2017-12-08 | [link](https://www.twitch.tv/videos/207820479) |
 | 345 | pacoistaco459 | 0:04:20 | 2019-06-29 | [link](https://youtu.be/9CoiLLp2rh4) |
 | 345 | Falling_Tacos | 0:04:20 | 2022-01-16 | [link](https://www.twitch.tv/videos/1266208515) |
@@ -362,7 +363,6 @@ categories: speedrun
 | 345 | Jean20B | 0:04:20 | 2018-09-19 | [link](https://youtu.be/vTrN4I-30Ac) |
 | 345 | pahchi | 0:04:20 | 2017-09-11 | [link](https://www.twitch.tv/videos/173933796) |
 | 345 | Claire | 0:04:20 | 2019-10-20 | [link](https://www.twitch.tv/videos/497807984) |
-| 345 | Moarf23 | 0:04:20 | 2022-09-30 | [link](https://www.youtube.com/watch?v=tcLLH5Xco3M) |
 | 357 | mister_nibbles | 0:04:21 | 2018-07-28 | [link](https://www.youtube.com/watch?v=-_us_yli8_I) |
 | 357 | tdiogo_gamer | 0:04:21 | 2022-01-26 | [link](https://youtu.be/W3XDkfItYsw) |
 | 357 | ThatOneRottenSpud | 0:04:21 | 2017-04-30 | [link](https://www.youtube.com/watch?v=NGsQXCRHyxE) |
