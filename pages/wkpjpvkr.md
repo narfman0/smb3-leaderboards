@@ -7,7 +7,7 @@ categories: speedrun
 
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
-| 1 | Kuto1k | 0:03:02.250000 | 2022-06-09 | [link](https://www.twitch.tv/videos/1498716659) |
+| 1 | Kuto1k | 0:03:01.700000 | 2022-10-04 | [link](https://www.twitch.tv/videos/1608962734) |
 | 2 | Czikubi | 0:03:02.383000 | 2021-03-29 | [link](https://www.twitch.tv/videos/968510773) |
 | 3 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
 | 4 | TheCrit | 0:03:04.866000 | 2022-08-15 | [link](https://www.youtube.com/watch?v=jim2pj8PXsA) |
@@ -235,8 +235,8 @@ categories: speedrun
 | 225 | Smirn | 0:04:01 | 2018-06-29 | [link](https://youtu.be/vlG3OSJ5HjM) |
 | 227 | ACB | 0:04:02 | 2018-06-21 | [link](https://youtu.be/b_OoHHsCvBk) |
 | 227 | DrNexo | 0:04:02 | 2020-07-25 | [link](https://www.youtube.com/watch?v=MqtTqT1rSXw) |
-| 227 | MagicK | 0:04:02 | 2020-05-14 | [link](https://www.youtube.com/watch?v=0LIBMy9gJ3E) |
 | 227 | Oxwaa | 0:04:02 | 2020-06-11 | [link](https://www.youtube.com/watch?v=5QSxx5v5KNs) |
+| 227 | MagicK | 0:04:02 | 2020-05-14 | [link](https://www.youtube.com/watch?v=0LIBMy9gJ3E) |
 | 227 | Honkalaaa | 0:04:02 | 2022-09-02 | [link](https://youtu.be/Sl7b8QUVuFA) |
 | 227 | I_Enjoy_Games | 0:04:02 | 2020-12-31 | [link](https://youtu.be/pDJP2Co8k_A) |
 | 227 | MajorGamer | 0:04:02 | 2021-08-17 | [link](https://www.youtube.com/watch?v=EOQewZfCibg) |
