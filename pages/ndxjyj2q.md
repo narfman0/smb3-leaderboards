@@ -240,9 +240,9 @@ categories: speedrun
 | 230 | baseball_caniac | 0:12:40 | 2016-03-07 | [link](https://youtu.be/sqs3VSGu7YE) |
 | 232 | Overswarm | 0:12:41 | 2019-10-21 | [link](https://www.twitch.tv/videos/497598375) |
 | 232 | DanilHarteveld | 0:12:41 | 2020-01-11 | [link](https://youtu.be/mZqzmkHeEFE) |
-| 234 | YoureWithStupid | 0:12:42 | 2022-10-07 | [link](https://www.twitch.tv/videos/1617933490) |
 | 234 | JonnyLink | 0:12:42 | 2019-03-04 | [link](https://www.youtube.com/watch?v=ETLcsyVrh30) |
 | 234 | introjerk | 0:12:42 | 2022-01-29 | [link](https://youtu.be/nCnrU89NCBc) |
+| 234 | YoureWithStupid | 0:12:42 | 2022-10-07 | [link](https://www.twitch.tv/videos/1617933490) |
 | 237 | rink2022 | 0:12:44 | 2022-08-28 | [link](https://youtu.be/Tg6l56jORUs) |
 | 238 | wolfman2000 | 0:12:45 | 2019-12-17 | [link](https://www.twitch.tv/videos/522574232) |
 | 239 | theotherjim | 0:12:46 | 2017-02-27 | [link](https://youtu.be/ijuo2nRT_9s) |
