@@ -114,9 +114,9 @@ categories: speedrun
 | 105 | GlitchyPa | 0:11:28 | 2022-09-01 | [link](https://www.twitch.tv/videos/1578960646) |
 | 105 | assemble_me | 0:11:28 | 2022-09-21 | [link](https://youtu.be/9K7r3UtDt0A?t=300) |
 | 107 | Ribb95 | 0:11:30 | 2018-12-15 | [link](https://www.youtube.com/watch?v=BqrPLbZ5OKE) |
-| 107 | robbyk | 0:11:30 | 2022-10-19 | [link](https://www.youtube.com/watch?v=grTpl-mstZ4) |
 | 107 | Danieltatis | 0:11:30 | 2019-10-01 | [link](https://www.twitch.tv/videos/489097474) |
 | 107 | Sowny25 | 0:11:30 | 2020-11-18 | [link](https://www.youtube.com/watch?v=XWbu-ihgu94) |
+| 107 | robbyk | 0:11:30 | 2022-10-19 | [link](https://www.youtube.com/watch?v=grTpl-mstZ4) |
 | 107 | Suey7 | 0:11:30 | 2017-08-15 | [link](https://www.twitch.tv/videos/167161630) |
 | 112 | Macobra52 | 0:11:31 | 2019-06-02 | [link](https://www.twitch.tv/videos/433666319) |
 | 112 | ThePKing | 0:11:31 | 2020-07-09 | [link](https://youtu.be/nHaX9gS781U) |
@@ -174,8 +174,8 @@ categories: speedrun
 | 164 | Sten | 0:11:58 | 2016-10-06 | [link](https://www.youtube.com/watch?v=A-Z1NdYUVM8) |
 | 164 | BlazenBezza | 0:11:58 | 2022-02-05 | [link](https://www.twitch.tv/videos/1286675319) |
 | 167 | dubiousdinobot | 0:11:59 | 2020-09-16 | [link](https://www.twitch.tv/videos/743434038) |
-| 167 | Thumopolis | 0:11:59 | 2019-04-11 | [link](https://youtu.be/8E5yL-0BsuU) |
 | 167 | donalduck386 | 0:11:59 | 2022-09-22 | [link](https://youtu.be/YnHaEXsWqSQ) |
+| 167 | Thumopolis | 0:11:59 | 2019-04-11 | [link](https://youtu.be/8E5yL-0BsuU) |
 | 167 | DeoMcNasty | 0:11:59 | 2022-03-24 | [link](https://www.youtube.com/watch?v=UTt4woVmfQg) |
 | 167 | PixelPerfectRuns | 0:11:59 | 2019-10-18 | [link](https://youtu.be/P8sSSOqCZZs) |
 | 172 | Jejemaster67 | 0:12:00 | 2017-03-07 | [link](https://www.twitch.tv/videos/126999543) |
@@ -256,8 +256,8 @@ categories: speedrun
 | 246 | k1ngk0opa | 0:12:52 | 2022-04-20 | [link](https://youtu.be/sdaoljDz9KE) |
 | 248 | ahoychinesefood | 0:12:53 | 2017-03-30 | [link](https://www.twitch.tv/videos/132184785) |
 | 249 | Cad225 | 0:12:54 | 2018-12-27 | [link](https://www.youtube.com/watch?v=zYv6RdQBZRY) |
-| 249 | NilesMonkey | 0:12:54 | 2022-02-05 | [link](https://www.youtube.com/watch?v=fg60uJxWas8) |
 | 249 | WillixTheWolf | 0:12:54 | 2022-09-27 | [link](https://www.twitch.tv/videos/1603378501) |
+| 249 | NilesMonkey | 0:12:54 | 2022-02-05 | [link](https://www.youtube.com/watch?v=fg60uJxWas8) |
 | 252 | MDragmire | 0:12:56 | 2018-02-01 | [link](https://youtu.be/7TIHxQ7TCOo) |
 | 253 | RDTUniverse | 0:12:59 | 2019-01-13 | [link](https://www.twitch.tv/videos/363599737) |
 | 253 | unrealKosh | 0:12:59 | 2020-11-04 | [link](https://www.youtube.com/watch?v=iRXKUs-ywOs) |
@@ -343,8 +343,8 @@ categories: speedrun
 | 334 | TheNoodleUdon | 0:14:06 | 2015-12-09 | [link](http://www.twitch.tv/thenoodleudon/v/36158265) |
 | 335 | SUNNYblue | 0:14:07 | 2022-08-02 | [link](https://youtu.be/Y6FtkvmPFBE) |
 | 335 | TheGoobiest | 0:14:07 | 2016-07-16 | [link](https://youtu.be/eaQQXbnZctw) |
-| 337 | MichaelMoweryX1990 | 0:14:08 | 2022-09-15 | [link](https://m.youtube.com/watch?v=5R90kFHxvo4) |
 | 337 | Raul_1138 | 0:14:08 | 2020-03-30 | [link](https://www.twitch.tv/videos/579104275) |
+| 337 | MichaelMoweryX1990 | 0:14:08 | 2022-09-15 | [link](https://m.youtube.com/watch?v=5R90kFHxvo4) |
 | 337 | SteamMeme | 0:14:08 | 2020-07-12 | [link](https://youtu.be/hw4VN_WTKlY) |
 | 337 | ckellyedits | 0:14:08 | 2021-01-24 | [link](https://www.youtube.com/watch?v=rJvxTtKtXGo) |
 | 341 | thetantalus | 0:14:10 | 2016-01-10 | [link](https://www.youtube.com/watch?v=y5Ejk3vRH7c) |

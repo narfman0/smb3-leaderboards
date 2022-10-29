@@ -150,8 +150,8 @@ categories: speedrun
 | 140 | Brownietown | 0:57:43 | 2017-07-19 | [link](https://www.youtube.com/watch?v=GWqHyL0_sdA&t) |
 | 142 | bmfm | 0:57:45 | 2013-12-18 | [link](https://www.twitch.tv/videos/45946247) |
 | 143 | skyehoppers | 0:57:46 | 2020-01-17 | [link](https://www.youtube.com/watch?v=_dgZMHIGCHM&feature=youtu.be) |
-| 144 | reverendtrell | 0:57:48 | 2020-11-13 | [link](https://www.twitch.tv/videos/801414675) |
 | 144 | hum4ls | 0:57:48 | 2022-10-27 | [link](https://youtu.be/ZwAE6SxUPII) |
+| 144 | reverendtrell | 0:57:48 | 2020-11-13 | [link](https://www.twitch.tv/videos/801414675) |
 | 146 | Gonzo_RTA | 0:57:51 | 2022-04-24 | [link](https://www.twitch.tv/videos/1466385944) |
 | 147 | ZodiacDredd | 0:57:52 | 2018-11-13 | [link](https://www.twitch.tv/videos/335282451) |
 | 148 | MidiGuyDP | 0:57:59 | 2020-02-21 | [link](https://www.youtube.com/watch?v=FiUFs2DjLyg) |

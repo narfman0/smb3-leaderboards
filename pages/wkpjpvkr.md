@@ -183,6 +183,7 @@ categories: speedrun
 | 174 | PixelCrusher | 0:03:57 | 2020-02-20 | [link](https://www.youtube.com/watch?v=nEaFWU3Oay4&fbclid=IwAR2cUvEmWVYyypVDwoJtHvQ31zZ28ikwd3r35SOljefDhwkSXO1sddVIccU) |
 | 174 | MikuRTA | 0:03:57 | 2021-12-07 | [link](https://youtu.be/Tgfdm16uJ18) |
 | 174 | Laupok | 0:03:57 | 2018-02-25 | [link](https://www.youtube.com/watch?v=PgOAcpxBXbg) |
+| 174 | SumIntegrals | 0:03:57 | 2022-10-27 | [link](https://youtu.be/Su2w2i5m34U) |
 | 174 | caleb2112 | 0:03:57 | 2020-02-16 | [link](https://youtu.be/hEmnmzi07qc) |
 | 174 | WolfAeterni | 0:03:57 | 2021-09-20 | [link](https://youtu.be/vzn9g1zdgeU) |
 | 174 | SmiithTV | 0:03:57 | 2020-07-30 | [link](https://www.twitch.tv/videos/695357820) |
@@ -195,7 +196,6 @@ categories: speedrun
 | 174 | TanAyonM | 0:03:57 | 2019-10-12 | [link](https://www.youtube.com/watch?v=2CR9jlfFeK8&t=241s) |
 | 174 | CratiX14 | 0:03:57 | 2020-09-06 | [link](https://youtu.be/OyoIxN5IcfE) |
 | 174 | EliSpeedrun | 0:03:57 | 2022-05-21 | [link](https://www.twitch.tv/videos/1489879789) |
-| 174 | SumIntegrals | 0:03:57 | 2022-10-27 | [link](https://youtu.be/Su2w2i5m34U) |
 | 190 | Eichi | 0:03:58 | 2017-02-21 | [link](https://www.youtube.com/watch?v=udH2JtOA3GY) |
 | 190 | Tmitt7 | 0:03:58 | 2017-11-04 | [link](https://www.youtube.com/watch?v=_12jMiqkAMM) |
 | 190 | MelonTheFelon | 0:03:58 | 2018-09-29 | [link](https://www.twitch.tv/videos/316331417) |
@@ -374,10 +374,10 @@ categories: speedrun
 | 365 | cerealmasticator | 0:04:23 | 2020-01-15 | [link](https://www.twitch.tv/videos/536734568) |
 | 366 | diemb | 0:04:24 | 2021-05-05 | [link](https://www.youtube.com/watch?v=BELMPNC4iRA) |
 | 366 | Temmichel | 0:04:24 | 2021-01-31 | [link](https://www.youtube.com/watch?v=rRN5tRjjIPY) |
-| 368 | RitzMania | 0:04:25 | 2022-10-25 | [link](https://youtu.be/WyxPtJxVBLc) |
 | 368 | miba | 0:04:25 | 2018-02-10 | [link](https://youtu.be/yJiY1rBj27k) |
 | 368 | beast14356 | 0:04:25 | 2021-12-06 | [link](https://www.youtube.com/watch?v=B3XDda29iWc) |
 | 368 | ZeldasKitten | 0:04:25 | 2021-03-14 | [link](https://youtu.be/tX4Bs4lkTtI) |
+| 368 | RitzMania | 0:04:25 | 2022-10-25 | [link](https://youtu.be/WyxPtJxVBLc) |
 | 368 | Carnageraiser1 | 0:04:25 | 2018-05-28 | [link](https://www.twitch.tv/videos/247330800) |
 | 368 | KuLemon | 0:04:25 | 2019-09-07 | [link](https://www.youtube.com/watch?v=Ve7IZy0tnnE&ab_channel=Ku%27Lemon) |
 | 374 | tenguliam | 0:04:26 | 2017-10-24 | [link](https://www.twitch.tv/videos/184648530) |
