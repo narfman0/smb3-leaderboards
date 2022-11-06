@@ -121,8 +121,8 @@ categories: speedrun
 | 112 | Macobra52 | 0:11:31 | 2019-06-02 | [link](https://www.twitch.tv/videos/433666319) |
 | 112 | ThePKing | 0:11:31 | 2020-07-09 | [link](https://youtu.be/nHaX9gS781U) |
 | 112 | amorujao | 0:11:31 | 2019-06-04 | [link](https://www.youtube.com/watch?v=tid0Rnae8Rk) |
-| 115 | eHolden | 0:11:32 | 2020-06-15 | [link](https://youtu.be/9NZJhZ1WNKg) |
 | 115 | donalduck386 | 0:11:32 | 2022-11-04 | [link](https://www.youtube.com/watch?v=qjNkdvN-xhs&t=38s) |
+| 115 | eHolden | 0:11:32 | 2020-06-15 | [link](https://youtu.be/9NZJhZ1WNKg) |
 | 117 | Alvaca | 0:11:33 | 2022-05-24 | [link](https://youtu.be/zheNl4Tk22Y) |
 | 117 | SpUnKeN_DK | 0:11:33 | 2022-06-27 | [link](https://www.twitch.tv/videos/1515631969) |
 | 117 | TapatioJ | 0:11:33 | 2015-10-19 | [link](http://www.twitch.tv/tapatioj/v/21539389) |
