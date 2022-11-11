@@ -37,9 +37,9 @@ categories: speedrun
 | 28 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
 | 29 | TrueHyperMario | 0:52:01 | 2022-08-30 | [link](https://www.twitch.tv/videos/1577053133) |
 | 30 | MarstoS | 0:52:04 | 2022-06-30 | [link](https://www.twitch.tv/videos/1517895782) |
-| 31 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
-| 31 | Track1 | 0:52:14 | 2022-07-07 | [link](https://www.twitch.tv/videos/1525215299?filter=highlights&sort=time) |
-| 33 | Mondii | 0:52:23 | 2022-09-01 | [link](https://www.twitch.tv/videos/1579555687) |
+| 30 | Mondii | 0:52:04 | 2022-11-10 | [link](https://www.twitch.tv/videos/1649039785) |
+| 32 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
+| 32 | Track1 | 0:52:14 | 2022-07-07 | [link](https://www.twitch.tv/videos/1525215299?filter=highlights&sort=time) |
 | 34 | Macobra52 | 0:52:26 | 2020-07-31 | [link](https://www.twitch.tv/videos/696469338) |
 | 35 | nissault | 0:52:28 | 2022-09-22 | [link](https://youtu.be/jcpFFM9LPrk) |
 | 36 | MoonJi | 0:52:30 | 2019-01-10 | [link](https://www.youtube.com/watch?v=95c6tX8tY_c&t=1498s) |
@@ -103,8 +103,8 @@ categories: speedrun
 | 94 | chinesehulk | 0:54:57 | 2022-04-15 | [link](https://www.twitch.tv/videos/1456382620) |
 | 95 | scalpel | 0:54:59 | 2021-07-31 | [link](https://youtu.be/TVLrnpX5u-s) |
 | 96 | xeroplanes | 0:55:01 | 2020-06-22 | [link](https://www.twitch.tv/videos/658458987) |
-| 97 | denkiya | 0:55:06 | 2022-05-15 | [link](https://www.youtube.com/watch?v=Qs38CXSU0Dc) |
 | 97 | assemble_me | 0:55:06 | 2022-11-10 | [link](https://youtu.be/V4K7La4ROrE?t=127) |
+| 97 | denkiya | 0:55:06 | 2022-05-15 | [link](https://www.youtube.com/watch?v=Qs38CXSU0Dc) |
 | 99 | Akisto | 0:55:08 | 2015-06-05 | [link](https://www.youtube.com/watch?v=cU8SEb1i7yg) |
 | 100 | SuperSonic | 0:55:09 | 2022-01-11 | [link](https://youtu.be/8GwTtth0jjY) |
 | 101 | jahaley64 | 0:55:10 | 2022-03-27 | [link](https://youtu.be/D-E6nNPC-Vk) |
