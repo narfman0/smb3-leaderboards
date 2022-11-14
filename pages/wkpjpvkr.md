@@ -40,11 +40,11 @@ categories: speedrun
 | 31 | brocis420 | 0:03:20 | 2021-04-18 | [link](https://www.twitch.tv/videos/992639456) |
 | 31 | SkylightFox | 0:03:20 | 2016-07-21 | [link](https://www.twitch.tv/skylightfox/v/79236485) |
 | 33 | jonnylegz | 0:03:21 | 2018-11-05 | [link](https://youtu.be/m73wBJD6p-o) |
+| 34 | JackJuggler | 0:03:22 | 2022-11-10 | [link](https://youtu.be/K__NH68VU-E) |
 | 34 | MoonJi | 0:03:22 | 2018-10-24 | [link](https://youtu.be/oguI27N5m6c) |
-| 35 | sloblock | 0:03:23 | 2016-10-02 | [link](https://youtu.be/5uyTrSC5Mwc) |
-| 35 | Renakun | 0:03:23 | 2019-01-23 | [link](https://youtu.be/AZKoTuEogxs) |
-| 35 | JackJuggler | 0:03:23 | 2022-11-09 | [link](https://youtu.be/EqLzvlsuUeA) |
-| 35 | Lawso42 | 0:03:23 | 2016-06-11 | [link](https://www.twitch.tv/videos/71778940) |
+| 36 | sloblock | 0:03:23 | 2016-10-02 | [link](https://youtu.be/5uyTrSC5Mwc) |
+| 36 | Renakun | 0:03:23 | 2019-01-23 | [link](https://youtu.be/AZKoTuEogxs) |
+| 36 | Lawso42 | 0:03:23 | 2016-06-11 | [link](https://www.twitch.tv/videos/71778940) |
 | 39 | Sikbit | 0:03:24 | 2018-06-02 | [link](https://www.youtube.com/watch?v=TC5AzXHNqjE) |
 | 40 | Themasterpro1212 | 0:03:25 | 2021-06-26 | [link](https://youtu.be/67cSAuse6Rs) |
 | 40 | Boethiah | 0:03:25 | 2020-01-26 | [link](https://www.twitch.tv/videos/542022781) |
