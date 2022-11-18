@@ -416,9 +416,9 @@ categories: speedrun
 | 406 | Seriouslysam25 | 0:04:36 | 2022-03-11 | [link](https://www.youtube.com/watch?v=lR1XcnLQobA&ab_channel=ShinyGiveaways) |
 | 406 | The_TK | 0:04:36 | 2018-03-26 | [link](https://www.youtube.com/watch?v=-BGlf-784l4) |
 | 409 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
-| 409 | Jurgen322 | 0:04:38 | 2022-11-15 | [link](https://youtu.be/fE5uD_xcVMg) |
 | 409 | Lao | 0:04:38 | 2018-03-01 | [link](https://www.youtube.com/watch?v=6p9FOkAU4AM) |
 | 409 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
+| 409 | Jurgen322 | 0:04:38 | 2022-11-15 | [link](https://youtu.be/fE5uD_xcVMg) |
 | 413 | owilderman | 0:04:39 | 2020-03-29 | [link](https://youtu.be/S2-w2HdiWoc) |
 | 413 | BoBoTheMonkey | 0:04:39 | 2022-06-22 | [link](https://www.youtube.com/watch?v=YfX9WUBTNZU) |
 | 413 | hazelnym | 0:04:39 | 2018-04-14 | [link](https://www.youtube.com/watch?v=OsM3ZqS8ARs) |

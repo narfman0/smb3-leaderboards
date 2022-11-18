@@ -25,7 +25,7 @@ categories: speedrun
 | 16 | thebagler5 | 0:51:27 | 2022-04-18 | [link](https://www.twitch.tv/videos/1460488428) |
 | 16 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
 | 18 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
-| 19 | Sakaali | 0:51:49 | 2022-11-14 | [link](https://www.twitch.tv/videos/1652823541) |
+| 19 | Sakaali | 0:51:49 | 2022-10-02 | [link](https://www.twitch.tv/videos/1607565744) |
 | 20 | stewie_cartman | 0:51:50 | 2022-04-11 | [link](https://www.twitch.tv/videos/1453415214) |
 | 21 | Mars02 | 0:51:51 | 2022-08-06 | [link](https://www.youtube.com/watch?v=jHfnOtf6HlA) |
 | 21 | WhenChukAttacks | 0:51:51 | 2018-03-29 | [link](https://www.twitch.tv/videos/244391585) |
