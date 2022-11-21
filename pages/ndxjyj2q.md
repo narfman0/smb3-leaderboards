@@ -19,8 +19,8 @@ categories: speedrun
 | 10 | TEEX88 | 0:10:47.750000 | 2022-10-20 | [link](https://www.twitch.tv/videos/1629166052) |
 | 11 | jscarbo | 0:10:48.183000 | 2021-07-26 | [link](https://youtu.be/wZ4yCw3VTCI) |
 | 12 | Miniland | 0:10:48.900000 | 2021-07-23 | [link](https://youtu.be/A5Eh3eKw69c) |
-| 13 | SkylightFox | 0:10:49.366000 | 2017-03-05 | [link](https://www.twitch.tv/videos/126600230) |
-| 14 | stewie_cartman | 0:10:49.866000 | 2021-05-30 | [link](https://www.twitch.tv/videos/1040422997) |
+| 13 | stewie_cartman | 0:10:49.300000 | 2022-11-20 | [link](https://www.twitch.tv/videos/1658636543) |
+| 14 | SkylightFox | 0:10:49.366000 | 2017-03-05 | [link](https://www.twitch.tv/videos/126600230) |
 | 15 | iceball8314 | 0:10:50 | 2022-09-12 | [link](https://www.youtube.com/watch?v=P4AbXdBEvJg) |
 | 16 | TheCrit | 0:10:50.550000 | 2022-09-18 | [link](https://www.youtube.com/watch?v=crmx1DvDSjE) |
 | 17 | 10ooki | 0:10:51.183000 | 2015-11-24 | [link](https://youtu.be/w6hygIQyxws) |
@@ -304,9 +304,9 @@ categories: speedrun
 | 294 | MauricinhoPOWER | 0:13:29 | 2021-02-23 | [link](https://www.twitch.tv/videos/926043645) |
 | 294 | BloodDerg | 0:13:29 | 2019-02-06 | [link](https://www.twitch.tv/videos/376215831) |
 | 297 | synthpopisback | 0:13:30 | 2019-10-27 | [link](https://www.twitch.tv/videos/500215531) |
+| 298 | JairGamer40 | 0:13:31 | 2022-11-19 | [link](https://www.twitch.tv/videos/1657262538) |
 | 298 | MythicDeo | 0:13:31 | 2018-03-28 | [link](https://www.twitch.tv/videos/244112139) |
 | 298 | Charlieboy | 0:13:31 | 2017-02-08 | [link](https://www.youtube.com/watch?v=W9s6qlXi74s) |
-| 298 | JairGamer40 | 0:13:31 | 2022-11-19 | [link](https://www.twitch.tv/videos/1657262538) |
 | 301 | cleveland_tom | 0:13:32 | 2021-12-22 | [link](https://www.twitch.tv/videos/1240879732) |
 | 302 | Storster | 0:13:33 | 2022-03-10 | [link](https://youtu.be/4pcJ8jlItpQ) |
 | 302 | HerrBucket | 0:13:33 | 2013-08-16 | [link](http://www.twitch.tv/herrbucket/c/2763471) |
@@ -367,10 +367,10 @@ categories: speedrun
 | 357 | LF | 0:14:18 | 2018-11-07 | [link](https://youtu.be/skra2C2u85Y) |
 | 359 | MonkeyGarbage | 0:14:20 | 2021-08-10 | [link](https://www.youtube.com/watch?v=nGp59KlHUrc) |
 | 359 | Vicksland | 0:14:20 | 2020-08-29 | [link](https://www.twitch.tv/videos/725799599) |
-| 361 | KingRhodesTn | 0:14:21 | 2018-07-25 | [link](https://www.twitch.tv/videos/289117141) |
-| 362 | TheSkeeterBronson | 0:14:23 | 2020-10-12 | [link](https://youtu.be/JZJ_d3XYG7s) |
-| 363 | Mingura666 | 0:14:30 | 2022-05-16 | [link](https://youtu.be/QoaaqCDtqkk) |
-| 363 | Mr_Self_DestrucTT | 0:14:30 | 2022-05-12 | [link](https://www.twitch.tv/videos/1482531494) |
+| 359 | Mingura666 | 0:14:20 | 2022-11-20 | [link](https://youtu.be/GsY0GMy_Hp0) |
+| 362 | KingRhodesTn | 0:14:21 | 2018-07-25 | [link](https://www.twitch.tv/videos/289117141) |
+| 363 | TheSkeeterBronson | 0:14:23 | 2020-10-12 | [link](https://youtu.be/JZJ_d3XYG7s) |
+| 364 | Mr_Self_DestrucTT | 0:14:30 | 2022-05-12 | [link](https://www.twitch.tv/videos/1482531494) |
 | 365 | BoomBeatle3 | 0:14:32 | 2022-01-21 | [link](https://youtu.be/j33x3zoVOtQ) |
 | 366 | FoxyLove | 0:14:33 | 2020-11-13 | [link](https://www.youtube.com/watch?v=aYshXHstltU) |
 | 367 | Clackiam | 0:14:35 | 2018-07-04 | [link](https://youtu.be/g2Zo7oWUmBE) |
