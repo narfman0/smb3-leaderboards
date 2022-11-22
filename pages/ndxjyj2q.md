@@ -365,9 +365,9 @@ categories: speedrun
 | 355 | Gustlik102 | 0:14:17 | 2017-08-18 | [link](https://www.youtube.com/watch?v=Gb-nhRej5Z0) |
 | 357 | TripleAce | 0:14:18 | 2021-03-04 | [link](https://youtu.be/fv2G-Hmkfds) |
 | 357 | LF | 0:14:18 | 2018-11-07 | [link](https://youtu.be/skra2C2u85Y) |
+| 359 | Mingura666 | 0:14:20 | 2022-11-20 | [link](https://youtu.be/GsY0GMy_Hp0) |
 | 359 | MonkeyGarbage | 0:14:20 | 2021-08-10 | [link](https://www.youtube.com/watch?v=nGp59KlHUrc) |
 | 359 | Vicksland | 0:14:20 | 2020-08-29 | [link](https://www.twitch.tv/videos/725799599) |
-| 359 | Mingura666 | 0:14:20 | 2022-11-20 | [link](https://youtu.be/GsY0GMy_Hp0) |
 | 362 | KingRhodesTn | 0:14:21 | 2018-07-25 | [link](https://www.twitch.tv/videos/289117141) |
 | 363 | TheSkeeterBronson | 0:14:23 | 2020-10-12 | [link](https://youtu.be/JZJ_d3XYG7s) |
 | 364 | Mr_Self_DestrucTT | 0:14:30 | 2022-05-12 | [link](https://www.twitch.tv/videos/1482531494) |
