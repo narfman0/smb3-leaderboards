@@ -412,8 +412,8 @@ categories: speedrun
 | 402 | Chocomantis | 0:04:35 | 2018-08-30 | [link](https://www.youtube.com/watch?v=XFw0zFlRiR4&feature=youtu.be) |
 | 402 | fsvgm777 | 0:04:35 | 2020-05-02 | [link](https://youtu.be/4NodT0WoFxc) |
 | 402 | AksisSR | 0:04:35 | 2020-01-29 | [link](https://youtu.be/IT_6_gcRNwE) |
-| 406 | LiamTrader | 0:04:36 | 2022-11-16 | [link](https://www.youtube.com/watch?v=sJY61rp5AX8) |
 | 406 | Pushungo507 | 0:04:36 | 2018-02-13 | [link](https://www.youtube.com/watch?v=hkl26VDkrrk) |
+| 406 | LiamTrader | 0:04:36 | 2022-11-16 | [link](https://www.youtube.com/watch?v=sJY61rp5AX8) |
 | 406 | Seriouslysam25 | 0:04:36 | 2022-03-11 | [link](https://www.youtube.com/watch?v=lR1XcnLQobA&ab_channel=ShinyGiveaways) |
 | 406 | The_TK | 0:04:36 | 2018-03-26 | [link](https://www.youtube.com/watch?v=-BGlf-784l4) |
 | 410 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
