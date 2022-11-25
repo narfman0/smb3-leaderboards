@@ -12,11 +12,11 @@ categories: speedrun
 | 3 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
 | 4 | TheCrit | 0:03:04.533000 | 2022-10-09 | [link](https://www.youtube.com/watch?v=ZKA3qjd9r1Q) |
 | 5 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
-| 6 | Falkite | 0:03:07.200000 | 2022-11-10 | [link](https://www.twitch.tv/videos/1648843666) |
-| 7 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
-| 8 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
-| 9 | iceball8314 | 0:03:07.766000 | 2022-07-08 | [link](https://www.youtube.com/watch?v=pWIPoyKOmSc) |
-| 10 | narfman0 | 0:03:08.433000 | 2021-09-12 | [link](https://youtu.be/h2xeo2zJERc) |
+| 6 | narfman0 | 0:03:06.700000 | 2022-11-22 | [link](https://youtu.be/zW0uZA-s-RE) |
+| 7 | Falkite | 0:03:07.200000 | 2022-11-10 | [link](https://www.twitch.tv/videos/1648843666) |
+| 8 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
+| 9 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
+| 10 | iceball8314 | 0:03:07.766000 | 2022-07-08 | [link](https://www.youtube.com/watch?v=pWIPoyKOmSc) |
 | 11 | Ellonija | 0:03:08.716000 | 2018-11-14 | [link](https://www.twitch.tv/videos/335488260) |
 | 12 | MrSavageKitty | 0:03:08.733000 | 2022-02-27 | [link](https://www.youtube.com/watch?v=0Spt16Z_2vU) |
 | 13 | eddiecatgaming | 0:03:09 | 2021-08-08 | [link](https://www.youtube.com/watch?v=sPdj_LJr8PI) |
