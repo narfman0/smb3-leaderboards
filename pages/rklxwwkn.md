@@ -66,8 +66,8 @@ categories: speedrun
 | 57 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
 | 58 | roopert83 | 0:53:25 | 2022-02-12 | [link](https://www.youtube.com/watch?v=Hep_3nc0Xhc) |
 | 59 | Baddap1 | 0:53:30 | 2019-03-25 | [link](https://youtu.be/Yh2kdoX0e1g) |
-| 60 | scalpel | 0:53:36 | 2022-11-23 | [link](https://www.youtube.com/watch?v=1epMUUtjdfc) |
 | 60 | MelonTheFelon | 0:53:36 | 2019-01-23 | [link](https://www.twitch.tv/videos/368899547) |
+| 60 | scalpel | 0:53:36 | 2022-11-23 | [link](https://www.youtube.com/watch?v=1epMUUtjdfc) |
 | 62 | deisui | 0:53:37 | 2016-09-07 | [link](http://www.nicovideo.jp/watch/sm30043547) |
 | 63 | KobrahCJ | 0:53:38 | 2021-10-16 | [link](https://www.twitch.tv/videos/1178706560) |
 | 64 | COOLKID | 0:53:41 | 2019-03-19 | [link](https://www.twitch.tv/videos/398148894) |
@@ -95,8 +95,8 @@ categories: speedrun
 | 85 | Joshua69yt | 0:54:32 | 2020-08-13 | [link](https://youtu.be/TlfXut4Psws) |
 | 87 | Hasauce | 0:54:37 | 2022-08-18 | [link](https://youtu.be/tTR0eOZEt7c) |
 | 88 | OnlyMoneyNotTalent | 0:54:38 | 2020-08-18 | [link](https://www.youtube.com/watch?v=MLXqEicjJL8) |
-| 89 | kekumanshoyu | 0:54:42 | 2021-05-20 | [link](https://www.twitch.tv/videos/1029009373) |
 | 89 | assemble_me | 0:54:42 | 2022-11-25 | [link](https://youtu.be/DKG0d7X4pcw) |
+| 89 | kekumanshoyu | 0:54:42 | 2021-05-20 | [link](https://www.twitch.tv/videos/1029009373) |
 | 91 | lackattack | 0:54:43 | 2018-05-09 | [link](https://www.twitch.tv/videos/259689453) |
 | 92 | Arcus | 0:54:45 | 2019-10-09 | [link](https://www.twitch.tv/videos/492542362) |
 | 93 | Rh4kor | 0:54:47 | 2021-04-28 | [link](https://www.youtube.com/watch?v=W2KoVYlKRgA) |
