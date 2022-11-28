@@ -21,8 +21,8 @@ categories: speedrun
 | 12 | ZoneVD | 0:51:19 | 2021-04-22 | [link](https://www.twitch.tv/videos/995985992) |
 | 13 | Ellonija | 0:51:21 | 2017-05-24 | [link](https://www.twitch.tv/videos/146750506) |
 | 14 | jtknott | 0:51:22 | 2022-05-27 | [link](https://youtu.be/SvXJbx-LYGA) |
-| 15 | Scarface | 0:51:26 | 2022-04-04 | [link](https://youtu.be/rxJoeyjzlDA) |
 | 15 | thebagler5 | 0:51:26 | 2022-11-26 | [link](https://youtu.be/36jvUKRlvLw) |
+| 15 | Scarface | 0:51:26 | 2022-04-04 | [link](https://youtu.be/rxJoeyjzlDA) |
 | 17 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
 | 18 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
 | 19 | Sakaali | 0:51:49 | 2022-10-02 | [link](https://www.twitch.tv/videos/1607565744) |
@@ -67,8 +67,8 @@ categories: speedrun
 | 58 | roopert83 | 0:53:25 | 2022-02-12 | [link](https://www.youtube.com/watch?v=Hep_3nc0Xhc) |
 | 59 | Baddap1 | 0:53:30 | 2019-03-25 | [link](https://youtu.be/Yh2kdoX0e1g) |
 | 60 | MelonTheFelon | 0:53:36 | 2019-01-23 | [link](https://www.twitch.tv/videos/368899547) |
-| 60 | scalpel | 0:53:36 | 2022-11-23 | [link](https://www.youtube.com/watch?v=1epMUUtjdfc) |
 | 60 | helfmyselp | 0:53:36 | 2022-11-26 | [link](https://www.youtube.com/watch?v=vEYU8EZQuYc) |
+| 60 | scalpel | 0:53:36 | 2022-11-23 | [link](https://www.youtube.com/watch?v=1epMUUtjdfc) |
 | 63 | deisui | 0:53:37 | 2016-09-07 | [link](http://www.nicovideo.jp/watch/sm30043547) |
 | 64 | KobrahCJ | 0:53:38 | 2021-10-16 | [link](https://www.twitch.tv/videos/1178706560) |
 | 65 | COOLKID | 0:53:41 | 2019-03-19 | [link](https://www.twitch.tv/videos/398148894) |
