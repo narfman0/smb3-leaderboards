@@ -293,11 +293,11 @@ categories: speedrun
 | 284 | LF | 1:26:03 | 2018-01-23 | [link](https://youtu.be/qcoOPzdxDqw) |
 | 285 | thenesmaster | 1:27:24 | 2020-11-03 | [link](https://www.twitch.tv/videos/791345563) |
 | 286 | Bak_HS | 1:27:47 | 2018-03-18 | [link](https://www.twitch.tv/videos/240177315) |
-| 287 | senorpoopoo | 1:29:16 | 2021-06-26 | [link](https://www.youtube.com/watch?v=elvMlSLqins) |
-| 288 | DashGamer | 1:29:48 | 2022-02-14 | [link](https://www.youtube.com/watch?v=IROmGYDO_Ek) |
-| 289 | aggr | 1:31:22 | 2022-05-14 | [link](https://youtu.be/Y0tcoVHu6fc) |
-| 290 | infinitemystery | 1:31:34 | 2018-03-31 | [link](https://www.youtube.com/watch?v=dXO2l2U1IYo) |
-| 291 | Cad225 | 1:31:56 | 2019-01-10 | [link](https://www.youtube.com/watch?v=AElV_p1oYLo) |
+| 287 | Cad225 | 1:27:53 | 2021-03-06 | [link](https://www.youtube.com/watch?v=e3XhrD_93bw) |
+| 288 | senorpoopoo | 1:29:16 | 2021-06-26 | [link](https://www.youtube.com/watch?v=elvMlSLqins) |
+| 289 | DashGamer | 1:29:48 | 2022-02-14 | [link](https://www.youtube.com/watch?v=IROmGYDO_Ek) |
+| 290 | aggr | 1:31:22 | 2022-05-14 | [link](https://youtu.be/Y0tcoVHu6fc) |
+| 291 | infinitemystery | 1:31:34 | 2018-03-31 | [link](https://www.youtube.com/watch?v=dXO2l2U1IYo) |
 | 292 | Elipsis | 1:32:03 | 2014-03-30 | [link](https://www.youtube.com/watch?v=BOBqVkf_0Ac) |
 | 293 | Kirthalion | 1:32:22 | 2017-05-19 | [link](https://www.twitch.tv/videos/145375927) |
 | 294 | wedu09 | 1:32:52 | 2022-05-08 | [link](https://www.twitch.tv/videos/1478431375) |
