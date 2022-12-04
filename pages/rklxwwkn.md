@@ -24,8 +24,8 @@ categories: speedrun
 | 15 | thebagler5 | 0:51:26 | 2022-11-26 | [link](https://youtu.be/36jvUKRlvLw) |
 | 15 | Scarface | 0:51:26 | 2022-04-04 | [link](https://youtu.be/rxJoeyjzlDA) |
 | 17 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
-| 18 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
-| 19 | Sakaali | 0:51:49 | 2022-10-02 | [link](https://www.twitch.tv/videos/1607565744) |
+| 18 | Sakaali | 0:51:34 | 2022-12-04 | [link](https://www.twitch.tv/videos/1669600325) |
+| 19 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
 | 20 | stewie_cartman | 0:51:50 | 2022-04-11 | [link](https://www.twitch.tv/videos/1453415214) |
 | 21 | Mars02 | 0:51:51 | 2022-08-06 | [link](https://www.youtube.com/watch?v=jHfnOtf6HlA) |
 | 21 | WhenChukAttacks | 0:51:51 | 2018-03-29 | [link](https://www.twitch.tv/videos/244391585) |
@@ -61,9 +61,9 @@ categories: speedrun
 | 52 | SpicyChickenSpiciBoi | 0:53:02 | 2022-11-16 | [link](https://youtu.be/qutHzO0_JZg) |
 | 53 | Malachibros20085721 | 0:53:07 | 2022-06-06 | [link](https://www.twitch.tv/videos/1496529200) |
 | 54 | Aweglib | 0:53:10 | 2017-06-09 | [link](https://www.twitch.tv/videos/150756657) |
+| 55 | scalpel | 0:53:14 | 2022-12-02 | [link](https://youtu.be/_Rl0ACOwT2A) |
 | 55 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
-| 56 | highflyer28 | 0:53:15 | 2022-04-04 | [link](https://www.twitch.tv/videos/1446593541) |
-| 57 | scalpel | 0:53:16 | 2022-11-28 | [link](https://youtu.be/JWmxw3YU-BE) |
+| 57 | highflyer28 | 0:53:15 | 2022-04-04 | [link](https://www.twitch.tv/videos/1446593541) |
 | 58 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
 | 59 | roopert83 | 0:53:25 | 2022-02-12 | [link](https://www.youtube.com/watch?v=Hep_3nc0Xhc) |
 | 60 | Baddap1 | 0:53:30 | 2019-03-25 | [link](https://youtu.be/Yh2kdoX0e1g) |
