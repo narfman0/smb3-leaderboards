@@ -66,8 +66,8 @@ categories: speedrun
 | 54 | AndrewG | 0:11:06 | 2008-06-30 | [link](https://www.youtube.com/watch?v=GDs08NwIG7I) |
 | 54 | Ezeron | 0:11:06 | 2017-04-28 | [link](https://www.youtube.com/watch?v=gnW1QLHMDps) |
 | 59 | RoyLT | 0:11:07 | 2020-06-09 | [link](https://youtu.be/QYfsNa6dNkM) |
-| 60 | ibuba7 | 0:11:08 | 2019-03-16 | [link](https://www.youtube.com/watch?v=wbWvA6XiNiE) |
 | 60 | assemble_me | 0:11:08 | 2022-12-05 | [link](https://youtu.be/N0AJYr3ePlM?t=398) |
+| 60 | ibuba7 | 0:11:08 | 2019-03-16 | [link](https://www.youtube.com/watch?v=wbWvA6XiNiE) |
 | 62 | SpicyChickenSpiciBoi | 0:11:09 | 2022-06-17 | [link](https://youtu.be/MmWbftVdDig) |
 | 62 | EthanRTA | 0:11:09 | 2018-05-15 | [link](https://www.twitch.tv/videos/261783915) |
 | 62 | Lawso42 | 0:11:09 | 2018-04-26 | [link](https://www.twitch.tv/videos/254877046) |
