@@ -87,9 +87,9 @@ categories: speedrun
 | 77 | KarlsGB | 0:03:43 | 2020-04-15 | [link](https://www.youtube.com/watch?v=QGdAFbW1CY0) |
 | 77 | joshuatalato | 0:03:43 | 2021-03-07 | [link](https://www.youtube.com/watch?v=lVtoeIsGmHA) |
 | 77 | fastatcc | 0:03:43 | 2017-10-07 | [link](https://www.twitch.tv/videos/180741051) |
-| 81 | Katti | 0:03:44 | 2022-11-25 | [link](https://www.twitch.tv/videos/1662509409) |
 | 81 | Mondii | 0:03:44 | 2022-11-25 | [link](https://www.twitch.tv/videos/1662497296) |
 | 81 | Iambennguin | 0:03:44 | 2017-12-06 | [link](https://www.twitch.tv/videos/207225534) |
+| 81 | Katti | 0:03:44 | 2022-11-25 | [link](https://www.twitch.tv/videos/1662509409) |
 | 81 | GreenDeathFlavor | 0:03:44 | 2017-09-10 | [link](https://www.youtube.com/watch?v=voISV8Q0QDc) |
 | 81 | jojoledda | 0:03:44 | 2017-09-06 | [link](https://www.youtube.com/watch?v=oB3SN6RHw9Q) |
 | 81 | AngryKermit | 0:03:44 | 2022-03-19 | [link](https://www.twitch.tv/videos/1430678337) |
