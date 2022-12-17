@@ -181,8 +181,8 @@ categories: speedrun
 | 172 | ElectroLlama | 0:59:37 | 2021-09-30 | [link](https://www.twitch.tv/videos/1164208304) |
 | 173 | icterus440 | 0:59:38 | 2018-04-27 | [link](https://www.youtube.com/watch?v=opx0fdQy7NY&feature=youtu.be) |
 | 174 | gamercal | 0:59:39 | 2019-04-27 | [link](https://www.twitch.tv/videos/416832773) |
-| 175 | Jepsi | 0:59:40 | 2022-12-14 | [link](https://www.youtube.com/watch?v=6rlVuICtZgg) |
 | 175 | WildLicorice | 0:59:40 | 2020-11-09 | [link](https://www.twitch.tv/videos/798600680) |
+| 175 | Jepsi | 0:59:40 | 2022-12-14 | [link](https://www.youtube.com/watch?v=6rlVuICtZgg) |
 | 177 | nerd4LERT | 0:59:42 | 2021-04-27 | [link](https://www.twitch.tv/videos/1002719330) |
 | 178 | Schicksal | 0:59:44 | 2018-05-09 | [link](https://www.twitch.tv/videos/259545648) |
 | 179 | windcask | 0:59:46 | 2017-02-12 | [link](https://www.youtube.com/watch?v=-RDnkzPAq_I) |

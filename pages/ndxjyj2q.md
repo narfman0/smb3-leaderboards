@@ -165,8 +165,8 @@ categories: speedrun
 | 156 | SuperMariLo | 0:11:55 | 2018-12-20 | [link](https://youtu.be/iRuJFyfmbek) |
 | 156 | MelonTheFelon | 0:11:55 | 2018-10-31 | [link](https://www.twitch.tv/videos/332618768) |
 | 156 | spins | 0:11:55 | 2020-07-17 | [link](https://www.twitch.tv/videos/682207732) |
-| 159 | LattMackey | 0:11:56 | 2018-02-07 | [link](https://youtu.be/j7joBwj1SQk) |
 | 159 | Markichin | 0:11:56 | 2022-12-14 | [link](https://www.twitch.tv/videos/1679571621) |
+| 159 | LattMackey | 0:11:56 | 2018-02-07 | [link](https://youtu.be/j7joBwj1SQk) |
 | 161 | gamercal | 0:11:57 | 2019-04-22 | [link](https://www.twitch.tv/videos/415004904) |
 | 161 | AceOfArrows | 0:11:57 | 2017-06-14 | [link](https://www.twitch.tv/videos/151869805) |
 | 161 | HJA | 0:11:57 | 2017-11-18 | [link](https://www.youtube.com/watch?v=KptKXsQKNqg) |
