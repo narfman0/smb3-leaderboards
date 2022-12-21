@@ -57,9 +57,9 @@ categories: speedrun
 | 48 | HUmanMustard | 0:52:47 | 2022-09-11 | [link](https://www.youtube.com/watch?v=AP1WBNpymds) |
 | 48 | duckfist | 0:52:47 | 2021-09-04 | [link](https://www.twitch.tv/videos/1139437792?collection=pgQmVpxPpBao_Q) |
 | 48 | TheLostLlama | 0:52:47 | 2016-02-03 | [link](http://www.twitch.tv/thelostllama/v/40275470) |
-| 51 | GungeonLover | 0:52:50 | 2022-02-24 | [link](https://www.twitch.tv/videos/1407131122) |
-| 52 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
-| 53 | SpicyChickenSpiciBoi | 0:53:02 | 2022-11-16 | [link](https://youtu.be/qutHzO0_JZg) |
+| 51 | SpicyChickenSpiciBoi | 0:52:48 | 2022-12-18 | [link](https://youtu.be/7ge4u4gZrnI) |
+| 52 | GungeonLover | 0:52:50 | 2022-02-24 | [link](https://www.twitch.tv/videos/1407131122) |
+| 53 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
 | 54 | Malachibros20085721 | 0:53:07 | 2022-06-06 | [link](https://www.twitch.tv/videos/1496529200) |
 | 55 | Aweglib | 0:53:10 | 2017-06-09 | [link](https://www.twitch.tv/videos/150756657) |
 | 56 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
