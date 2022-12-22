@@ -150,10 +150,10 @@ categories: speedrun
 | 140 | jahaley64 | 0:11:46 | 2022-03-24 | [link](https://www.twitch.tv/videos/1435743701) |
 | 140 | WhicheverMirror | 0:11:46 | 2021-08-25 | [link](https://www.youtube.com/watch?v=_8Fcbyc27Fc) |
 | 143 | OnlyMoneyNotTalent | 0:11:47 | 2020-12-09 | [link](https://www.youtube.com/watch?v=HSQEqJewU_8) |
+| 144 | cleveland_tom | 0:11:48 | 2022-12-20 | [link](https://www.twitch.tv/videos/1684453701) |
 | 144 | proa007 | 0:11:48 | 2019-12-31 | [link](https://www.twitch.tv/videos/529026133) |
 | 144 | bowtie1320 | 0:11:48 | 2021-02-13 | [link](https://www.twitch.tv/videos/913315628) |
 | 144 | THE_T_V1RUS | 0:11:48 | 2016-12-08 | [link](https://www.youtube.com/watch?v=RAuDdUcJGbg) |
-| 144 | cleveland_tom | 0:11:48 | 2022-12-20 | [link](https://www.twitch.tv/videos/1684453701) |
 | 148 | mrpickaxe | 0:11:49 | 2020-09-25 | [link](https://youtu.be/gr8V3sIwfPQ) |
 | 148 | lackattack | 0:11:49 | 2016-11-05 | [link](https://www.twitch.tv/lackattack24/v/99640921) |
 | 148 | Jhugomega | 0:11:49 | 2017-07-03 | [link](https://youtu.be/e5rFgk2ea2Q) |
