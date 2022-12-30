@@ -202,8 +202,8 @@ categories: speedrun
 | 192 | javignacio | 0:12:12 | 2022-04-22 | [link](https://youtu.be/IBBW1XBhuCA) |
 | 192 | BIOVOG | 0:12:12 | 2022-03-01 | [link](https://youtu.be/iYk93Q7DJAA) |
 | 195 | barnowl | 0:12:13 | 2016-01-08 | [link](http://www.twitch.tv/barnowl/v/34188063) |
-| 196 | NTLag | 0:12:14 | 2021-06-22 | [link](https://youtu.be/llDiQ9naDHw) |
 | 196 | DeeGee | 0:12:14 | 2022-12-28 | [link](https://m.youtube.com/watch?v=GStN8WzmtTE) |
+| 196 | NTLag | 0:12:14 | 2021-06-22 | [link](https://youtu.be/llDiQ9naDHw) |
 | 198 | grimlocksoflove | 0:12:16 | 2021-09-16 | [link](https://www.twitch.tv/videos/1150266179) |
 | 198 | strizer86 | 0:12:16 | 2017-11-20 | [link](https://www.twitch.tv/videos/202804326) |
 | 198 | Arcus | 0:12:16 | 2019-03-08 | [link](https://www.twitch.tv/videos/392426406) |
