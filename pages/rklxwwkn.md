@@ -42,8 +42,8 @@ categories: speedrun
 | 33 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
 | 33 | Track1 | 0:52:14 | 2022-07-07 | [link](https://www.twitch.tv/videos/1525215299?filter=highlights&sort=time) |
 | 35 | Katti | 0:52:22 | 2022-11-26 | [link](https://www.twitch.tv/videos/1662656421) |
-| 36 | GungeonLover | 0:52:25 | 2022-12-28 | [link](https://www.twitch.tv/videos/1691763015) |
 | 36 | SpicyChickenSpiciBoi | 0:52:25 | 2023-01-05 | [link](https://youtu.be/X3A8YH3y2MM) |
+| 36 | GungeonLover | 0:52:25 | 2022-12-28 | [link](https://www.twitch.tv/videos/1691763015) |
 | 38 | Macobra52 | 0:52:26 | 2020-07-31 | [link](https://www.twitch.tv/videos/696469338) |
 | 39 | nissault | 0:52:28 | 2022-09-22 | [link](https://youtu.be/jcpFFM9LPrk) |
 | 40 | MoonJi | 0:52:30 | 2019-01-10 | [link](https://www.youtube.com/watch?v=95c6tX8tY_c&t=1498s) |
