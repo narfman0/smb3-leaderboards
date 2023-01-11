@@ -26,9 +26,9 @@ categories: speedrun
 | 17 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
 | 18 | Sakaali | 0:51:34 | 2022-12-04 | [link](https://www.twitch.tv/videos/1669600325) |
 | 19 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
+| 20 | stewie_cartman | 0:51:39 | 2023-01-09 | [link](https://www.twitch.tv/videos/1702942625) |
 | 20 | scalpel | 0:51:39 | 2022-12-29 | [link](https://youtu.be/LeuFJWeP5Xk) |
-| 21 | Mondii | 0:51:43 | 2022-12-23 | [link](https://www.twitch.tv/videos/1686281838) |
-| 22 | stewie_cartman | 0:51:50 | 2022-04-11 | [link](https://www.twitch.tv/videos/1453415214) |
+| 22 | Mondii | 0:51:43 | 2022-12-23 | [link](https://www.twitch.tv/videos/1686281838) |
 | 23 | Mars02 | 0:51:51 | 2022-08-06 | [link](https://www.youtube.com/watch?v=jHfnOtf6HlA) |
 | 23 | WhenChukAttacks | 0:51:51 | 2018-03-29 | [link](https://www.twitch.tv/videos/244391585) |
 | 25 | Outside_Lutz | 0:51:53 | 2014-03-23 | [link](https://www.youtube.com/watch?v=IjSx5GHtB78) |
