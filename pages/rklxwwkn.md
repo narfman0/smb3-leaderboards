@@ -243,10 +243,10 @@ categories: speedrun
 | 234 | Chrisplayer | 1:08:34 | 2018-11-03 | [link](https://www.youtube.com/watch?v=3TC91Ixine8) |
 | 235 | Franchise10 | 1:08:36 | 2020-04-10 | [link](https://www.youtube.com/watch?v=uNUGTl5Yoak) |
 | 236 | ilmothedude | 1:09:01 | 2017-10-26 | [link](https://www.youtube.com/watch?v=0PFt2ofcLp8&t=88s) |
+| 237 | TechGamer36 | 1:10:10 | 2023-01-25 | [link](https://www.twitch.tv/videos/1717778434) |
 | 237 | DemonBattler | 1:10:10 | 2018-05-01 | [link](https://www.twitch.tv/videos/256632493) |
-| 238 | bassguitarbill | 1:10:53 | 2016-02-11 | [link](http://www.twitch.tv/bassguitarbill/v/43719801) |
-| 239 | G3netic | 1:11:08 | 2017-01-24 | [link](https://youtu.be/ei3Sq3HVb_c) |
-| 240 | TechGamer36 | 1:11:23 | 2022-04-29 | [link](https://www.twitch.tv/videos/1470580477) |
+| 239 | bassguitarbill | 1:10:53 | 2016-02-11 | [link](http://www.twitch.tv/bassguitarbill/v/43719801) |
+| 240 | G3netic | 1:11:08 | 2017-01-24 | [link](https://youtu.be/ei3Sq3HVb_c) |
 | 241 | yiye | 1:11:24 | 2022-01-25 | [link](https://v.youku.com/v_show/id_XMTQ0MTAxMDAzNg==.html?x&sharefrom=android&scene=long&playMode=&sharekey=c3c9dd444c7c3b1036f7e621d84df00e4) |
 | 242 | PeekingBoo | 1:11:34 | 2018-04-01 | [link](https://www.twitch.tv/videos/245412680) |
 | 243 | Vultus | 1:11:36 | 2019-01-06 | [link](https://www.twitch.tv/videos/359874017) |
