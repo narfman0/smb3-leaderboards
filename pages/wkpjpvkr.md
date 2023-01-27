@@ -264,8 +264,8 @@ categories: speedrun
 | 247 | spsxis | 0:04:04 | 2021-02-22 | [link](https://www.twitch.tv/videos/924856840) |
 | 247 | TheRealSampai | 0:04:04 | 2018-10-14 | [link](https://youtu.be/LTPTzReuH_A) |
 | 247 | Miki | 0:04:04 | 2016-12-08 | [link](https://www.youtube.com/watch?v=0cPTB-sYsrQ) |
-| 258 | crashatwill1731 | 0:04:05 | 2020-02-02 | [link](https://www.twitch.tv/videos/545956231) |
 | 258 | rom1046 | 0:04:05 | 2021-03-22 | [link](https://youtu.be/uoKkU-bmg4A) |
+| 258 | crashatwill1731 | 0:04:05 | 2020-02-02 | [link](https://www.twitch.tv/videos/545956231) |
 | 258 | Mustinclude3to25 | 0:04:05 | 2021-04-28 | [link](https://youtu.be/wsZJRzy9q98) |
 | 258 | windcask | 0:04:05 | 2017-03-23 | [link](https://www.twitch.tv/videos/130565889) |
 | 262 | thu_ox | 0:04:06 | 2019-03-27 | [link](https://youtu.be/RL4faOGu8OI) |
