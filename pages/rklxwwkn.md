@@ -198,8 +198,8 @@ categories: speedrun
 | 189 | Xdragon | 1:00:46 | 2014-09-28 | [link](http://www.twitch.tv/xdragon95/c/5200006) |
 | 189 | BigZeeff | 1:00:46 | 2018-04-09 | [link](https://www.twitch.tv/videos/248341901) |
 | 191 | Mizumaririn | 1:01:05 | 2021-06-13 | [link](https://www.twitch.tv/videos/1054299455) |
-| 192 | RaikouRider | 1:01:25 | 2018-07-09 | [link](https://www.twitch.tv/videos/282901860) |
-| 193 | MwDAShadow | 1:01:30 | 2023-01-23 | [link](https://www.twitch.tv/videos/1716876419) |
+| 192 | MwDAShadow | 1:01:21 | 2023-01-27 | [link](https://www.twitch.tv/videos/1719763658) |
+| 193 | RaikouRider | 1:01:25 | 2018-07-09 | [link](https://www.twitch.tv/videos/282901860) |
 | 194 | bhearsum | 1:01:32 | 2017-08-28 | [link](https://www.twitch.tv/videos/170701715) |
 | 195 | DodgemasterDooley | 1:01:33 | 2019-04-07 | [link](https://www.twitch.tv/videos/407410456) |
 | 196 | buster__bee | 1:01:34 | 2018-08-10 | [link](https://youtu.be/6GGMEygwEA8) |
