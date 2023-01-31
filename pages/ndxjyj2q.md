@@ -55,8 +55,8 @@ categories: speedrun
 | 45 | AbellaBrothers1 | 0:11:00 | 2021-08-31 | [link](https://m.youtube.com/watch?v=pOGgBjSKFlI) |
 | 45 | Katti | 0:11:00 | 2022-02-06 | [link](https://www.twitch.tv/videos/1288485548) |
 | 45 | MoonJi | 0:11:00 | 2018-05-19 | [link](https://youtu.be/lDOU-ET2LGM) |
-| 49 | SuperSonic | 0:11:01 | 2023-01-17 | [link](https://youtu.be/GGr1Dqtbxcg) |
 | 49 | SpicyChickenSpiciBoi | 0:11:01 | 2023-01-29 | [link](https://youtu.be/lwGBrcnfBn8) |
+| 49 | SuperSonic | 0:11:01 | 2023-01-17 | [link](https://youtu.be/GGr1Dqtbxcg) |
 | 51 | highflyer28 | 0:11:02 | 2023-01-09 | [link](https://www.twitch.tv/videos/1703010074) |
 | 52 | Bertstarebro | 0:11:03 | 2014-09-17 | [link](https://www.youtube.com/watch?v=aTmUEpEu680) |
 | 53 | YerocXx | 0:11:04 | 2020-07-25 | [link](https://youtu.be/tWNbecUrM44) |
