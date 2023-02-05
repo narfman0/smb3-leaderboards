@@ -67,10 +67,10 @@ categories: speedrun
 | 58 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
 | 59 | Lainerainer | 0:53:19 | 2022-12-31 | [link](https://youtu.be/aMeoJBfEwZU) |
 | 60 | nopons | 0:53:24 | 2023-01-17 | [link](https://www.youtube.com/watch?v=Ho_cyLcKatU) |
+| 61 | helfmyselp | 0:53:25 | 2023-02-01 | [link](https://www.twitch.tv/videos/1727566760) |
 | 61 | roopert83 | 0:53:25 | 2022-02-12 | [link](https://www.youtube.com/watch?v=Hep_3nc0Xhc) |
-| 62 | Baddap1 | 0:53:30 | 2019-03-25 | [link](https://youtu.be/Yh2kdoX0e1g) |
-| 63 | MelonTheFelon | 0:53:36 | 2019-01-23 | [link](https://www.twitch.tv/videos/368899547) |
-| 63 | helfmyselp | 0:53:36 | 2022-11-26 | [link](https://www.youtube.com/watch?v=vEYU8EZQuYc) |
+| 63 | Baddap1 | 0:53:30 | 2019-03-25 | [link](https://youtu.be/Yh2kdoX0e1g) |
+| 64 | MelonTheFelon | 0:53:36 | 2019-01-23 | [link](https://www.twitch.tv/videos/368899547) |
 | 65 | deisui | 0:53:37 | 2016-09-07 | [link](http://www.nicovideo.jp/watch/sm30043547) |
 | 66 | KobrahCJ | 0:53:38 | 2021-10-16 | [link](https://www.twitch.tv/videos/1178706560) |
 | 67 | COOLKID | 0:53:41 | 2019-03-19 | [link](https://www.twitch.tv/videos/398148894) |
