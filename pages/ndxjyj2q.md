@@ -337,9 +337,9 @@ categories: speedrun
 | 328 | Big_Tasty | 0:13:52 | 2021-07-05 | [link](https://youtu.be/Dd3CryrAkNw) |
 | 329 | ThreeToadSloth | 0:13:53 | 2020-01-03 | [link](https://youtu.be/oLWE5s1uW7s) |
 | 330 | conormcmahon | 0:13:55 | 2018-12-19 | [link](https://youtu.be/ytGRpKAr6_A) |
-| 331 | jgmadman | 0:13:56 | 2017-02-07 | [link](https://www.twitch.tv/videos/120384922) |
 | 331 | ShesChardcore | 0:13:56 | 2019-09-13 | [link](https://www.twitch.tv/videos/481011283) |
 | 331 | KillerJorma | 0:13:56 | 2020-10-02 | [link](https://www.youtube.com/watch?v=FqTRbq_rHQg) |
+| 331 | jgmadman | 0:13:56 | 2017-02-07 | [link](https://www.twitch.tv/videos/120384922) |
 | 334 | FarmerDarc | 0:13:58 | 2022-03-11 | [link](https://www.twitch.tv/videos/1422029373) |
 | 335 | j_wiegs | 0:13:59 | 2018-11-29 | [link](https://www.twitch.tv/videos/342548963) |
 | 335 | KALLAX | 0:13:59 | 2022-03-30 | [link](https://youtu.be/7sGWcWiNcCQ) |
