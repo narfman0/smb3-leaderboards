@@ -317,9 +317,9 @@ categories: speedrun
 | 307 | HerrBucket | 0:13:33 | 2013-08-16 | [link](http://www.twitch.tv/herrbucket/c/2763471) |
 | 309 | andresfgp13 | 0:13:35 | 2021-03-05 | [link](https://youtu.be/BIM4Jn0ZrOE) |
 | 309 | AnotherFunkingGamer | 0:13:35 | 2021-01-23 | [link](https://www.youtube.com/watch?v=bPBVeE4RcJM&feature=youtu.be) |
+| 311 | raymondamantius | 0:13:37 | 2023-02-14 | [link](https://www.youtube.com/watch?v=wuHG6KLPv68) |
 | 311 | ilmothedude | 0:13:37 | 2017-11-05 | [link](https://www.youtube.com/watch?v=JIyLPSbXea0) |
 | 311 | wedu09 | 0:13:37 | 2022-06-15 | [link](https://www.twitch.tv/videos/1504382097) |
-| 311 | raymondamantius | 0:13:37 | 2023-02-14 | [link](https://www.youtube.com/watch?v=wuHG6KLPv68) |
 | 314 | TheBeastMonster_ | 0:13:38 | 2020-11-14 | [link](https://youtu.be/_n6d-m-nuRQ) |
 | 314 | NME | 0:13:38 | 2015-12-04 | [link](http://www.twitch.tv/nmetv/v/28176000) |
 | 316 | JSR_ | 0:13:39 | 2018-03-10 | [link](https://www.twitch.tv/videos/237522483) |
