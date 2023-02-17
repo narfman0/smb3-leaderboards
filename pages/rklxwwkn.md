@@ -95,10 +95,10 @@ categories: speedrun
 | 86 | SkylightFox | 0:54:30 | 2017-04-07 | [link](https://www.twitch.tv/videos/134025630) |
 | 87 | The_Col | 0:54:32 | 2018-07-15 | [link](https://www.twitch.tv/videos/285019580) |
 | 87 | Joshua69yt | 0:54:32 | 2020-08-13 | [link](https://youtu.be/TlfXut4Psws) |
+| 89 | assemble_me | 0:54:37 | 2023-02-15 | [link](https://youtu.be/ikgQTjDPlXk?t=169) |
 | 89 | Hasauce | 0:54:37 | 2022-08-18 | [link](https://youtu.be/tTR0eOZEt7c) |
-| 90 | OnlyMoneyNotTalent | 0:54:38 | 2020-08-18 | [link](https://www.youtube.com/watch?v=MLXqEicjJL8) |
-| 91 | assemble_me | 0:54:42 | 2022-12-26 | [link](https://youtu.be/c7ZJJE5V4s0?t=96) |
-| 91 | kekumanshoyu | 0:54:42 | 2021-05-20 | [link](https://www.twitch.tv/videos/1029009373) |
+| 91 | OnlyMoneyNotTalent | 0:54:38 | 2020-08-18 | [link](https://www.youtube.com/watch?v=MLXqEicjJL8) |
+| 92 | kekumanshoyu | 0:54:42 | 2021-05-20 | [link](https://www.twitch.tv/videos/1029009373) |
 | 93 | lackattack | 0:54:43 | 2018-05-09 | [link](https://www.twitch.tv/videos/259689453) |
 | 94 | Arcus | 0:54:45 | 2019-10-09 | [link](https://www.twitch.tv/videos/492542362) |
 | 95 | BlazenBezza | 0:54:48 | 2022-04-06 | [link](https://www.twitch.tv/videos/1447936091) |

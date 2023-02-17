@@ -441,8 +441,8 @@ categories: speedrun
 | 432 | RealMim | 0:04:45 | 2021-05-04 | [link](https://youtu.be/mTWBgpYxcG8) |
 | 432 | Djinnesis | 0:04:45 | 2019-03-22 | [link](https://youtu.be/LKkJglzvMf4) |
 | 432 | Esthrus | 0:04:45 | 2019-06-07 | [link](https://youtu.be/nq-erkE5FKs) |
-| 435 | GonGon99 | 0:04:46 | 2023-02-12 | [link](https://youtu.be/pVe9JqUqhkY) |
 | 435 | Yalemarr | 0:04:46 | 2020-09-22 | [link](https://m.youtube.com/watch?v=vruug4_sfDU) |
+| 435 | GonGon99 | 0:04:46 | 2023-02-12 | [link](https://youtu.be/pVe9JqUqhkY) |
 | 435 | zombieSR | 0:04:46 | 2022-02-27 | [link](https://youtu.be/PtvFswKbTGs) |
 | 435 | Contraslayer | 0:04:46 | 2017-01-26 | [link](https://www.twitch.tv/contraslayer/v/117521496) |
 | 439 | Uriroitgrund | 0:04:47 | 2020-12-28 | [link](https://youtu.be/QTHjTlLDhb4) |
