@@ -425,8 +425,8 @@ categories: speedrun
 | 415 | Lao | 0:04:38 | 2018-03-01 | [link](https://www.youtube.com/watch?v=6p9FOkAU4AM) |
 | 415 | Jurgen322 | 0:04:38 | 2022-11-15 | [link](https://youtu.be/fE5uD_xcVMg) |
 | 415 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
-| 419 | d_bo84 | 0:04:39 | 2023-02-15 | [link](https://youtu.be/_vmovkfJL_k) |
 | 419 | BoBoTheMonkey | 0:04:39 | 2022-06-22 | [link](https://www.youtube.com/watch?v=YfX9WUBTNZU) |
+| 419 | d_bo84 | 0:04:39 | 2023-02-15 | [link](https://youtu.be/_vmovkfJL_k) |
 | 419 | owilderman | 0:04:39 | 2020-03-29 | [link](https://youtu.be/S2-w2HdiWoc) |
 | 419 | hazelnym | 0:04:39 | 2018-04-14 | [link](https://www.youtube.com/watch?v=OsM3ZqS8ARs) |
 | 423 | misterweber | 0:04:40 | 2021-02-26 | [link](https://youtu.be/pRswFXxiEak) |

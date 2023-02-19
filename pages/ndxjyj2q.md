@@ -288,9 +288,9 @@ categories: speedrun
 | 278 | clumsyset | 0:13:07 | 2017-12-07 | [link](https://www.youtube.com/watch?v=O4CQlvz9MkQ) |
 | 280 | Crasher4657 | 0:13:08 | 2022-03-29 | [link](https://www.youtube.com/watch?v=i4u5zYxfwnI) |
 | 281 | Carnageraiser1 | 0:13:09 | 2018-05-28 | [link](https://www.twitch.tv/videos/247329480) |
+| 282 | MwDAShadow | 0:13:10 | 2023-02-17 | [link](https://www.twitch.tv/videos/1740629493) |
 | 282 | OneUpGirl | 0:13:10 | 2016-07-10 | [link](https://secure.twitch.tv/oneupgirl/v/77221853) |
 | 282 | themechanicalkoopa | 0:13:10 | 2018-09-23 | [link](https://youtu.be/-HuwkiIJdAU) |
-| 282 | MwDAShadow | 0:13:10 | 2023-02-17 | [link](https://www.twitch.tv/videos/1740629493) |
 | 285 | Billy_bongsalot | 0:13:11 | 2021-03-06 | [link](https://www.twitch.tv/videos/939987768) |
 | 286 | Matepe | 0:13:12 | 2021-08-08 | [link](https://www.twitch.tv/videos/1111962500) |
 | 286 | JairGamer40 | 0:13:12 | 2022-12-10 | [link](https://www.twitch.tv/videos/1678027099?t=0h39m28s) |
