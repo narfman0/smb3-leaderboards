@@ -16,8 +16,8 @@ categories: speedrun
 | 7 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
 | 8 | yatokami9 | 0:51:07 | 2022-10-31 | [link](https://youtu.be/KLVskdfRLIQ) |
 | 9 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
-| 10 | thebagler5 | 0:51:12 | 2023-02-26 | [link](https://www.twitch.tv/videos/1750478241) |
 | 10 | Lui | 0:51:12 | 2022-03-27 | [link](https://youtu.be/soMuKQfoYOM) |
+| 10 | thebagler5 | 0:51:12 | 2023-02-26 | [link](https://www.twitch.tv/videos/1750478241) |
 | 12 | IluvMario | 0:51:17 | 2018-04-09 | [link](https://www.twitch.tv/videos/248583120) |
 | 13 | ZoneVD | 0:51:19 | 2021-04-22 | [link](https://www.twitch.tv/videos/995985992) |
 | 14 | Ellonija | 0:51:21 | 2017-05-24 | [link](https://www.twitch.tv/videos/146750506) |
@@ -33,8 +33,8 @@ categories: speedrun
 | 23 | WhenChukAttacks | 0:51:51 | 2018-03-29 | [link](https://www.twitch.tv/videos/244391585) |
 | 25 | Outside_Lutz | 0:51:53 | 2014-03-23 | [link](https://www.youtube.com/watch?v=IjSx5GHtB78) |
 | 26 | ibuba7 | 0:51:54 | 2021-02-25 | [link](https://www.youtube.com/watch?v=fdKLbhv9TZQ&ab_channel=iBuba7) |
-| 27 | dom | 0:51:55 | 2021-05-18 | [link](https://youtu.be/AkLx3ODwW8w) |
 | 27 | Lainerainer | 0:51:55 | 2023-02-27 | [link](https://youtu.be/4imR2Eg66QM) |
+| 27 | dom | 0:51:55 | 2021-05-18 | [link](https://youtu.be/AkLx3ODwW8w) |
 | 29 | EthanRTA | 0:51:56 | 2022-04-17 | [link](https://youtu.be/u5DaRhfjaQo) |
 | 30 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
 | 31 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
