@@ -71,9 +71,9 @@ categories: speedrun
 | 62 | decrazyo | 0:03:38 | 2019-05-03 | [link](https://www.youtube.com/watch?v=iq1U6zOATQQ) |
 | 62 | MSP-Wakas | 0:03:38 | 2018-10-12 | [link](https://www.youtube.com/watch?v=qRrxttC30AE) |
 | 62 | Elipsis | 0:03:38 | 2016-11-07 | [link](https://www.twitch.tv/elipsys/v/99557803) |
-| 65 | TheOnlyTrueGod | 0:03:39 | 2022-05-26 | [link](https://youtu.be/cU_i5EKAZ7c) |
 | 65 | SuperSonic | 0:03:39 | 2022-02-08 | [link](https://youtu.be/670o9mEAFj4) |
 | 65 | GTAce99 | 0:03:39 | 2019-10-11 | [link](https://youtu.be/mW6wcP6aAxQ) |
+| 65 | TheOnlyTrueGod | 0:03:39 | 2022-05-26 | [link](https://youtu.be/cU_i5EKAZ7c) |
 | 65 | Magica1l_guyr | 0:03:39 | 2022-09-07 | [link](https://youtu.be/BCQLbs3yJZ0) |
 | 65 | ObsoleteGamer2004 | 0:03:39 | 2022-02-04 | [link](https://youtube.com/watch?v=oY4w9ZTeIwc) |
 | 70 | scalpel | 0:03:40 | 2021-08-02 | [link](https://youtu.be/lHG-yd0VO_Q) |
