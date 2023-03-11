@@ -141,8 +141,8 @@ categories: speedrun
 | 132 | KLM1187 | 0:56:47 | 2020-07-06 | [link](https://www.twitch.tv/videos/671888605) |
 | 133 | iateyoursenpai | 0:56:51 | 2017-11-26 | [link](https://youtu.be/52yimTTPhjs) |
 | 134 | bluhell | 0:56:53 | 2017-08-05 | [link](https://youtu.be/ju4rHgWTCw4) |
+| 135 | nerd4LERT | 0:56:54 | 2023-03-09 | [link](https://www.youtube.com/watch?v=hJKyjD_vfW4) |
 | 135 | Kofca | 0:56:54 | 2017-07-12 | [link](https://www.twitch.tv/videos/158446470) |
-| 136 | nerd4LERT | 0:57:05 | 2023-03-06 | [link](https://www.youtube.com/watch?v=ZxWIe4qh974) |
 | 137 | TheBeastMonster_ | 0:57:07 | 2021-03-24 | [link](https://youtu.be/CgoI6vS84ok) |
 | 138 | AnimusUnited | 0:57:08 | 2021-04-17 | [link](https://www.twitch.tv/videos/991323385) |
 | 139 | Mr.JacoPbass | 0:57:18 | 2018-11-28 | [link](https://www.twitch.tv/videos/341875055) |
