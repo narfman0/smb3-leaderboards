@@ -477,9 +477,10 @@ categories: speedrun
 | 468 | clearlycharlie | 0:05:15 | 2017-02-22 | [link](https://www.twitch.tv/videos/123864008) |
 | 469 | Moluk | 0:05:16 | 2020-09-13 | [link](https://youtu.be/hk4CxNJZHJ4) |
 | 470 | Maestro227 | 0:05:20 | 2016-02-02 | [link](https://www.youtube.com/watch?v=GN1IRaMI7_E) |
-| 471 | jgmadman | 0:05:21 | 2017-02-10 | [link](https://www.twitch.tv/videos/121022751) |
-| 472 | tryhardsnipehrd | 0:05:24 | 2020-06-03 | [link](https://youtu.be/1gbwIpsmaaQ) |
-| 473 | Billybob157 | 0:05:30 | 2022-01-28 | [link](https://youtu.be/0qKhXQ0cNR0) |
-| 474 | afmstreams | 0:05:39 | 2022-03-10 | [link](https://www.twitch.tv/videos/1422017064) |
-| 475 | dom | 0:06:23 | 2021-04-14 | [link](https://www.twitch.tv/videos/985126025?filter=highlights&sort=time) |
-| 476 | 100th_Coin | 0:07:02 | 2021-05-16 | [link](https://www.youtube.com/watch?v=9uZnuX-jnl0) |
+| 470 | ZevZX | 0:05:20 | 2023-03-09 | [link](https://youtu.be/96R84bI54tc) |
+| 472 | jgmadman | 0:05:21 | 2017-02-10 | [link](https://www.twitch.tv/videos/121022751) |
+| 473 | tryhardsnipehrd | 0:05:24 | 2020-06-03 | [link](https://youtu.be/1gbwIpsmaaQ) |
+| 474 | Billybob157 | 0:05:30 | 2022-01-28 | [link](https://youtu.be/0qKhXQ0cNR0) |
+| 475 | afmstreams | 0:05:39 | 2022-03-10 | [link](https://www.twitch.tv/videos/1422017064) |
+| 476 | dom | 0:06:23 | 2021-04-14 | [link](https://www.twitch.tv/videos/985126025?filter=highlights&sort=time) |
+| 477 | 100th_Coin | 0:07:02 | 2021-05-16 | [link](https://www.youtube.com/watch?v=9uZnuX-jnl0) |
