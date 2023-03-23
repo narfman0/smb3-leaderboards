@@ -41,11 +41,11 @@ categories: speedrun
 | 31 | MarstoS | 0:51:59 | 2023-03-01 | [link](https://www.twitch.tv/videos/1752693139) |
 | 31 | Track1 | 0:51:59 | 2023-03-18 | [link](https://www.youtube.com/watch?v=XApPIYUoxQs) |
 | 34 | TrueHyperMario | 0:52:01 | 2022-08-30 | [link](https://www.twitch.tv/videos/1577053133) |
-| 35 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
-| 36 | Katti | 0:52:22 | 2022-11-26 | [link](https://www.twitch.tv/videos/1662656421) |
-| 37 | HUmanMustard | 0:52:23 | 2023-01-30 | [link](https://www.youtube.com/watch?v=3Kdogclxz68) |
-| 38 | SpicyChickenSpiciBoi | 0:52:25 | 2023-01-05 | [link](https://youtu.be/X3A8YH3y2MM) |
-| 38 | GungeonLover | 0:52:25 | 2022-12-28 | [link](https://www.twitch.tv/videos/1691763015) |
+| 35 | GungeonLover | 0:52:05 | 2023-03-22 | [link](https://www.twitch.tv/videos/1772248627) |
+| 36 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
+| 37 | Katti | 0:52:22 | 2022-11-26 | [link](https://www.twitch.tv/videos/1662656421) |
+| 38 | HUmanMustard | 0:52:23 | 2023-01-30 | [link](https://www.youtube.com/watch?v=3Kdogclxz68) |
+| 39 | SpicyChickenSpiciBoi | 0:52:25 | 2023-01-05 | [link](https://youtu.be/X3A8YH3y2MM) |
 | 40 | Macobra52 | 0:52:26 | 2020-07-31 | [link](https://www.twitch.tv/videos/696469338) |
 | 41 | nissault | 0:52:28 | 2022-09-22 | [link](https://youtu.be/jcpFFM9LPrk) |
 | 42 | MoonJi | 0:52:30 | 2019-01-10 | [link](https://www.youtube.com/watch?v=95c6tX8tY_c&t=1498s) |

@@ -164,6 +164,7 @@ categories: speedrun
 | 149 | Neptunolium | 0:03:54 | 2018-04-10 | [link](https://www.twitch.tv/videos/248653933) |
 | 149 | Echon | 0:03:54 | 2021-12-12 | [link](https://www.twitch.tv/videos/1231252315) |
 | 157 | Growly87 | 0:03:55 | 2021-03-04 | [link](https://www.twitch.tv/videos/937539476) |
+| 157 | AquaticBoba | 0:03:55 | 2023-03-21 | [link](https://www.twitch.tv/videos/1771287487) |
 | 157 | Konaxs1 | 0:03:55 | 2021-01-30 | [link](https://www.youtube.com/watch?v=tu_txngKU9o) |
 | 157 | Javeliin | 0:03:55 | 2021-08-07 | [link](https://youtu.be/xuTwO1j9YOc) |
 | 157 | wake911 | 0:03:55 | 2018-12-05 | [link](https://youtu.be/dEe-iBjZAhA) |
@@ -171,7 +172,6 @@ categories: speedrun
 | 157 | quesmues | 0:03:55 | 2016-09-19 | [link](https://www.youtube.com/watch?v=YBs5IrDC33M&feature=youtu.be) |
 | 157 | xenkaroshi | 0:03:55 | 2019-02-27 | [link](https://www.youtube.com/watch?v=QM714I2II9Y) |
 | 157 | Warpx3 | 0:03:55 | 2017-05-12 | [link](https://www.twitch.tv/videos/143384195) |
-| 157 | AquaticBoba | 0:03:55 | 2023-03-21 | [link](https://www.twitch.tv/videos/1771287487) |
 | 166 | Vireth | 0:03:56 | 2020-06-07 | [link](https://youtu.be/YweVOyYi3FQ) |
 | 166 | Velodh | 0:03:56 | 2021-08-17 | [link](https://youtu.be/LFgn9Sb2EBY) |
 | 166 | Adam1205 | 0:03:56 | 2017-08-22 | [link](https://www.youtube.com/watch?v=8Z2r2MucCmI&feature=youtu.be) |
