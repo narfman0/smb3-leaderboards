@@ -52,9 +52,9 @@ categories: speedrun
 | 42 | goofychocobo | 0:10:59 | 2021-03-27 | [link](https://www.youtube.com/watch?v=8l6EkRzBsNA) |
 | 42 | SpicyChickenSpiciBoi | 0:10:59 | 2023-02-02 | [link](https://youtu.be/lofEa21J-lE) |
 | 42 | Revelyte23 | 0:10:59 | 2019-09-01 | [link](https://www.youtube.com/watch?v=Ppc9gZ4xQCs) |
+| 46 | Katti | 0:11:00 | 2023-03-23 | [link](https://www.youtube.com/watch?v=2cYa1EX_-C8&ab_channel=Katti) |
 | 46 | roopert83 | 0:11:00 | 2021-10-26 | [link](https://www.youtube.com/watch?v=0gx6U3cQYNc) |
 | 46 | AbellaBrothers1 | 0:11:00 | 2021-08-31 | [link](https://m.youtube.com/watch?v=pOGgBjSKFlI) |
-| 46 | Katti | 0:11:00 | 2022-02-06 | [link](https://www.twitch.tv/videos/1288485548) |
 | 46 | MoonJi | 0:11:00 | 2018-05-19 | [link](https://youtu.be/lDOU-ET2LGM) |
 | 50 | Scrimsion | 0:11:01 | 2023-03-19 | [link](https://youtu.be/uzPNQO0hmn4) |
 | 50 | SuperSonic | 0:11:01 | 2023-01-17 | [link](https://youtu.be/GGr1Dqtbxcg) |
@@ -125,8 +125,8 @@ categories: speedrun
 | 116 | Macobra52 | 0:11:31 | 2019-06-02 | [link](https://www.twitch.tv/videos/433666319) |
 | 116 | ThePKing | 0:11:31 | 2020-07-09 | [link](https://youtu.be/nHaX9gS781U) |
 | 116 | amorujao | 0:11:31 | 2019-06-04 | [link](https://www.youtube.com/watch?v=tid0Rnae8Rk) |
-| 119 | zekeSSB | 0:11:32 | 2023-03-20 | [link](https://www.twitch.tv/videos/1770894933?filter=highlights&sort=time) |
 | 119 | donalduck386 | 0:11:32 | 2022-11-04 | [link](https://www.youtube.com/watch?v=qjNkdvN-xhs&t=38s) |
+| 119 | zekeSSB | 0:11:32 | 2023-03-20 | [link](https://www.twitch.tv/videos/1770894933?filter=highlights&sort=time) |
 | 119 | eHolden | 0:11:32 | 2020-06-15 | [link](https://youtu.be/9NZJhZ1WNKg) |
 | 122 | Alvaca | 0:11:33 | 2022-05-24 | [link](https://youtu.be/zheNl4Tk22Y) |
 | 122 | TapatioJ | 0:11:33 | 2015-10-19 | [link](http://www.twitch.tv/tapatioj/v/21539389) |
