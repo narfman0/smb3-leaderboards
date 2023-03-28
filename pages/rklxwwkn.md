@@ -10,8 +10,8 @@ categories: speedrun
 | 1 | mitchflowerpower | 0:50:10 | 2022-09-03 | [link](https://www.youtube.com/watch?v=_3n12tb9Sg8&t=15s) |
 | 2 | narfman0 | 0:50:46 | 2022-09-19 | [link](https://youtu.be/DpLke4WDKks) |
 | 3 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
-| 4 | TheHaxor | 0:50:53.483000 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
-| 5 | TEEX88 | 0:50:53.866000 | 2022-09-10 | [link](https://www.twitch.tv/videos/1587591151) |
+| 4 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
+| 4 | TEEX88 | 0:50:53 | 2022-09-10 | [link](https://www.twitch.tv/videos/1587591151) |
 | 6 | Czikubi | 0:50:54 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
 | 7 | maibaRTA | 0:50:56 | 2022-05-22 | [link](https://www.twitch.tv/videos/1490705034) |
 | 8 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
@@ -52,8 +52,8 @@ categories: speedrun
 | 43 | Doomtap | 0:52:31 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450856849) |
 | 44 | uninerd | 0:52:32 | 2022-09-13 | [link](https://www.twitch.tv/videos/1590115133) |
 | 44 | brocis420 | 0:52:32 | 2022-12-28 | [link](https://www.twitch.tv/videos/1691525340) |
-| 46 | AliceHK8 | 0:52:33 | 2022-12-23 | [link](https://www.twitch.tv/videos/1686859473) |
 | 46 | budzyRNG | 0:52:33 | 2023-03-26 | [link](https://www.youtube.com/watch?v=8FQu6CWQeD0) |
+| 46 | AliceHK8 | 0:52:33 | 2022-12-23 | [link](https://www.twitch.tv/videos/1686859473) |
 | 48 | Japezu | 0:52:43 | 2022-09-02 | [link](https://www.twitch.tv/videos/1579368003) |
 | 49 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 49 | uropsalis | 0:52:44 | 2022-08-24 | [link](https://www.twitch.tv/videos/1571527910) |

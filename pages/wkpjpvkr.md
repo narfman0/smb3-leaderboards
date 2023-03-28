@@ -120,9 +120,9 @@ categories: speedrun
 | 109 | eHolden | 0:03:49 | 2020-06-17 | [link](https://youtu.be/bRPZ6UlAGOI) |
 | 109 | JeimarZeth | 0:03:49 | 2017-07-01 | [link](https://www.twitch.tv/videos/155754621) |
 | 109 | THE_T_V1RUS | 0:03:49 | 2016-10-31 | [link](https://www.youtube.com/watch?v=tvhB-OiUha4&feature=youtu.be) |
-| 114 | LiamTrader | 0:03:50 | 2023-03-23 | [link](https://youtu.be/XiAwFIfPgfM) |
 | 114 | Glitchman24 | 0:03:50 | 2020-08-01 | [link](https://www.youtube.com/watch?v=lb7MSUNYe50) |
 | 114 | MR_DUCT | 0:03:50 | 2020-08-03 | [link](https://www.twitch.tv/videos/699210576) |
+| 114 | LiamTrader | 0:03:50 | 2023-03-23 | [link](https://youtu.be/XiAwFIfPgfM) |
 | 114 | AbellaBrothers1 | 0:03:50 | 2021-08-02 | [link](https://m.youtube.com/watch?v=6LFXWP0Tbzw&pp=sAQA) |
 | 114 | SoloQ | 0:03:50 | 2017-08-06 | [link](https://www.twitch.tv/videos/168265388) |
 | 114 | Merlo | 0:03:50 | 2019-04-15 | [link](https://www.youtube.com/watch?v=u-SdyArTMP8&feature=youtu.be) |
