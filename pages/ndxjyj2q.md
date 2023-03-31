@@ -193,8 +193,8 @@ categories: speedrun
 | 184 | yeabruh | 0:12:04 | 2022-11-08 | [link](https://www.twitch.tv/videos/1647658679) |
 | 185 | werdwerdus | 0:12:05 | 2019-01-24 | [link](https://youtu.be/A3-BWxdgfhY) |
 | 185 | Rufio45 | 0:12:05 | 2021-01-01 | [link](https://www.twitch.tv/videos/870984555) |
-| 187 | VonGerstenberg | 0:12:06 | 2021-06-08 | [link](https://www.twitch.tv/videos/1050521893) |
 | 187 | Celician83 | 0:12:06 | 2023-03-29 | [link](https://www.twitch.tv/videos/1779550847?collection=5e3Y8WE4nRbhtQ) |
+| 187 | VonGerstenberg | 0:12:06 | 2021-06-08 | [link](https://www.twitch.tv/videos/1050521893) |
 | 189 | Rocksy | 0:12:07 | 2016-05-21 | [link](https://www.twitch.tv/friendlyrock/v/67692623) |
 | 190 | Mr.JacoPbass | 0:12:08 | 2018-05-25 | [link](https://youtu.be/VyayZG5MKmo) |
 | 191 | DeadmanPR | 0:12:09 | 2020-09-12 | [link](https://www.twitch.tv/videos/739523464) |
