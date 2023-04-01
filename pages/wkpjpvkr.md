@@ -384,9 +384,9 @@ categories: speedrun
 | 370 | NaiieX | 0:04:21 | 2018-03-07 | [link](https://www.youtube.com/watch?v=FqcMDXu5BkQ) |
 | 376 | BOTSam | 0:04:22 | 2020-12-26 | [link](https://youtu.be/jXALZLgW11I) |
 | 377 | cerealmasticator | 0:04:23 | 2020-01-15 | [link](https://www.twitch.tv/videos/536734568) |
+| 378 | LucaN64pro | 0:04:24 | 2023-03-30 | [link](https://youtu.be/gsqkqdVf_cI) |
 | 378 | diemb | 0:04:24 | 2021-05-05 | [link](https://www.youtube.com/watch?v=BELMPNC4iRA) |
 | 378 | Temmichel | 0:04:24 | 2021-01-31 | [link](https://www.youtube.com/watch?v=rRN5tRjjIPY) |
-| 378 | LucaN64pro | 0:04:24 | 2023-03-30 | [link](https://youtu.be/gsqkqdVf_cI) |
 | 381 | miba | 0:04:25 | 2018-02-10 | [link](https://youtu.be/yJiY1rBj27k) |
 | 381 | beast14356 | 0:04:25 | 2021-12-06 | [link](https://www.youtube.com/watch?v=B3XDda29iWc) |
 | 381 | ZeldasKitten | 0:04:25 | 2021-03-14 | [link](https://youtu.be/tX4Bs4lkTtI) |
