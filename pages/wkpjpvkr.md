@@ -231,11 +231,11 @@ categories: speedrun
 | 212 | KaiserKrister | 0:03:59 | 2017-09-19 | [link](https://www.twitch.tv/videos/175971008) |
 | 212 | KLM1187 | 0:03:59 | 2020-06-23 | [link](https://youtu.be/TNTEEsu3Nrc) |
 | 212 | oknem | 0:03:59 | 2020-10-12 | [link](https://youtu.be/QFfxq209voU) |
-| 225 | MoLo | 0:04:00 | 2023-04-01 | [link](https://youtu.be/28aS8ZJLtcc) |
 | 225 | skateman222 | 0:04:00 | 2019-01-23 | [link](https://www.twitch.tv/videos/368880672) |
 | 225 | SilenceErupts | 0:04:00 | 2019-11-20 | [link](https://www.youtube.com/watch?v=OIAwbaeiGIQ) |
 | 225 | tmyoukai | 0:04:00 | 2020-07-08 | [link](https://www.twitch.tv/videos/673384421) |
 | 225 | ThatRedMelon | 0:04:00 | 2020-10-08 | [link](https://www.youtube.com/watch?v=JarWHZvESwY) |
+| 225 | MoLo | 0:04:00 | 2023-04-01 | [link](https://youtu.be/28aS8ZJLtcc) |
 | 225 | RodrigoAndrade7 | 0:04:00 | 2016-01-13 | [link](http://www.twitch.tv/rodrigoandrade7/v/35178990) |
 | 225 | SethBling | 0:04:00 | 2019-01-23 | [link](https://www.twitch.tv/videos/368728425) |
 | 225 | ThePKing | 0:04:00 | 2020-07-07 | [link](https://www.youtube.com/watch?v=tJD0sxPq5OU&t=247s) |
