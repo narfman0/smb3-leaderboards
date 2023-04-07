@@ -119,7 +119,7 @@ categories: speedrun
 | 109 | Schwartz_RTA | 0:55:13 | 2022-05-16 | [link](https://www.youtube.com/watch?v=t291dw2Z2oU) |
 | 111 | Killamox | 0:55:18 | 2016-03-18 | [link](http://www.twitch.tv/killamox18/v/55107584) |
 | 112 | bowtie1320 | 0:55:19 | 2021-01-19 | [link](https://www.twitch.tv/videos/880694645) |
-| 113 | Sharchid | 0:55:26 | 2023-03-14 | [link](https://www.twitch.tv/videos/1765061873) |
+| 113 | Sharchid | 0:55:25 | 2023-03-14 | [link](https://www.twitch.tv/videos/1765061873) |
 | 114 | CraigSMB3 | 0:55:27 | 2022-04-09 | [link](https://www.twitch.tv/videos/1451129661) |
 | 114 | favoritepie | 0:55:27 | 2021-08-15 | [link](https://www.youtube.com/watch?v=QkaZs3RsUGo) |
 | 114 | Shoryupiff | 0:55:27 | 2016-06-27 | [link](https://www.twitch.tv/shoryupiff/v/74817967) |
