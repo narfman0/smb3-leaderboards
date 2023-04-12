@@ -354,8 +354,8 @@ categories: speedrun
 | 345 | MinusWorldJay | 0:04:18 | 2020-06-22 | [link](https://youtu.be/0rQ9pTXMSYg) |
 | 345 | ShesChardcore | 0:04:18 | 2019-09-13 | [link](https://www.twitch.tv/videos/481011276) |
 | 345 | Darkman_ | 0:04:18 | 2022-08-10 | [link](https://www.youtube.com/watch?v=hvYhMI3e2bU) |
-| 345 | Leybo | 0:04:18 | 2018-03-18 | [link](https://www.youtube.com/watch?v=V3PeKBjqClc) |
 | 345 | Twafad | 0:04:18 | 2021-05-24 | [link](https://youtu.be/SWGM77pHuls) |
+| 345 | Leybo | 0:04:18 | 2018-03-18 | [link](https://www.youtube.com/watch?v=V3PeKBjqClc) |
 | 345 | AnimusUnited | 0:04:18 | 2020-12-04 | [link](https://www.twitch.tv/videos/825412475) |
 | 345 | EthanAlexE | 0:04:18 | 2018-12-13 | [link](https://youtu.be/1nvrFDwyHNs) |
 | 345 | JuegAriel | 0:04:18 | 2017-03-21 | [link](https://www.twitch.tv/videos/130239510) |
@@ -430,10 +430,10 @@ categories: speedrun
 | 420 | Seriouslysam25 | 0:04:36 | 2022-03-11 | [link](https://www.youtube.com/watch?v=lR1XcnLQobA&ab_channel=ShinyGiveaways) |
 | 420 | The_TK | 0:04:36 | 2018-03-26 | [link](https://www.youtube.com/watch?v=-BGlf-784l4) |
 | 423 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
+| 423 | pinkpanthr_ | 0:04:38 | 2023-04-10 | [link](https://www.youtube.com/watch?v=OiWiYuxrMl4) |
 | 423 | Lao | 0:04:38 | 2018-03-01 | [link](https://www.youtube.com/watch?v=6p9FOkAU4AM) |
 | 423 | Jurgen322 | 0:04:38 | 2022-11-15 | [link](https://youtu.be/fE5uD_xcVMg) |
 | 423 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
-| 423 | pinkpanthr_ | 0:04:38 | 2023-04-10 | [link](https://www.youtube.com/watch?v=OiWiYuxrMl4) |
 | 428 | BoBoTheMonkey | 0:04:39 | 2022-06-22 | [link](https://www.youtube.com/watch?v=YfX9WUBTNZU) |
 | 428 | owilderman | 0:04:39 | 2020-03-29 | [link](https://youtu.be/S2-w2HdiWoc) |
 | 428 | hazelnym | 0:04:39 | 2018-04-14 | [link](https://www.youtube.com/watch?v=OsM3ZqS8ARs) |
