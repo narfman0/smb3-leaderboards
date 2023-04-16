@@ -318,9 +318,9 @@ categories: speedrun
 | 304 | NeonSpeak | 0:04:10 | 2018-06-19 | [link](https://www.twitch.tv/videos/275057288) |
 | 310 | Fuzzyzilla | 0:04:11 | 2018-02-23 | [link](https://www.youtube.com/watch?v=f82fxeCG6Fo) |
 | 311 | BubuMC | 0:04:12 | 2018-09-07 | [link](https://www.twitch.tv/videos/345499715) |
-| 311 | SeraphmIII | 0:04:12 | 2023-04-13 | [link](https://www.youtube.com/watch?v=NAM-80_5tBc) |
 | 311 | KiD_ViD | 0:04:12 | 2018-03-11 | [link](https://youtu.be/uo8FWar7_gE) |
 | 311 | FGrim | 0:04:12 | 2019-12-29 | [link](https://youtu.be/WvYAtqIN7yg) |
+| 311 | SeraphmIII | 0:04:12 | 2023-04-13 | [link](https://www.youtube.com/watch?v=NAM-80_5tBc) |
 | 311 | grandpoobear | 0:04:12 | 2017-05-28 | [link](https://youtu.be/6JgulD05ou0) |
 | 316 | 360Chrism | 0:04:13 | 2020-02-08 | [link](https://www.twitch.tv/videos/549481827) |
 | 316 | Checkmate6659 | 0:04:13 | 2020-07-12 | [link](https://youtu.be/0fWJRVJsYN0) |
