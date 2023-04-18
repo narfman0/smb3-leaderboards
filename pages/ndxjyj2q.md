@@ -58,8 +58,8 @@ categories: speedrun
 | 46 | MoonJi | 0:11:00 | 2018-05-19 | [link](https://youtu.be/lDOU-ET2LGM) |
 | 50 | Scrimsion | 0:11:01 | 2023-03-19 | [link](https://youtu.be/uzPNQO0hmn4) |
 | 50 | SuperSonic | 0:11:01 | 2023-01-17 | [link](https://youtu.be/GGr1Dqtbxcg) |
-| 52 | k1ngk0opa | 0:11:02 | 2023-04-13 | [link](https://youtu.be/pa48kMGj-W8) |
 | 52 | highflyer28 | 0:11:02 | 2023-01-09 | [link](https://www.twitch.tv/videos/1703010074) |
+| 52 | k1ngk0opa | 0:11:02 | 2023-04-13 | [link](https://youtu.be/pa48kMGj-W8) |
 | 54 | Bertstarebro | 0:11:03 | 2014-09-17 | [link](https://www.youtube.com/watch?v=aTmUEpEu680) |
 | 55 | YerocXx | 0:11:04 | 2020-07-25 | [link](https://youtu.be/tWNbecUrM44) |
 | 55 | Kyuvolka | 0:11:04 | 2023-01-09 | [link](https://www.twitch.tv/videos/1702277928) |
