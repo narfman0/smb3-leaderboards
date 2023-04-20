@@ -19,8 +19,8 @@ categories: speedrun
 | 10 | TEEX88 | 0:10:47.750000 | 2022-10-20 | [link](https://www.twitch.tv/videos/1629166052) |
 | 11 | jscarbo | 0:10:48.183000 | 2021-07-26 | [link](https://youtu.be/wZ4yCw3VTCI) |
 | 12 | iceball8314 | 0:10:48.466000 | 2022-11-26 | [link](https://www.youtube.com/watch?v=yfs7KZd-aZI) |
-| 13 | Miniland | 0:10:48.900000 | 2021-07-23 | [link](https://youtu.be/A5Eh3eKw69c) |
-| 14 | stewie_cartman | 0:10:49.300000 | 2022-11-20 | [link](https://www.twitch.tv/videos/1658636543) |
+| 13 | stewie_cartman | 0:10:48.766000 | 2023-04-19 | [link](https://www.twitch.tv/videos/1798550554) |
+| 14 | Miniland | 0:10:48.900000 | 2021-07-23 | [link](https://youtu.be/A5Eh3eKw69c) |
 | 15 | SkylightFox | 0:10:49.366000 | 2017-03-05 | [link](https://www.twitch.tv/videos/126600230) |
 | 16 | TheCrit | 0:10:50.550000 | 2022-09-18 | [link](https://www.youtube.com/watch?v=crmx1DvDSjE) |
 | 17 | 10ooki | 0:10:51.183000 | 2015-11-24 | [link](https://youtu.be/w6hygIQyxws) |
@@ -48,8 +48,8 @@ categories: speedrun
 | 37 | Eclipsed | 0:10:58 | 2022-01-23 | [link](https://youtu.be/Sj2hoErY-d0) |
 | 37 | darbian | 0:10:58 | 2016-09-18 | [link](https://www.twitch.tv/darbian/v/97167568) |
 | 37 | NathanAlmighty | 0:10:58 | 2017-11-10 | [link](https://www.youtube.com/watch?v=Tmvby-WW7eU&feature=youtu.be) |
-| 42 | highflyer28 | 0:10:59 | 2023-04-16 | [link](https://www.twitch.tv/videos/1795862957) |
 | 42 | goofychocobo | 0:10:59 | 2021-03-27 | [link](https://www.youtube.com/watch?v=8l6EkRzBsNA) |
+| 42 | highflyer28 | 0:10:59 | 2023-04-16 | [link](https://www.twitch.tv/videos/1795862957) |
 | 42 | TwitchName | 0:10:59 | 2022-11-08 | [link](https://www.youtube.com/watch?v=mUU80t4hbrw&feature=youtu.be) |
 | 42 | SpicyChickenSpiciBoi | 0:10:59 | 2023-02-02 | [link](https://youtu.be/lofEa21J-lE) |
 | 42 | Revelyte23 | 0:10:59 | 2019-09-01 | [link](https://www.youtube.com/watch?v=Ppc9gZ4xQCs) |
