@@ -61,10 +61,10 @@ categories: speedrun
 | 52 | Scrimsion | 0:11:01 | 2023-03-19 | [link](https://youtu.be/uzPNQO0hmn4) |
 | 52 | SuperSonic | 0:11:01 | 2023-01-17 | [link](https://youtu.be/GGr1Dqtbxcg) |
 | 54 | k1ngk0opa | 0:11:02 | 2023-04-13 | [link](https://youtu.be/pa48kMGj-W8) |
-| 55 | Bertstarebro | 0:11:03 | 2014-09-17 | [link](https://www.youtube.com/watch?v=aTmUEpEu680) |
-| 56 | budzyRNG | 0:11:04 | 2023-04-20 | [link](https://www.youtube.com/watch?v=t1LiBKoa4lM) |
-| 56 | YerocXx | 0:11:04 | 2020-07-25 | [link](https://youtu.be/tWNbecUrM44) |
-| 56 | Kyuvolka | 0:11:04 | 2023-01-09 | [link](https://www.twitch.tv/videos/1702277928) |
+| 54 | budzyRNG | 0:11:02 | 2023-04-22 | [link](https://www.youtube.com/watch?v=fZeMjggiTqE) |
+| 56 | Bertstarebro | 0:11:03 | 2014-09-17 | [link](https://www.youtube.com/watch?v=aTmUEpEu680) |
+| 57 | YerocXx | 0:11:04 | 2020-07-25 | [link](https://youtu.be/tWNbecUrM44) |
+| 57 | Kyuvolka | 0:11:04 | 2023-01-09 | [link](https://www.twitch.tv/videos/1702277928) |
 | 59 | DaveLindo | 0:11:05 | 2019-08-15 | [link](https://www.twitch.tv/videos/467866687) |
 | 59 | DenimVest25 | 0:11:05 | 2017-09-05 | [link](https://www.youtube.com/watch?v=a0JNbxNOgG4) |
 | 59 | mays_hayes | 0:11:05 | 2023-01-18 | [link](https://youtu.be/6S1b5eRB0Ok) |
