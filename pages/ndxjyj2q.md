@@ -41,9 +41,9 @@ categories: speedrun
 | 31 | TheHaxor | 0:10:55 | 2019-03-04 | [link](https://www.twitch.tv/videos/390625028) |
 | 31 | Svenne | 0:10:55 | 2016-05-31 | [link](https://www.twitch.tv/retrogaminglivetv/v/69764511) |
 | 34 | brocis420 | 0:10:56 | 2021-06-06 | [link](https://youtu.be/sS8p_H9acWw) |
+| 34 | Sakaali | 0:10:56 | 2023-04-23 | [link](https://www.youtube.com/watch?v=YrgQQWl2SkU) |
 | 34 | yatokami9 | 0:10:56 | 2021-07-05 | [link](https://www.twitch.tv/videos/1077654280) |
 | 34 | YourFreeChicken | 0:10:56 | 2021-06-06 | [link](https://youtu.be/2JOusJtAAN0) |
-| 34 | Sakaali | 0:10:56 | 2023-04-23 | [link](https://www.youtube.com/watch?v=YrgQQWl2SkU) |
 | 38 | Scarface | 0:10:58 | 2021-02-06 | [link](https://youtu.be/PUMN-IGCodU) |
 | 38 | dom | 0:10:58 | 2021-04-20 | [link](https://www.twitch.tv/videos/994542334) |
 | 38 | Eclipsed | 0:10:58 | 2022-01-23 | [link](https://youtu.be/Sj2hoErY-d0) |
