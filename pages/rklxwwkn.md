@@ -49,8 +49,8 @@ categories: speedrun
 | 39 | Katti | 0:52:22 | 2022-11-26 | [link](https://www.twitch.tv/videos/1662656421) |
 | 41 | HUmanMustard | 0:52:23 | 2023-01-30 | [link](https://www.youtube.com/watch?v=3Kdogclxz68) |
 | 42 | SpicyChickenSpiciBoi | 0:52:25 | 2023-01-05 | [link](https://youtu.be/X3A8YH3y2MM) |
-| 43 | Macobra52 | 0:52:26 | 2020-07-31 | [link](https://www.twitch.tv/videos/696469338) |
 | 43 | highflyer28 | 0:52:26 | 2023-04-28 | [link](https://www.twitch.tv/videos/1806369717) |
+| 43 | Macobra52 | 0:52:26 | 2020-07-31 | [link](https://www.twitch.tv/videos/696469338) |
 | 45 | nissault | 0:52:28 | 2022-09-22 | [link](https://youtu.be/jcpFFM9LPrk) |
 | 46 | MoonJi | 0:52:30 | 2019-01-10 | [link](https://www.youtube.com/watch?v=95c6tX8tY_c&t=1498s) |
 | 47 | Doomtap | 0:52:31 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450856849) |

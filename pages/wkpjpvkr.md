@@ -46,9 +46,9 @@ categories: speedrun
 | 36 | Renakun | 0:03:23 | 2019-01-23 | [link](https://youtu.be/AZKoTuEogxs) |
 | 36 | Lawso42 | 0:03:23 | 2016-06-11 | [link](https://www.twitch.tv/videos/71778940) |
 | 39 | Sikbit | 0:03:24 | 2018-06-02 | [link](https://www.youtube.com/watch?v=TC5AzXHNqjE) |
-| 40 | zekeSSB | 0:03:25 | 2023-04-23 | [link](https://www.twitch.tv/videos/1801662717?filter=highlights&sort=time) |
 | 40 | Boethiah | 0:03:25 | 2020-01-26 | [link](https://www.twitch.tv/videos/542022781) |
 | 40 | Themasterpro1212 | 0:03:25 | 2021-06-26 | [link](https://youtu.be/67cSAuse6Rs) |
+| 40 | zekeSSB | 0:03:25 | 2023-04-23 | [link](https://www.twitch.tv/videos/1801662717?filter=highlights&sort=time) |
 | 40 | ROOK_jpn | 0:03:25 | 2019-06-15 | [link](https://www.youtube.com/watch?v=DVGqsSpeH9w) |
 | 44 | MatyMak | 0:03:26 | 2021-12-13 | [link](https://www.youtube.com/watch?v=UkVLLBdX6lw&ab_channel=MatyMak) |
 | 45 | Sluggy | 0:03:27 | 2021-09-06 | [link](https://youtu.be/YEi0P21-Y38) |
