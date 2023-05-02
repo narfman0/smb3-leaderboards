@@ -26,10 +26,10 @@ categories: speedrun
 | 17 | Mondii | 0:51:23 | 2023-04-02 | [link](https://www.twitch.tv/videos/1782912675) |
 | 18 | Scarface | 0:51:26 | 2022-04-04 | [link](https://youtu.be/rxJoeyjzlDA) |
 | 19 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
-| 20 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
-| 21 | stewie_cartman | 0:51:39 | 2023-01-09 | [link](https://www.twitch.tv/videos/1702942625) |
-| 21 | Lainerainer | 0:51:39 | 2023-03-06 | [link](https://youtu.be/9lDRmtQw6FA) |
-| 21 | scalpel | 0:51:39 | 2022-12-29 | [link](https://youtu.be/LeuFJWeP5Xk) |
+| 20 | stewie_cartman | 0:51:33 | 2023-04-30 | [link](https://www.twitch.tv/videos/1808333455) |
+| 21 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
+| 22 | Lainerainer | 0:51:39 | 2023-03-06 | [link](https://youtu.be/9lDRmtQw6FA) |
+| 22 | scalpel | 0:51:39 | 2022-12-29 | [link](https://youtu.be/LeuFJWeP5Xk) |
 | 24 | Track1 | 0:51:49 | 2023-04-02 | [link](https://www.twitch.tv/videos/1782938361?filter=highlights&sort=time) |
 | 25 | Mars02 | 0:51:51 | 2022-08-06 | [link](https://www.youtube.com/watch?v=jHfnOtf6HlA) |
 | 25 | WhenChukAttacks | 0:51:51 | 2018-03-29 | [link](https://www.twitch.tv/videos/244391585) |

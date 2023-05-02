@@ -51,8 +51,8 @@ categories: speedrun
 | 40 | zekeSSB | 0:03:25 | 2023-04-23 | [link](https://www.twitch.tv/videos/1801662717?filter=highlights&sort=time) |
 | 40 | ROOK_jpn | 0:03:25 | 2019-06-15 | [link](https://www.youtube.com/watch?v=DVGqsSpeH9w) |
 | 44 | MatyMak | 0:03:26 | 2021-12-13 | [link](https://www.youtube.com/watch?v=UkVLLBdX6lw&ab_channel=MatyMak) |
-| 45 | TheNoSwearGuy | 0:03:27 | 2023-04-29 | [link](https://www.youtube.com/watch?v=VLBuhHasmEM) |
 | 45 | Sluggy | 0:03:27 | 2021-09-06 | [link](https://youtu.be/YEi0P21-Y38) |
+| 45 | TheNoSwearGuy | 0:03:27 | 2023-04-29 | [link](https://www.youtube.com/watch?v=VLBuhHasmEM) |
 | 47 | Simplistic_Memes | 0:03:28 | 2021-10-10 | [link](https://youtu.be/tQzvlE17_Vk) |
 | 47 | Scrimsion | 0:03:28 | 2022-09-27 | [link](https://youtu.be/ox1wIUHc5Fo) |
 | 49 | chickenfish4 | 0:03:29 | 2017-06-25 | [link](https://youtu.be/yOOKGKufp4U) |
@@ -220,6 +220,7 @@ categories: speedrun
 | 198 | aidenlt | 0:03:58 | 2019-10-22 | [link](https://www.youtube.com/watch?v=KgeG1twsE48) |
 | 198 | Karyno | 0:03:58 | 2017-05-13 | [link](https://www.youtube.com/watch?v=JvjeloAySEY) |
 | 213 | IluvMario | 0:03:59 | 2014-05-21 | [link](https://www.twitch.tv/iluvmario/v/49223345) |
+| 213 | Marmon | 0:03:59 | 2023-04-30 | [link](https://www.twitch.tv/videos/1803960875) |
 | 213 | Sofa1 | 0:03:59 | 2018-02-02 | [link](https://www.twitch.tv/videos/224762764) |
 | 213 | ThePigKing | 0:03:59 | 2020-01-13 | [link](https://youtu.be/IvhV07eVwq8) |
 | 213 | HJA | 0:03:59 | 2017-10-23 | [link](https://www.youtube.com/watch?v=_CmANw241yo) |
@@ -232,7 +233,6 @@ categories: speedrun
 | 213 | KaiserKrister | 0:03:59 | 2017-09-19 | [link](https://www.twitch.tv/videos/175971008) |
 | 213 | KLM1187 | 0:03:59 | 2020-06-23 | [link](https://youtu.be/TNTEEsu3Nrc) |
 | 213 | oknem | 0:03:59 | 2020-10-12 | [link](https://youtu.be/QFfxq209voU) |
-| 213 | Marmon | 0:03:59 | 2023-04-30 | [link](https://www.twitch.tv/videos/1803960875) |
 | 227 | skateman222 | 0:04:00 | 2019-01-23 | [link](https://www.twitch.tv/videos/368880672) |
 | 227 | SilenceErupts | 0:04:00 | 2019-11-20 | [link](https://www.youtube.com/watch?v=OIAwbaeiGIQ) |
 | 227 | tmyoukai | 0:04:00 | 2020-07-08 | [link](https://www.twitch.tv/videos/673384421) |
