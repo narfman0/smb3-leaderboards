@@ -384,13 +384,13 @@ categories: speedrun
 | 366 | Jean20B | 0:04:20 | 2018-09-19 | [link](https://youtu.be/vTrN4I-30Ac) |
 | 366 | pahchi | 0:04:20 | 2017-09-11 | [link](https://www.twitch.tv/videos/173933796) |
 | 366 | Claire | 0:04:20 | 2019-10-20 | [link](https://www.twitch.tv/videos/497807984) |
+| 378 | 2True4You | 0:04:21 | 2023-05-03 | [link](https://youtu.be/TVWSgDGKzzE) |
 | 378 | mister_nibbles | 0:04:21 | 2018-07-28 | [link](https://www.youtube.com/watch?v=-_us_yli8_I) |
 | 378 | tdiogo_gamer | 0:04:21 | 2022-01-26 | [link](https://youtu.be/W3XDkfItYsw) |
 | 378 | ThatOneRottenSpud | 0:04:21 | 2017-04-30 | [link](https://www.youtube.com/watch?v=NGsQXCRHyxE) |
 | 378 | LucasFidelis | 0:04:21 | 2017-02-20 | [link](https://youtu.be/m1gI4RQTgDI) |
 | 378 | Supernickid | 0:04:21 | 2017-05-25 | [link](https://www.youtube.com/watch?v=OtZnsTfna4M) |
 | 378 | NaiieX | 0:04:21 | 2018-03-07 | [link](https://www.youtube.com/watch?v=FqcMDXu5BkQ) |
-| 378 | 2True4You | 0:04:21 | 2023-05-03 | [link](https://youtu.be/TVWSgDGKzzE) |
 | 385 | BOTSam | 0:04:22 | 2020-12-26 | [link](https://youtu.be/jXALZLgW11I) |
 | 386 | cerealmasticator | 0:04:23 | 2020-01-15 | [link](https://www.twitch.tv/videos/536734568) |
 | 387 | diemb | 0:04:24 | 2021-05-05 | [link](https://www.youtube.com/watch?v=BELMPNC4iRA) |
