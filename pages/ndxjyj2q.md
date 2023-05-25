@@ -377,9 +377,9 @@ categories: speedrun
 | 368 | thegoodjakeward | 0:14:12 | 2022-01-26 | [link](https://youtu.be/c0hUlvzOKzk) |
 | 369 | Jetabb | 0:14:13 | 2019-03-15 | [link](https://www.twitch.tv/videos/397092371) |
 | 369 | Neithend | 0:14:13 | 2021-02-02 | [link](https://www.youtube.com/watch?v=KzmSjdD_Q2w) |
+| 371 | Personator1LC | 0:14:14 | 2023-05-23 | [link](https://www.twitch.tv/videos/1827321395) |
 | 371 | PotatoHandle | 0:14:14 | 2013-03-05 | [link](http://www.twitch.tv/potatohandle/c/1992802) |
 | 371 | switchfaced | 0:14:14 | 2022-05-17 | [link](https://www.twitch.tv/videos/1486661275) |
-| 371 | Personator1LC | 0:14:14 | 2023-05-23 | [link](https://www.twitch.tv/videos/1827321395) |
 | 374 | wake911 | 0:14:16 | 2018-11-20 | [link](https://www.youtube.com/watch?v=9OHoK41e9PE) |
 | 375 | xeroxfiend | 0:14:17 | 2018-07-09 | [link](https://www.twitch.tv/videos/282701627) |
 | 375 | Gustlik102 | 0:14:17 | 2017-08-18 | [link](https://www.youtube.com/watch?v=Gb-nhRej5Z0) |
