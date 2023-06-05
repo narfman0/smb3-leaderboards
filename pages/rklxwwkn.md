@@ -237,8 +237,8 @@ categories: speedrun
 | 228 | sYn | 1:04:45 | 2018-07-05 | [link](https://www.twitch.tv/videos/281380929) |
 | 229 | compugab | 1:04:46 | 2022-02-11 | [link](https://www.twitch.tv/videos/1295181395) |
 | 230 | jamesjmarkeyjr | 1:04:52 | 2021-08-16 | [link](https://youtu.be/8stxbStpMSA) |
-| 231 | Finnish2005 | 1:05:05 | 2023-06-01 | [link](https://youtu.be/qxEQCPeD1-4) |
 | 231 | deuisy | 1:05:05 | 2021-03-21 | [link](https://www.twitch.tv/videos/957671579) |
+| 231 | Finnish2005 | 1:05:05 | 2023-06-01 | [link](https://youtu.be/qxEQCPeD1-4) |
 | 233 | amourietta | 1:05:19 | 2019-02-26 | [link](https://www.twitch.tv/videos/387146231) |
 | 234 | bittigg | 1:05:55 | 2023-05-24 | [link](https://youtu.be/CCao5r9wfv8?t=222) |
 | 235 | de_oScar | 1:06:09 | 2021-07-16 | [link](https://www.youtube.com/watch?v=erITQTv1Cm4) |
