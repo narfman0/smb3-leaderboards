@@ -388,8 +388,8 @@ categories: speedrun
 | 379 | Mingura666 | 0:14:20 | 2022-11-20 | [link](https://youtu.be/GsY0GMy_Hp0) |
 | 379 | MonkeyGarbage | 0:14:20 | 2021-08-10 | [link](https://www.youtube.com/watch?v=nGp59KlHUrc) |
 | 379 | Vicksland | 0:14:20 | 2020-08-29 | [link](https://www.twitch.tv/videos/725799599) |
-| 382 | Finnish2005 | 0:14:21 | 2023-06-02 | [link](https://youtu.be/H_Pn0oSBIdw) |
 | 382 | Kirb788 | 0:14:21 | 2022-12-23 | [link](https://www.twitch.tv/videos/1687087161) |
+| 382 | Finnish2005 | 0:14:21 | 2023-06-02 | [link](https://youtu.be/H_Pn0oSBIdw) |
 | 382 | KingRhodesTn | 0:14:21 | 2018-07-25 | [link](https://www.twitch.tv/videos/289117141) |
 | 385 | ScarletIbis | 0:14:23 | 2023-05-14 | [link](https://youtu.be/7no5wxwO8dg) |
 | 385 | TheSkeeterBronson | 0:14:23 | 2020-10-12 | [link](https://youtu.be/JZJ_d3XYG7s) |
