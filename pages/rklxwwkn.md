@@ -36,8 +36,8 @@ categories: speedrun
 | 27 | Outside_Lutz | 0:51:53 | 2014-03-23 | [link](https://www.youtube.com/watch?v=IjSx5GHtB78) |
 | 28 | ibuba7 | 0:51:54 | 2021-02-25 | [link](https://www.youtube.com/watch?v=fdKLbhv9TZQ&ab_channel=iBuba7) |
 | 29 | dom | 0:51:55 | 2021-05-18 | [link](https://youtu.be/AkLx3ODwW8w) |
-| 30 | EthanRTA | 0:51:56 | 2022-04-17 | [link](https://youtu.be/u5DaRhfjaQo) |
 | 30 | budzyRNG | 0:51:56 | 2023-06-07 | [link](https://www.youtube.com/watch?v=jLe8ogOjSuo) |
+| 30 | EthanRTA | 0:51:56 | 2022-04-17 | [link](https://youtu.be/u5DaRhfjaQo) |
 | 32 | GungeonLover | 0:51:57 | 2023-06-05 | [link](https://www.twitch.tv/videos/1838236159) |
 | 32 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
 | 34 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
