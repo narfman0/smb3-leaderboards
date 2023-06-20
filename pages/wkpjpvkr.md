@@ -118,8 +118,8 @@ categories: speedrun
 | 104 | Matepe | 0:03:48 | 2021-03-12 | [link](https://www.twitch.tv/videos/946412904) |
 | 104 | SomeBro | 0:03:48 | 2018-02-16 | [link](https://youtu.be/n2uP1ndlgmw) |
 | 104 | joka | 0:03:48 | 2017-02-07 | [link](https://www.youtube.com/watch?v=RSO5h78ntYI) |
-| 112 | I_Enjoy_Games | 0:03:49 | 2023-06-13 | [link](https://youtu.be/sSbgr2jiiHc) |
 | 112 | Kinder | 0:03:49 | 2017-10-31 | [link](https://www.youtube.com/watch?v=hqMYTOwGGSc&feature=youtu.be) |
+| 112 | I_Enjoy_Games | 0:03:49 | 2023-06-13 | [link](https://youtu.be/sSbgr2jiiHc) |
 | 112 | Steele | 0:03:49 | 2019-03-28 | [link](https://youtu.be/SWWhAN9Mu4Y) |
 | 112 | eHolden | 0:03:49 | 2020-06-17 | [link](https://youtu.be/bRPZ6UlAGOI) |
 | 112 | JeimarZeth | 0:03:49 | 2017-07-01 | [link](https://www.twitch.tv/videos/155754621) |
@@ -169,6 +169,7 @@ categories: speedrun
 | 153 | Neptunolium | 0:03:54 | 2018-04-10 | [link](https://www.twitch.tv/videos/248653933) |
 | 153 | Echon | 0:03:54 | 2021-12-12 | [link](https://www.twitch.tv/videos/1231252315) |
 | 162 | Growly87 | 0:03:55 | 2021-03-04 | [link](https://www.twitch.tv/videos/937539476) |
+| 162 | ZachFX | 0:03:55 | 2023-06-17 | [link](https://www.youtube.com/watch?v=_IYSqS4OqXs) |
 | 162 | Javeliin | 0:03:55 | 2021-08-07 | [link](https://youtu.be/xuTwO1j9YOc) |
 | 162 | AquaticBoba | 0:03:55 | 2023-03-21 | [link](https://www.twitch.tv/videos/1771287487) |
 | 162 | Konaxs1 | 0:03:55 | 2021-01-30 | [link](https://www.youtube.com/watch?v=tu_txngKU9o) |
@@ -177,7 +178,6 @@ categories: speedrun
 | 162 | quesmues | 0:03:55 | 2016-09-19 | [link](https://www.youtube.com/watch?v=YBs5IrDC33M&feature=youtu.be) |
 | 162 | xenkaroshi | 0:03:55 | 2019-02-27 | [link](https://www.youtube.com/watch?v=QM714I2II9Y) |
 | 162 | Warpx3 | 0:03:55 | 2017-05-12 | [link](https://www.twitch.tv/videos/143384195) |
-| 162 | ZachFX | 0:03:55 | 2023-06-17 | [link](https://www.youtube.com/watch?v=bmPNhNLpSHc) |
 | 172 | Vireth | 0:03:56 | 2020-06-07 | [link](https://youtu.be/YweVOyYi3FQ) |
 | 172 | Adam1205 | 0:03:56 | 2017-08-22 | [link](https://www.youtube.com/watch?v=8Z2r2MucCmI&feature=youtu.be) |
 | 172 | epicnubedemelon | 0:03:56 | 2019-03-28 | [link](https://www.youtube.com/watch?v=9OhFY4Ckf4Y&feature=youtu.be) |
@@ -245,11 +245,11 @@ categories: speedrun
 | 231 | RodrigoAndrade7 | 0:04:00 | 2016-01-13 | [link](http://www.twitch.tv/rodrigoandrade7/v/35178990) |
 | 231 | SethBling | 0:04:00 | 2019-01-23 | [link](https://www.twitch.tv/videos/368728425) |
 | 231 | ThePKing | 0:04:00 | 2020-07-07 | [link](https://www.youtube.com/watch?v=tJD0sxPq5OU&t=247s) |
+| 239 | Saria_100 | 0:04:01 | 2023-06-17 | [link](https://youtu.be/d5MsuJtjI3Q) |
 | 239 | Henear | 0:04:01 | 2020-07-03 | [link](https://www.youtube.com/watch?v=YaPeg0NyMUM) |
 | 239 | Paihiro | 0:04:01 | 2021-10-14 | [link](https://youtu.be/OyV-J0pN2lE) |
 | 239 | RitzMania | 0:04:01 | 2023-01-29 | [link](https://youtu.be/kSGL_cnM2KQ) |
 | 239 | Smirn | 0:04:01 | 2018-06-29 | [link](https://youtu.be/vlG3OSJ5HjM) |
-| 239 | Saria_100 | 0:04:01 | 2023-06-17 | [link](https://youtu.be/d5MsuJtjI3Q) |
 | 244 | DrNexo | 0:04:02 | 2020-07-25 | [link](https://www.youtube.com/watch?v=MqtTqT1rSXw) |
 | 244 | ACB | 0:04:02 | 2018-06-21 | [link](https://youtu.be/b_OoHHsCvBk) |
 | 244 | Oxwaa | 0:04:02 | 2020-06-11 | [link](https://www.youtube.com/watch?v=5QSxx5v5KNs) |
