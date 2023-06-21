@@ -169,10 +169,10 @@ categories: speedrun
 | 153 | Neptunolium | 0:03:54 | 2018-04-10 | [link](https://www.twitch.tv/videos/248653933) |
 | 153 | Echon | 0:03:54 | 2021-12-12 | [link](https://www.twitch.tv/videos/1231252315) |
 | 162 | Growly87 | 0:03:55 | 2021-03-04 | [link](https://www.twitch.tv/videos/937539476) |
-| 162 | ZachFX | 0:03:55 | 2023-06-17 | [link](https://www.youtube.com/watch?v=_IYSqS4OqXs) |
 | 162 | Javeliin | 0:03:55 | 2021-08-07 | [link](https://youtu.be/xuTwO1j9YOc) |
 | 162 | AquaticBoba | 0:03:55 | 2023-03-21 | [link](https://www.twitch.tv/videos/1771287487) |
 | 162 | Konaxs1 | 0:03:55 | 2021-01-30 | [link](https://www.youtube.com/watch?v=tu_txngKU9o) |
+| 162 | ZachFX | 0:03:55 | 2023-06-17 | [link](https://www.youtube.com/watch?v=_IYSqS4OqXs) |
 | 162 | wake911 | 0:03:55 | 2018-12-05 | [link](https://youtu.be/dEe-iBjZAhA) |
 | 162 | topher123890 | 0:03:55 | 2017-09-06 | [link](https://youtu.be/0iv4c-qasqs) |
 | 162 | quesmues | 0:03:55 | 2016-09-19 | [link](https://www.youtube.com/watch?v=YBs5IrDC33M&feature=youtu.be) |
