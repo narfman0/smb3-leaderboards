@@ -204,8 +204,8 @@ categories: speedrun
 | 195 | Jhoelito | 1:00:11 | 2023-04-10 | [link](https://youtu.be/CWGIlUEkIlY) |
 | 196 | glutamic_acid | 1:00:14 | 2020-10-10 | [link](https://www.twitch.tv/videos/766631321) |
 | 197 | Adotis | 1:00:15 | 2020-11-30 | [link](https://www.twitch.tv/videos/820683849) |
-| 198 | HERO_PECO | 1:00:25 | 2021-06-25 | [link](https://www.youtube.com/watch?v=YUKIxmldk7A) |
-| 199 | jondatflindo | 1:00:33 | 2023-05-25 | [link](https://www.twitch.tv/videos/1829263009) |
+| 198 | jondatflindo | 1:00:18 | 2023-06-20 | [link](https://www.twitch.tv/videos/1851447074) |
+| 199 | HERO_PECO | 1:00:25 | 2021-06-25 | [link](https://www.youtube.com/watch?v=YUKIxmldk7A) |
 | 200 | brt_rta | 1:00:38 | 2021-07-15 | [link](https://youtu.be/uB_bqO1v1AM) |
 | 201 | Xdragon | 1:00:46 | 2014-09-28 | [link](http://www.twitch.tv/xdragon95/c/5200006) |
 | 201 | BigZeeff | 1:00:46 | 2018-04-09 | [link](https://www.twitch.tv/videos/248341901) |
