@@ -141,11 +141,11 @@ categories: speedrun
 | 126 | DeadmanPR | 0:03:51 | 2020-12-20 | [link](https://www.twitch.tv/videos/844504796) |
 | 126 | DelTaz | 0:03:51 | 2016-12-14 | [link](https://www.youtube.com/watch?v=1xJ5dhsxtyk&feature=youtu.be) |
 | 126 | CasualTom | 0:03:51 | 2019-03-30 | [link](https://www.youtube.com/watch?v=27CJsHO1Qt0) |
-| 135 | stewie_cartman | 0:03:52 | 2022-03-06 | [link](https://www.twitch.tv/videos/1417916689) |
 | 135 | crasyfingers | 0:03:52 | 2019-02-09 | [link](https://www.twitch.tv/videos/377672762) |
 | 135 | JoeyWheeler | 0:03:52 | 2019-07-08 | [link](https://www.youtube.com/watch?v=nxI2jPfBFpI) |
 | 135 | Uvideo | 0:03:52 | 2020-04-15 | [link](https://www.youtube.com/watch?v=fw4wjXq7dOE) |
 | 135 | WhicheverMirror | 0:03:52 | 2021-06-29 | [link](https://www.youtube.com/watch?v=GM2xy6YLkmU) |
+| 135 | stewie_cartman | 0:03:52 | 2022-03-06 | [link](https://www.twitch.tv/videos/1417916689) |
 | 135 | Mingura666 | 0:03:52 | 2021-04-12 | [link](https://youtu.be/sd02-v4Qxxg) |
 | 135 | CarlEmilEx | 0:03:52 | 2017-03-13 | [link](https://youtu.be/Fg0kcSOYfwk) |
 | 135 | FURiOUS | 0:03:52 | 2015-06-19 | [link](https://www.youtube.com/watch?v=qnC1fzT7oXM) |
