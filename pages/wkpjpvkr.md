@@ -342,8 +342,8 @@ categories: speedrun
 | 333 | yelir64 | 0:04:14 | 2022-09-12 | [link](https://www.youtube.com/watch?v=3mrfDCOrdcM) |
 | 333 | Jayaye78 | 0:04:14 | 2021-05-14 | [link](https://www.twitch.tv/videos/1025365133) |
 | 333 | zutetflute | 0:04:14 | 2018-03-02 | [link](https://youtu.be/jrsHceWF7vM) |
-| 333 | OneWingdAngel | 0:04:14 | 2018-03-20 | [link](https://youtu.be/E38FBfMZe5k) |
 | 333 | JonnyLink | 0:04:14 | 2021-06-07 | [link](https://youtu.be/UkZ13jmSKhM) |
+| 333 | OneWingdAngel | 0:04:14 | 2018-03-20 | [link](https://youtu.be/E38FBfMZe5k) |
 | 333 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
 | 339 | nicorasu | 0:04:15 | 2019-12-22 | [link](https://www.twitch.tv/videos/524752526) |
 | 339 | WontedEvil158 | 0:04:15 | 2022-05-23 | [link](https://youtu.be/TgGbfOnS_Sg) |
