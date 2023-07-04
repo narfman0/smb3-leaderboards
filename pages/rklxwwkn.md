@@ -56,8 +56,8 @@ categories: speedrun
 | 47 | Doomtap | 0:52:31 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450856849) |
 | 48 | uninerd | 0:52:32 | 2022-09-13 | [link](https://www.twitch.tv/videos/1590115133) |
 | 48 | brocis420 | 0:52:32 | 2022-12-28 | [link](https://www.twitch.tv/videos/1691525340) |
-| 50 | AliceHK8 | 0:52:33 | 2022-12-23 | [link](https://www.twitch.tv/videos/1686859473) |
 | 50 | Japezu | 0:52:33 | 2023-07-02 | [link](https://www.twitch.tv/videos/1861292209) |
+| 50 | AliceHK8 | 0:52:33 | 2022-12-23 | [link](https://www.twitch.tv/videos/1686859473) |
 | 52 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 52 | uropsalis | 0:52:44 | 2022-08-24 | [link](https://www.twitch.tv/videos/1571527910) |
 | 54 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
