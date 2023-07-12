@@ -132,8 +132,8 @@ categories: speedrun
 | 120 | robbyk | 0:11:30 | 2022-10-19 | [link](https://www.youtube.com/watch?v=grTpl-mstZ4) |
 | 120 | Suey7 | 0:11:30 | 2017-08-15 | [link](https://www.twitch.tv/videos/167161630) |
 | 125 | Macobra52 | 0:11:31 | 2019-06-02 | [link](https://www.twitch.tv/videos/433666319) |
-| 125 | amorujao | 0:11:31 | 2019-06-04 | [link](https://www.youtube.com/watch?v=tid0Rnae8Rk) |
 | 125 | JoeTheBrooo | 0:11:31 | 2023-07-09 | [link](https://youtu.be/fma_UMoIfYY) |
+| 125 | amorujao | 0:11:31 | 2019-06-04 | [link](https://www.youtube.com/watch?v=tid0Rnae8Rk) |
 | 128 | donalduck386 | 0:11:32 | 2022-11-04 | [link](https://www.youtube.com/watch?v=qjNkdvN-xhs&t=38s) |
 | 128 | zekeSSB | 0:11:32 | 2023-03-20 | [link](https://www.twitch.tv/videos/1770894933?filter=highlights&sort=time) |
 | 128 | eHolden | 0:11:32 | 2020-06-15 | [link](https://youtu.be/9NZJhZ1WNKg) |

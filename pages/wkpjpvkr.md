@@ -98,9 +98,9 @@ categories: speedrun
 | 86 | GreenDeathFlavor | 0:03:44 | 2017-09-10 | [link](https://www.youtube.com/watch?v=voISV8Q0QDc) |
 | 86 | jojoledda | 0:03:44 | 2017-09-06 | [link](https://www.youtube.com/watch?v=oB3SN6RHw9Q) |
 | 91 | Xein64 | 0:03:45 | 2018-03-18 | [link](https://www.youtube.com/watch?v=3omQ1NSe840&t) |
+| 91 | JoeTheBrooo | 0:03:45 | 2023-07-04 | [link](https://youtu.be/bkgYzWpy96U) |
 | 91 | Littlezombie | 0:03:45 | 2023-03-18 | [link](https://youtu.be/UB3uxEDQZbo) |
 | 91 | youtubeman06 | 0:03:45 | 2018-07-04 | [link](https://www.twitch.tv/videos/280868982) |
-| 91 | JoeTheBrooo | 0:03:45 | 2023-07-04 | [link](https://youtu.be/bkgYzWpy96U) |
 | 95 | riscky | 0:03:46 | 2017-10-04 | [link](https://youtu.be/6PuHaIBrXSI) |
 | 95 | junkyard_dave | 0:03:46 | 2020-05-26 | [link](https://www.youtube.com/watch?v=tijENQEnEWY) |
 | 95 | Okmenaut | 0:03:46 | 2017-08-09 | [link](https://youtu.be/V5kPwNLaXmQ) |
