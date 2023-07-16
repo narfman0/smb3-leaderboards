@@ -41,8 +41,8 @@ categories: speedrun
 | 31 | TheHaxor | 0:10:55 | 2019-03-04 | [link](https://www.twitch.tv/videos/390625028) |
 | 31 | Svenne | 0:10:55 | 2016-05-31 | [link](https://www.twitch.tv/retrogaminglivetv/v/69764511) |
 | 34 | brocis420 | 0:10:56 | 2021-06-06 | [link](https://youtu.be/sS8p_H9acWw) |
-| 34 | Hasauce | 0:10:56 | 2023-07-13 | [link](https://youtu.be/sQaXttw3y38) |
 | 34 | Sakaali | 0:10:56 | 2023-04-23 | [link](https://www.youtube.com/watch?v=YrgQQWl2SkU) |
+| 34 | Hasauce | 0:10:56 | 2023-07-13 | [link](https://youtu.be/sQaXttw3y38) |
 | 34 | yatokami9 | 0:10:56 | 2021-07-05 | [link](https://www.twitch.tv/videos/1077654280) |
 | 34 | YourFreeChicken | 0:10:56 | 2021-06-06 | [link](https://youtu.be/2JOusJtAAN0) |
 | 39 | Scarface | 0:10:58 | 2021-02-06 | [link](https://youtu.be/PUMN-IGCodU) |
@@ -446,8 +446,8 @@ categories: speedrun
 | 436 | OnlyLevelOne | 0:15:41 | 2019-12-11 | [link](https://youtu.be/1dsutrFgp-U) |
 | 438 | kshima | 0:15:46 | 2022-01-18 | [link](https://youtu.be/ohM7INGJXzo) |
 | 439 | JustinSpeedrunsMario | 0:15:47 | 2022-08-15 | [link](https://www.youtube.com/watch?v=pa216aOondE) |
-| 440 | ChronosIsHere | 0:15:48 | 2023-01-27 | [link](https://www.youtube.com/watch?v=sTS74MeIsCE) |
 | 440 | D3str0y3r | 0:15:48 | 2023-07-14 | [link](https://youtu.be/WIg8PquhZBI) |
+| 440 | ChronosIsHere | 0:15:48 | 2023-01-27 | [link](https://www.youtube.com/watch?v=sTS74MeIsCE) |
 | 442 | DodgemasterDooley | 0:15:52 | 2018-01-19 | [link](https://www.twitch.tv/videos/220072290) |
 | 443 | zdoroviy_antony | 0:15:53 | 2017-09-15 | [link](https://www.youtube.com/watch?v=UGkzXF3PFoQ&feature=youtu.be) |
 | 444 | briphotoguy | 0:15:54 | 2016-11-27 | [link](https://www.twitch.tv/briphotoguy/v/103737900) |
