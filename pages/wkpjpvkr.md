@@ -10,10 +10,10 @@ categories: speedrun
 | 1 | Kuto1k | 0:03:01.700000 | 2022-10-04 | [link](https://www.twitch.tv/videos/1608962734) |
 | 2 | Czikubi | 0:03:02.383000 | 2021-03-29 | [link](https://www.twitch.tv/videos/968510773) |
 | 3 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
-| 4 | TheCrit | 0:03:04.533000 | 2022-10-09 | [link](https://www.youtube.com/watch?v=ZKA3qjd9r1Q) |
-| 5 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
-| 6 | narfman0 | 0:03:06.700000 | 2022-11-22 | [link](https://youtu.be/zW0uZA-s-RE) |
-| 7 | Falkite | 0:03:07.200000 | 2022-11-10 | [link](https://www.twitch.tv/videos/1648843666) |
+| 4 | Falkite | 0:03:04.500000 | 2023-07-18 | [link](https://www.youtube.com/watch?v=oeSSsfp4YxI) |
+| 5 | TheCrit | 0:03:04.533000 | 2022-10-09 | [link](https://www.youtube.com/watch?v=ZKA3qjd9r1Q) |
+| 6 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
+| 7 | narfman0 | 0:03:06.700000 | 2022-11-22 | [link](https://youtu.be/zW0uZA-s-RE) |
 | 8 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
 | 9 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
 | 10 | iceball8314 | 0:03:07.766000 | 2022-07-08 | [link](https://www.youtube.com/watch?v=pWIPoyKOmSc) |
@@ -103,9 +103,9 @@ categories: speedrun
 | 92 | JoeTheBrooo | 0:03:45 | 2023-07-04 | [link](https://youtu.be/bkgYzWpy96U) |
 | 92 | youtubeman06 | 0:03:45 | 2018-07-04 | [link](https://www.twitch.tv/videos/280868982) |
 | 96 | riscky | 0:03:46 | 2017-10-04 | [link](https://youtu.be/6PuHaIBrXSI) |
-| 96 | GlitchyPa | 0:03:46 | 2023-07-18 | [link](https://www.twitch.tv/videos/1875296435) |
 | 96 | junkyard_dave | 0:03:46 | 2020-05-26 | [link](https://www.youtube.com/watch?v=tijENQEnEWY) |
 | 96 | Okmenaut | 0:03:46 | 2017-08-09 | [link](https://youtu.be/V5kPwNLaXmQ) |
+| 96 | GlitchyPa | 0:03:46 | 2023-07-18 | [link](https://www.twitch.tv/videos/1875296435) |
 | 96 | Alvaca | 0:03:46 | 2021-10-14 | [link](https://youtu.be/zhBcbJEZL0Y) |
 | 96 | Carter44 | 0:03:46 | 2018-04-15 | [link](https://youtu.be/7Ld33MD9wlQ) |
 | 96 | CujoIHSV | 0:03:46 | 2015-10-29 | [link](http://www.twitch.tv/cujoihsv/v/23111363) |
