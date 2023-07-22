@@ -60,9 +60,9 @@ categories: speedrun
 | 49 | AbellaBrothers1 | 0:11:00 | 2021-08-31 | [link](https://m.youtube.com/watch?v=pOGgBjSKFlI) |
 | 49 | MoonJi | 0:11:00 | 2018-05-19 | [link](https://youtu.be/lDOU-ET2LGM) |
 | 49 | GungeonLover | 0:11:00 | 2023-04-20 | [link](https://www.twitch.tv/videos/1799402508) |
+| 54 | TheMexicanRunner | 0:11:01 | 2023-07-20 | [link](https://www.twitch.tv/videos/1877063876) |
 | 54 | Scrimsion | 0:11:01 | 2023-03-19 | [link](https://youtu.be/uzPNQO0hmn4) |
 | 54 | SuperSonic | 0:11:01 | 2023-01-17 | [link](https://youtu.be/GGr1Dqtbxcg) |
-| 54 | TheMexicanRunner | 0:11:01 | 2023-07-20 | [link](https://www.twitch.tv/videos/1877063876) |
 | 57 | k1ngk0opa | 0:11:02 | 2023-04-13 | [link](https://youtu.be/pa48kMGj-W8) |
 | 57 | budzyRNG | 0:11:02 | 2023-04-22 | [link](https://www.youtube.com/watch?v=fZeMjggiTqE) |
 | 59 | Bertstarebro | 0:11:03 | 2014-09-17 | [link](https://www.youtube.com/watch?v=aTmUEpEu680) |
