@@ -7,7 +7,7 @@ categories: speedrun
 
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
-| 1 | Kuto1k | 0:03:01.700000 | 2022-10-04 | [link](https://www.twitch.tv/videos/1608962734) |
+| 1 | Kuto1k | 0:03:00.666000 | 2023-07-20 | [link](https://youtu.be/9G9bnhpyy_0) |
 | 2 | Czikubi | 0:03:02.383000 | 2021-03-29 | [link](https://www.twitch.tv/videos/968510773) |
 | 3 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
 | 4 | Falkite | 0:03:04.500000 | 2023-07-18 | [link](https://www.youtube.com/watch?v=oeSSsfp4YxI) |
@@ -351,12 +351,12 @@ categories: speedrun
 | 339 | JonnyLink | 0:04:14 | 2021-06-07 | [link](https://youtu.be/UkZ13jmSKhM) |
 | 339 | OneWingdAngel | 0:04:14 | 2018-03-20 | [link](https://youtu.be/E38FBfMZe5k) |
 | 339 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
+| 345 | Billy_bongsalot | 0:04:15 | 2023-07-22 | [link](https://www.youtube.com/watch?v=Hmb9Q3kTprE) |
 | 345 | nicorasu | 0:04:15 | 2019-12-22 | [link](https://www.twitch.tv/videos/524752526) |
 | 345 | WontedEvil158 | 0:04:15 | 2022-05-23 | [link](https://youtu.be/TgGbfOnS_Sg) |
 | 345 | melloflowz | 0:04:15 | 2019-03-19 | [link](https://www.twitch.tv/videos/398382567) |
 | 345 | Yamia | 0:04:15 | 2017-04-30 | [link](https://youtu.be/HA1Yd05g2ps) |
 | 345 | TH3MOTOGAM3R | 0:04:15 | 2020-05-25 | [link](http://www.twitch.tv/th3motogam3r/v/632090049?sr=a&t=0s) |
-| 345 | Billy_bongsalot | 0:04:15 | 2023-07-22 | [link](https://www.youtube.com/watch?v=Hmb9Q3kTprE) |
 | 351 | bowmiee | 0:04:16 | 2020-01-26 | [link](https://youtu.be/B6L3ZKGoxBI) |
 | 351 | Omar | 0:04:16 | 2017-10-23 | [link](https://drive.google.com/open?id=0B7Fka0gngT4pWHM1dGVlQWQ5RW8) |
 | 351 | barnowl | 0:04:16 | 2017-09-11 | [link](https://www.twitch.tv/videos/174090156) |
