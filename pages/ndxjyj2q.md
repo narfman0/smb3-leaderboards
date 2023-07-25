@@ -111,8 +111,8 @@ categories: speedrun
 | 101 | Kosmic | 0:11:20 | 2017-03-20 | [link](https://www.twitch.tv/videos/129953800) |
 | 103 | wotsuh_thedeal | 0:11:21 | 2021-10-05 | [link](https://www.twitch.tv/videos/1168454040) |
 | 103 | Carter44 | 0:11:21 | 2019-07-23 | [link](https://www.youtube.com/watch?v=6yMOexUENJE) |
-| 105 | SpUnKeN_DK | 0:11:22 | 2023-07-12 | [link](https://www.twitch.tv/videos/1870286711) |
 | 105 | helfmyselp | 0:11:22 | 2023-03-27 | [link](https://www.twitch.tv/videos/1777712623) |
+| 105 | SpUnKeN_DK | 0:11:22 | 2023-07-12 | [link](https://www.twitch.tv/videos/1870286711) |
 | 105 | Tonmaiii | 0:11:22 | 2022-05-20 | [link](https://youtu.be/HhWjqaYzk44) |
 | 105 | Konaxs1 | 0:11:22 | 2021-03-20 | [link](https://www.twitch.tv/videos/955765002?filter=highlights&sort=time) |
 | 105 | eim64 | 0:11:22 | 2017-08-10 | [link](https://youtu.be/-PT_CtkGFCk) |

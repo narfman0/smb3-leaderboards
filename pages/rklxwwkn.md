@@ -60,11 +60,11 @@ categories: speedrun
 | 50 | AliceHK8 | 0:52:33 | 2022-12-23 | [link](https://www.twitch.tv/videos/1686859473) |
 | 52 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 52 | uropsalis | 0:52:44 | 2022-08-24 | [link](https://www.twitch.tv/videos/1571527910) |
-| 54 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
-| 55 | duckfist | 0:52:47 | 2021-09-04 | [link](https://www.twitch.tv/videos/1139437792?collection=pgQmVpxPpBao_Q) |
-| 55 | TheLostLlama | 0:52:47 | 2016-02-03 | [link](http://www.twitch.tv/thelostllama/v/40275470) |
-| 57 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
-| 58 | neoshazam | 0:52:57 | 2023-05-14 | [link](https://www.bitchute.com/video/PjwArfC7EVeX/) |
+| 54 | neoshazam | 0:52:45 | 2023-07-23 | [link](https://www.bitchute.com/video/s4orUcAUsgKB/) |
+| 55 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
+| 56 | duckfist | 0:52:47 | 2021-09-04 | [link](https://www.twitch.tv/videos/1139437792?collection=pgQmVpxPpBao_Q) |
+| 56 | TheLostLlama | 0:52:47 | 2016-02-03 | [link](http://www.twitch.tv/thelostllama/v/40275470) |
+| 58 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
 | 59 | Malachibros20085721 | 0:53:07 | 2022-06-06 | [link](https://www.twitch.tv/videos/1496529200) |
 | 60 | Aweglib | 0:53:10 | 2017-06-09 | [link](https://www.twitch.tv/videos/150756657) |
 | 61 | assemble_me | 0:53:12 | 2023-04-10 | [link](https://youtu.be/50sSxFdVj4E?t=211) |
