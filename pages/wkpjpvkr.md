@@ -30,8 +30,8 @@ categories: speedrun
 | 21 | 10ooki | 0:03:14 | 2015-12-20 | [link](https://youtu.be/XZe4swasQm4) |
 | 21 | Producks | 0:03:14 | 2014-11-20 | [link](https://www.youtube.com/watch?v=RQFX9IUZwbc) |
 | 23 | Kyuvolka | 0:03:14.166000 | 2022-07-01 | [link](https://youtu.be/FrE1rYkFc2Q) |
-| 24 | ManiacsMeteor | 0:03:16 | 2019-05-19 | [link](https://youtu.be/1JYZI8IX4BU) |
 | 24 | Titanium3114 | 0:03:16 | 2023-07-24 | [link](https://www.youtube.com/watch?v=qkfLW2-nzmE) |
+| 24 | ManiacsMeteor | 0:03:16 | 2019-05-19 | [link](https://youtu.be/1JYZI8IX4BU) |
 | 26 | Skippy | 0:03:16.300000 | 2022-07-28 | [link](https://youtu.be/jK7rR55gl2w) |
 | 27 | Binski48 | 0:03:16.400000 | 2021-08-02 | [link](https://youtu.be/txIpnZ0GDQQ) |
 | 28 | GTAce99 | 0:03:17.433000 | 2023-05-02 | [link](https://youtu.be/ecXoEkCEZjY) |
@@ -351,8 +351,8 @@ categories: speedrun
 | 339 | JonnyLink | 0:04:14 | 2021-06-07 | [link](https://youtu.be/UkZ13jmSKhM) |
 | 339 | OneWingdAngel | 0:04:14 | 2018-03-20 | [link](https://youtu.be/E38FBfMZe5k) |
 | 339 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
-| 345 | Billy_bongsalot | 0:04:15 | 2023-07-22 | [link](https://www.youtube.com/watch?v=Hmb9Q3kTprE) |
 | 345 | nicorasu | 0:04:15 | 2019-12-22 | [link](https://www.twitch.tv/videos/524752526) |
+| 345 | Billy_bongsalot | 0:04:15 | 2023-07-22 | [link](https://www.youtube.com/watch?v=Hmb9Q3kTprE) |
 | 345 | WontedEvil158 | 0:04:15 | 2022-05-23 | [link](https://youtu.be/TgGbfOnS_Sg) |
 | 345 | melloflowz | 0:04:15 | 2019-03-19 | [link](https://www.twitch.tv/videos/398382567) |
 | 345 | Yamia | 0:04:15 | 2017-04-30 | [link](https://youtu.be/HA1Yd05g2ps) |
