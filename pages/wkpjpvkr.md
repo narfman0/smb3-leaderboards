@@ -30,8 +30,8 @@ categories: speedrun
 | 21 | 10ooki | 0:03:14 | 2015-12-20 | [link](https://youtu.be/XZe4swasQm4) |
 | 21 | Producks | 0:03:14 | 2014-11-20 | [link](https://www.youtube.com/watch?v=RQFX9IUZwbc) |
 | 23 | Kyuvolka | 0:03:14.166000 | 2022-07-01 | [link](https://youtu.be/FrE1rYkFc2Q) |
-| 24 | Titanium3114 | 0:03:16 | 2023-07-24 | [link](https://www.youtube.com/watch?v=qkfLW2-nzmE) |
 | 24 | ManiacsMeteor | 0:03:16 | 2019-05-19 | [link](https://youtu.be/1JYZI8IX4BU) |
+| 24 | Titanium3114 | 0:03:16 | 2023-07-24 | [link](https://www.youtube.com/watch?v=qkfLW2-nzmE) |
 | 26 | Skippy | 0:03:16.300000 | 2022-07-28 | [link](https://youtu.be/jK7rR55gl2w) |
 | 27 | Binski48 | 0:03:16.400000 | 2021-08-02 | [link](https://youtu.be/txIpnZ0GDQQ) |
 | 28 | GTAce99 | 0:03:17.433000 | 2023-05-02 | [link](https://youtu.be/ecXoEkCEZjY) |
