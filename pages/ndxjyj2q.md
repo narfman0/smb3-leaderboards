@@ -25,9 +25,9 @@ categories: speedrun
 | 16 | GTAce99 | 0:10:49.950000 | 2023-04-26 | [link](https://youtu.be/c30bWK5E8oE) |
 | 17 | TheCrit | 0:10:50.550000 | 2022-09-18 | [link](https://www.youtube.com/watch?v=crmx1DvDSjE) |
 | 18 | 10ooki | 0:10:51.183000 | 2015-11-24 | [link](https://youtu.be/w6hygIQyxws) |
-| 19 | [se]Frezy_man | 0:10:52 | 2009-10-17 | [link](https://www.youtube.com/watch?v=m_rHATfUZnM) |
-| 19 | Ellonija | 0:10:52 | 2017-05-08 | [link](https://www.twitch.tv/videos/141022605) |
-| 21 | Glitchman24 | 0:10:52.083000 | 2022-01-12 | [link](https://www.youtube.com/watch?v=dxcKz-i0-q0) |
+| 19 | Glitchman24 | 0:10:51.333000 | 2023-07-08 | [link](https://www.youtube.com/watch?v=lzGjwicfxqY) |
+| 20 | [se]Frezy_man | 0:10:52 | 2009-10-17 | [link](https://www.youtube.com/watch?v=m_rHATfUZnM) |
+| 20 | Ellonija | 0:10:52 | 2017-05-08 | [link](https://www.twitch.tv/videos/141022605) |
 | 22 | IluvMario | 0:10:52.516000 | 2020-05-27 | [link](https://www.twitch.tv/videos/633891121) |
 | 23 | AdamFerrari64 | 0:10:52.800000 | 2022-02-17 | [link](https://www.twitch.tv/videos/1304843370) |
 | 24 | Simplistic_Memes | 0:10:52.816000 | 2022-12-18 | [link](https://youtu.be/92frD9clcDs) |
