@@ -20,8 +20,8 @@ categories: speedrun
 | 11 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
 | 12 | Sakaali | 0:51:14 | 2023-03-25 | [link](https://www.twitch.tv/videos/1775347555) |
 | 13 | IluvMario | 0:51:17 | 2018-04-09 | [link](https://www.twitch.tv/videos/248583120) |
-| 14 | ZoneVD | 0:51:19 | 2021-04-22 | [link](https://www.twitch.tv/videos/995985992) |
 | 14 | Track1 | 0:51:19 | 2023-08-11 | [link](https://www.twitch.tv/videos/1896079336) |
+| 14 | ZoneVD | 0:51:19 | 2021-04-22 | [link](https://www.twitch.tv/videos/995985992) |
 | 16 | Ellonija | 0:51:21 | 2017-05-24 | [link](https://www.twitch.tv/videos/146750506) |
 | 17 | jtknott | 0:51:22 | 2022-05-27 | [link](https://youtu.be/SvXJbx-LYGA) |
 | 18 | Mondii | 0:51:23 | 2023-04-02 | [link](https://www.twitch.tv/videos/1782912675) |
@@ -41,8 +41,8 @@ categories: speedrun
 | 32 | budzyRNG | 0:51:56 | 2023-06-07 | [link](https://www.youtube.com/watch?v=jLe8ogOjSuo) |
 | 32 | EthanRTA | 0:51:56 | 2022-04-17 | [link](https://youtu.be/u5DaRhfjaQo) |
 | 34 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
-| 35 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
 | 35 | MarstoS | 0:51:59 | 2023-03-01 | [link](https://www.twitch.tv/videos/1752693139) |
+| 35 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
 | 37 | helfmyselp | 0:52:08 | 2023-04-12 | [link](https://www.youtube.com/watch?v=WFafWW0fCaI) |
 | 38 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
 | 39 | highflyer28 | 0:52:17 | 2023-04-30 | [link](https://www.twitch.tv/videos/1808063603) |
