@@ -251,12 +251,12 @@ categories: speedrun
 | 237 | RodrigoAndrade7 | 0:04:00 | 2016-01-13 | [link](http://www.twitch.tv/rodrigoandrade7/v/35178990) |
 | 237 | SethBling | 0:04:00 | 2019-01-23 | [link](https://www.twitch.tv/videos/368728425) |
 | 237 | ThePKing | 0:04:00 | 2020-07-07 | [link](https://www.youtube.com/watch?v=tJD0sxPq5OU&t=247s) |
+| 245 | akr_sm64 | 0:04:01 | 2023-08-02 | [link](https://youtu.be/KWho3zrjFfc) |
 | 245 | Saria_100 | 0:04:01 | 2023-06-17 | [link](https://youtu.be/d5MsuJtjI3Q) |
 | 245 | Henear | 0:04:01 | 2020-07-03 | [link](https://www.youtube.com/watch?v=YaPeg0NyMUM) |
 | 245 | Paihiro | 0:04:01 | 2021-10-14 | [link](https://youtu.be/OyV-J0pN2lE) |
 | 245 | RitzMania | 0:04:01 | 2023-01-29 | [link](https://youtu.be/kSGL_cnM2KQ) |
 | 245 | Smirn | 0:04:01 | 2018-06-29 | [link](https://youtu.be/vlG3OSJ5HjM) |
-| 245 | akr_sm64 | 0:04:01 | 2023-08-02 | [link](https://youtu.be/KWho3zrjFfc) |
 | 251 | DrNexo | 0:04:02 | 2020-07-25 | [link](https://www.youtube.com/watch?v=MqtTqT1rSXw) |
 | 251 | ACB | 0:04:02 | 2018-06-21 | [link](https://youtu.be/b_OoHHsCvBk) |
 | 251 | Oxwaa | 0:04:02 | 2020-06-11 | [link](https://www.youtube.com/watch?v=5QSxx5v5KNs) |
