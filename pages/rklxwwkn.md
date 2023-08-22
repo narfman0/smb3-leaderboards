@@ -20,11 +20,11 @@ categories: speedrun
 | 11 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
 | 12 | Sakaali | 0:51:14 | 2023-03-25 | [link](https://www.twitch.tv/videos/1775347555) |
 | 13 | IluvMario | 0:51:17 | 2018-04-09 | [link](https://www.twitch.tv/videos/248583120) |
-| 14 | Track1 | 0:51:19 | 2023-08-11 | [link](https://www.twitch.tv/videos/1896079336) |
 | 14 | ZoneVD | 0:51:19 | 2021-04-22 | [link](https://www.twitch.tv/videos/995985992) |
+| 14 | Track1 | 0:51:19 | 2023-08-11 | [link](https://www.twitch.tv/videos/1896079336) |
 | 16 | Ellonija | 0:51:21 | 2017-05-24 | [link](https://www.twitch.tv/videos/146750506) |
-| 17 | jtknott | 0:51:22 | 2022-05-27 | [link](https://youtu.be/SvXJbx-LYGA) |
 | 17 | Kuto1k | 0:51:22 | 2023-08-20 | [link](https://youtu.be/HgbM6aHIKNM) |
+| 17 | jtknott | 0:51:22 | 2022-05-27 | [link](https://youtu.be/SvXJbx-LYGA) |
 | 19 | Mondii | 0:51:23 | 2023-04-02 | [link](https://www.twitch.tv/videos/1782912675) |
 | 20 | Scarface | 0:51:26 | 2022-04-04 | [link](https://youtu.be/rxJoeyjzlDA) |
 | 21 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
