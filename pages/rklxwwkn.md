@@ -157,8 +157,8 @@ categories: speedrun
 | 148 | IsoFrieze | 0:57:29 | 2016-12-07 | [link](https://www.youtube.com/watch?v=7-WO3P7viG8) |
 | 149 | kidneykyle | 0:57:31 | 2019-10-07 | [link](https://www.twitch.tv/videos/491613381) |
 | 150 | Tannhausx | 0:57:37 | 2022-01-30 | [link](https://www.twitch.tv/videos/1281217063) |
-| 151 | Finnish2005 | 0:57:41 | 2023-07-29 | [link](https://youtu.be/3hqAZ0d_qo4) |
 | 151 | bittigg | 0:57:41 | 2023-08-24 | [link](https://youtu.be/nNEF430e4Ys?si=Wp3SjnTUGPvK59rF&t=1237) |
+| 151 | Finnish2005 | 0:57:41 | 2023-07-29 | [link](https://youtu.be/3hqAZ0d_qo4) |
 | 153 | Hjellith | 0:57:42 | 2022-05-07 | [link](https://www.twitch.tv/videos/1477540881) |
 | 153 | AceOfArrows | 0:57:42 | 2016-11-20 | [link](https://www.twitch.tv/aceofarrows/v/102371462) |
 | 155 | barnowl | 0:57:43 | 2015-08-29 | [link](http://www.twitch.tv/barnowl/v/13457077) |

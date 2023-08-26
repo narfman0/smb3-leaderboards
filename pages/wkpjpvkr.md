@@ -325,8 +325,8 @@ categories: speedrun
 | 309 | FyrizZ | 0:04:09 | 2022-07-22 | [link](https://youtu.be/_0tZ3wMROPg) |
 | 309 | Lipe_Berserker | 0:04:09 | 2017-02-23 | [link](https://www.youtube.com/watch?v=HytnSGqrous) |
 | 309 | Darkmariosan | 0:04:09 | 2018-01-28 | [link](https://www.youtube.com/watch?v=WA2avBuWtpk) |
-| 319 | LucaN64pro | 0:04:10 | 2023-08-23 | [link](https://www.youtube.com/watch?v=CCmeG7APkhA) |
 | 319 | Thelxinoe | 0:04:10 | 2020-09-06 | [link](https://www.twitch.tv/videos/730836076) |
+| 319 | LucaN64pro | 0:04:10 | 2023-08-23 | [link](https://www.youtube.com/watch?v=CCmeG7APkhA) |
 | 319 | chinoe | 0:04:10 | 2021-12-22 | [link](https://youtu.be/43TbHWwshrg) |
 | 319 | ViolentCrumble | 0:04:10 | 2016-07-16 | [link](https://www.youtube.com/watch?v=Br47sxEbpQ8&feature=youtu.be) |
 | 319 | Parrot_Dash | 0:04:10 | 2019-04-17 | [link](https://youtu.be/7b0MFKNSNh4) |
