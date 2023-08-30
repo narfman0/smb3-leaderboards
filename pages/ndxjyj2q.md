@@ -51,13 +51,13 @@ categories: speedrun
 | 40 | Eclipsed | 0:10:58 | 2022-01-23 | [link](https://youtu.be/Sj2hoErY-d0) |
 | 40 | darbian | 0:10:58 | 2016-09-18 | [link](https://www.twitch.tv/darbian/v/97167568) |
 | 40 | NathanAlmighty | 0:10:58 | 2017-11-10 | [link](https://www.youtube.com/watch?v=Tmvby-WW7eU&feature=youtu.be) |
+| 45 | GlitchyPa | 0:10:59 | 2023-08-26 | [link](https://www.twitch.tv/videos/1910009697) |
 | 45 | Scrimsion | 0:10:59 | 2023-08-12 | [link](https://youtu.be/vXkI7RG9N1Y) |
 | 45 | goofychocobo | 0:10:59 | 2021-03-27 | [link](https://www.youtube.com/watch?v=8l6EkRzBsNA) |
 | 45 | highflyer28 | 0:10:59 | 2023-04-16 | [link](https://www.twitch.tv/videos/1795862957) |
 | 45 | TwitchName | 0:10:59 | 2022-11-08 | [link](https://www.youtube.com/watch?v=mUU80t4hbrw&feature=youtu.be) |
 | 45 | SpicyChickenSpiciBoi | 0:10:59 | 2023-02-02 | [link](https://youtu.be/lofEa21J-lE) |
 | 45 | Revelyte23 | 0:10:59 | 2019-09-01 | [link](https://www.youtube.com/watch?v=Ppc9gZ4xQCs) |
-| 45 | GlitchyPa | 0:10:59 | 2023-08-26 | [link](https://www.twitch.tv/videos/1910009697) |
 | 52 | roopert83 | 0:11:00 | 2021-10-26 | [link](https://www.youtube.com/watch?v=0gx6U3cQYNc) |
 | 52 | Katti | 0:11:00 | 2023-03-23 | [link](https://www.youtube.com/watch?v=2cYa1EX_-C8&ab_channel=Katti) |
 | 52 | AbellaBrothers1 | 0:11:00 | 2021-08-31 | [link](https://m.youtube.com/watch?v=pOGgBjSKFlI) |
