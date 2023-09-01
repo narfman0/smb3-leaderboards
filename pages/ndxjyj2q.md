@@ -161,8 +161,8 @@ categories: speedrun
 | 152 | iateyoursenpai | 0:11:44 | 2017-11-23 | [link](https://youtu.be/9luhmfDnEUs) |
 | 152 | ZeeGee_ | 0:11:44 | 2020-02-19 | [link](https://www.twitch.tv/videos/554344924) |
 | 152 | chickenfish4 | 0:11:44 | 2017-05-09 | [link](https://youtu.be/hgTQ4JuZGTE) |
-| 155 | SamuraiYudansha | 0:11:45 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450924685) |
 | 155 | Cookiewise | 0:11:45 | 2023-08-29 | [link](https://www.twitch.tv/videos/1913014225) |
+| 155 | SamuraiYudansha | 0:11:45 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450924685) |
 | 157 | TheTerrificTracy | 0:11:46 | 2021-02-16 | [link](https://youtu.be/1voAI4JhuoQ) |
 | 157 | jahaley64 | 0:11:46 | 2022-03-24 | [link](https://www.twitch.tv/videos/1435743701) |
 | 157 | WhicheverMirror | 0:11:46 | 2021-08-25 | [link](https://www.youtube.com/watch?v=_8Fcbyc27Fc) |
