@@ -140,6 +140,7 @@ categories: speedrun
 | 124 | MC_2018 | 0:03:50 | 2019-01-07 | [link](https://youtu.be/9-Vy5nScZRM) |
 | 124 | TEEX88 | 0:03:50 | 2019-03-19 | [link](https://www.twitch.tv/videos/397806515) |
 | 133 | dubiousdinobot | 0:03:51 | 2020-08-06 | [link](https://www.twitch.tv/videos/702129272) |
+| 133 | HylianSomething | 0:03:51 | 2023-09-03 | [link](https://youtu.be/paMKn7KDFiw) |
 | 133 | NathanAlmighty | 0:03:51 | 2017-10-23 | [link](https://www.youtube.com/watch?v=pAvdf5a677k&feature=youtu.be) |
 | 133 | Hmw1337 | 0:03:51 | 2018-11-23 | [link](https://www.twitch.tv/videos/339779040) |
 | 133 | Mrvic | 0:03:51 | 2020-10-27 | [link](https://youtu.be/s7yJjpPaRaA) |
@@ -149,7 +150,6 @@ categories: speedrun
 | 133 | DeadmanPR | 0:03:51 | 2020-12-20 | [link](https://www.twitch.tv/videos/844504796) |
 | 133 | DelTaz | 0:03:51 | 2016-12-14 | [link](https://www.youtube.com/watch?v=1xJ5dhsxtyk&feature=youtu.be) |
 | 133 | CasualTom | 0:03:51 | 2019-03-30 | [link](https://www.youtube.com/watch?v=27CJsHO1Qt0) |
-| 133 | HylianSomething | 0:03:51 | 2023-09-03 | [link](https://youtu.be/paMKn7KDFiw) |
 | 144 | crasyfingers | 0:03:52 | 2019-02-09 | [link](https://www.twitch.tv/videos/377672762) |
 | 144 | JoeyWheeler | 0:03:52 | 2019-07-08 | [link](https://www.youtube.com/watch?v=nxI2jPfBFpI) |
 | 144 | Uvideo | 0:03:52 | 2020-04-15 | [link](https://www.youtube.com/watch?v=fw4wjXq7dOE) |
