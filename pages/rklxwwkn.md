@@ -46,11 +46,11 @@ categories: speedrun
 | 36 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
 | 38 | helfmyselp | 0:52:08 | 2023-04-12 | [link](https://www.youtube.com/watch?v=WFafWW0fCaI) |
 | 39 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
-| 40 | highflyer28 | 0:52:17 | 2023-04-30 | [link](https://www.twitch.tv/videos/1808063603) |
-| 41 | iceball8314 | 0:52:22 | 2023-04-24 | [link](https://www.youtube.com/watch?v=HoMaD1WEDfc) |
-| 41 | Katti | 0:52:22 | 2022-11-26 | [link](https://www.twitch.tv/videos/1662656421) |
-| 43 | HUmanMustard | 0:52:23 | 2023-01-30 | [link](https://www.youtube.com/watch?v=3Kdogclxz68) |
-| 44 | SpicyChickenSpiciBoi | 0:52:25 | 2023-01-05 | [link](https://youtu.be/X3A8YH3y2MM) |
+| 39 | SpicyChickenSpiciBoi | 0:52:14 | 2023-09-08 | [link](https://youtu.be/lP6IwKAg0pQ) |
+| 41 | highflyer28 | 0:52:17 | 2023-04-30 | [link](https://www.twitch.tv/videos/1808063603) |
+| 42 | iceball8314 | 0:52:22 | 2023-04-24 | [link](https://www.youtube.com/watch?v=HoMaD1WEDfc) |
+| 42 | Katti | 0:52:22 | 2022-11-26 | [link](https://www.twitch.tv/videos/1662656421) |
+| 44 | HUmanMustard | 0:52:23 | 2023-01-30 | [link](https://www.youtube.com/watch?v=3Kdogclxz68) |
 | 45 | Macobra52 | 0:52:26 | 2020-07-31 | [link](https://www.twitch.tv/videos/696469338) |
 | 46 | neoshazam | 0:52:27 | 2023-09-02 | [link](https://www.bitchute.com/video/9EvFoPcki5fV/) |
 | 47 | nissault | 0:52:28 | 2022-09-22 | [link](https://youtu.be/jcpFFM9LPrk) |
