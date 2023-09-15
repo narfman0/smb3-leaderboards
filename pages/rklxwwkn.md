@@ -45,8 +45,8 @@ categories: speedrun
 | 36 | MarstoS | 0:51:59 | 2023-03-01 | [link](https://www.twitch.tv/videos/1752693139) |
 | 36 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
 | 38 | helfmyselp | 0:52:08 | 2023-04-12 | [link](https://www.youtube.com/watch?v=WFafWW0fCaI) |
-| 39 | SpicyChickenSpiciBoi | 0:52:14 | 2023-09-08 | [link](https://youtu.be/lP6IwKAg0pQ) |
 | 39 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
+| 39 | SpicyChickenSpiciBoi | 0:52:14 | 2023-09-08 | [link](https://youtu.be/lP6IwKAg0pQ) |
 | 41 | highflyer28 | 0:52:17 | 2023-04-30 | [link](https://www.twitch.tv/videos/1808063603) |
 | 42 | iceball8314 | 0:52:22 | 2023-04-24 | [link](https://www.youtube.com/watch?v=HoMaD1WEDfc) |
 | 42 | Katti | 0:52:22 | 2022-11-26 | [link](https://www.twitch.tv/videos/1662656421) |
