@@ -33,8 +33,8 @@ categories: speedrun
 | 24 | AdamFerrari64 | 0:10:52.800000 | 2022-02-17 | [link](https://www.twitch.tv/videos/1304843370) |
 | 25 | Simplistic_Memes | 0:10:52.816000 | 2022-12-18 | [link](https://youtu.be/92frD9clcDs) |
 | 26 | Furopen | 0:10:53 | 2022-02-05 | [link](https://youtu.be/eQlsPi26-jI) |
-| 27 | JeremyMKW | 0:10:54 | 2021-06-07 | [link](https://youtu.be/nT_CN-C2X6s) |
 | 27 | narfman0 | 0:10:54 | 2021-08-09 | [link](https://www.twitch.tv/videos/1113720866) |
+| 27 | JeremyMKW | 0:10:54 | 2021-06-07 | [link](https://youtu.be/nT_CN-C2X6s) |
 | 27 | Mars02 | 0:10:54 | 2021-02-25 | [link](https://www.youtube.com/watch?v=w3pPyL8tfMQ) |
 | 27 | HorseDad | 0:10:54 | 2017-04-23 | [link](https://www.twitch.tv/videos/137697987) |
 | 27 | COOLKID | 0:10:54 | 2018-09-15 | [link](https://www.twitch.tv/videos/310149029) |
@@ -70,11 +70,11 @@ categories: speedrun
 | 61 | Bertstarebro | 0:11:03 | 2014-09-17 | [link](https://www.youtube.com/watch?v=aTmUEpEu680) |
 | 62 | YerocXx | 0:11:04 | 2020-07-25 | [link](https://youtu.be/tWNbecUrM44) |
 | 62 | Kyuvolka | 0:11:04 | 2023-01-09 | [link](https://www.twitch.tv/videos/1702277928) |
+| 64 | SBDWolf | 0:11:05 | 2023-09-16 | [link](https://www.twitch.tv/videos/1928022932) |
 | 64 | DaveLindo | 0:11:05 | 2019-08-15 | [link](https://www.twitch.tv/videos/467866687) |
 | 64 | DenimVest25 | 0:11:05 | 2017-09-05 | [link](https://www.youtube.com/watch?v=a0JNbxNOgG4) |
 | 64 | mays_hayes | 0:11:05 | 2023-01-18 | [link](https://youtu.be/6S1b5eRB0Ok) |
 | 64 | Baddap1 | 0:11:05 | 2019-03-21 | [link](https://youtu.be/d36TjUJUxdI) |
-| 64 | SBDWolf | 0:11:05 | 2023-09-16 | [link](https://www.twitch.tv/videos/1928022932) |
 | 69 | Magica1l_guyr | 0:11:06 | 2022-09-02 | [link](https://youtu.be/DmkM45Wn88Y) |
 | 69 | nissault | 0:11:06 | 2022-02-25 | [link](https://www.twitch.tv/videos/1408134436) |
 | 69 | skyehoppers | 0:11:06 | 2019-08-26 | [link](https://www.youtube.com/watch?v=YD4qYXyfiv0) |
