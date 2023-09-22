@@ -108,8 +108,8 @@ categories: speedrun
 | 97 | BodanMusic | 0:11:18 | 2022-05-16 | [link](https://youtu.be/56tZLyZVF8U) |
 | 97 | ThePKing | 0:11:18 | 2023-04-08 | [link](https://youtu.be/kKJcWdXNaw4) |
 | 97 | smythe | 0:11:18 | 2023-05-23 | [link](https://youtu.be/4D1_9BP4O7Y) |
-| 102 | KingOfNothing95 | 0:11:19 | 2023-07-14 | [link](https://youtu.be/2j_M3OYQ-ok) |
 | 102 | zekeSSB | 0:11:19 | 2023-09-21 | [link](https://www.twitch.tv/videos/1930934846?filter=highlights&sort=time) |
+| 102 | KingOfNothing95 | 0:11:19 | 2023-07-14 | [link](https://youtu.be/2j_M3OYQ-ok) |
 | 104 | Varek | 0:11:20 | 2022-05-06 | [link](https://youtu.be/BiUNgLTwu1M) |
 | 104 | Kosmic | 0:11:20 | 2017-03-20 | [link](https://www.twitch.tv/videos/129953800) |
 | 106 | wotsuh_thedeal | 0:11:21 | 2021-10-05 | [link](https://www.twitch.tv/videos/1168454040) |
