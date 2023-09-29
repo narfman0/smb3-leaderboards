@@ -81,8 +81,8 @@ categories: speedrun
 | 70 | skyehoppers | 0:11:06 | 2019-08-26 | [link](https://www.youtube.com/watch?v=YD4qYXyfiv0) |
 | 70 | AndrewG | 0:11:06 | 2008-06-30 | [link](https://www.youtube.com/watch?v=GDs08NwIG7I) |
 | 70 | Ezeron | 0:11:06 | 2017-04-28 | [link](https://www.youtube.com/watch?v=gnW1QLHMDps) |
-| 75 | RoyLT | 0:11:07 | 2020-06-09 | [link](https://youtu.be/QYfsNa6dNkM) |
 | 75 | helfmyselp | 0:11:07 | 2023-09-27 | [link](https://www.youtube.com/watch?v=GC49Iojmics) |
+| 75 | RoyLT | 0:11:07 | 2020-06-09 | [link](https://youtu.be/QYfsNa6dNkM) |
 | 77 | assemble_me | 0:11:08 | 2022-12-05 | [link](https://youtu.be/N0AJYr3ePlM?t=398) |
 | 77 | ibuba7 | 0:11:08 | 2019-03-16 | [link](https://www.youtube.com/watch?v=wbWvA6XiNiE) |
 | 79 | EthanRTA | 0:11:09 | 2018-05-15 | [link](https://www.twitch.tv/videos/261783915) |
@@ -145,8 +145,8 @@ categories: speedrun
 | 135 | TapatioJ | 0:11:33 | 2015-10-19 | [link](http://www.twitch.tv/tapatioj/v/21539389) |
 | 137 | Francis_Metadinha | 0:11:34 | 2018-10-09 | [link](https://youtu.be/oAjNzvDg28M) |
 | 138 | ShadowPanda | 0:11:35 | 2016-11-19 | [link](https://www.twitch.tv/shadowpanda__/v/102042340) |
-| 139 | Cookiewise | 0:11:36 | 2023-09-22 | [link](https://www.twitch.tv/videos/1932632363) |
 | 139 | Ahmed | 0:11:36 | 2021-10-29 | [link](https://www.youtube.com/watch?v=PsO5LxxwfvM) |
+| 139 | Cookiewise | 0:11:36 | 2023-09-22 | [link](https://www.twitch.tv/videos/1932632363) |
 | 141 | SuperPlayer | 0:11:37 | 2022-01-25 | [link](https://youtu.be/7yqLNRqyKuE) |
 | 142 | moistgoolash | 0:11:38 | 2018-04-06 | [link](https://www.twitch.tv/videos/247094705) |
 | 142 | rockdet | 0:11:38 | 2017-01-22 | [link](https://www.twitch.tv/rockdet/v/116708806) |
