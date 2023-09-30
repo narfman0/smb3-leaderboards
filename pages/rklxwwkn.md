@@ -48,11 +48,11 @@ categories: speedrun
 | 39 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
 | 39 | SpicyChickenSpiciBoi | 0:52:14 | 2023-09-08 | [link](https://youtu.be/lP6IwKAg0pQ) |
 | 41 | highflyer28 | 0:52:17 | 2023-04-30 | [link](https://www.twitch.tv/videos/1808063603) |
-| 42 | iceball8314 | 0:52:22 | 2023-04-24 | [link](https://www.youtube.com/watch?v=HoMaD1WEDfc) |
-| 42 | Katti | 0:52:22 | 2022-11-26 | [link](https://www.twitch.tv/videos/1662656421) |
-| 44 | HUmanMustard | 0:52:23 | 2023-01-30 | [link](https://www.youtube.com/watch?v=3Kdogclxz68) |
-| 45 | Macobra52 | 0:52:26 | 2020-07-31 | [link](https://www.twitch.tv/videos/696469338) |
-| 46 | neoshazam | 0:52:27 | 2023-09-02 | [link](https://www.bitchute.com/video/9EvFoPcki5fV/) |
+| 42 | neoshazam | 0:52:20 | 2023-09-28 | [link](https://www.bitchute.com/video/XRwHWEcnzzgi/) |
+| 43 | iceball8314 | 0:52:22 | 2023-04-24 | [link](https://www.youtube.com/watch?v=HoMaD1WEDfc) |
+| 43 | Katti | 0:52:22 | 2022-11-26 | [link](https://www.twitch.tv/videos/1662656421) |
+| 45 | HUmanMustard | 0:52:23 | 2023-01-30 | [link](https://www.youtube.com/watch?v=3Kdogclxz68) |
+| 46 | Macobra52 | 0:52:26 | 2020-07-31 | [link](https://www.twitch.tv/videos/696469338) |
 | 47 | nissault | 0:52:28 | 2022-09-22 | [link](https://youtu.be/jcpFFM9LPrk) |
 | 48 | MoonJi | 0:52:30 | 2019-01-10 | [link](https://www.youtube.com/watch?v=95c6tX8tY_c&t=1498s) |
 | 49 | Doomtap | 0:52:31 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450856849) |
