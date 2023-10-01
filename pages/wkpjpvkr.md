@@ -328,8 +328,8 @@ categories: speedrun
 | 312 | FyrizZ | 0:04:09 | 2022-07-22 | [link](https://youtu.be/_0tZ3wMROPg) |
 | 312 | Lipe_Berserker | 0:04:09 | 2017-02-23 | [link](https://www.youtube.com/watch?v=HytnSGqrous) |
 | 312 | Darkmariosan | 0:04:09 | 2018-01-28 | [link](https://www.youtube.com/watch?v=WA2avBuWtpk) |
-| 322 | Snarff | 0:04:10 | 2023-03-26 | [link](https://youtu.be/PZkFI1FCAC8) |
 | 322 | Thelxinoe | 0:04:10 | 2020-09-06 | [link](https://www.twitch.tv/videos/730836076) |
+| 322 | Snarff | 0:04:10 | 2023-03-26 | [link](https://youtu.be/PZkFI1FCAC8) |
 | 322 | LucaN64pro | 0:04:10 | 2023-08-23 | [link](https://www.youtube.com/watch?v=CCmeG7APkhA) |
 | 322 | chinoe | 0:04:10 | 2021-12-22 | [link](https://youtu.be/43TbHWwshrg) |
 | 322 | ViolentCrumble | 0:04:10 | 2016-07-16 | [link](https://www.youtube.com/watch?v=Br47sxEbpQ8&feature=youtu.be) |
