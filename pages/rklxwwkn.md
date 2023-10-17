@@ -122,8 +122,8 @@ categories: speedrun
 | 113 | Boy22Blue | 0:55:13 | 2021-05-17 | [link](https://www.youtube.com/watch?v=tqI-18-NQQ8) |
 | 113 | Schwartz_RTA | 0:55:13 | 2022-05-16 | [link](https://www.youtube.com/watch?v=t291dw2Z2oU) |
 | 115 | Killamox | 0:55:18 | 2016-03-18 | [link](http://www.twitch.tv/killamox18/v/55107584) |
-| 116 | bowtie1320 | 0:55:19 | 2021-01-19 | [link](https://www.twitch.tv/videos/880694645) |
 | 116 | reshia | 0:55:19 | 2023-10-15 | [link](https://youtu.be/Zh4zebZ2Oaw) |
+| 116 | bowtie1320 | 0:55:19 | 2021-01-19 | [link](https://www.twitch.tv/videos/880694645) |
 | 118 | Sharchid | 0:55:25 | 2023-03-14 | [link](https://www.twitch.tv/videos/1765061873) |
 | 119 | CraigSMB3 | 0:55:27 | 2022-04-09 | [link](https://www.twitch.tv/videos/1451129661) |
 | 119 | favoritepie | 0:55:27 | 2021-08-15 | [link](https://www.youtube.com/watch?v=QkaZs3RsUGo) |
