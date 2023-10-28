@@ -181,12 +181,12 @@ categories: speedrun
 | 172 | ifwtaky | 0:58:25 | 2021-03-20 | [link](https://www.twitch.tv/videos/956480707) |
 | 173 | rink2022 | 0:58:27 | 2022-08-24 | [link](https://youtu.be/p4MV-yGHv5s) |
 | 174 | LK | 0:58:29 | 2018-07-03 | [link](https://www.twitch.tv/videos/280428568) |
+| 175 | Kettu82 | 0:58:31 | 2023-10-26 | [link](https://www.youtube.com/watch?v=tM8GT6Aryt8) |
 | 175 | Svenne | 0:58:31 | 2014-05-03 | [link](https://www.youtube.com/watch?v=iEBKknX8j4c) |
-| 176 | kirbocyhn | 0:58:32 | 2018-09-30 | [link](https://www.twitch.tv/videos/316966187) |
-| 177 | Toastyglint420 | 0:58:40 | 2016-01-26 | [link](http://www.twitch.tv/toastyglint420/v/37830862) |
-| 178 | Ben | 0:58:41 | 2018-12-31 | [link](https://www.youtube.com/watch?v=v_MPTZ0Fxa8) |
-| 179 | Renakun | 0:58:48 | 2019-04-13 | [link](https://www.youtube.com/watch?v=W4-Rfo2Noxs&feature=youtu.be) |
-| 180 | Kettu82 | 0:58:50 | 2023-10-13 | [link](https://www.youtube.com/watch?v=TguY7lc7qI8) |
+| 177 | kirbocyhn | 0:58:32 | 2018-09-30 | [link](https://www.twitch.tv/videos/316966187) |
+| 178 | Toastyglint420 | 0:58:40 | 2016-01-26 | [link](http://www.twitch.tv/toastyglint420/v/37830862) |
+| 179 | Ben | 0:58:41 | 2018-12-31 | [link](https://www.youtube.com/watch?v=v_MPTZ0Fxa8) |
+| 180 | Renakun | 0:58:48 | 2019-04-13 | [link](https://www.youtube.com/watch?v=W4-Rfo2Noxs&feature=youtu.be) |
 | 181 | Konaxs1 | 0:58:51 | 2021-07-28 | [link](https://www.twitch.tv/videos/1100557301?filter=highlights&sort=time) |
 | 182 | Fengar32 | 0:58:54 | 2020-06-20 | [link](https://youtu.be/7neYMTWd_6A) |
 | 183 | Rocksy | 0:58:56 | 2017-03-31 | [link](https://www.twitch.tv/videos/135289955) |
