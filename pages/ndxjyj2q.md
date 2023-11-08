@@ -505,3 +505,4 @@ categories: speedrun
 | 496 | Drumboardist | 0:40:39 | 2019-03-02 | [link](https://www.twitch.tv/videos/393869021) |
 | 497 | aaron2u2 | 0:41:25 | 2021-03-25 | [link](https://www.twitch.tv/videos/964813357) |
 | 498 | EndermanGE | 0:42:25 | 2019-01-20 | [link](https://youtu.be/OOyuw2f1lV8) |
+| 499 | your_bad92 | 3:19:34 | 2023-11-04 | [link](https://www.youtube.com/watch?v=4TBqdmKF7F4) |
