@@ -16,10 +16,10 @@ categories: speedrun
 | 7 | Czikubi | 0:50:54 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
 | 8 | maibaRTA | 0:50:56 | 2022-05-22 | [link](https://www.twitch.tv/videos/1490705034) |
 | 9 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
+| 10 | Kuto1k | 0:51:02 | 2023-11-12 | [link](https://www.twitch.tv/videos/1975440979) |
 | 10 | yatokami9 | 0:51:02 | 2023-03-19 | [link](https://youtu.be/JaGJD_FEIDc) |
-| 11 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
-| 12 | Sakaali | 0:51:14 | 2023-03-25 | [link](https://www.twitch.tv/videos/1775347555) |
-| 13 | Kuto1k | 0:51:15 | 2023-10-15 | [link](https://www.twitch.tv/videos/1951257684) |
+| 12 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
+| 13 | Sakaali | 0:51:14 | 2023-03-25 | [link](https://www.twitch.tv/videos/1775347555) |
 | 14 | IluvMario | 0:51:17 | 2018-04-09 | [link](https://www.twitch.tv/videos/248583120) |
 | 15 | ZoneVD | 0:51:19 | 2021-04-22 | [link](https://www.twitch.tv/videos/995985992) |
 | 15 | Track1 | 0:51:19 | 2023-08-11 | [link](https://www.twitch.tv/videos/1896079336) |
