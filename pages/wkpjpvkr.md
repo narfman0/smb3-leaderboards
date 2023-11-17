@@ -340,10 +340,10 @@ categories: speedrun
 | 326 | NeonSpeak | 0:04:10 | 2018-06-19 | [link](https://www.twitch.tv/videos/275057288) |
 | 332 | Fuzzyzilla | 0:04:11 | 2018-02-23 | [link](https://www.youtube.com/watch?v=f82fxeCG6Fo) |
 | 333 | BubuMC | 0:04:12 | 2018-09-07 | [link](https://www.twitch.tv/videos/345499715) |
-| 333 | HomerOfSteel | 0:04:12 | 2023-11-12 | [link](https://youtu.be/0eqD8a-AVyI) |
 | 333 | KiD_ViD | 0:04:12 | 2018-03-11 | [link](https://youtu.be/uo8FWar7_gE) |
 | 333 | FGrim | 0:04:12 | 2019-12-29 | [link](https://youtu.be/WvYAtqIN7yg) |
 | 333 | noonyfu | 0:04:12 | 2023-01-28 | [link](https://www.youtube.com/watch?v=zsnSZ_yWqIQ) |
+| 333 | HomerOfSteel | 0:04:12 | 2023-11-12 | [link](https://youtu.be/0eqD8a-AVyI) |
 | 333 | SeraphmIII | 0:04:12 | 2023-04-13 | [link](https://www.youtube.com/watch?v=NAM-80_5tBc) |
 | 333 | grandpoobear | 0:04:12 | 2017-05-28 | [link](https://youtu.be/6JgulD05ou0) |
 | 340 | Checkmate6659 | 0:04:13 | 2020-07-12 | [link](https://youtu.be/0fWJRVJsYN0) |
