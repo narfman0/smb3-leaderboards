@@ -127,8 +127,8 @@ categories: speedrun
 | 118 | Javeliin | 0:11:25 | 2020-04-19 | [link](https://youtu.be/fx5AjqLR2xc) |
 | 118 | TuttiPullo | 0:11:25 | 2021-01-02 | [link](https://youtu.be/2Pc0sOtSTbY) |
 | 118 | GFXS | 0:11:25 | 2019-03-16 | [link](https://www.youtube.com/watch?v=dfey0jFaOHM&t=121s) |
-| 121 | MC_2018 | 0:11:26 | 2018-12-27 | [link](https://www.youtube.com/watch?v=VaKWV3RWOJM) |
 | 121 | icterus440 | 0:11:26 | 2021-03-13 | [link](https://youtu.be/lfQFhzmm40I) |
+| 121 | MC_2018 | 0:11:26 | 2018-12-27 | [link](https://www.youtube.com/watch?v=VaKWV3RWOJM) |
 | 121 | Fish_Noob | 0:11:26 | 2021-08-03 | [link](https://www.youtube.com/watch?v=Vpc0ZWe29OE) |
 | 121 | Japezu | 0:11:26 | 2022-01-18 | [link](https://www.twitch.tv/videos/1267504400?filter=highlights&sort=time) |
 | 125 | HUmanMustard | 0:11:27 | 2020-05-29 | [link](https://www.twitch.tv/videos/635121671) |
