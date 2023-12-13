@@ -46,8 +46,8 @@ categories: speedrun
 | 36 | SkylightFox | 0:03:20 | 2016-07-21 | [link](https://www.twitch.tv/skylightfox/v/79236485) |
 | 38 | jonnylegz | 0:03:21 | 2018-11-05 | [link](https://youtu.be/m73wBJD6p-o) |
 | 38 | Freezen85 | 0:03:21 | 2023-08-05 | [link](https://youtu.be/-KJzvP0ZCmQ) |
-| 40 | Scrimsion | 0:03:22 | 2023-12-05 | [link](https://youtu.be/OWK-27fM6dw?si=N0kIOBgKdazX0Mmr) |
 | 40 | MoonJi | 0:03:22 | 2018-10-24 | [link](https://youtu.be/oguI27N5m6c) |
+| 40 | Scrimsion | 0:03:22 | 2023-12-05 | [link](https://youtu.be/OWK-27fM6dw?si=N0kIOBgKdazX0Mmr) |
 | 40 | JackJuggler | 0:03:22 | 2022-11-10 | [link](https://youtu.be/K__NH68VU-E) |
 | 43 | sloblock | 0:03:23 | 2016-10-02 | [link](https://youtu.be/5uyTrSC5Mwc) |
 | 43 | Renakun | 0:03:23 | 2019-01-23 | [link](https://youtu.be/AZKoTuEogxs) |
@@ -484,11 +484,11 @@ categories: speedrun
 | 474 | Uriroitgrund | 0:04:47 | 2020-12-28 | [link](https://youtu.be/QTHjTlLDhb4) |
 | 474 | tyleursmb3 | 0:04:47 | 2022-05-23 | [link](https://youtu.be/i4NQBeeMX7Q) |
 | 477 | sirmax | 0:04:48 | 2018-02-04 | [link](https://youtu.be/ZCx68_FAvu4) |
+| 477 | poyo64 | 0:04:48 | 2023-12-11 | [link](https://youtu.be/qpTxeuJ0w2k?si=Q8OwXLo4fpj3Adxp) |
 | 477 | GibEvad | 0:04:48 | 2018-03-10 | [link](https://www.youtube.com/watch?v=820tiC3WHAc) |
 | 477 | dydyhg | 0:04:48 | 2018-03-28 | [link](https://youtu.be/DgAolwtQ_YQ) |
 | 477 | Alicemadness | 0:04:48 | 2022-06-30 | [link](https://www.youtube.com/watch?v=n5Zvq2aiI_s) |
 | 477 | alex03 | 0:04:48 | 2020-09-10 | [link](https://www.youtube.com/watch?v=cv1UmYpt0Y8) |
-| 477 | poyo64 | 0:04:48 | 2023-12-11 | [link](https://youtu.be/qpTxeuJ0w2k?si=Q8OwXLo4fpj3Adxp) |
 | 483 | Amune138 | 0:04:49 | 2019-03-07 | [link](https://www.twitch.tv/videos/391775247) |
 | 483 | SpevanGaming | 0:04:49 | 2017-09-27 | [link](https://www.twitch.tv/videos/178026410) |
 | 485 | TheAelig | 0:04:50 | 2021-04-18 | [link](https://www.youtube.com/watch?v=8ZBkguO5lsU) |

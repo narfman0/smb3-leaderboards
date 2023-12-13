@@ -219,10 +219,10 @@ categories: speedrun
 | 208 | mrcab55 | 0:12:09 | 2019-02-24 | [link](https://www.youtube.com/watch?v=ENfR1dp1hdE) |
 | 208 | RickDavoice | 0:12:09 | 2023-04-10 | [link](https://www.youtube.com/watch?v=6Xcyy4_jKqs) |
 | 208 | HommePNIS | 0:12:09 | 2016-04-30 | [link](https://www.youtube.com/watch?v=3EPRLYKbqFs&feature=youtu.be) |
+| 213 | DeeGee | 0:12:11 | 2023-12-11 | [link](https://youtu.be/fLK47n8PXiM?si=l9OsueGxn2PxNYTr) |
 | 213 | limestoners | 0:12:11 | 2021-06-03 | [link](https://www.twitch.tv/videos/1044206911) |
 | 213 | Tofuboi1986 | 0:12:11 | 2017-03-01 | [link](https://www.twitch.tv/videos/125780760) |
 | 213 | Remz | 0:12:11 | 2017-01-23 | [link](https://www.twitch.tv/remzlab/v/116726913) |
-| 213 | DeeGee | 0:12:11 | 2023-12-11 | [link](https://youtu.be/fLK47n8PXiM?si=l9OsueGxn2PxNYTr) |
 | 217 | Hoofenstomper | 0:12:12 | 2020-10-27 | [link](https://www.youtube.com/watch?v=u-39z_kOxSA) |
 | 217 | javignacio | 0:12:12 | 2022-04-22 | [link](https://youtu.be/IBBW1XBhuCA) |
 | 217 | BIOVOG | 0:12:12 | 2022-03-01 | [link](https://youtu.be/iYk93Q7DJAA) |
@@ -428,8 +428,8 @@ categories: speedrun
 | 417 | kylew121 | 0:14:47 | 2018-04-09 | [link](https://youtu.be/dXNXAS82DMI) |
 | 420 | ElectroLlama | 0:14:48 | 2020-06-09 | [link](https://www.twitch.tv/videos/646603564) |
 | 420 | IZZIE_MEN_87 | 0:14:48 | 2019-01-21 | [link](https://www.twitch.tv/videos/367330235) |
-| 422 | GunderMifflin | 0:14:49 | 2023-12-09 | [link](https://www.youtube.com/watch?v=RB7bs74jWYU) |
 | 422 | Picante | 0:14:49 | 2020-02-02 | [link](https://www.youtube.com/watch?v=Hhx8VqLQH3g) |
+| 422 | GunderMifflin | 0:14:49 | 2023-12-09 | [link](https://www.youtube.com/watch?v=RB7bs74jWYU) |
 | 424 | TheGuysFromCanada | 0:14:51 | 2022-02-25 | [link](https://www.youtube.com/watch?v=VaQsyUwLXcM) |
 | 424 | sypherce | 0:14:51 | 2021-03-12 | [link](https://youtu.be/DIv8_Naa5_U) |
 | 426 | pistachiodaddio | 0:14:53 | 2022-05-11 | [link](https://www.twitch.tv/videos/1481582622) |
