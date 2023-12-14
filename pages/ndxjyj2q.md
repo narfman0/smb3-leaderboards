@@ -491,7 +491,7 @@ categories: speedrun
 | 482 | e_bucketz | 0:18:08 | 2022-08-15 | [link](https://youtu.be/hvpw8T-l0_A) |
 | 483 | iGeneric | 0:18:24 | 2018-07-20 | [link](https://youtu.be/rn53T6dnvnU?t=711) |
 | 484 | garionoldwolf | 0:18:35 | 2018-07-08 | [link](https://www.twitch.tv/videos/282275124) |
-| 485 | JoeyNGaming | 0:18:45 | 2023-02-04 | [link](https://www.twitch.tv/videos/1729155395) |
+| 485 | JoeyNGaming | 0:18:36 | 2023-11-16 | [link](https://www.twitch.tv/videos/2002375903) |
 | 486 | PilotPlaysGames | 0:18:59 | 2021-04-19 | [link](https://www.twitch.tv/videos/993264719) |
 | 487 | Johny_Mandarino | 0:19:22 | 2018-04-04 | [link](https://www.youtube.com/watch?v=e8H6406-j-k) |
 | 488 | yaacovmiguel | 0:20:18 | 2018-11-03 | [link](https://youtu.be/LIjEUPD2t6I) |
