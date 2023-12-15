@@ -111,8 +111,8 @@ categories: speedrun
 | 102 | Spongeday | 0:54:42 | 2023-04-12 | [link](https://www.twitch.tv/videos/1790370243) |
 | 102 | kekumanshoyu | 0:54:42 | 2021-05-20 | [link](https://www.twitch.tv/videos/1029009373) |
 | 104 | lackattack | 0:54:43 | 2018-05-09 | [link](https://www.twitch.tv/videos/259689453) |
-| 105 | Arcus | 0:54:45 | 2019-10-09 | [link](https://www.twitch.tv/videos/492542362) |
 | 105 | reshia | 0:54:45 | 2023-12-13 | [link](https://www.twitch.tv/videos/2002950167) |
+| 105 | Arcus | 0:54:45 | 2019-10-09 | [link](https://www.twitch.tv/videos/492542362) |
 | 107 | BlazenBezza | 0:54:48 | 2022-04-06 | [link](https://www.twitch.tv/videos/1447936091) |
 | 108 | Dr_TrashPanda | 0:54:49 | 2021-03-10 | [link](https://www.twitch.tv/videos/944897352) |
 | 109 | hum4ls | 0:54:51 | 2022-12-27 | [link](https://www.twitch.tv/videos/1690035190) |
