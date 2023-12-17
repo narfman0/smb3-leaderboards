@@ -50,9 +50,9 @@ categories: speedrun
 | 40 | Scrimsion | 0:03:22 | 2023-12-05 | [link](https://youtu.be/OWK-27fM6dw?si=N0kIOBgKdazX0Mmr) |
 | 40 | JackJuggler | 0:03:22 | 2022-11-10 | [link](https://youtu.be/K__NH68VU-E) |
 | 43 | sloblock | 0:03:23 | 2016-10-02 | [link](https://youtu.be/5uyTrSC5Mwc) |
+| 43 | AbellaBrothers1 | 0:03:23 | 2023-12-15 | [link](https://youtu.be/lOrRuCLXvkI) |
 | 43 | Renakun | 0:03:23 | 2019-01-23 | [link](https://youtu.be/AZKoTuEogxs) |
 | 43 | Lawso42 | 0:03:23 | 2016-06-11 | [link](https://www.twitch.tv/videos/71778940) |
-| 43 | AbellaBrothers1 | 0:03:23 | 2023-12-15 | [link](https://youtu.be/lOrRuCLXvkI) |
 | 47 | Sikbit | 0:03:24 | 2018-06-02 | [link](https://www.youtube.com/watch?v=TC5AzXHNqjE) |
 | 48 | Themasterpro1212 | 0:03:25 | 2021-06-26 | [link](https://youtu.be/67cSAuse6Rs) |
 | 48 | Boethiah | 0:03:25 | 2020-01-26 | [link](https://www.twitch.tv/videos/542022781) |
@@ -484,9 +484,9 @@ categories: speedrun
 | 474 | Uriroitgrund | 0:04:47 | 2020-12-28 | [link](https://youtu.be/QTHjTlLDhb4) |
 | 474 | tyleursmb3 | 0:04:47 | 2022-05-23 | [link](https://youtu.be/i4NQBeeMX7Q) |
 | 477 | sirmax | 0:04:48 | 2018-02-04 | [link](https://youtu.be/ZCx68_FAvu4) |
-| 477 | poyo64 | 0:04:48 | 2023-12-11 | [link](https://youtu.be/qpTxeuJ0w2k?si=Q8OwXLo4fpj3Adxp) |
 | 477 | GibEvad | 0:04:48 | 2018-03-10 | [link](https://www.youtube.com/watch?v=820tiC3WHAc) |
 | 477 | dydyhg | 0:04:48 | 2018-03-28 | [link](https://youtu.be/DgAolwtQ_YQ) |
+| 477 | poyo64 | 0:04:48 | 2023-12-11 | [link](https://youtu.be/qpTxeuJ0w2k?si=Q8OwXLo4fpj3Adxp) |
 | 477 | Alicemadness | 0:04:48 | 2022-06-30 | [link](https://www.youtube.com/watch?v=n5Zvq2aiI_s) |
 | 477 | alex03 | 0:04:48 | 2020-09-10 | [link](https://www.youtube.com/watch?v=cv1UmYpt0Y8) |
 | 483 | Amune138 | 0:04:49 | 2019-03-07 | [link](https://www.twitch.tv/videos/391775247) |

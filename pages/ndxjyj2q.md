@@ -266,9 +266,9 @@ categories: speedrun
 | 256 | IsoFrieze | 0:12:34 | 2016-12-09 | [link](https://www.youtube.com/watch?v=u5taI09NNmA) |
 | 258 | Liampack | 0:12:36 | 2020-06-08 | [link](https://youtu.be/hPRfaLglUA4) |
 | 259 | AdirondackRick | 0:12:38 | 2019-05-20 | [link](https://www.twitch.tv/videos/427672575) |
+| 260 | Finnish2005 | 0:12:39 | 2023-12-15 | [link](https://youtu.be/C8SVReJ_dWY?si=8MSlSJdo_WU9kTId) |
 | 260 | jShot | 0:12:39 | 2019-02-13 | [link](https://www.youtube.com/watch?v=XWAQiH7VpY8&t) |
 | 260 | Toastyglint420 | 0:12:39 | 2016-02-08 | [link](http://www.twitch.tv/toastyglint420/v/42258650) |
-| 260 | Finnish2005 | 0:12:39 | 2023-12-15 | [link](https://youtu.be/C8SVReJ_dWY?si=8MSlSJdo_WU9kTId) |
 | 263 | bassguitarbill | 0:12:40 | 2016-02-09 | [link](http://www.twitch.tv/bassguitarbill/v/42904742) |
 | 263 | baseball_caniac | 0:12:40 | 2016-03-07 | [link](https://youtu.be/sqs3VSGu7YE) |
 | 265 | DanilHarteveld | 0:12:41 | 2020-01-11 | [link](https://youtu.be/mZqzmkHeEFE) |
