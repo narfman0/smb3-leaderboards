@@ -8,13 +8,13 @@ categories: speedrun
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
 | 1 | mitchflowerpower | 0:50:10 | 2022-09-03 | [link](https://www.youtube.com/watch?v=_3n12tb9Sg8&t=15s) |
-| 2 | narfman0 | 0:50:42 | 2023-12-18 | [link](https://www.twitch.tv/videos/2007580087) |
-| 3 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
-| 4 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
-| 5 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
-| 5 | TEEX88 | 0:50:53 | 2022-09-10 | [link](https://www.twitch.tv/videos/1587591151) |
-| 7 | Czikubi | 0:50:54 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
-| 8 | Kuto1k | 0:50:55 | 2023-11-15 | [link](https://www.youtube.com/watch?v=0MbNt1bxCeI) |
+| 2 | Kuto1k | 0:50:23 | 2023-12-19 | [link](https://www.twitch.tv/videos/2008303442) |
+| 3 | narfman0 | 0:50:42 | 2023-12-18 | [link](https://www.twitch.tv/videos/2007580087) |
+| 4 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
+| 5 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
+| 6 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
+| 6 | TEEX88 | 0:50:53 | 2022-09-10 | [link](https://www.twitch.tv/videos/1587591151) |
+| 8 | Czikubi | 0:50:54 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
 | 9 | maibaRTA | 0:50:56 | 2022-05-22 | [link](https://www.twitch.tv/videos/1490705034) |
 | 10 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
 | 11 | yatokami9 | 0:51:02 | 2023-03-19 | [link](https://youtu.be/JaGJD_FEIDc) |
@@ -26,8 +26,8 @@ categories: speedrun
 | 17 | Ellonija | 0:51:21 | 2017-05-24 | [link](https://www.twitch.tv/videos/146750506) |
 | 18 | jtknott | 0:51:22 | 2022-05-27 | [link](https://youtu.be/SvXJbx-LYGA) |
 | 19 | Mondii | 0:51:23 | 2023-04-02 | [link](https://www.twitch.tv/videos/1782912675) |
-| 20 | budzyRNG | 0:51:26 | 2023-12-19 | [link](https://www.youtube.com/watch?v=Bnviz9aoKgM) |
 | 20 | Scarface | 0:51:26 | 2022-04-04 | [link](https://youtu.be/rxJoeyjzlDA) |
+| 20 | budzyRNG | 0:51:26 | 2023-12-19 | [link](https://www.youtube.com/watch?v=Bnviz9aoKgM) |
 | 22 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
 | 23 | stewie_cartman | 0:51:33 | 2023-04-30 | [link](https://www.twitch.tv/videos/1808333455) |
 | 24 | TrueHyperMario | 0:51:35 | 2023-07-22 | [link](https://www.twitch.tv/videos/1878931053) |
