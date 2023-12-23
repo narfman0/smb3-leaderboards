@@ -60,8 +60,8 @@ categories: speedrun
 | 50 | Boethiah | 0:03:25 | 2020-01-26 | [link](https://www.twitch.tv/videos/542022781) |
 | 50 | zekeSSB | 0:03:25 | 2023-04-23 | [link](https://www.twitch.tv/videos/1801662717?filter=highlights&sort=time) |
 | 50 | ROOK_jpn | 0:03:25 | 2019-06-15 | [link](https://www.youtube.com/watch?v=DVGqsSpeH9w) |
-| 54 | CoderMan14 | 0:03:26 | 2023-12-20 | [link](https://www.twitch.tv/videos/2009866348) |
 | 54 | KALLAX | 0:03:26 | 2023-10-22 | [link](https://youtu.be/DnRAgC9hkz8?si=mYshxNEyNI7D8G3v) |
+| 54 | CoderMan14 | 0:03:26 | 2023-12-20 | [link](https://www.twitch.tv/videos/2009866348) |
 | 54 | MatyMak | 0:03:26 | 2021-12-13 | [link](https://www.youtube.com/watch?v=UkVLLBdX6lw&ab_channel=MatyMak) |
 | 57 | Sluggy | 0:03:27 | 2021-09-06 | [link](https://youtu.be/YEi0P21-Y38) |
 | 57 | TheNoSwearGuy | 0:03:27 | 2023-04-29 | [link](https://www.youtube.com/watch?v=VLBuhHasmEM) |

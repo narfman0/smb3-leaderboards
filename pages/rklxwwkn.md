@@ -9,7 +9,7 @@ categories: speedrun
  ---- | ------ | ---- | ---- | ----- 
 | 1 | mitchflowerpower | 0:50:10 | 2022-09-03 | [link](https://www.youtube.com/watch?v=_3n12tb9Sg8&t=15s) |
 | 2 | Kuto1k | 0:50:23 | 2023-12-19 | [link](https://www.twitch.tv/videos/2008303442) |
-| 3 | narfman0 | 0:50:42 | 2023-12-18 | [link](https://www.twitch.tv/videos/2007580087) |
+| 3 | narfman0 | 0:50:33 | 2023-12-20 | [link](https://youtu.be/XYkeitiMrq8?si=svPAFRDRs4x3pDAo&t=592) |
 | 4 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
 | 5 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
 | 6 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
