@@ -362,9 +362,9 @@ categories: speedrun
 | 350 | JonnyLink | 0:04:14 | 2021-06-07 | [link](https://youtu.be/UkZ13jmSKhM) |
 | 350 | OneWingdAngel | 0:04:14 | 2018-03-20 | [link](https://youtu.be/E38FBfMZe5k) |
 | 350 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
-| 356 | turara32767 | 0:04:15 | 2023-12-23 | [link](https://youtu.be/WyhXU_4OJLQ) |
 | 356 | nicorasu | 0:04:15 | 2019-12-22 | [link](https://www.twitch.tv/videos/524752526) |
 | 356 | Billy_bongsalot | 0:04:15 | 2023-07-22 | [link](https://www.youtube.com/watch?v=Hmb9Q3kTprE) |
+| 356 | turara32767 | 0:04:15 | 2023-12-23 | [link](https://youtu.be/WyhXU_4OJLQ) |
 | 356 | WontedEvil158 | 0:04:15 | 2022-05-23 | [link](https://youtu.be/TgGbfOnS_Sg) |
 | 356 | melloflowz | 0:04:15 | 2019-03-19 | [link](https://www.twitch.tv/videos/398382567) |
 | 356 | Yamia | 0:04:15 | 2017-04-30 | [link](https://youtu.be/HA1Yd05g2ps) |
