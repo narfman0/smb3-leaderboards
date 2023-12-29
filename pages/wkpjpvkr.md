@@ -325,10 +325,10 @@ categories: speedrun
 | 308 | Typhlo | 0:04:08 | 2018-07-17 | [link](https://www.youtube.com/watch?v=z7CDGAnbrfk) |
 | 317 | __LoS_ | 0:04:09 | 2018-06-25 | [link](https://youtu.be/HJc8MROZUV0) |
 | 317 | klebdotio | 0:04:09 | 2018-07-15 | [link](https://youtu.be/oG-zlc1hTVQ) |
-| 317 | sdmx | 0:04:09 | 2018-11-17 | [link](https://www.youtube.com/watch?v=Aut2GUbHtGo) |
 | 317 | bmoncayito | 0:04:09 | 2020-06-25 | [link](https://www.youtube.com/watch?v=6iRI_Y9Ngv0) |
 | 317 | Yosch | 0:04:09 | 2021-03-27 | [link](https://www.youtube.com/watch?v=sup42wDHXU4) |
 | 317 | SAMUR | 0:04:09 | 2022-04-12 | [link](https://youtu.be/mIZh09PUw64) |
+| 317 | sdmx | 0:04:09 | 2018-11-17 | [link](https://www.youtube.com/watch?v=Aut2GUbHtGo) |
 | 317 | KaysCre | 0:04:09 | 2022-09-07 | [link](https://youtu.be/0o2N6UDTO0I) |
 | 317 | FyrizZ | 0:04:09 | 2022-07-22 | [link](https://youtu.be/_0tZ3wMROPg) |
 | 317 | Lipe_Berserker | 0:04:09 | 2017-02-23 | [link](https://www.youtube.com/watch?v=HytnSGqrous) |
