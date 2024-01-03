@@ -104,11 +104,11 @@ categories: speedrun
 | 95 | The_Col | 0:54:32 | 2018-07-15 | [link](https://www.twitch.tv/videos/285019580) |
 | 95 | Joshua69yt | 0:54:32 | 2020-08-13 | [link](https://youtu.be/TlfXut4Psws) |
 | 97 | Finnish2005 | 0:54:33 | 2023-11-05 | [link](https://youtu.be/sg_QDJOQOKs?si=u_ShXul2t7aQkkfE) |
-| 98 | Hasauce | 0:54:37 | 2022-08-18 | [link](https://youtu.be/tTR0eOZEt7c) |
-| 99 | OnlyMoneyNotTalent | 0:54:38 | 2020-08-18 | [link](https://www.youtube.com/watch?v=MLXqEicjJL8) |
-| 99 | GTAce99 | 0:54:38 | 2023-04-02 | [link](https://youtu.be/AUluEK3YaY4) |
-| 101 | denkiya | 0:54:40 | 2023-07-15 | [link](https://www.youtube.com/watch?v=v36mjqFUJ8Q&t=13s) |
-| 101 | MidiGuyDP | 0:54:40 | 2023-04-04 | [link](https://www.youtube.com/watch?v=XCdpQY4hv60) |
+| 98 | denkiya | 0:54:35 | 2024-01-02 | [link](https://www.youtube.com/watch?v=rDASzztAwgY) |
+| 99 | Hasauce | 0:54:37 | 2022-08-18 | [link](https://youtu.be/tTR0eOZEt7c) |
+| 100 | OnlyMoneyNotTalent | 0:54:38 | 2020-08-18 | [link](https://www.youtube.com/watch?v=MLXqEicjJL8) |
+| 100 | GTAce99 | 0:54:38 | 2023-04-02 | [link](https://youtu.be/AUluEK3YaY4) |
+| 102 | MidiGuyDP | 0:54:40 | 2023-04-04 | [link](https://www.youtube.com/watch?v=XCdpQY4hv60) |
 | 103 | Spongeday | 0:54:42 | 2023-04-12 | [link](https://www.twitch.tv/videos/1790370243) |
 | 103 | kekumanshoyu | 0:54:42 | 2021-05-20 | [link](https://www.twitch.tv/videos/1029009373) |
 | 105 | lackattack | 0:54:43 | 2018-05-09 | [link](https://www.twitch.tv/videos/259689453) |
