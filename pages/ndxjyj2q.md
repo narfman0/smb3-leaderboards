@@ -168,8 +168,8 @@ categories: speedrun
 | 157 | chickenfish4 | 0:11:44 | 2017-05-09 | [link](https://youtu.be/hgTQ4JuZGTE) |
 | 160 | SamuraiYudansha | 0:11:45 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450924685) |
 | 161 | Vicksland | 0:11:46 | 2023-10-24 | [link](https://www.youtube.com/watch?v=JhoGZGLPbcc) |
-| 161 | yeabruh | 0:11:46 | 2024-01-01 | [link](https://www.twitch.tv/videos/2023253233?t=00h16m02s) |
 | 161 | TheTerrificTracy | 0:11:46 | 2021-02-16 | [link](https://youtu.be/1voAI4JhuoQ) |
+| 161 | yeabruh | 0:11:46 | 2024-01-01 | [link](https://www.twitch.tv/videos/2023253233?t=00h16m02s) |
 | 161 | jahaley64 | 0:11:46 | 2022-03-24 | [link](https://www.twitch.tv/videos/1435743701) |
 | 161 | WhicheverMirror | 0:11:46 | 2021-08-25 | [link](https://www.youtube.com/watch?v=_8Fcbyc27Fc) |
 | 166 | OnlyMoneyNotTalent | 0:11:47 | 2020-12-09 | [link](https://www.youtube.com/watch?v=HSQEqJewU_8) |
@@ -180,8 +180,8 @@ categories: speedrun
 | 171 | mrpickaxe | 0:11:49 | 2020-09-25 | [link](https://youtu.be/gr8V3sIwfPQ) |
 | 171 | lackattack | 0:11:49 | 2016-11-05 | [link](https://www.twitch.tv/lackattack24/v/99640921) |
 | 171 | Jhugomega | 0:11:49 | 2017-07-03 | [link](https://youtu.be/e5rFgk2ea2Q) |
-| 174 | Espo_ | 0:11:50 | 2020-10-28 | [link](https://www.twitch.tv/videos/784520836) |
 | 174 | WoskiBoy | 0:11:50 | 2024-01-12 | [link](https://youtu.be/2OKzpAuWWWM) |
+| 174 | Espo_ | 0:11:50 | 2020-10-28 | [link](https://www.twitch.tv/videos/784520836) |
 | 176 | xenkaroshi | 0:11:51 | 2019-02-27 | [link](https://www.youtube.com/watch?v=4Iu4bVJdlz4) |
 | 177 | loganthepredator | 0:11:52 | 2021-04-04 | [link](https://www.youtube.com/watch?v=z1yKjQo1QoY&ab_channel=LoganThePredator) |
 | 178 | aramusbelmont | 0:11:53 | 2021-04-03 | [link](https://www.twitch.tv/videos/975490148) |
