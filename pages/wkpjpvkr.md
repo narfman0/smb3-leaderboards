@@ -482,10 +482,10 @@ categories: speedrun
 | 472 | Yalemarr | 0:04:46 | 2020-09-22 | [link](https://m.youtube.com/watch?v=vruug4_sfDU) |
 | 472 | GonGon99 | 0:04:46 | 2023-02-12 | [link](https://youtu.be/pVe9JqUqhkY) |
 | 472 | Contraslayer | 0:04:46 | 2017-01-26 | [link](https://www.twitch.tv/contraslayer/v/117521496) |
+| 476 | RealNariox | 0:04:47 | 2024-01-13 | [link](https://www.twitch.tv/videos/2031450290?t=0h5m6s) |
 | 476 | Firelemon | 0:04:47 | 2020-07-24 | [link](https://www.youtube.com/watch?v=KCpkefiEBho&feature=youtu.be) |
 | 476 | Uriroitgrund | 0:04:47 | 2020-12-28 | [link](https://youtu.be/QTHjTlLDhb4) |
 | 476 | tyleursmb3 | 0:04:47 | 2022-05-23 | [link](https://youtu.be/i4NQBeeMX7Q) |
-| 476 | RealNariox | 0:04:47 | 2024-01-13 | [link](https://www.twitch.tv/videos/2031450290?t=0h5m6s) |
 | 480 | sirmax | 0:04:48 | 2018-02-04 | [link](https://youtu.be/ZCx68_FAvu4) |
 | 480 | GibEvad | 0:04:48 | 2018-03-10 | [link](https://www.youtube.com/watch?v=820tiC3WHAc) |
 | 480 | dydyhg | 0:04:48 | 2018-03-28 | [link](https://youtu.be/DgAolwtQ_YQ) |
