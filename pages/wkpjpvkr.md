@@ -414,8 +414,8 @@ categories: speedrun
 | 401 | LucasFidelis | 0:04:21 | 2017-02-20 | [link](https://youtu.be/m1gI4RQTgDI) |
 | 401 | Supernickid | 0:04:21 | 2017-05-25 | [link](https://www.youtube.com/watch?v=OtZnsTfna4M) |
 | 401 | NaiieX | 0:04:21 | 2018-03-07 | [link](https://www.youtube.com/watch?v=FqcMDXu5BkQ) |
-| 408 | BOTSam | 0:04:22 | 2020-12-26 | [link](https://youtu.be/jXALZLgW11I) |
 | 408 | BloodDerg | 0:04:22 | 2024-01-13 | [link](https://www.youtube.com/watch?v=FhYMrNN1eX8) |
+| 408 | BOTSam | 0:04:22 | 2020-12-26 | [link](https://youtu.be/jXALZLgW11I) |
 | 410 | cerealmasticator | 0:04:23 | 2020-01-15 | [link](https://www.twitch.tv/videos/536734568) |
 | 411 | diemb | 0:04:24 | 2021-05-05 | [link](https://www.youtube.com/watch?v=BELMPNC4iRA) |
 | 411 | Temmichel | 0:04:24 | 2021-01-31 | [link](https://www.youtube.com/watch?v=rRN5tRjjIPY) |
