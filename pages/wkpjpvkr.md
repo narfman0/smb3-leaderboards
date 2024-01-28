@@ -309,6 +309,7 @@ categories: speedrun
 | 294 | DylanClarkWebb | 0:04:06 | 2018-02-15 | [link](https://youtu.be/WhjzZ0OnnF4) |
 | 294 | Unstea | 0:04:06 | 2016-11-27 | [link](https://www.youtube.com/watch?v=_i-YBdoeuJQ&feature=youtu.be) |
 | 294 | Jellyman102 | 0:04:06 | 2016-07-16 | [link](https://secure.twitch.tv/jellyman67890/v/78424660) |
+| 303 | smartalec24 | 0:04:07 | 2024-01-27 | [link](https://www.twitch.tv/videos/2044817053) |
 | 303 | LightWers_ | 0:04:07 | 2018-02-14 | [link](https://www.youtube.com/watch?v=x1W6vKjQmiI) |
 | 303 | CloudsLikeJohn | 0:04:07 | 2023-01-10 | [link](https://youtu.be/PknVYYCNbJM) |
 | 303 | Gumbraise | 0:04:07 | 2022-03-19 | [link](https://www.twitch.tv/videos/1430752952) |
@@ -316,7 +317,6 @@ categories: speedrun
 | 303 | DanDizz | 0:04:07 | 2019-05-16 | [link](https://youtu.be/m5QypThYY3U) |
 | 303 | Clementox_Liano | 0:04:07 | 2018-11-24 | [link](https://youtu.be/7f2VLtpt3qc) |
 | 303 | tchfunkta | 0:04:07 | 2017-04-19 | [link](https://youtu.be/iQZ3f5Z1goI) |
-| 303 | smartalec24 | 0:04:07 | 2024-01-27 | [link](https://www.twitch.tv/videos/2044817053) |
 | 311 | LordHVetinari | 0:04:08 | 2018-12-24 | [link](https://youtu.be/MLb-W8CPt1E) |
 | 311 | Jama7301 | 0:04:08 | 2016-10-04 | [link](https://www.twitch.tv/jama7301/v/92990429) |
 | 311 | DrgnRAGE | 0:04:08 | 2017-03-26 | [link](https://www.youtube.com/watch?v=ekgbcKiQypk) |
