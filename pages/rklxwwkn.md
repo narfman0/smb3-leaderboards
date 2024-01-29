@@ -18,7 +18,7 @@ categories: speedrun
 | 9 | maibaRTA | 0:50:56 | 2022-05-22 | [link](https://www.twitch.tv/videos/1490705034) |
 | 10 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
 | 11 | yatokami9 | 0:51:02 | 2023-03-19 | [link](https://youtu.be/JaGJD_FEIDc) |
-| 12 | Sakaali | 0:51:07 | 2024-01-07 | [link](https://www.twitch.tv/videos/2025465391) |
+| 12 | Sakaali | 0:51:03 | 2024-01-28 | [link](https://www.twitch.tv/videos/2046225081) |
 | 13 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
 | 14 | jtknott | 0:51:12 | 2024-01-27 | [link](https://www.youtube.com/watch?v=hVzF4y1rfaU) |
 | 15 | IluvMario | 0:51:17 | 2018-04-09 | [link](https://www.twitch.tv/videos/248583120) |
@@ -40,13 +40,13 @@ categories: speedrun
 | 30 | WhenChukAttacks | 0:51:51 | 2018-03-29 | [link](https://www.twitch.tv/videos/244391585) |
 | 32 | Outside_Lutz | 0:51:53 | 2014-03-23 | [link](https://www.youtube.com/watch?v=IjSx5GHtB78) |
 | 33 | AliceHK8 | 0:51:54 | 2023-12-12 | [link](https://www.twitch.tv/videos/2002381976) |
-| 33 | ibuba7 | 0:51:54 | 2021-02-25 | [link](https://www.youtube.com/watch?v=fdKLbhv9TZQ&ab_channel=iBuba7) |
 | 33 | neoshazam | 0:51:54 | 2024-01-27 | [link](https://www.bitchute.com/video/B4ljkuXccGpv/) |
+| 33 | ibuba7 | 0:51:54 | 2021-02-25 | [link](https://www.youtube.com/watch?v=fdKLbhv9TZQ&ab_channel=iBuba7) |
 | 36 | dom | 0:51:55 | 2021-05-18 | [link](https://youtu.be/AkLx3ODwW8w) |
 | 37 | EthanRTA | 0:51:56 | 2022-04-17 | [link](https://youtu.be/u5DaRhfjaQo) |
-| 38 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
-| 39 | MarstoS | 0:51:59 | 2023-03-01 | [link](https://www.twitch.tv/videos/1752693139) |
-| 39 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
+| 37 | MarstoS | 0:51:56 | 2024-01-28 | [link](https://www.twitch.tv/videos/2046186355) |
+| 39 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
+| 40 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
 | 41 | helfmyselp | 0:52:08 | 2023-04-12 | [link](https://www.youtube.com/watch?v=WFafWW0fCaI) |
 | 42 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
 | 43 | highflyer28 | 0:52:17 | 2023-04-30 | [link](https://www.twitch.tv/videos/1808063603) |
