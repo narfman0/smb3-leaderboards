@@ -43,8 +43,8 @@ categories: speedrun
 | 33 | neoshazam | 0:51:54 | 2024-01-27 | [link](https://www.bitchute.com/video/B4ljkuXccGpv/) |
 | 33 | ibuba7 | 0:51:54 | 2021-02-25 | [link](https://www.youtube.com/watch?v=fdKLbhv9TZQ&ab_channel=iBuba7) |
 | 36 | dom | 0:51:55 | 2021-05-18 | [link](https://youtu.be/AkLx3ODwW8w) |
-| 37 | EthanRTA | 0:51:56 | 2022-04-17 | [link](https://youtu.be/u5DaRhfjaQo) |
 | 37 | MarstoS | 0:51:56 | 2024-01-28 | [link](https://www.twitch.tv/videos/2046186355) |
+| 37 | EthanRTA | 0:51:56 | 2022-04-17 | [link](https://youtu.be/u5DaRhfjaQo) |
 | 39 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
 | 40 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
 | 41 | helfmyselp | 0:52:08 | 2023-04-12 | [link](https://www.youtube.com/watch?v=WFafWW0fCaI) |
