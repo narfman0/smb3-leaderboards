@@ -9,7 +9,7 @@ categories: speedrun
  ---- | ------ | ---- | ---- | ----- 
 | 1 | mitchflowerpower | 0:50:10 | 2022-09-03 | [link](https://www.youtube.com/watch?v=_3n12tb9Sg8&t=15s) |
 | 2 | Kuto1k | 0:50:23 | 2023-12-19 | [link](https://www.twitch.tv/videos/2008303442) |
-| 3 | narfman0 | 0:50:33 | 2023-12-20 | [link](https://youtu.be/XYkeitiMrq8?si=svPAFRDRs4x3pDAo&t=592) |
+| 3 | narfman0 | 0:50:27 | 2024-02-02 | [link](https://youtu.be/0o3Ew51cpVs) |
 | 4 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
 | 5 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
 | 6 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
@@ -96,8 +96,8 @@ categories: speedrun
 | 87 | HocusPocus | 0:54:21 | 2021-08-27 | [link](https://www.twitch.tv/videos/1131428124) |
 | 87 | J_Ephemeral | 0:54:21 | 2021-04-04 | [link](https://www.youtube.com/watch?v=7SDCi3r30GM) |
 | 89 | Skippy | 0:54:24 | 2022-08-16 | [link](https://youtu.be/0u7QwCSdR54) |
-| 90 | Grayskull83 | 0:54:26 | 2022-04-12 | [link](https://www.twitch.tv/videos/1454218684) |
 | 90 | Cookiewise | 0:54:26 | 2024-02-02 | [link](https://www.twitch.tv/videos/2051400803) |
+| 90 | Grayskull83 | 0:54:26 | 2022-04-12 | [link](https://www.twitch.tv/videos/1454218684) |
 | 92 | DaveLindo | 0:54:27 | 2019-10-28 | [link](https://www.twitch.tv/videos/500833323) |
 | 92 | WRD116 | 0:54:27 | 2021-02-12 | [link](https://www.youtube.com/watch?v=RDi3JMZaMwE&feature=share&fbclid=IwAR3lHYuGX2ZaEfmJraE541gYfG9r65kFaW_0E3YNjL6z_KylrqCVBb4fEmE&ab_channel=WRD116) |
 | 92 | GreenDeathFlavor | 0:54:27 | 2017-09-18 | [link](https://www.twitch.tv/videos/175804502) |
