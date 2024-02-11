@@ -17,8 +17,8 @@ categories: speedrun
 | 8 | Czikubi | 0:50:54 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
 | 9 | maibaRTA | 0:50:56 | 2022-05-22 | [link](https://www.twitch.tv/videos/1490705034) |
 | 10 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
-| 11 | yatokami9 | 0:51:02 | 2023-03-19 | [link](https://youtu.be/JaGJD_FEIDc) |
-| 12 | Sakaali | 0:51:03 | 2024-01-28 | [link](https://www.twitch.tv/videos/2046225081) |
+| 11 | Sakaali | 0:51:01 | 2024-02-10 | [link](https://www.twitch.tv/videos/2059063940) |
+| 12 | yatokami9 | 0:51:02 | 2023-03-19 | [link](https://youtu.be/JaGJD_FEIDc) |
 | 13 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
 | 14 | scalpel | 0:51:11 | 2024-02-10 | [link](https://www.youtube.com/watch?v=eJr2hN62rEE) |
 | 15 | jtknott | 0:51:12 | 2024-01-27 | [link](https://www.youtube.com/watch?v=hVzF4y1rfaU) |
