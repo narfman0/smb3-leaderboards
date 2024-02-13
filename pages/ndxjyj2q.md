@@ -400,10 +400,10 @@ categories: speedrun
 | 391 | Jetabb | 0:14:13 | 2019-03-15 | [link](https://www.twitch.tv/videos/397092371) |
 | 391 | Spectracide_ | 0:14:13 | 2023-06-05 | [link](https://www.youtube.com/watch?v=Uh6QUIhgp9U&ab_channel=Spectracide_) |
 | 391 | Neithend | 0:14:13 | 2021-02-02 | [link](https://www.youtube.com/watch?v=KzmSjdD_Q2w) |
+| 394 | ShyKoopa_LFG | 0:14:14 | 2024-02-12 | [link](https://www.twitch.tv/videos/2060285349) |
 | 394 | Personator1LC | 0:14:14 | 2023-05-23 | [link](https://www.twitch.tv/videos/1827321395) |
 | 394 | PotatoHandle | 0:14:14 | 2013-03-05 | [link](http://www.twitch.tv/potatohandle/c/1992802) |
 | 394 | switchfaced | 0:14:14 | 2022-05-17 | [link](https://www.twitch.tv/videos/1486661275) |
-| 394 | ShyKoopa_LFG | 0:14:14 | 2024-02-12 | [link](https://www.twitch.tv/videos/2060285349) |
 | 398 | wake911 | 0:14:16 | 2018-11-20 | [link](https://www.youtube.com/watch?v=9OHoK41e9PE) |
 | 399 | xeroxfiend | 0:14:17 | 2018-07-09 | [link](https://www.twitch.tv/videos/282701627) |
 | 399 | Gustlik102 | 0:14:17 | 2017-08-18 | [link](https://www.youtube.com/watch?v=Gb-nhRej5Z0) |

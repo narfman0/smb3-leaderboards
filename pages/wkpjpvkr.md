@@ -97,9 +97,9 @@ categories: speedrun
 | 84 | bjw | 0:03:40 | 2017-09-10 | [link](https://www.twitch.tv/videos/173691599) |
 | 84 | Lul_ecks_dee | 0:03:40 | 2018-06-16 | [link](https://www.twitch.tv/videos/273828634) |
 | 90 | Rh4kor | 0:03:41 | 2021-09-28 | [link](https://www.youtube.com/watch?v=jmWHkwRsXdM) |
+| 91 | Ricxrdo | 0:03:42 | 2024-02-11 | [link](https://youtu.be/-A6S1jn8BzM?si=7VjP5yur51hDVRFM) |
 | 91 | BusterMan | 0:03:42 | 2022-02-22 | [link](https://www.youtube.com/watch?v=7rlD3_MQxXE) |
 | 91 | SBDWolf | 0:03:42 | 2023-09-20 | [link](https://www.twitch.tv/videos/1931447200) |
-| 91 | Ricxrdo | 0:03:42 | 2024-02-11 | [link](https://youtu.be/-A6S1jn8BzM?si=7VjP5yur51hDVRFM) |
 | 94 | sausage_walk | 0:03:43 | 2023-01-08 | [link](https://youtu.be/JmduClV5p2g) |
 | 94 | ImDangerous20 | 0:03:43 | 2018-03-29 | [link](https://www.twitch.tv/videos/244103093) |
 | 94 | KarlsGB | 0:03:43 | 2020-04-15 | [link](https://www.youtube.com/watch?v=QGdAFbW1CY0) |
@@ -132,8 +132,8 @@ categories: speedrun
 | 117 | Matepe | 0:03:48 | 2021-03-12 | [link](https://www.twitch.tv/videos/946412904) |
 | 117 | SomeBro | 0:03:48 | 2018-02-16 | [link](https://youtu.be/n2uP1ndlgmw) |
 | 117 | joka | 0:03:48 | 2017-02-07 | [link](https://www.youtube.com/watch?v=RSO5h78ntYI) |
-| 126 | Chinese_mario | 0:03:49 | 2024-02-10 | [link](https://www.bilibili.com/video/BV1U6421375H/) |
 | 126 | Kinder | 0:03:49 | 2017-10-31 | [link](https://www.youtube.com/watch?v=hqMYTOwGGSc&feature=youtu.be) |
+| 126 | Chinese_mario | 0:03:49 | 2024-02-10 | [link](https://www.bilibili.com/video/BV1U6421375H/) |
 | 126 | I_Enjoy_Games | 0:03:49 | 2023-06-13 | [link](https://youtu.be/sSbgr2jiiHc) |
 | 126 | Steele | 0:03:49 | 2019-03-28 | [link](https://youtu.be/SWWhAN9Mu4Y) |
 | 126 | eHolden | 0:03:49 | 2020-06-17 | [link](https://youtu.be/bRPZ6UlAGOI) |
