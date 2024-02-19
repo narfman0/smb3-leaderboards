@@ -505,7 +505,7 @@ categories: speedrun
 | 496 | Punchin_Treez | 0:21:29 | 2015-08-29 | [link](https://www.youtube.com/watch?v=Q0I35dNfKLE) |
 | 497 | squirebrn | 0:22:34 | 2022-09-27 | [link](https://www.twitch.tv/videos/1602495195) |
 | 498 | d4rk0men | 0:23:03 | 2016-11-11 | [link](https://www.twitch.tv/zshakespeare/v/100324522) |
-| 499 | Daekwon_M | 0:24:40 | 2023-10-02 | [link](https://youtu.be/PfNke9ZT3cw?si=CkaqJF8RV05HGhAJ) |
+| 499 | Daekwon_M | 0:24:33 | 2024-02-17 | [link](https://www.youtube.com/watch?v=AaG1vMeueQw) |
 | 500 | SamuelStokesMusic | 0:24:55 | 2021-01-04 | [link](https://youtu.be/tyNckQ9OzCg) |
 | 501 | Dutch_Kirb | 0:25:37 | 2023-08-22 | [link](https://youtu.be/b7Z3r_7Pbhk) |
 | 502 | kabAudio | 0:27:07 | 2022-02-06 | [link](https://www.twitch.tv/videos/1289635912) |
