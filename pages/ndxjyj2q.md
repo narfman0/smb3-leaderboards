@@ -212,8 +212,8 @@ categories: speedrun
 | 203 | Jejemaster67 | 0:12:00 | 2017-03-07 | [link](https://www.twitch.tv/videos/126999543) |
 | 203 | Sc0tty047 | 0:12:00 | 2024-01-30 | [link](https://www.youtube.com/watch?v=B5kQSu3-sUA) |
 | 205 | Sander17_ | 0:12:02 | 2016-09-16 | [link](https://www.twitch.tv/sander17_/v/89715515) |
-| 206 | windcask | 0:12:03 | 2016-12-22 | [link](https://www.youtube.com/watch?v=xrO6O4bS4x4) |
 | 206 | Finnish2005 | 0:12:03 | 2024-02-23 | [link](https://youtu.be/XmihedLv_MU) |
+| 206 | windcask | 0:12:03 | 2016-12-22 | [link](https://www.youtube.com/watch?v=xrO6O4bS4x4) |
 | 208 | werdwerdus | 0:12:05 | 2019-01-24 | [link](https://youtu.be/A3-BWxdgfhY) |
 | 208 | Rufio45 | 0:12:05 | 2021-01-01 | [link](https://www.twitch.tv/videos/870984555) |
 | 210 | VonGerstenberg | 0:12:06 | 2021-06-08 | [link](https://www.twitch.tv/videos/1050521893) |
