@@ -527,6 +527,7 @@ categories: speedrun
 | 518 | tryhardsnipehrd | 0:05:24 | 2020-06-03 | [link](https://youtu.be/1gbwIpsmaaQ) |
 | 519 | Billybob157 | 0:05:30 | 2022-01-28 | [link](https://youtu.be/0qKhXQ0cNR0) |
 | 520 | afmstreams | 0:05:39 | 2022-03-10 | [link](https://www.twitch.tv/videos/1422017064) |
-| 521 | dom | 0:06:23 | 2021-04-14 | [link](https://www.twitch.tv/videos/985126025?filter=highlights&sort=time) |
-| 522 | 100th_Coin | 0:07:02 | 2021-05-16 | [link](https://www.youtube.com/watch?v=9uZnuX-jnl0) |
-| 523 | your_bad92 | 0:07:14 | 2023-03-18 | [link](https://www.youtube.com/watch?v=pLdVPTg7eAw) |
+| 521 | alexacc | 0:05:50 | 2024-03-06 | [link](https://youtu.be/kOPsC94Me4k?si=Pzx5nXsolJmna3m1) |
+| 522 | dom | 0:06:23 | 2021-04-14 | [link](https://www.twitch.tv/videos/985126025?filter=highlights&sort=time) |
+| 523 | 100th_Coin | 0:07:02 | 2021-05-16 | [link](https://www.youtube.com/watch?v=9uZnuX-jnl0) |
+| 524 | your_bad92 | 0:07:14 | 2023-03-18 | [link](https://www.youtube.com/watch?v=pLdVPTg7eAw) |
