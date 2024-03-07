@@ -226,12 +226,12 @@ categories: speedrun
 | 203 | CratiX14 | 0:03:57 | 2020-09-06 | [link](https://youtu.be/OyoIxN5IcfE) |
 | 203 | EliSpeedrun | 0:03:57 | 2022-05-21 | [link](https://www.twitch.tv/videos/1489879789) |
 | 219 | Eichi | 0:03:58 | 2017-02-21 | [link](https://www.youtube.com/watch?v=udH2JtOA3GY) |
-| 219 | Avriix | 0:03:58 | 2024-03-04 | [link](https://youtu.be/_fiR98yI_4A) |
 | 219 | Tmitt7 | 0:03:58 | 2017-11-04 | [link](https://www.youtube.com/watch?v=_12jMiqkAMM) |
 | 219 | MelonTheFelon | 0:03:58 | 2018-09-29 | [link](https://www.twitch.tv/videos/316331417) |
 | 219 | TheBaconator108 | 0:03:58 | 2022-03-03 | [link](https://www.youtube.com/watch?v=mrQ2gs4X2OA) |
 | 219 | SAOkyy | 0:03:58 | 2021-01-04 | [link](https://www.youtube.com/watch?v=miY3UoLN4Ng) |
 | 219 | Validusername16 | 0:03:58 | 2019-09-16 | [link](https://www.youtube.com/watch?v=VJGGGLGZnPA) |
+| 219 | Avriix | 0:03:58 | 2024-03-04 | [link](https://youtu.be/_fiR98yI_4A) |
 | 219 | WoskiBoy | 0:03:58 | 2023-12-30 | [link](https://youtu.be/yQwbCAdYk0E) |
 | 219 | miletic_ivan | 0:03:58 | 2022-01-17 | [link](https://www.youtube.com/watch?v=qSk_nPABXtU) |
 | 219 | DogDeeDer | 0:03:58 | 2021-08-26 | [link](https://www.youtube.com/watch?v=17Rn6se7A0Q) |
