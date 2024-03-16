@@ -109,8 +109,8 @@ categories: speedrun
 | 98 | Schaaa | 0:11:13 | 2017-07-26 | [link](https://www.twitch.tv/videos/162204249) |
 | 98 | AD2 | 0:11:13 | 2017-12-06 | [link](https://www.twitch.tv/videos/207168171) |
 | 102 | TheLightYagami | 0:11:15 | 2015-04-18 | [link](http://www.twitch.tv/thelightyagami/c/6560114) |
-| 103 | SpUnKeN_DK | 0:11:16 | 2024-03-13 | [link](https://www.twitch.tv/videos/2089388185) |
 | 103 | Take72 | 0:11:16 | 2020-03-14 | [link](https://www.twitch.tv/videos/568029858) |
+| 103 | SpUnKeN_DK | 0:11:16 | 2024-03-13 | [link](https://www.twitch.tv/videos/2089388185) |
 | 103 | Alvaca | 0:11:16 | 2023-12-19 | [link](https://youtu.be/ET8ZM9Jz_Ok) |
 | 106 | Jabem | 0:11:17 | 2018-06-07 | [link](https://www.youtube.com/watch?v=FT3oy61eka4) |
 | 107 | DavidRoberts | 0:11:18 | 2020-09-07 | [link](https://youtu.be/ORlqTL-Gc_M) |
