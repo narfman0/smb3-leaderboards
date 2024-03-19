@@ -146,9 +146,9 @@ categories: speedrun
 | 133 | Merlo | 0:03:50 | 2019-04-15 | [link](https://www.youtube.com/watch?v=u-SdyArTMP8&feature=youtu.be) |
 | 133 | MC_2018 | 0:03:50 | 2019-01-07 | [link](https://youtu.be/9-Vy5nScZRM) |
 | 133 | TEEX88 | 0:03:50 | 2019-03-19 | [link](https://www.twitch.tv/videos/397806515) |
-| 140 | dubiousdinobot | 0:03:51 | 2020-08-06 | [link](https://www.twitch.tv/videos/702129272) |
 | 140 | NathanAlmighty | 0:03:51 | 2017-10-23 | [link](https://www.youtube.com/watch?v=pAvdf5a677k&feature=youtu.be) |
 | 140 | Hmw1337 | 0:03:51 | 2018-11-23 | [link](https://www.twitch.tv/videos/339779040) |
+| 140 | dubiousdinobot | 0:03:51 | 2020-08-06 | [link](https://www.twitch.tv/videos/702129272) |
 | 140 | Mrvic | 0:03:51 | 2020-10-27 | [link](https://youtu.be/s7yJjpPaRaA) |
 | 140 | Sc0tty047 | 0:03:51 | 2023-08-16 | [link](https://www.youtube.com/watch?v=y35ymYE3LCQ) |
 | 140 | HarrisonCheng | 0:03:51 | 2022-04-15 | [link](https://youtu.be/zPdtbYwq6Ss) |
