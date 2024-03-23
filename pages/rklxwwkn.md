@@ -25,9 +25,9 @@ categories: speedrun
 | 16 | IluvMario | 0:51:17 | 2018-04-09 | [link](https://www.twitch.tv/videos/248583120) |
 | 17 | ZoneVD | 0:51:19 | 2021-04-22 | [link](https://www.twitch.tv/videos/995985992) |
 | 17 | Track1 | 0:51:19 | 2023-08-11 | [link](https://www.twitch.tv/videos/1896079336) |
-| 19 | Ellonija | 0:51:21 | 2017-05-24 | [link](https://www.twitch.tv/videos/146750506) |
-| 20 | Mondii | 0:51:23 | 2023-04-02 | [link](https://www.twitch.tv/videos/1782912675) |
-| 21 | Lainerainer | 0:51:24 | 2024-01-31 | [link](https://youtu.be/iFJh_OeDEyY?si=4L8pX5JcgFG01WUo) |
+| 19 | Lainerainer | 0:51:20 | 2024-03-23 | [link](https://youtu.be/s2lNt7R5cOU?si=N58mqrSnA27isW84) |
+| 20 | Ellonija | 0:51:21 | 2017-05-24 | [link](https://www.twitch.tv/videos/146750506) |
+| 21 | Mondii | 0:51:23 | 2023-04-02 | [link](https://www.twitch.tv/videos/1782912675) |
 | 22 | Scarface | 0:51:26 | 2022-04-04 | [link](https://youtu.be/rxJoeyjzlDA) |
 | 22 | budzyRNG | 0:51:26 | 2023-12-19 | [link](https://www.youtube.com/watch?v=Bnviz9aoKgM) |
 | 24 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
