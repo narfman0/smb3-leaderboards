@@ -249,8 +249,8 @@ categories: speedrun
 | 239 | MtOlympus | 0:12:21 | 2021-03-05 | [link](https://youtu.be/MhuZ2mlERLY) |
 | 239 | esmo88 | 0:12:21 | 2019-05-27 | [link](https://www.twitch.tv/videos/430790914) |
 | 242 | skateman222 | 0:12:23 | 2019-01-23 | [link](https://www.twitch.tv/videos/368876008) |
-| 242 | Apetta25 | 0:12:23 | 2024-02-11 | [link](https://youtu.be/8iz9GuGJKyU?si=uXlMHKZCw6LXdrYY) |
 | 242 | MwDAShadow | 0:12:23 | 2024-03-21 | [link](https://www.twitch.tv/videos/2100250429) |
+| 242 | Apetta25 | 0:12:23 | 2024-02-11 | [link](https://youtu.be/8iz9GuGJKyU?si=uXlMHKZCw6LXdrYY) |
 | 245 | cureabees | 0:12:24 | 2019-03-09 | [link](https://www.youtube.com/watch?v=o4HUMRlOzpg) |
 | 245 | austin_swish16 | 0:12:24 | 2022-04-05 | [link](https://www.youtube.com/watch?v=EWOYZZJo6j4) |
 | 247 | r3dninjajosh | 0:12:25 | 2016-12-06 | [link](https://www.twitch.tv/r3dninjajosh/v/105913325) |
