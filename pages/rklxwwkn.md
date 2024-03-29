@@ -377,9 +377,9 @@ categories: speedrun
 | 368 | Jama7301 | 2:18:15 | 2016-02-10 | [link](http://www.twitch.tv/jama7301/v/43422014) |
 | 369 | SheepDog_81 | 2:23:16 | 2021-05-29 | [link](https://www.youtube.com/watch?v=s2FugsGVxOI) |
 | 370 | Kongkrete | 2:26:09 | 2020-11-15 | [link](https://www.youtube.com/watch?v=ifG1d0nR86M) |
-| 371 | brunobrolly | 2:46:29 | 2022-04-04 | [link](https://www.youtube.com/watch?v=rzE1-Pp3ONA) |
-| 372 | KaiserKrister | 2:47:29 | 2017-06-06 | [link](https://www.twitch.tv/videos/149819915) |
-| 373 | Daekwon_M | 2:54:06 | 2023-10-09 | [link](https://youtu.be/X5THn4xZGBs?si=dys-M1KcDquxnBhD) |
+| 371 | Daekwon_M | 2:41:00 | 2024-03-28 | [link](https://www.youtube.com/watch?v=LI_yHfraYmU) |
+| 372 | brunobrolly | 2:46:29 | 2022-04-04 | [link](https://www.youtube.com/watch?v=rzE1-Pp3ONA) |
+| 373 | KaiserKrister | 2:47:29 | 2017-06-06 | [link](https://www.twitch.tv/videos/149819915) |
 | 374 | FurretTurret | 2:55:49 | 2015-01-17 | [link](https://www.twitch.tv/videos/41891156) |
 | 375 | stephen_irl | 3:16:41 | 2017-05-19 | [link](https://www.twitch.tv/videos/145468114) |
 | 376 | Johny_Mandarino | 3:59:24 | 2018-03-24 | [link](https://www.youtube.com/watch?v=Zxn7SulO_m8) |
