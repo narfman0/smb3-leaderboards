@@ -125,9 +125,9 @@ categories: speedrun
 | 116 | Akisto | 0:55:08 | 2015-06-05 | [link](https://www.youtube.com/watch?v=cU8SEb1i7yg) |
 | 117 | SuperSonic | 0:55:09 | 2022-01-11 | [link](https://youtu.be/8GwTtth0jjY) |
 | 118 | jahaley64 | 0:55:10 | 2022-03-27 | [link](https://youtu.be/D-E6nNPC-Vk) |
+| 119 | Kettu82 | 0:55:13 | 2024-03-29 | [link](https://www.youtube.com/watch?v=7fey0rbpvbo) |
 | 119 | Boy22Blue | 0:55:13 | 2021-05-17 | [link](https://www.youtube.com/watch?v=tqI-18-NQQ8) |
 | 119 | Schwartz_RTA | 0:55:13 | 2022-05-16 | [link](https://www.youtube.com/watch?v=t291dw2Z2oU) |
-| 119 | Kettu82 | 0:55:13 | 2024-03-29 | [link](https://www.youtube.com/watch?v=7fey0rbpvbo) |
 | 122 | Killamox | 0:55:18 | 2016-03-18 | [link](http://www.twitch.tv/killamox18/v/55107584) |
 | 123 | bowtie1320 | 0:55:19 | 2021-01-19 | [link](https://www.twitch.tv/videos/880694645) |
 | 124 | Sharchid | 0:55:25 | 2023-03-14 | [link](https://www.twitch.tv/videos/1765061873) |
