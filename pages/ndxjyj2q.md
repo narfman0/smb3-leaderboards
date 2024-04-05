@@ -25,7 +25,7 @@ categories: speedrun
 | 16 | SkylightFox | 0:10:49.366000 | 2017-03-05 | [link](https://www.twitch.tv/videos/126600230) |
 | 17 | Mondii | 0:10:49.566000 | 2024-02-27 | [link](https://youtu.be/lA633ndMuUE) |
 | 18 | GTAce99 | 0:10:49.950000 | 2023-04-26 | [link](https://youtu.be/c30bWK5E8oE) |
-| 19 | TheCrit | 0:10:50.550000 | 2022-09-18 | [link](https://www.youtube.com/watch?v=crmx1DvDSjE) |
+| 19 | TheCrit | 0:10:50.533000 | 2022-09-18 | [link](https://www.youtube.com/watch?v=crmx1DvDSjE&t=663s) |
 | 20 | 10ooki | 0:10:51.183000 | 2015-11-24 | [link](https://youtu.be/w6hygIQyxws) |
 | 21 | Glitchman24 | 0:10:51.333000 | 2023-07-08 | [link](https://www.youtube.com/watch?v=lzGjwicfxqY) |
 | 22 | [se]Frezy_man | 0:10:52 | 2009-10-17 | [link](https://www.youtube.com/watch?v=m_rHATfUZnM) |
@@ -158,9 +158,9 @@ categories: speedrun
 | 148 | rockdet | 0:11:38 | 2017-01-22 | [link](https://www.twitch.tv/rockdet/v/116708806) |
 | 150 | Adotis | 0:11:40 | 2021-07-15 | [link](https://www.twitch.tv/videos/1087629082) |
 | 150 | Riccioli88 | 0:11:40 | 2021-05-27 | [link](https://www.youtube.com/watch?v=xAaiq0lT3vI) |
-| 152 | Sc0tty047 | 0:11:41 | 2024-03-31 | [link](https://www.youtube.com/watch?v=_0P_PIrnHIs) |
 | 152 | Malachibros20085721 | 0:11:41 | 2022-02-05 | [link](https://www.twitch.tv/videos/1287650272) |
 | 152 | CooperJW13 | 0:11:41 | 2022-08-18 | [link](https://www.twitch.tv/videos/1565298970) |
+| 152 | Sc0tty047 | 0:11:41 | 2024-03-31 | [link](https://www.youtube.com/watch?v=_0P_PIrnHIs) |
 | 152 | mace_ | 0:11:41 | 2022-05-08 | [link](https://www.youtube.com/watch?v=RxXrAK3kfhw) |
 | 152 | nerd4LERT | 0:11:41 | 2021-04-26 | [link](https://www.youtube.com/watch?v=OLrEJd2Gq4U) |
 | 157 | riscky | 0:11:42 | 2017-08-13 | [link](https://youtu.be/uZtI_bD_fzk) |
