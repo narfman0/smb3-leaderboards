@@ -428,10 +428,10 @@ categories: speedrun
 | 419 | diemb | 0:04:24 | 2021-05-05 | [link](https://www.youtube.com/watch?v=BELMPNC4iRA) |
 | 419 | Temmichel | 0:04:24 | 2021-01-31 | [link](https://www.youtube.com/watch?v=rRN5tRjjIPY) |
 | 421 | Carancool | 0:04:25 | 2023-07-30 | [link](https://youtu.be/_s8a8fcqX6Y) |
-| 421 | AnimeeArcade | 0:04:25 | 2024-03-16 | [link](https://www.twitch.tv/videos/2110238859) |
 | 421 | miba | 0:04:25 | 2018-02-10 | [link](https://youtu.be/yJiY1rBj27k) |
 | 421 | beast14356 | 0:04:25 | 2021-12-06 | [link](https://www.youtube.com/watch?v=B3XDda29iWc) |
 | 421 | ZeldasKitten | 0:04:25 | 2021-03-14 | [link](https://youtu.be/tX4Bs4lkTtI) |
+| 421 | AnimeeArcade | 0:04:25 | 2024-03-16 | [link](https://www.twitch.tv/videos/2110238859) |
 | 421 | Carnageraiser1 | 0:04:25 | 2018-05-28 | [link](https://www.twitch.tv/videos/247330800) |
 | 421 | KuLemon | 0:04:25 | 2019-09-07 | [link](https://www.youtube.com/watch?v=Ve7IZy0tnnE&ab_channel=Ku%27Lemon) |
 | 428 | tenguliam | 0:04:26 | 2017-10-24 | [link](https://www.twitch.tv/videos/184648530) |
