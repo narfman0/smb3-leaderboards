@@ -278,9 +278,9 @@ categories: speedrun
 | 268 | Toastyglint420 | 0:12:39 | 2016-02-08 | [link](http://www.twitch.tv/toastyglint420/v/42258650) |
 | 270 | bassguitarbill | 0:12:40 | 2016-02-09 | [link](http://www.twitch.tv/bassguitarbill/v/42904742) |
 | 270 | baseball_caniac | 0:12:40 | 2016-03-07 | [link](https://youtu.be/sqs3VSGu7YE) |
+| 272 | Guwapo | 0:12:41 | 2024-04-06 | [link](https://www.twitch.tv/videos/2113021895) |
 | 272 | DanilHarteveld | 0:12:41 | 2020-01-11 | [link](https://youtu.be/mZqzmkHeEFE) |
 | 272 | Overswarm | 0:12:41 | 2019-10-21 | [link](https://www.twitch.tv/videos/497598375) |
-| 272 | Guwapo | 0:12:41 | 2024-04-06 | [link](https://www.twitch.tv/videos/2113021895) |
 | 275 | JonnyLink | 0:12:42 | 2019-03-04 | [link](https://www.youtube.com/watch?v=ETLcsyVrh30) |
 | 275 | introjerk | 0:12:42 | 2022-01-29 | [link](https://youtu.be/nCnrU89NCBc) |
 | 275 | YoureWithStupid | 0:12:42 | 2022-10-07 | [link](https://www.twitch.tv/videos/1617933490) |
