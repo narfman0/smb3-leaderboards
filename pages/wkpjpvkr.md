@@ -97,10 +97,10 @@ categories: speedrun
 | 84 | ObsoleteGamer2004 | 0:03:39 | 2022-02-04 | [link](https://youtube.com/watch?v=oY4w9ZTeIwc) |
 | 89 | scalpel | 0:03:40 | 2021-08-02 | [link](https://youtu.be/lHG-yd0VO_Q) |
 | 89 | ThePKing | 0:03:40 | 2024-01-31 | [link](https://youtu.be/o6hD4CPDNf0) |
+| 89 | Brandon_Lepetrie42 | 0:03:40 | 2024-04-10 | [link](https://youtu.be/GNswsS6iC08) |
 | 89 | LeKukie | 0:03:40 | 2021-04-07 | [link](https://www.youtube.com/watch?v=fbSx1aMVsnI) |
 | 89 | bjw | 0:03:40 | 2017-09-10 | [link](https://www.twitch.tv/videos/173691599) |
 | 89 | Lul_ecks_dee | 0:03:40 | 2018-06-16 | [link](https://www.twitch.tv/videos/273828634) |
-| 89 | Brandon_Lepetrie42 | 0:03:40 | 2024-04-10 | [link](https://youtu.be/GNswsS6iC08) |
 | 95 | Rh4kor | 0:03:41 | 2021-09-28 | [link](https://www.youtube.com/watch?v=jmWHkwRsXdM) |
 | 96 | BusterMan | 0:03:42 | 2022-02-22 | [link](https://www.youtube.com/watch?v=7rlD3_MQxXE) |
 | 96 | SBDWolf | 0:03:42 | 2023-09-20 | [link](https://www.twitch.tv/videos/1931447200) |
@@ -179,11 +179,11 @@ categories: speedrun
 | 164 | Beerfullofbelly | 0:03:53 | 2018-06-01 | [link](https://www.twitch.tv/videos/267957481) |
 | 164 | kei | 0:03:53 | 2018-03-25 | [link](https://www.youtube.com/watch?v=lc9gjWkGu98) |
 | 164 | Nowey | 0:03:53 | 2018-03-07 | [link](https://www.youtube.com/watch?v=wIAWr3da_wM) |
-| 173 | alabastro1 | 0:03:54 | 2024-04-10 | [link](https://youtu.be/d8ULhEC262w) |
 | 173 | ArcadeRiot91 | 0:03:54 | 2023-05-08 | [link](https://youtu.be/m1sm-8HDbtE) |
 | 173 | Mr.JacoPbass | 0:03:54 | 2018-05-22 | [link](https://www.youtube.com/watch?v=-58ezFfKTx4) |
 | 173 | Volpey | 0:03:54 | 2019-09-27 | [link](https://www.youtube.com/watch?v=z_j7-TOOYME) |
 | 173 | alpha_ray_burst | 0:03:54 | 2020-12-17 | [link](https://www.twitch.tv/videos/840496035) |
+| 173 | alabastro1 | 0:03:54 | 2024-04-10 | [link](https://youtu.be/d8ULhEC262w) |
 | 173 | Snarff | 0:03:54 | 2023-10-05 | [link](https://youtu.be/3RVMp41NtUA) |
 | 173 | dk | 0:03:54 | 2016-01-15 | [link](https://www.youtube.com/watch?v=jBT9zwOY11E) |
 | 173 | Take72 | 0:03:54 | 2020-03-14 | [link](https://www.twitch.tv/videos/568036938?) |
@@ -472,9 +472,9 @@ categories: speedrun
 | 462 | Seriouslysam25 | 0:04:36 | 2022-03-11 | [link](https://www.youtube.com/watch?v=lR1XcnLQobA&ab_channel=ShinyGiveaways) |
 | 462 | The_TK | 0:04:36 | 2018-03-26 | [link](https://www.youtube.com/watch?v=-BGlf-784l4) |
 | 462 | sejoon0701 | 0:04:36 | 2024-03-11 | [link](https://youtu.be/xzzie1Sy5W0?si=A6reboeXSMnLUI-M) |
-| 466 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
 | 466 | Lao | 0:04:38 | 2018-03-01 | [link](https://www.youtube.com/watch?v=6p9FOkAU4AM) |
 | 466 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
+| 466 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
 | 469 | ToshiyukiDoma | 0:04:39 | 2024-02-22 | [link](https://youtu.be/vKAJjEdmcx4) |
 | 469 | owilderman | 0:04:39 | 2020-03-29 | [link](https://youtu.be/S2-w2HdiWoc) |
 | 469 | BoBoTheMonkey | 0:04:39 | 2022-06-22 | [link](https://www.youtube.com/watch?v=YfX9WUBTNZU) |
