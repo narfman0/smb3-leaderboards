@@ -20,8 +20,8 @@ categories: speedrun
 | 11 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
 | 12 | yatokami9 | 0:51:02 | 2023-03-19 | [link](https://youtu.be/JaGJD_FEIDc) |
 | 13 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
-| 14 | scalpel | 0:51:11 | 2024-02-10 | [link](https://www.youtube.com/watch?v=eJr2hN62rEE) |
-| 15 | jtknott | 0:51:12 | 2024-01-27 | [link](https://www.youtube.com/watch?v=hVzF4y1rfaU) |
+| 14 | jtknott | 0:51:09 | 2024-04-13 | [link](https://youtu.be/k3K5M794lZE) |
+| 15 | scalpel | 0:51:11 | 2024-02-10 | [link](https://www.youtube.com/watch?v=eJr2hN62rEE) |
 | 16 | IluvMario | 0:51:17 | 2018-04-09 | [link](https://www.twitch.tv/videos/248583120) |
 | 17 | ZoneVD | 0:51:19 | 2021-04-22 | [link](https://www.twitch.tv/videos/995985992) |
 | 17 | Track1 | 0:51:19 | 2023-08-11 | [link](https://www.twitch.tv/videos/1896079336) |
