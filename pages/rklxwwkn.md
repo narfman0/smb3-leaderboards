@@ -89,10 +89,10 @@ categories: speedrun
 | 80 | Tompa | 0:53:58 | 2022-06-02 | [link](https://www.twitch.tv/videos/1503754373) |
 | 80 | TheLightYagami | 0:53:58 | 2015-09-08 | [link](http://www.twitch.tv/thelightyagami/v/15146872) |
 | 82 | esmo88 | 0:53:59 | 2020-02-01 | [link](https://www.twitch.tv/videos/545533125) |
-| 83 | Chelney | 0:54:01 | 2016-02-28 | [link](http://www.twitch.tv/chelney1/v/51413068) |
-| 84 | Madu | 0:54:09 | 2023-03-12 | [link](https://www.twitch.tv/videos/1763626685) |
-| 85 | zyzex_remix | 0:54:10 | 2020-05-22 | [link](https://www.twitch.tv/videos/629130264) |
-| 86 | Finnish2005 | 0:54:13 | 2024-02-29 | [link](https://youtu.be/_Gx0050rAco?si=G1weyrJ8T2zXJO7l) |
+| 83 | Finnish2005 | 0:54:00 | 2024-04-16 | [link](https://youtu.be/Ncq823xGPjA?feature=shared) |
+| 84 | Chelney | 0:54:01 | 2016-02-28 | [link](http://www.twitch.tv/chelney1/v/51413068) |
+| 85 | Madu | 0:54:09 | 2023-03-12 | [link](https://www.twitch.tv/videos/1763626685) |
+| 86 | zyzex_remix | 0:54:10 | 2020-05-22 | [link](https://www.twitch.tv/videos/629130264) |
 | 87 | Matepe | 0:54:17 | 2024-01-21 | [link](https://www.twitch.tv/therealmatepe/v/2038697704?sr=a) |
 | 88 | HocusPocus | 0:54:21 | 2021-08-27 | [link](https://www.twitch.tv/videos/1131428124) |
 | 88 | J_Ephemeral | 0:54:21 | 2021-04-04 | [link](https://www.youtube.com/watch?v=7SDCi3r30GM) |
