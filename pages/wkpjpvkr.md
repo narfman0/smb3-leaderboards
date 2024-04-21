@@ -173,6 +173,7 @@ categories: speedrun
 | 155 | zaqwa | 0:03:52 | 2017-09-07 | [link](https://www.youtube.com/watch?v=CrhfO2MdsfY) |
 | 155 | akr_sm64 | 0:03:52 | 2023-09-29 | [link](https://youtu.be/fS_mhGRRXXU) |
 | 166 | icterus440 | 0:03:53 | 2018-03-28 | [link](https://www.youtube.com/watch?v=N3SFFZvh6_A&feature=youtu.be) |
+| 166 | Jix_ | 0:03:53 | 2024-04-19 | [link](https://www.twitch.tv/videos/2123909093) |
 | 166 | Ribb95 | 0:03:53 | 2018-10-27 | [link](https://www.youtube.com/watch?v=Rml4m5X437Y&t=2s) |
 | 166 | Aydles | 0:03:53 | 2018-06-13 | [link](https://youtu.be/1qpvwqmvhkg) |
 | 166 | BoonieVeteran | 0:03:53 | 2023-03-06 | [link](https://youtu.be/OTcKaiIsLNU) |
@@ -181,7 +182,6 @@ categories: speedrun
 | 166 | Beerfullofbelly | 0:03:53 | 2018-06-01 | [link](https://www.twitch.tv/videos/267957481) |
 | 166 | kei | 0:03:53 | 2018-03-25 | [link](https://www.youtube.com/watch?v=lc9gjWkGu98) |
 | 166 | Nowey | 0:03:53 | 2018-03-07 | [link](https://www.youtube.com/watch?v=wIAWr3da_wM) |
-| 166 | Jix_ | 0:03:53 | 2024-04-19 | [link](https://www.twitch.tv/videos/2123909093) |
 | 176 | ArcadeRiot91 | 0:03:54 | 2023-05-08 | [link](https://youtu.be/m1sm-8HDbtE) |
 | 176 | Mr.JacoPbass | 0:03:54 | 2018-05-22 | [link](https://www.youtube.com/watch?v=-58ezFfKTx4) |
 | 176 | Volpey | 0:03:54 | 2019-09-27 | [link](https://www.youtube.com/watch?v=z_j7-TOOYME) |
