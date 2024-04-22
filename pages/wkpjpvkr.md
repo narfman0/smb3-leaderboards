@@ -173,10 +173,10 @@ categories: speedrun
 | 155 | zaqwa | 0:03:52 | 2017-09-07 | [link](https://www.youtube.com/watch?v=CrhfO2MdsfY) |
 | 155 | akr_sm64 | 0:03:52 | 2023-09-29 | [link](https://youtu.be/fS_mhGRRXXU) |
 | 166 | icterus440 | 0:03:53 | 2018-03-28 | [link](https://www.youtube.com/watch?v=N3SFFZvh6_A&feature=youtu.be) |
-| 166 | Jix_ | 0:03:53 | 2024-04-19 | [link](https://www.twitch.tv/videos/2123909093) |
 | 166 | Ribb95 | 0:03:53 | 2018-10-27 | [link](https://www.youtube.com/watch?v=Rml4m5X437Y&t=2s) |
 | 166 | Aydles | 0:03:53 | 2018-06-13 | [link](https://youtu.be/1qpvwqmvhkg) |
 | 166 | BoonieVeteran | 0:03:53 | 2023-03-06 | [link](https://youtu.be/OTcKaiIsLNU) |
+| 166 | Jix_ | 0:03:53 | 2024-04-19 | [link](https://www.twitch.tv/videos/2123909093) |
 | 166 | MinDsiL | 0:03:53 | 2022-03-08 | [link](https://www.twitch.tv/videos/1419016634) |
 | 166 | TheSkeeterBronson | 0:03:53 | 2022-03-06 | [link](https://youtu.be/GKwKfOxDCB0) |
 | 166 | Beerfullofbelly | 0:03:53 | 2018-06-01 | [link](https://www.twitch.tv/videos/267957481) |

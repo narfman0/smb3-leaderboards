@@ -60,8 +60,8 @@ categories: speedrun
 | 51 | Japezu | 0:52:32 | 2023-10-19 | [link](https://www.twitch.tv/videos/1954750838) |
 | 51 | uninerd | 0:52:32 | 2022-09-13 | [link](https://www.twitch.tv/videos/1590115133) |
 | 51 | brocis420 | 0:52:32 | 2022-12-28 | [link](https://www.twitch.tv/videos/1691525340) |
-| 54 | uropsalis | 0:52:34 | 2024-02-14 | [link](https://www.twitch.tv/videos/2063225367) |
 | 54 | Jokubotti | 0:52:34 | 2024-02-05 | [link](https://www.youtube.com/watch?v=hsBRr3BqZQI) |
+| 54 | uropsalis | 0:52:34 | 2024-02-14 | [link](https://www.twitch.tv/videos/2063225367) |
 | 56 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 57 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
 | 58 | duckfist | 0:52:47 | 2021-09-04 | [link](https://www.twitch.tv/videos/1139437792?collection=pgQmVpxPpBao_Q) |
@@ -192,8 +192,8 @@ categories: speedrun
 | 183 | Toastyglint420 | 0:58:40 | 2016-01-26 | [link](http://www.twitch.tv/toastyglint420/v/37830862) |
 | 184 | Ben | 0:58:41 | 2018-12-31 | [link](https://www.youtube.com/watch?v=v_MPTZ0Fxa8) |
 | 185 | Renakun | 0:58:48 | 2019-04-13 | [link](https://www.youtube.com/watch?v=W4-Rfo2Noxs&feature=youtu.be) |
-| 186 | RickDavoice | 0:58:51 | 2024-04-19 | [link](https://www.youtube.com/watch?v=wFESLsCqR9Q) |
 | 186 | Konaxs1 | 0:58:51 | 2021-07-28 | [link](https://www.twitch.tv/videos/1100557301?filter=highlights&sort=time) |
+| 186 | RickDavoice | 0:58:51 | 2024-04-19 | [link](https://www.youtube.com/watch?v=wFESLsCqR9Q) |
 | 188 | Fengar32 | 0:58:54 | 2020-06-20 | [link](https://youtu.be/7neYMTWd_6A) |
 | 189 | Rocksy | 0:58:56 | 2017-03-31 | [link](https://www.twitch.tv/videos/135289955) |
 | 190 | Skybilz | 0:58:59 | 2014-04-03 | [link](http://www.twitch.tv/skybilz/c/4001194) |

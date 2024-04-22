@@ -50,9 +50,9 @@ categories: speedrun
 | 37 | yatokami9 | 0:10:56 | 2021-07-05 | [link](https://www.twitch.tv/videos/1077654280) |
 | 37 | YourFreeChicken | 0:10:56 | 2021-06-06 | [link](https://youtu.be/2JOusJtAAN0) |
 | 37 | SBDWolf | 0:10:56 | 2023-09-20 | [link](https://youtu.be/ZZuEF_iUo6U) |
+| 44 | McBobX | 0:10:57 | 2024-04-20 | [link](https://www.twitch.tv/videos/2125156434) |
 | 44 | raymondamantius | 0:10:57 | 2023-12-23 | [link](https://www.youtube.com/watch?v=vQ6xtSf8zzg) |
 | 44 | CoderMan14 | 0:10:57 | 2024-02-28 | [link](https://www.youtube.com/watch?v=zFx0YV90BDo) |
-| 44 | McBobX | 0:10:57 | 2024-04-20 | [link](https://www.twitch.tv/videos/2125156434) |
 | 47 | budzyRNG | 0:10:58 | 2023-09-14 | [link](https://www.youtube.com/watch?v=uVwuqIzY_Yc) |
 | 47 | Scarface | 0:10:58 | 2021-02-06 | [link](https://youtu.be/PUMN-IGCodU) |
 | 47 | dom | 0:10:58 | 2021-04-20 | [link](https://www.twitch.tv/videos/994542334) |
