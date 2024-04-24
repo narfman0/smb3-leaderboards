@@ -10,10 +10,10 @@ categories: speedrun
 | 1 | Kuto1k | 0:03:00.666000 | 2023-07-20 | [link](https://youtu.be/9G9bnhpyy_0) |
 | 2 | Czikubi | 0:03:02.383000 | 2021-03-29 | [link](https://www.twitch.tv/videos/968510773) |
 | 3 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
-| 4 | Falkite | 0:03:04.500000 | 2023-07-18 | [link](https://www.youtube.com/watch?v=oeSSsfp4YxI) |
-| 5 | TheCrit | 0:03:04.533000 | 2022-10-10 | [link](https://www.youtube.com/watch?v=ZKA3qjd9r1Q) |
-| 6 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
-| 7 | narfman0 | 0:03:06.700000 | 2022-11-22 | [link](https://youtu.be/zW0uZA-s-RE) |
+| 4 | TheCrit | 0:03:04.533000 | 2022-10-10 | [link](https://www.youtube.com/watch?v=ZKA3qjd9r1Q) |
+| 5 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
+| 6 | narfman0 | 0:03:06.700000 | 2022-11-22 | [link](https://youtu.be/zW0uZA-s-RE) |
+| 7 | Falkite | 0:03:07.200000 | 2022-11-10 | [link](https://www.twitch.tv/videos/1648843666) |
 | 8 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
 | 9 | Mondii | 0:03:07.583000 | 2024-02-28 | [link](https://www.twitch.tv/videos/2076278375) |
 | 10 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
