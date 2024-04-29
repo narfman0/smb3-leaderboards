@@ -100,9 +100,9 @@ categories: speedrun
 | 90 | WRD116 | 0:11:11 | 2021-04-12 | [link](https://www.youtube.com/watch?v=j4qEvY4Gcw8) |
 | 90 | Magician_Type_0 | 0:11:11 | 2021-10-14 | [link](https://www.twitch.tv/videos/1176913758) |
 | 90 | Chelney | 0:11:11 | 2016-05-25 | [link](https://www.twitch.tv/chelney1/v/68486199) |
-| 94 | SpUnKeN_DK | 0:11:12 | 2024-04-23 | [link](https://www.twitch.tv/videos/2127133359) |
 | 94 | CujoIHSV | 0:11:12 | 2016-01-20 | [link](https://youtu.be/1N58EZFINZ4) |
 | 94 | SuperMegaDav | 0:11:12 | 2020-11-11 | [link](https://www.twitch.tv/videos/799959700) |
+| 94 | SpUnKeN_DK | 0:11:12 | 2024-04-23 | [link](https://www.twitch.tv/videos/2127133359) |
 | 94 | Grayskull83 | 0:11:12 | 2022-01-19 | [link](https://www.twitch.tv/videos/1269375317) |
 | 94 | Dayphid | 0:11:12 | 2019-01-06 | [link](https://www.twitch.tv/videos/360009485) |
 | 94 | PMniac | 0:11:12 | 2017-02-10 | [link](https://www.twitch.tv/videos/121063699) |
@@ -300,10 +300,10 @@ categories: speedrun
 | 291 | Cad225 | 0:12:54 | 2018-12-27 | [link](https://www.youtube.com/watch?v=zYv6RdQBZRY) |
 | 291 | NilesMonkey | 0:12:54 | 2022-02-05 | [link](https://www.youtube.com/watch?v=fg60uJxWas8) |
 | 293 | MDragmire | 0:12:56 | 2018-02-01 | [link](https://youtu.be/7TIHxQ7TCOo) |
+| 294 | santicop | 0:12:59 | 2024-04-27 | [link](https://youtu.be/utNHQwdWHyQ) |
 | 294 | RDTUniverse | 0:12:59 | 2019-01-13 | [link](https://www.twitch.tv/videos/363599737) |
 | 294 | unrealKosh | 0:12:59 | 2020-11-04 | [link](https://www.youtube.com/watch?v=iRXKUs-ywOs) |
 | 294 | m4jk_houdini | 0:12:59 | 2021-12-17 | [link](https://www.twitch.tv/videos/1235670891) |
-| 294 | santicop | 0:12:59 | 2024-04-27 | [link](https://youtu.be/utNHQwdWHyQ) |
 | 298 | C_Clop | 0:13:00 | 2017-03-05 | [link](https://www.youtube.com/watch?v=rE8qdaDELXw) |
 | 298 | josh916 | 0:13:00 | 2016-10-31 | [link](https://www.youtube.com/watch?v=f0_Tio53pj8) |
 | 300 | brossman | 0:13:01 | 2018-07-03 | [link](https://www.twitch.tv/videos/280663902) |
