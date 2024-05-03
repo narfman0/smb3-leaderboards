@@ -105,12 +105,12 @@ categories: speedrun
 | 96 | Rh4kor | 0:03:41 | 2021-09-28 | [link](https://www.youtube.com/watch?v=jmWHkwRsXdM) |
 | 97 | BusterMan | 0:03:42 | 2022-02-22 | [link](https://www.youtube.com/watch?v=7rlD3_MQxXE) |
 | 97 | SBDWolf | 0:03:42 | 2023-09-20 | [link](https://www.twitch.tv/videos/1931447200) |
+| 99 | Jix_ | 0:03:43 | 2024-05-01 | [link](https://youtu.be/LXUfaE6PjOc) |
 | 99 | sausage_walk | 0:03:43 | 2023-01-08 | [link](https://youtu.be/JmduClV5p2g) |
 | 99 | ImDangerous20 | 0:03:43 | 2018-03-29 | [link](https://www.twitch.tv/videos/244103093) |
 | 99 | KarlsGB | 0:03:43 | 2020-04-15 | [link](https://www.youtube.com/watch?v=QGdAFbW1CY0) |
 | 99 | joshuatalato | 0:03:43 | 2021-03-07 | [link](https://www.youtube.com/watch?v=lVtoeIsGmHA) |
 | 99 | fastatcc | 0:03:43 | 2017-10-07 | [link](https://www.twitch.tv/videos/180741051) |
-| 99 | Jix_ | 0:03:43 | 2024-05-01 | [link](https://youtu.be/LXUfaE6PjOc) |
 | 105 | SMN05 | 0:03:44 | 2023-10-02 | [link](https://youtu.be/FWL2ixRdF6Q) |
 | 105 | Katti | 0:03:44 | 2022-11-25 | [link](https://www.twitch.tv/videos/1662509409) |
 | 105 | Iambennguin | 0:03:44 | 2017-12-06 | [link](https://www.twitch.tv/videos/207225534) |
