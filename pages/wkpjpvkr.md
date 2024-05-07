@@ -58,9 +58,9 @@ categories: speedrun
 | 48 | SkylightFox | 0:03:20 | 2016-07-21 | [link](https://www.twitch.tv/skylightfox/v/79236485) |
 | 50 | jonnylegz | 0:03:21 | 2018-11-05 | [link](https://youtu.be/m73wBJD6p-o) |
 | 50 | Freezen85 | 0:03:21 | 2023-08-05 | [link](https://youtu.be/-KJzvP0ZCmQ) |
+| 52 | fishman1 | 0:03:22 | 2024-04-28 | [link](https://youtu.be/1MDxn1-UyNQ) |
 | 52 | MoonJi | 0:03:22 | 2018-10-24 | [link](https://youtu.be/oguI27N5m6c) |
 | 52 | JackJuggler | 0:03:22 | 2022-11-10 | [link](https://youtu.be/K__NH68VU-E) |
-| 52 | fishman1 | 0:03:22 | 2024-04-28 | [link](https://youtu.be/1MDxn1-UyNQ) |
 | 55 | Renakun | 0:03:23 | 2019-01-23 | [link](https://youtu.be/AZKoTuEogxs) |
 | 55 | sloblock | 0:03:23 | 2016-10-02 | [link](https://youtu.be/5uyTrSC5Mwc) |
 | 55 | Lawso42 | 0:03:23 | 2016-06-11 | [link](https://www.twitch.tv/videos/71778940) |
@@ -105,10 +105,10 @@ categories: speedrun
 | 96 | Rh4kor | 0:03:41 | 2021-09-28 | [link](https://www.youtube.com/watch?v=jmWHkwRsXdM) |
 | 97 | BusterMan | 0:03:42 | 2022-02-22 | [link](https://www.youtube.com/watch?v=7rlD3_MQxXE) |
 | 97 | SBDWolf | 0:03:42 | 2023-09-20 | [link](https://www.twitch.tv/videos/1931447200) |
-| 99 | Jix_ | 0:03:43 | 2024-05-01 | [link](https://youtu.be/LXUfaE6PjOc) |
 | 99 | sausage_walk | 0:03:43 | 2023-01-08 | [link](https://youtu.be/JmduClV5p2g) |
 | 99 | ImDangerous20 | 0:03:43 | 2018-03-29 | [link](https://www.twitch.tv/videos/244103093) |
 | 99 | KarlsGB | 0:03:43 | 2020-04-15 | [link](https://www.youtube.com/watch?v=QGdAFbW1CY0) |
+| 99 | Jix_ | 0:03:43 | 2024-05-01 | [link](https://youtu.be/LXUfaE6PjOc) |
 | 99 | joshuatalato | 0:03:43 | 2021-03-07 | [link](https://www.youtube.com/watch?v=lVtoeIsGmHA) |
 | 99 | fastatcc | 0:03:43 | 2017-10-07 | [link](https://www.twitch.tv/videos/180741051) |
 | 105 | SMN05 | 0:03:44 | 2023-10-02 | [link](https://youtu.be/FWL2ixRdF6Q) |
