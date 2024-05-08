@@ -310,9 +310,9 @@ categories: speedrun
 | 301 | Aito_usagi | 1:18:55 | 2023-03-26 | [link](https://www.youtube.com/watch?v=zVcbfxozhKI&list=PLQGSWlCsls0RE2h-dwVe0iJiZ21SKG0Q2&index=8) |
 | 302 | Niamek | 1:18:59 | 2024-04-13 | [link](https://www.twitch.tv/videos/2118668931) |
 | 303 | SUNNYblue | 1:19:00 | 2022-08-11 | [link](https://youtu.be/fqQ7HDS6-o4) |
-| 304 | JimmyNintendo | 1:19:55 | 2015-01-17 | [link](https://www.twitch.tv/videos/42003614) |
-| 305 | Gyges | 1:20:26 | 2022-10-07 | [link](https://www.youtube.com/watch?v=843JkqkBoAA) |
-| 306 | JoeyNGaming | 1:21:00 | 2023-11-17 | [link](https://www.twitch.tv/videos/2002403817) |
+| 304 | JoeyNGaming | 1:19:01 | 2024-05-05 | [link](https://www.twitch.tv/videos/2139095952) |
+| 305 | JimmyNintendo | 1:19:55 | 2015-01-17 | [link](https://www.twitch.tv/videos/42003614) |
+| 306 | Gyges | 1:20:26 | 2022-10-07 | [link](https://www.youtube.com/watch?v=843JkqkBoAA) |
 | 307 | andresfgp13 | 1:21:23 | 2021-01-11 | [link](https://youtu.be/KuV6hsa9X4Y) |
 | 308 | TheJessWho_ | 1:21:48 | 2021-11-21 | [link](https://www.twitch.tv/videos/1193610754) |
 | 309 | osumariokartman | 1:22:11 | 2017-07-01 | [link](https://www.twitch.tv/videos/155869268) |
