@@ -58,8 +58,8 @@ categories: speedrun
 | 48 | SkylightFox | 0:03:20 | 2016-07-21 | [link](https://www.twitch.tv/skylightfox/v/79236485) |
 | 50 | jonnylegz | 0:03:21 | 2018-11-05 | [link](https://youtu.be/m73wBJD6p-o) |
 | 50 | Freezen85 | 0:03:21 | 2023-08-05 | [link](https://youtu.be/-KJzvP0ZCmQ) |
-| 52 | fishman1 | 0:03:22 | 2024-04-28 | [link](https://youtu.be/1MDxn1-UyNQ) |
 | 52 | MoonJi | 0:03:22 | 2018-10-24 | [link](https://youtu.be/oguI27N5m6c) |
+| 52 | fishman1 | 0:03:22 | 2024-04-28 | [link](https://youtu.be/1MDxn1-UyNQ) |
 | 52 | JackJuggler | 0:03:22 | 2022-11-10 | [link](https://youtu.be/K__NH68VU-E) |
 | 55 | Renakun | 0:03:23 | 2019-01-23 | [link](https://youtu.be/AZKoTuEogxs) |
 | 55 | sloblock | 0:03:23 | 2016-10-02 | [link](https://youtu.be/5uyTrSC5Mwc) |
