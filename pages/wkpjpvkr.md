@@ -29,8 +29,8 @@ categories: speedrun
 | 20 | tavenwebb2002 | 0:03:09.700000 | 2017-07-15 | [link](https://youtu.be/q8pYk9VkVns) |
 | 21 | Scrimsion | 0:03:10.283000 | 2024-04-08 | [link](https://youtu.be/ZzkyMxKOve0) |
 | 22 | Sakaali | 0:03:10.516000 | 2023-07-16 | [link](https://www.twitch.tv/videos/1873603473) |
-| 23 | Ricxrdo | 0:03:11 | 2024-02-23 | [link](https://youtu.be/vgM-RtFhteQ?si=eAnPEOYkw7CIA_bb) |
-| 24 | reshia | 0:03:11.383000 | 2024-04-12 | [link](https://www.twitch.tv/videos/2117888057) |
+| 23 | reshia | 0:03:10.900000 | 2024-05-08 | [link](https://youtu.be/W6Dae_uFNdY) |
+| 24 | Ricxrdo | 0:03:11 | 2024-02-23 | [link](https://youtu.be/vgM-RtFhteQ?si=eAnPEOYkw7CIA_bb) |
 | 25 | robertalbertson240 | 0:03:12.416000 | 2022-02-06 | [link](https://youtu.be/mEwRlQDsWTk) |
 | 26 | Ricxrdo | 0:03:12.833000 | 2024-03-16 | [link](https://youtu.be/r9ft2hILwrY) |
 | 27 | Simplistic_Memes | 0:03:13.233000 | 2024-04-11 | [link](https://youtu.be/sPWg166yd_g) |
