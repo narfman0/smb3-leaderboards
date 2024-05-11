@@ -386,8 +386,8 @@ categories: speedrun
 | 376 | KALLAX | 0:13:59 | 2022-03-30 | [link](https://youtu.be/7sGWcWiNcCQ) |
 | 376 | OldSchool_Richard | 0:13:59 | 2016-10-22 | [link](https://www.twitch.tv/infestedriche/v/96510781) |
 | 376 | Chrisplayer | 0:13:59 | 2018-11-03 | [link](https://www.youtube.com/watch?v=4eYcjg5oad4) |
-| 380 | fsvgm777 | 0:14:00 | 2016-01-25 | [link](https://www.youtube.com/watch?v=keeDRb5Sj3s) |
 | 380 | Poolroom37 | 0:14:00 | 2024-05-09 | [link](https://www.bilibili.com/video/BV1gJ4m1N7ZA) |
+| 380 | fsvgm777 | 0:14:00 | 2016-01-25 | [link](https://www.youtube.com/watch?v=keeDRb5Sj3s) |
 | 382 | DufusDoggo | 0:14:01 | 2023-03-19 | [link](https://www.youtube.com/watch?v=RwIQaLhU_Ns) |
 | 382 | LateLearner | 0:14:01 | 2018-04-04 | [link](https://www.twitch.tv/videos/246539513) |
 | 384 | megmactv | 0:14:05 | 2019-02-18 | [link](https://www.youtube.com/watch?v=ulsHq71Woj8) |
