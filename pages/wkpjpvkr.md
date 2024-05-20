@@ -65,9 +65,9 @@ categories: speedrun
 | 56 | Renakun | 0:03:23 | 2019-01-23 | [link](https://youtu.be/AZKoTuEogxs) |
 | 56 | sloblock | 0:03:23 | 2016-10-02 | [link](https://youtu.be/5uyTrSC5Mwc) |
 | 56 | Lawso42 | 0:03:23 | 2016-06-11 | [link](https://www.twitch.tv/videos/71778940) |
+| 59 | Magica1l_guyr | 0:03:24 | 2024-05-18 | [link](https://youtu.be/ePBTZhn2wrE?si=2JmX2dzCBGjf0-UU) |
 | 59 | Jix_ | 0:03:24 | 2024-05-12 | [link](https://www.youtube.com/watch?v=8U215N6nUmI) |
 | 59 | Sikbit | 0:03:24 | 2018-06-02 | [link](https://www.youtube.com/watch?v=TC5AzXHNqjE) |
-| 59 | Magica1l_guyr | 0:03:24 | 2024-05-18 | [link](https://youtu.be/ePBTZhn2wrE?si=2JmX2dzCBGjf0-UU) |
 | 62 | Themasterpro1212 | 0:03:25 | 2021-06-26 | [link](https://youtu.be/67cSAuse6Rs) |
 | 62 | Boethiah | 0:03:25 | 2020-01-26 | [link](https://www.twitch.tv/videos/542022781) |
 | 62 | zekeSSB | 0:03:25 | 2023-04-23 | [link](https://www.twitch.tv/videos/1801662717?filter=highlights&sort=time) |
@@ -279,9 +279,9 @@ categories: speedrun
 | 266 | RitzMania | 0:04:01 | 2023-01-29 | [link](https://youtu.be/kSGL_cnM2KQ) |
 | 266 | Smirn | 0:04:01 | 2018-06-29 | [link](https://youtu.be/vlG3OSJ5HjM) |
 | 272 | ACB | 0:04:02 | 2018-06-21 | [link](https://youtu.be/b_OoHHsCvBk) |
-| 272 | Oxwaa | 0:04:02 | 2020-06-11 | [link](https://www.youtube.com/watch?v=5QSxx5v5KNs) |
 | 272 | DrNexo | 0:04:02 | 2020-07-25 | [link](https://www.youtube.com/watch?v=MqtTqT1rSXw) |
 | 272 | MagicK | 0:04:02 | 2020-05-14 | [link](https://www.youtube.com/watch?v=0LIBMy9gJ3E) |
+| 272 | Oxwaa | 0:04:02 | 2020-06-11 | [link](https://www.youtube.com/watch?v=5QSxx5v5KNs) |
 | 272 | MajorGamer | 0:04:02 | 2021-08-17 | [link](https://www.youtube.com/watch?v=EOQewZfCibg) |
 | 272 | Honkalaaa | 0:04:02 | 2022-09-02 | [link](https://youtu.be/Sl7b8QUVuFA) |
 | 272 | Jurgen322 | 0:04:02 | 2023-04-16 | [link](https://youtu.be/iJ1NFVT427Q) |
