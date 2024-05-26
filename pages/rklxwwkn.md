@@ -62,8 +62,8 @@ categories: speedrun
 | 51 | brocis420 | 0:52:32 | 2022-12-28 | [link](https://www.twitch.tv/videos/1691525340) |
 | 54 | Jokubotti | 0:52:34 | 2024-02-05 | [link](https://www.youtube.com/watch?v=hsBRr3BqZQI) |
 | 54 | uropsalis | 0:52:34 | 2024-02-14 | [link](https://www.twitch.tv/videos/2063225367) |
-| 56 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 56 | assemble_me | 0:52:44 | 2024-05-24 | [link](https://youtu.be/ZhoiD9TisNU?si=h_w4D9VBFDD24CxX&t=18) |
+| 56 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 58 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
 | 59 | duckfist | 0:52:47 | 2021-09-04 | [link](https://www.twitch.tv/videos/1139437792?collection=pgQmVpxPpBao_Q) |
 | 59 | TheLostLlama | 0:52:47 | 2016-02-03 | [link](http://www.twitch.tv/thelostllama/v/40275470) |
