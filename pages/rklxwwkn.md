@@ -89,11 +89,11 @@ categories: speedrun
 | 80 | zekeSSB | 0:53:48 | 2024-05-24 | [link](https://www.twitch.tv/videos/2153697846) |
 | 81 | TheClassicOne88 | 0:53:50 | 2020-07-26 | [link](https://www.twitch.tv/videos/691257713) |
 | 82 | Rh4kor | 0:53:52 | 2022-12-26 | [link](https://www.twitch.tv/videos/1689533270) |
-| 83 | Tompa | 0:53:58 | 2022-06-02 | [link](https://www.twitch.tv/videos/1503754373) |
-| 83 | TheLightYagami | 0:53:58 | 2015-09-08 | [link](http://www.twitch.tv/thelightyagami/v/15146872) |
-| 85 | esmo88 | 0:53:59 | 2020-02-01 | [link](https://www.twitch.tv/videos/545533125) |
-| 86 | Chelney | 0:54:01 | 2016-02-28 | [link](http://www.twitch.tv/chelney1/v/51413068) |
-| 87 | Cookiewise | 0:54:03 | 2024-05-18 | [link](https://www.twitch.tv/videos/2149332976?&ab_channel=cookiewise_22) |
+| 83 | Cookiewise | 0:53:54 | 2024-06-06 | [link](https://www.twitch.tv/videos/2165860236?&ab_channel=cookiewise_22) |
+| 84 | Tompa | 0:53:58 | 2022-06-02 | [link](https://www.twitch.tv/videos/1503754373) |
+| 84 | TheLightYagami | 0:53:58 | 2015-09-08 | [link](http://www.twitch.tv/thelightyagami/v/15146872) |
+| 86 | esmo88 | 0:53:59 | 2020-02-01 | [link](https://www.twitch.tv/videos/545533125) |
+| 87 | Chelney | 0:54:01 | 2016-02-28 | [link](http://www.twitch.tv/chelney1/v/51413068) |
 | 88 | Madu | 0:54:09 | 2023-03-12 | [link](https://www.twitch.tv/videos/1763626685) |
 | 89 | zyzex_remix | 0:54:10 | 2020-05-22 | [link](https://www.twitch.tv/videos/629130264) |
 | 90 | Hasauce | 0:54:11 | 2024-05-19 | [link](https://www.twitch.tv/videos/2149397167) |
