@@ -141,12 +141,12 @@ categories: speedrun
 | 132 | HUmanMustard | 0:11:27 | 2020-05-29 | [link](https://www.twitch.tv/videos/635121671) |
 | 132 | yesthatjoshua | 0:11:27 | 2024-04-18 | [link](https://youtu.be/51VlDN0QUC0) |
 | 134 | neoshazam | 0:11:28 | 2023-04-20 | [link](https://www.bitchute.com/video/TJ7jG5N3Qr26/) |
+| 135 | Okashi | 0:11:30 | 2024-06-07 | [link](https://youtu.be/2wTWOQG5gjM) |
 | 135 | Ribb95 | 0:11:30 | 2018-12-15 | [link](https://www.youtube.com/watch?v=BqrPLbZ5OKE) |
 | 135 | Danieltatis | 0:11:30 | 2019-10-01 | [link](https://www.twitch.tv/videos/489097474) |
 | 135 | robbyk | 0:11:30 | 2022-10-19 | [link](https://www.youtube.com/watch?v=grTpl-mstZ4) |
 | 135 | Sowny25 | 0:11:30 | 2020-11-18 | [link](https://www.youtube.com/watch?v=XWbu-ihgu94) |
 | 135 | Suey7 | 0:11:30 | 2017-08-15 | [link](https://www.twitch.tv/videos/167161630) |
-| 135 | Okashi | 0:11:30 | 2024-06-07 | [link](https://youtu.be/2wTWOQG5gjM) |
 | 141 | Macobra52 | 0:11:31 | 2019-06-02 | [link](https://www.twitch.tv/videos/433666319) |
 | 141 | JoeTheBrooo | 0:11:31 | 2023-07-09 | [link](https://youtu.be/fma_UMoIfYY) |
 | 141 | amorujao | 0:11:31 | 2019-06-04 | [link](https://www.youtube.com/watch?v=tid0Rnae8Rk) |
@@ -427,8 +427,8 @@ categories: speedrun
 | 418 | ScarletIbis | 0:14:23 | 2023-05-14 | [link](https://youtu.be/7no5wxwO8dg) |
 | 418 | TheSkeeterBronson | 0:14:23 | 2020-10-12 | [link](https://youtu.be/JZJ_d3XYG7s) |
 | 420 | Wurfowitz | 0:14:29 | 2023-07-23 | [link](https://youtu.be/_YknJ8ZMavc) |
-| 421 | AlkHacNar | 0:14:30 | 2024-06-03 | [link](https://www.twitch.tv/videos/2162861950) |
 | 421 | Mr_Self_DestrucTT | 0:14:30 | 2022-05-12 | [link](https://www.twitch.tv/videos/1482531494) |
+| 421 | AlkHacNar | 0:14:30 | 2024-06-03 | [link](https://www.twitch.tv/videos/2162861950) |
 | 423 | BoomBeatle3 | 0:14:32 | 2022-01-21 | [link](https://youtu.be/j33x3zoVOtQ) |
 | 424 | FoxyLove | 0:14:33 | 2020-11-13 | [link](https://www.youtube.com/watch?v=aYshXHstltU) |
 | 425 | Clackiam | 0:14:35 | 2018-07-04 | [link](https://youtu.be/g2Zo7oWUmBE) |
