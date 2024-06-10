@@ -12,10 +12,10 @@ categories: speedrun
 | 3 | Kuto1k | 0:50:23 | 2023-12-19 | [link](https://www.twitch.tv/videos/2008303442) |
 | 4 | Sakaali | 0:50:40 | 2024-02-19 | [link](https://www.twitch.tv/videos/2067684382) |
 | 5 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
-| 6 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
-| 7 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
-| 7 | TEEX88 | 0:50:53 | 2022-09-10 | [link](https://www.twitch.tv/videos/1587591151) |
-| 9 | Czikubi | 0:50:54 | 2020-07-22 | [link](https://www.twitch.tv/videos/687275724) |
+| 6 | Czikubi | 0:50:48 | 2024-06-09 | [link](https://www.twitch.tv/videos/2167235724) |
+| 7 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
+| 8 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
+| 8 | TEEX88 | 0:50:53 | 2022-09-10 | [link](https://www.twitch.tv/videos/1587591151) |
 | 10 | maibaRTA | 0:50:56 | 2022-05-22 | [link](https://www.twitch.tv/videos/1490705034) |
 | 11 | Kirua | 0:50:57.533000 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
 | 12 | yatokami9 | 0:51:02 | 2023-03-19 | [link](https://youtu.be/JaGJD_FEIDc) |
