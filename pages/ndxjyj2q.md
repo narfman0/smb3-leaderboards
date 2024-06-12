@@ -33,8 +33,8 @@ categories: speedrun
 | 23 | Ellonija | 0:10:52 | 2017-05-08 | [link](https://www.twitch.tv/videos/141022605) |
 | 25 | IluvMario | 0:10:52.516000 | 2020-05-27 | [link](https://www.twitch.tv/videos/633891121) |
 | 26 | AdamFerrari64 | 0:10:52.800000 | 2022-02-17 | [link](https://www.twitch.tv/videos/1304843370) |
-| 27 | Furopen | 0:10:53 | 2022-02-05 | [link](https://youtu.be/eQlsPi26-jI) |
 | 27 | AbellaBrothers1 | 0:10:53 | 2024-06-10 | [link](https://youtu.be/2rYOmBD0wjM) |
+| 27 | Furopen | 0:10:53 | 2022-02-05 | [link](https://youtu.be/eQlsPi26-jI) |
 | 29 | narfman0 | 0:10:54 | 2021-08-09 | [link](https://www.twitch.tv/videos/1113720866) |
 | 29 | JeremyMKW | 0:10:54 | 2021-06-07 | [link](https://youtu.be/nT_CN-C2X6s) |
 | 29 | Mars02 | 0:10:54 | 2021-02-25 | [link](https://www.youtube.com/watch?v=w3pPyL8tfMQ) |
@@ -141,10 +141,10 @@ categories: speedrun
 | 132 | HUmanMustard | 0:11:27 | 2020-05-29 | [link](https://www.twitch.tv/videos/635121671) |
 | 132 | yesthatjoshua | 0:11:27 | 2024-04-18 | [link](https://youtu.be/51VlDN0QUC0) |
 | 134 | neoshazam | 0:11:28 | 2023-04-20 | [link](https://www.bitchute.com/video/TJ7jG5N3Qr26/) |
-| 135 | Okashi | 0:11:30 | 2024-06-07 | [link](https://youtu.be/2wTWOQG5gjM) |
 | 135 | Ribb95 | 0:11:30 | 2018-12-15 | [link](https://www.youtube.com/watch?v=BqrPLbZ5OKE) |
 | 135 | Danieltatis | 0:11:30 | 2019-10-01 | [link](https://www.twitch.tv/videos/489097474) |
 | 135 | robbyk | 0:11:30 | 2022-10-19 | [link](https://www.youtube.com/watch?v=grTpl-mstZ4) |
+| 135 | Okashi | 0:11:30 | 2024-06-07 | [link](https://youtu.be/2wTWOQG5gjM) |
 | 135 | Sowny25 | 0:11:30 | 2020-11-18 | [link](https://www.youtube.com/watch?v=XWbu-ihgu94) |
 | 135 | Suey7 | 0:11:30 | 2017-08-15 | [link](https://www.twitch.tv/videos/167161630) |
 | 141 | Macobra52 | 0:11:31 | 2019-06-02 | [link](https://www.twitch.tv/videos/433666319) |
