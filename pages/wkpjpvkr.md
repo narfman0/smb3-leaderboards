@@ -479,8 +479,8 @@ categories: speedrun
 | 469 | Seriouslysam25 | 0:04:36 | 2022-03-11 | [link](https://www.youtube.com/watch?v=lR1XcnLQobA&ab_channel=ShinyGiveaways) |
 | 469 | The_TK | 0:04:36 | 2018-03-26 | [link](https://www.youtube.com/watch?v=-BGlf-784l4) |
 | 472 | LamppuOsmo | 0:04:37 | 2024-05-07 | [link](https://youtu.be/iXqfzQ1yLIc) |
-| 473 | speedruntutor | 0:04:38 | 2024-06-06 | [link](https://www.youtube.com/watch?v=SsGeptq1tRA) |
 | 473 | Lao | 0:04:38 | 2018-03-01 | [link](https://www.youtube.com/watch?v=6p9FOkAU4AM) |
+| 473 | speedruntutor | 0:04:38 | 2024-06-06 | [link](https://www.youtube.com/watch?v=SsGeptq1tRA) |
 | 473 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
 | 473 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
 | 477 | ToshiyukiDoma | 0:04:39 | 2024-02-22 | [link](https://youtu.be/vKAJjEdmcx4) |
