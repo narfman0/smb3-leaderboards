@@ -74,11 +74,11 @@ categories: speedrun
 | 65 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
 | 66 | KobrahCJ | 0:53:15 | 2024-04-17 | [link](https://www.twitch.tv/videos/2122814733) |
 | 67 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
-| 68 | raymondamantius | 0:53:22 | 2024-02-06 | [link](https://www.youtube.com/watch?v=Cm4F4h1fc9E) |
-| 69 | GlitchyPa | 0:53:23 | 2023-09-17 | [link](https://www.twitch.tv/videos/1927957941) |
-| 70 | nopons | 0:53:24 | 2023-01-17 | [link](https://www.youtube.com/watch?v=Ho_cyLcKatU) |
-| 71 | roopert83 | 0:53:25 | 2022-02-12 | [link](https://www.youtube.com/watch?v=Hep_3nc0Xhc) |
-| 72 | Finnish2005 | 0:53:26 | 2024-05-31 | [link](https://youtu.be/kHa8Q3QFYMk?si=Foo9KRZXswfHZzjg) |
+| 68 | Finnish2005 | 0:53:20 | 2024-06-23 | [link](https://youtu.be/dkNfa02O0Qo?si=YqJf-HuDao8BhboN) |
+| 69 | raymondamantius | 0:53:22 | 2024-02-06 | [link](https://www.youtube.com/watch?v=Cm4F4h1fc9E) |
+| 70 | GlitchyPa | 0:53:23 | 2023-09-17 | [link](https://www.twitch.tv/videos/1927957941) |
+| 71 | nopons | 0:53:24 | 2023-01-17 | [link](https://www.youtube.com/watch?v=Ho_cyLcKatU) |
+| 72 | roopert83 | 0:53:25 | 2022-02-12 | [link](https://www.youtube.com/watch?v=Hep_3nc0Xhc) |
 | 73 | Baddap1 | 0:53:30 | 2019-03-25 | [link](https://youtu.be/Yh2kdoX0e1g) |
 | 73 | reshia | 0:53:30 | 2024-01-31 | [link](https://www.twitch.tv/videos/2049400961) |
 | 75 | ryukahr | 0:53:32 | 2023-05-02 | [link](https://www.youtube.com/watch?v=ym-QXiCqicE) |
