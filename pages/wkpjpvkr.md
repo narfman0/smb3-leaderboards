@@ -178,6 +178,7 @@ categories: speedrun
 | 161 | FURiOUS | 0:03:52 | 2015-06-19 | [link](https://www.youtube.com/watch?v=qnC1fzT7oXM) |
 | 161 | zaqwa | 0:03:52 | 2017-09-07 | [link](https://www.youtube.com/watch?v=CrhfO2MdsfY) |
 | 161 | akr_sm64 | 0:03:52 | 2023-09-29 | [link](https://youtu.be/fS_mhGRRXXU) |
+| 172 | TomasPlaysGames | 0:03:53 | 2024-07-09 | [link](https://youtu.be/V9xORDn4x48) |
 | 172 | icterus440 | 0:03:53 | 2018-03-28 | [link](https://www.youtube.com/watch?v=N3SFFZvh6_A&feature=youtu.be) |
 | 172 | Ribb95 | 0:03:53 | 2018-10-27 | [link](https://www.youtube.com/watch?v=Rml4m5X437Y&t=2s) |
 | 172 | Aydles | 0:03:53 | 2018-06-13 | [link](https://youtu.be/1qpvwqmvhkg) |
@@ -188,7 +189,6 @@ categories: speedrun
 | 172 | Beerfullofbelly | 0:03:53 | 2018-06-01 | [link](https://www.twitch.tv/videos/267957481) |
 | 172 | kei | 0:03:53 | 2018-03-25 | [link](https://www.youtube.com/watch?v=lc9gjWkGu98) |
 | 172 | Nowey | 0:03:53 | 2018-03-07 | [link](https://www.youtube.com/watch?v=wIAWr3da_wM) |
-| 172 | TomasPlaysGames | 0:03:53 | 2024-07-09 | [link](https://youtu.be/V9xORDn4x48) |
 | 183 | ArcadeRiot91 | 0:03:54 | 2023-05-08 | [link](https://youtu.be/m1sm-8HDbtE) |
 | 183 | Mr.JacoPbass | 0:03:54 | 2018-05-22 | [link](https://www.youtube.com/watch?v=-58ezFfKTx4) |
 | 183 | Volpey | 0:03:54 | 2019-09-27 | [link](https://www.youtube.com/watch?v=z_j7-TOOYME) |
