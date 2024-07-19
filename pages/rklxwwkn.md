@@ -74,8 +74,8 @@ categories: speedrun
 | 65 | Aweglib | 0:53:10 | 2017-06-09 | [link](https://www.twitch.tv/videos/150756657) |
 | 66 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
 | 67 | KobrahCJ | 0:53:15 | 2024-04-17 | [link](https://www.twitch.tv/videos/2122814733) |
-| 68 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
 | 68 | Cookiewise | 0:53:18 | 2024-07-16 | [link](https://www.twitch.tv/videos/2199850871?&ab_channel=cookiewise_22) |
+| 68 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
 | 70 | Finnish2005 | 0:53:20 | 2024-06-23 | [link](https://youtu.be/dkNfa02O0Qo?si=YqJf-HuDao8BhboN) |
 | 71 | raymondamantius | 0:53:22 | 2024-02-06 | [link](https://www.youtube.com/watch?v=Cm4F4h1fc9E) |
 | 72 | GlitchyPa | 0:53:23 | 2023-09-17 | [link](https://www.twitch.tv/videos/1927957941) |
