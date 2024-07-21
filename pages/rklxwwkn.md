@@ -91,9 +91,9 @@ categories: speedrun
 | 82 | zekeSSB | 0:53:48 | 2024-05-24 | [link](https://www.twitch.tv/videos/2153697846) |
 | 83 | TheClassicOne88 | 0:53:50 | 2020-07-26 | [link](https://www.twitch.tv/videos/691257713) |
 | 84 | Rh4kor | 0:53:52 | 2022-12-26 | [link](https://www.twitch.tv/videos/1689533270) |
+| 85 | Kettu82 | 0:53:58 | 2024-07-19 | [link](https://www.youtube.com/watch?v=DtdivymLhqQ) |
 | 85 | Tompa | 0:53:58 | 2022-06-02 | [link](https://www.twitch.tv/videos/1503754373) |
 | 85 | TheLightYagami | 0:53:58 | 2015-09-08 | [link](http://www.twitch.tv/thelightyagami/v/15146872) |
-| 85 | Kettu82 | 0:53:58 | 2024-07-19 | [link](https://www.youtube.com/watch?v=DtdivymLhqQ) |
 | 88 | esmo88 | 0:53:59 | 2020-02-01 | [link](https://www.twitch.tv/videos/545533125) |
 | 89 | Chelney | 0:54:01 | 2016-02-28 | [link](http://www.twitch.tv/chelney1/v/51413068) |
 | 90 | Madu | 0:54:09 | 2023-03-12 | [link](https://www.twitch.tv/videos/1763626685) |
