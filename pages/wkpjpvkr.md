@@ -12,11 +12,11 @@ categories: speedrun
 | 3 | narfman0 | 0:03:03.233000 | 2024-05-22 | [link](https://youtu.be/bta-tIhopAk) |
 | 4 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
 | 5 | TheCrit | 0:03:04.533000 | 2022-10-10 | [link](https://www.youtube.com/watch?v=ZKA3qjd9r1Q) |
-| 6 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
-| 7 | scalpel | 0:03:07.050000 | 2024-06-26 | [link](https://www.youtube.com/watch?v=cAgPpP-nJwU) |
-| 8 | Falkite | 0:03:07.200000 | 2022-11-10 | [link](https://www.twitch.tv/videos/1648843666) |
-| 9 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
-| 10 | KingOf_JonnyBoy | 0:03:07.550000 | 2024-07-17 | [link](https://www.youtube.com/watch?v=40HS8hMvihY) |
+| 6 | KingOf_JonnyBoy | 0:03:05.183000 | 2024-07-22 | [link](https://www.youtube.com/watch?v=P8972zzHcsA) |
+| 7 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
+| 8 | scalpel | 0:03:07.050000 | 2024-06-26 | [link](https://www.youtube.com/watch?v=cAgPpP-nJwU) |
+| 9 | Falkite | 0:03:07.200000 | 2022-11-10 | [link](https://www.twitch.tv/videos/1648843666) |
+| 10 | Tree_05 | 0:03:07.433000 | 2021-07-25 | [link](https://youtu.be/TgPsvUw0XSg) |
 | 11 | Mondii | 0:03:07.583000 | 2024-02-28 | [link](https://www.twitch.tv/videos/2076278375) |
 | 12 | Joshua69yt | 0:03:07.700000 | 2021-09-22 | [link](https://youtu.be/ODjBF6S5eXI) |
 | 13 | iceball8314 | 0:03:07.766000 | 2022-07-08 | [link](https://www.youtube.com/watch?v=pWIPoyKOmSc) |
