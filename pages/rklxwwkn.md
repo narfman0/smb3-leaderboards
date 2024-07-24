@@ -164,8 +164,8 @@ categories: speedrun
 | 154 | Kofca | 0:56:54 | 2017-07-12 | [link](https://www.twitch.tv/videos/158446470) |
 | 156 | Glitchman24 | 0:56:56 | 2023-07-06 | [link](https://www.youtube.com/watch?v=LVxSmpvw8Uk) |
 | 157 | spsmartguy | 0:56:58 | 2024-06-03 | [link](https://www.youtube.com/watch?v=dS-XC4v06Cs) |
-| 158 | TheBeastMonster_ | 0:57:07 | 2021-03-24 | [link](https://youtu.be/CgoI6vS84ok) |
 | 158 | Papatate7 | 0:57:07 | 2024-07-22 | [link](https://www.twitch.tv/videos/2204537868) |
+| 158 | TheBeastMonster_ | 0:57:07 | 2021-03-24 | [link](https://youtu.be/CgoI6vS84ok) |
 | 160 | AnimusUnited | 0:57:08 | 2021-04-17 | [link](https://www.twitch.tv/videos/991323385) |
 | 161 | Mr.JacoPbass | 0:57:18 | 2018-11-28 | [link](https://www.twitch.tv/videos/341875055) |
 | 162 | Oopla | 0:57:26 | 2023-07-26 | [link](https://www.twitch.tv/videos/1885596651) |

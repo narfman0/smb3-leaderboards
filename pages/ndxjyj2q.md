@@ -44,10 +44,10 @@ categories: speedrun
 | 34 | TheHaxor | 0:10:55 | 2019-03-04 | [link](https://www.twitch.tv/videos/390625028) |
 | 34 | reshia | 0:10:55 | 2023-08-23 | [link](https://youtu.be/rKxjXjc0Ooo) |
 | 34 | Svenne | 0:10:55 | 2016-05-31 | [link](https://www.twitch.tv/retrogaminglivetv/v/69764511) |
-| 38 | Alvaca | 0:10:56 | 2024-07-20 | [link](https://youtu.be/AerR6UI7-x4) |
 | 38 | brocis420 | 0:10:56 | 2021-06-06 | [link](https://youtu.be/sS8p_H9acWw) |
 | 38 | McBobX | 0:10:56 | 2024-04-21 | [link](https://www.twitch.tv/videos/2125873631) |
 | 38 | MW_65536 | 0:10:56 | 2024-02-16 | [link](https://www.twitch.tv/videos/2064066239) |
+| 38 | Alvaca | 0:10:56 | 2024-07-20 | [link](https://youtu.be/AerR6UI7-x4) |
 | 38 | Hasauce | 0:10:56 | 2023-07-13 | [link](https://youtu.be/sQaXttw3y38) |
 | 38 | smythe | 0:10:56 | 2024-01-03 | [link](https://youtu.be/V-EgXSiiidg?si=3FW8e8yDHYISWfbM) |
 | 38 | yatokami9 | 0:10:56 | 2021-07-05 | [link](https://www.twitch.tv/videos/1077654280) |
@@ -157,8 +157,8 @@ categories: speedrun
 | 148 | ShadowPanda | 0:11:35 | 2016-11-19 | [link](https://www.twitch.tv/shadowpanda__/v/102042340) |
 | 149 | Ahmed | 0:11:36 | 2021-10-29 | [link](https://www.youtube.com/watch?v=PsO5LxxwfvM) |
 | 149 | yeabruh | 0:11:36 | 2024-01-27 | [link](https://www.twitch.tv/videos/2052513486) |
-| 151 | SuperPlayer | 0:11:37 | 2022-01-25 | [link](https://youtu.be/7yqLNRqyKuE) |
 | 151 | Papatate7 | 0:11:37 | 2024-07-22 | [link](https://www.twitch.tv/videos/2204131031) |
+| 151 | SuperPlayer | 0:11:37 | 2022-01-25 | [link](https://youtu.be/7yqLNRqyKuE) |
 | 153 | moistgoolash | 0:11:38 | 2018-04-06 | [link](https://www.twitch.tv/videos/247094705) |
 | 153 | rockdet | 0:11:38 | 2017-01-22 | [link](https://www.twitch.tv/rockdet/v/116708806) |
 | 155 | TheRudyyy | 0:11:39 | 2024-07-18 | [link](https://youtu.be/PB-Ww_0i2xs) |
