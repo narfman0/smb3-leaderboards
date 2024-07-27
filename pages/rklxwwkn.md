@@ -32,9 +32,9 @@ categories: speedrun
 | 22 | budzyRNG | 0:51:26 | 2023-12-19 | [link](https://www.youtube.com/watch?v=Bnviz9aoKgM) |
 | 24 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
 | 25 | stewie_cartman | 0:51:33 | 2023-04-30 | [link](https://www.twitch.tv/videos/1808333455) |
-| 26 | TrueHyperMario | 0:51:35 | 2023-07-22 | [link](https://www.twitch.tv/videos/1878931053) |
-| 27 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
-| 28 | neoshazam | 0:51:39 | 2024-02-19 | [link](https://www.bitchute.com/video/9YJkMxhls8Yq/) |
+| 26 | neoshazam | 0:51:34 | 2024-07-23 | [link](https://old.bitchute.com/video/qYNZYrbSWMVO/) |
+| 27 | TrueHyperMario | 0:51:35 | 2023-07-22 | [link](https://www.twitch.tv/videos/1878931053) |
+| 28 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
 | 29 | SpicyChickenSpiciBoi | 0:51:46 | 2024-01-26 | [link](https://youtu.be/m04CEaE3KbM) |
 | 30 | GungeonLover | 0:51:47 | 2023-07-21 | [link](https://www.twitch.tv/videos/1877692681) |
 | 31 | Mars02 | 0:51:51 | 2022-08-06 | [link](https://www.youtube.com/watch?v=jHfnOtf6HlA) |
