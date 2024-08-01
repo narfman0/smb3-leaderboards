@@ -30,9 +30,9 @@ categories: speedrun
 | 21 | Mondii | 0:51:23 | 2023-04-02 | [link](https://www.twitch.tv/videos/1782912675) |
 | 22 | Scarface | 0:51:26 | 2022-04-04 | [link](https://youtu.be/rxJoeyjzlDA) |
 | 22 | budzyRNG | 0:51:26 | 2023-12-19 | [link](https://www.youtube.com/watch?v=Bnviz9aoKgM) |
+| 24 | neoshazam | 0:51:27 | 2024-07-30 | [link](https://www.bitchute.com/video/rePDGrc5FI0t) |
 | 24 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
-| 25 | stewie_cartman | 0:51:33 | 2023-04-30 | [link](https://www.twitch.tv/videos/1808333455) |
-| 26 | neoshazam | 0:51:34 | 2024-07-23 | [link](https://old.bitchute.com/video/qYNZYrbSWMVO/) |
+| 26 | stewie_cartman | 0:51:33 | 2023-04-30 | [link](https://www.twitch.tv/videos/1808333455) |
 | 27 | TrueHyperMario | 0:51:35 | 2023-07-22 | [link](https://www.twitch.tv/videos/1878931053) |
 | 28 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
 | 29 | SpicyChickenSpiciBoi | 0:51:46 | 2024-01-26 | [link](https://youtu.be/m04CEaE3KbM) |
