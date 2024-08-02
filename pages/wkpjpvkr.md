@@ -488,10 +488,10 @@ categories: speedrun
 | 478 | speedruntutor | 0:04:38 | 2024-06-06 | [link](https://www.youtube.com/watch?v=SsGeptq1tRA) |
 | 478 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
 | 478 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
-| 482 | Andres_ | 0:04:39 | 2024-07-27 | [link](https://youtu.be/YKLkwFft16w?si=0mq9XHn6fhy79Rou) |
 | 482 | ToshiyukiDoma | 0:04:39 | 2024-02-22 | [link](https://youtu.be/vKAJjEdmcx4) |
 | 482 | owilderman | 0:04:39 | 2020-03-29 | [link](https://youtu.be/S2-w2HdiWoc) |
 | 482 | BoBoTheMonkey | 0:04:39 | 2022-06-22 | [link](https://www.youtube.com/watch?v=YfX9WUBTNZU) |
+| 482 | Andres_ | 0:04:39 | 2024-07-27 | [link](https://youtu.be/YKLkwFft16w?si=0mq9XHn6fhy79Rou) |
 | 482 | hazelnym | 0:04:39 | 2018-04-14 | [link](https://www.youtube.com/watch?v=OsM3ZqS8ARs) |
 | 487 | misterweber | 0:04:40 | 2021-02-26 | [link](https://youtu.be/pRswFXxiEak) |
 | 487 | JoakoLab | 0:04:40 | 2019-01-29 | [link](https://youtu.be/3vS8tMXhj8U) |
