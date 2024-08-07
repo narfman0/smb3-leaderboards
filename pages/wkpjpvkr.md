@@ -317,11 +317,11 @@ categories: speedrun
 | 305 | Mustinclude3to25 | 0:04:05 | 2021-04-28 | [link](https://youtu.be/wsZJRzy9q98) |
 | 305 | windcask | 0:04:05 | 2017-03-23 | [link](https://www.twitch.tv/videos/130565889) |
 | 310 | thu_ox | 0:04:06 | 2019-03-27 | [link](https://youtu.be/RL4faOGu8OI) |
-| 310 | Andres_ | 0:04:06 | 2024-08-02 | [link](https://www.twitch.tv/videos/2214199427) |
 | 310 | seven_ | 0:04:06 | 2020-09-19 | [link](https://youtu.be/gBdDqrGsQjA) |
 | 310 | MarioOO | 0:04:06 | 2023-07-16 | [link](https://youtu.be/c7qIXyEFWX4) |
 | 310 | link_7777 | 0:04:06 | 2018-03-11 | [link](https://www.twitch.tv/videos/240009004) |
 | 310 | Mizumaririn | 0:04:06 | 2021-03-17 | [link](https://www.youtube.com/watch?v=p4qWuNsrv6Q) |
+| 310 | Andres_ | 0:04:06 | 2024-08-02 | [link](https://www.twitch.tv/videos/2214199427) |
 | 310 | ShadowPanda | 0:04:06 | 2016-11-04 | [link](https://www.twitch.tv/shadowpanda__/v/99024030) |
 | 310 | DylanClarkWebb | 0:04:06 | 2018-02-15 | [link](https://youtu.be/WhjzZ0OnnF4) |
 | 310 | Unstea | 0:04:06 | 2016-11-27 | [link](https://www.youtube.com/watch?v=_i-YBdoeuJQ&feature=youtu.be) |
