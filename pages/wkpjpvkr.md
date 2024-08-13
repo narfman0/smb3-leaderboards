@@ -302,8 +302,8 @@ categories: speedrun
 | 286 | Sariiger | 0:04:03 | 2018-09-06 | [link](https://www.youtube.com/watch?v=rAPoFOouJA8) |
 | 286 | BriGuy13 | 0:04:03 | 2018-02-14 | [link](https://youtu.be/PTfYAIAS0FQ) |
 | 295 | CoconutsX | 0:04:04 | 2017-05-17 | [link](https://www.youtube.com/watch?v=j3XZgsyORe4) |
-| 295 | Lomiig | 0:04:04 | 2017-11-12 | [link](https://youtu.be/z9QRlSaOIGc) |
 | 295 | RoyLT | 0:04:04 | 2017-07-07 | [link](https://www.twitch.tv/videos/157376963) |
+| 295 | Lomiig | 0:04:04 | 2017-11-12 | [link](https://youtu.be/z9QRlSaOIGc) |
 | 295 | Snowpie | 0:04:04 | 2021-01-17 | [link](https://www.twitch.tv/videos/877708357) |
 | 295 | spsxis | 0:04:04 | 2021-02-22 | [link](https://www.twitch.tv/videos/924856840) |
 | 295 | nerphblaster27 | 0:04:04 | 2021-11-20 | [link](https://youtu.be/-qx7SQV05HI) |
@@ -487,8 +487,8 @@ categories: speedrun
 | 478 | LamppuOsmo | 0:04:37 | 2024-05-07 | [link](https://youtu.be/iXqfzQ1yLIc) |
 | 478 | sendokiller10 | 0:04:37 | 2024-07-29 | [link](https://youtu.be/yUX_T65nP6s?si=Js3p0GJDbNd767cG) |
 | 480 | Lao | 0:04:38 | 2018-03-01 | [link](https://www.youtube.com/watch?v=6p9FOkAU4AM) |
-| 480 | speedruntutor | 0:04:38 | 2024-06-06 | [link](https://www.youtube.com/watch?v=SsGeptq1tRA) |
 | 480 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
+| 480 | speedruntutor | 0:04:38 | 2024-06-06 | [link](https://www.youtube.com/watch?v=SsGeptq1tRA) |
 | 480 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
 | 484 | ToshiyukiDoma | 0:04:39 | 2024-02-22 | [link](https://youtu.be/vKAJjEdmcx4) |
 | 484 | owilderman | 0:04:39 | 2020-03-29 | [link](https://youtu.be/S2-w2HdiWoc) |
