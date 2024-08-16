@@ -191,9 +191,9 @@ categories: speedrun
 | 172 | kei | 0:03:53 | 2018-03-25 | [link](https://www.youtube.com/watch?v=lc9gjWkGu98) |
 | 172 | Nowey | 0:03:53 | 2018-03-07 | [link](https://www.youtube.com/watch?v=wIAWr3da_wM) |
 | 184 | ArcadeRiot91 | 0:03:54 | 2023-05-08 | [link](https://youtu.be/m1sm-8HDbtE) |
-| 184 | Andres_ | 0:03:54 | 2024-08-11 | [link](https://youtu.be/oDKvfmE3714) |
 | 184 | Mr.JacoPbass | 0:03:54 | 2018-05-22 | [link](https://www.youtube.com/watch?v=-58ezFfKTx4) |
 | 184 | Volpey | 0:03:54 | 2019-09-27 | [link](https://www.youtube.com/watch?v=z_j7-TOOYME) |
+| 184 | Andres_ | 0:03:54 | 2024-08-11 | [link](https://youtu.be/oDKvfmE3714) |
 | 184 | alpha_ray_burst | 0:03:54 | 2020-12-17 | [link](https://www.twitch.tv/videos/840496035) |
 | 184 | Snarff | 0:03:54 | 2023-10-05 | [link](https://youtu.be/3RVMp41NtUA) |
 | 184 | dk | 0:03:54 | 2016-01-15 | [link](https://www.youtube.com/watch?v=jBT9zwOY11E) |
