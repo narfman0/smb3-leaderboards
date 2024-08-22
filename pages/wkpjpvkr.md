@@ -150,8 +150,8 @@ categories: speedrun
 | 137 | JeimarZeth | 0:03:49 | 2017-07-01 | [link](https://www.twitch.tv/videos/155754621) |
 | 137 | THE_T_V1RUS | 0:03:49 | 2016-10-31 | [link](https://www.youtube.com/watch?v=tvhB-OiUha4&feature=youtu.be) |
 | 143 | MR_DUCT | 0:03:50 | 2020-08-03 | [link](https://www.twitch.tv/videos/699210576) |
-| 143 | Happyzombie33 | 0:03:50 | 2024-08-12 | [link](https://www.bilibili.com/video/BV1TAYfeQE7W?t=281.0) |
 | 143 | Glitchman24 | 0:03:50 | 2020-08-01 | [link](https://www.youtube.com/watch?v=lb7MSUNYe50) |
+| 143 | Happyzombie33 | 0:03:50 | 2024-08-12 | [link](https://www.bilibili.com/video/BV1TAYfeQE7W?t=281.0) |
 | 143 | LiamTrader | 0:03:50 | 2023-03-23 | [link](https://youtu.be/XiAwFIfPgfM) |
 | 143 | SoloQ | 0:03:50 | 2017-08-06 | [link](https://www.twitch.tv/videos/168265388) |
 | 143 | Merlo | 0:03:50 | 2019-04-15 | [link](https://www.youtube.com/watch?v=u-SdyArTMP8&feature=youtu.be) |
@@ -214,6 +214,7 @@ categories: speedrun
 | 196 | xenkaroshi | 0:03:55 | 2019-02-27 | [link](https://www.youtube.com/watch?v=QM714I2II9Y) |
 | 196 | Warpx3 | 0:03:55 | 2017-05-12 | [link](https://www.twitch.tv/videos/143384195) |
 | 207 | Vireth | 0:03:56 | 2020-06-07 | [link](https://youtu.be/YweVOyYi3FQ) |
+| 207 | Vertor | 0:03:56 | 2024-08-08 | [link](https://www.youtube.com/watch?v=VhuVlwsSXXg) |
 | 207 | epicnubedemelon | 0:03:56 | 2019-03-28 | [link](https://www.youtube.com/watch?v=9OhFY4Ckf4Y&feature=youtu.be) |
 | 207 | Adam1205 | 0:03:56 | 2017-08-22 | [link](https://www.youtube.com/watch?v=8Z2r2MucCmI&feature=youtu.be) |
 | 207 | TakoGamesAu | 0:03:56 | 2021-06-15 | [link](https://www.youtube.com/watch?v=e-9BfExjtKQ) |
@@ -227,7 +228,6 @@ categories: speedrun
 | 207 | Drako93 | 0:03:56 | 2018-09-13 | [link](https://www.youtube.com/watch?v=Fzn5EvnL4G4&t=2s) |
 | 207 | JeremyMKW | 0:03:56 | 2018-03-15 | [link](https://www.twitch.tv/videos/238911313) |
 | 207 | JustEdd | 0:03:56 | 2021-11-29 | [link](https://youtu.be/6kiDzcNiWTs) |
-| 207 | Vertor | 0:03:56 | 2024-08-08 | [link](https://www.youtube.com/watch?v=VhuVlwsSXXg) |
 | 222 | Laupok | 0:03:57 | 2018-02-25 | [link](https://www.youtube.com/watch?v=PgOAcpxBXbg) |
 | 222 | caleb2112 | 0:03:57 | 2020-02-16 | [link](https://youtu.be/hEmnmzi07qc) |
 | 222 | PixelCrusher | 0:03:57 | 2020-02-20 | [link](https://www.youtube.com/watch?v=nEaFWU3Oay4&fbclid=IwAR2cUvEmWVYyypVDwoJtHvQ31zZ28ikwd3r35SOljefDhwkSXO1sddVIccU) |
