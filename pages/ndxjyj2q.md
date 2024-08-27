@@ -162,8 +162,8 @@ categories: speedrun
 | 153 | moistgoolash | 0:11:38 | 2018-04-06 | [link](https://www.twitch.tv/videos/247094705) |
 | 153 | rockdet | 0:11:38 | 2017-01-22 | [link](https://www.twitch.tv/rockdet/v/116708806) |
 | 155 | TheRudyyy | 0:11:39 | 2024-07-18 | [link](https://youtu.be/PB-Ww_0i2xs) |
-| 156 | RickDavoice | 0:11:40 | 2024-08-20 | [link](https://www.youtube.com/watch?v=dORdVyTRzmc) |
 | 156 | Adotis | 0:11:40 | 2021-07-15 | [link](https://www.twitch.tv/videos/1087629082) |
+| 156 | RickDavoice | 0:11:40 | 2024-08-20 | [link](https://www.youtube.com/watch?v=dORdVyTRzmc) |
 | 156 | Riccioli88 | 0:11:40 | 2021-05-27 | [link](https://www.youtube.com/watch?v=xAaiq0lT3vI) |
 | 159 | Malachibros20085721 | 0:11:41 | 2022-02-05 | [link](https://www.twitch.tv/videos/1287650272) |
 | 159 | CooperJW13 | 0:11:41 | 2022-08-18 | [link](https://www.twitch.tv/videos/1565298970) |
