@@ -72,12 +72,12 @@ categories: speedrun
 | 63 | ratboy42 | 0:52:59 | 2023-11-07 | [link](https://www.youtube.com/watch?v=noFQ40qYzaU) |
 | 64 | Malachibros20085721 | 0:53:07 | 2022-06-06 | [link](https://www.twitch.tv/videos/1496529200) |
 | 65 | Hasauce | 0:53:09 | 2024-06-26 | [link](https://youtu.be/-MtdeWyM8Io) |
+| 66 | Cookiewise | 0:53:10 | 2024-08-30 | [link](https://www.twitch.tv/videos/2239038141?&ab_channel=cookiewise_22) |
 | 66 | Aweglib | 0:53:10 | 2017-06-09 | [link](https://www.twitch.tv/videos/150756657) |
-| 67 | Finnish2005 | 0:53:13 | 2024-08-08 | [link](https://youtu.be/yECg1ORVAXM) |
-| 68 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
-| 69 | KobrahCJ | 0:53:15 | 2024-04-17 | [link](https://www.twitch.tv/videos/2122814733) |
-| 70 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
-| 70 | Cookiewise | 0:53:18 | 2024-07-16 | [link](https://www.twitch.tv/videos/2199850871?&ab_channel=cookiewise_22) |
+| 68 | Finnish2005 | 0:53:13 | 2024-08-08 | [link](https://youtu.be/yECg1ORVAXM) |
+| 69 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
+| 70 | KobrahCJ | 0:53:15 | 2024-04-17 | [link](https://www.twitch.tv/videos/2122814733) |
+| 71 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
 | 72 | raymondamantius | 0:53:22 | 2024-02-06 | [link](https://www.youtube.com/watch?v=Cm4F4h1fc9E) |
 | 73 | GlitchyPa | 0:53:23 | 2023-09-17 | [link](https://www.twitch.tv/videos/1927957941) |
 | 74 | nopons | 0:53:24 | 2023-01-17 | [link](https://www.youtube.com/watch?v=Ho_cyLcKatU) |
