@@ -87,11 +87,11 @@ categories: speedrun
 | 78 | ryukahr | 0:53:32 | 2023-05-02 | [link](https://www.youtube.com/watch?v=ym-QXiCqicE) |
 | 79 | MelonTheFelon | 0:53:36 | 2019-01-23 | [link](https://www.twitch.tv/videos/368899547) |
 | 80 | deisui | 0:53:37 | 2016-09-07 | [link](http://www.nicovideo.jp/watch/sm30043547) |
-| 81 | COOLKID | 0:53:41 | 2019-03-19 | [link](https://www.twitch.tv/videos/398148894) |
-| 81 | Matepe | 0:53:41 | 2024-06-02 | [link](https://www.twitch.tv/videos/2161978781) |
-| 83 | zekeSSB | 0:53:48 | 2024-05-24 | [link](https://www.twitch.tv/videos/2153697846) |
-| 84 | TheClassicOne88 | 0:53:50 | 2020-07-26 | [link](https://www.twitch.tv/videos/691257713) |
-| 85 | Rh4kor | 0:53:52 | 2022-12-26 | [link](https://www.twitch.tv/videos/1689533270) |
+| 81 | Rh4kor | 0:53:40 | 2024-09-14 | [link](https://www.twitch.tv/videos/2251184398) |
+| 82 | COOLKID | 0:53:41 | 2019-03-19 | [link](https://www.twitch.tv/videos/398148894) |
+| 82 | Matepe | 0:53:41 | 2024-06-02 | [link](https://www.twitch.tv/videos/2161978781) |
+| 84 | zekeSSB | 0:53:48 | 2024-05-24 | [link](https://www.twitch.tv/videos/2153697846) |
+| 85 | TheClassicOne88 | 0:53:50 | 2020-07-26 | [link](https://www.twitch.tv/videos/691257713) |
 | 86 | Tompa | 0:53:58 | 2022-06-02 | [link](https://www.twitch.tv/videos/1503754373) |
 | 86 | Kettu82 | 0:53:58 | 2024-07-19 | [link](https://www.youtube.com/watch?v=DtdivymLhqQ) |
 | 86 | TheLightYagami | 0:53:58 | 2015-09-08 | [link](http://www.twitch.tv/thelightyagami/v/15146872) |
