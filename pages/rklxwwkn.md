@@ -10,8 +10,8 @@ categories: speedrun
 | 1 | narfman0 | 0:50:07 | 2024-04-11 | [link](https://www.twitch.tv/videos/2117096032) |
 | 2 | mitchflowerpower | 0:50:10 | 2022-09-03 | [link](https://www.youtube.com/watch?v=_3n12tb9Sg8&t=15s) |
 | 3 | Kuto1k | 0:50:23 | 2023-12-19 | [link](https://www.twitch.tv/videos/2008303442) |
-| 4 | Sakaali | 0:50:27 | 2024-08-28 | [link](https://www.twitch.tv/videos/2236381729) |
 | 4 | Czikubi | 0:50:27 | 2024-09-16 | [link](https://www.twitch.tv/videos/2252850647) |
+| 4 | Sakaali | 0:50:27 | 2024-08-28 | [link](https://www.twitch.tv/videos/2236381729) |
 | 6 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
 | 7 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
 | 8 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |

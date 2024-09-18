@@ -109,9 +109,9 @@ categories: speedrun
 | 97 | bjw | 0:03:40 | 2017-09-10 | [link](https://www.twitch.tv/videos/173691599) |
 | 97 | Lul_ecks_dee | 0:03:40 | 2018-06-16 | [link](https://www.twitch.tv/videos/273828634) |
 | 102 | Rh4kor | 0:03:41 | 2021-09-28 | [link](https://www.youtube.com/watch?v=jmWHkwRsXdM) |
+| 103 | JVRed | 0:03:42 | 2024-09-16 | [link](https://youtu.be/aBYvegJFmpY) |
 | 103 | BusterMan | 0:03:42 | 2022-02-22 | [link](https://www.youtube.com/watch?v=7rlD3_MQxXE) |
 | 103 | SBDWolf | 0:03:42 | 2023-09-20 | [link](https://www.twitch.tv/videos/1931447200) |
-| 103 | JVRed | 0:03:42 | 2024-09-16 | [link](https://youtu.be/aBYvegJFmpY) |
 | 106 | sausage_walk | 0:03:43 | 2023-01-08 | [link](https://youtu.be/JmduClV5p2g) |
 | 106 | Oneyy | 0:03:43 | 2024-09-10 | [link](https://youtu.be/d7fG2IwLd78) |
 | 106 | ImDangerous20 | 0:03:43 | 2018-03-29 | [link](https://www.twitch.tv/videos/244103093) |
@@ -296,11 +296,11 @@ categories: speedrun
 | 280 | abrahamw999 | 0:04:02 | 2021-05-24 | [link](https://www.youtube.com/watch?v=R1JZt64AS00&ab_channel=Abrahamw999) |
 | 280 | Cannalyst | 0:04:02 | 2020-11-04 | [link](https://youtu.be/wZnRhjZt-sg) |
 | 289 | Romxn | 0:04:03 | 2018-06-13 | [link](https://www.twitch.tv/videos/272904639) |
-| 289 | cpt32 | 0:04:03 | 2024-09-12 | [link](https://youtu.be/phmS6yuq64s) |
 | 289 | LucaN64pro | 0:04:03 | 2023-09-30 | [link](https://youtu.be/xM91JV3sCjo?si=17VqJA-QufgcuGce) |
 | 289 | IvanSt33zy | 0:04:03 | 2018-07-07 | [link](https://www.youtube.com/watch?v=OdWeLkY4V4o) |
 | 289 | Choigogi | 0:04:03 | 2020-06-07 | [link](https://youtu.be/o-bUc8eabWc) |
 | 289 | milestaills | 0:04:03 | 2022-03-22 | [link](https://www.youtube.com/watch?v=bleipWYjNh4) |
+| 289 | cpt32 | 0:04:03 | 2024-09-12 | [link](https://youtu.be/phmS6yuq64s) |
 | 289 | RetroTimes | 0:04:03 | 2022-10-29 | [link](https://www.youtube.com/watch?v=UDCcaGaa8QQ&t=247s) |
 | 289 | LEITHAL | 0:04:03 | 2019-06-14 | [link](https://youtu.be/aPLPluWlSV0) |
 | 289 | Sariiger | 0:04:03 | 2018-09-06 | [link](https://www.youtube.com/watch?v=rAPoFOouJA8) |
