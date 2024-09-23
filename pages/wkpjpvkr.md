@@ -109,8 +109,8 @@ categories: speedrun
 | 97 | bjw | 0:03:40 | 2017-09-10 | [link](https://www.twitch.tv/videos/173691599) |
 | 97 | Lul_ecks_dee | 0:03:40 | 2018-06-16 | [link](https://www.twitch.tv/videos/273828634) |
 | 102 | Rh4kor | 0:03:41 | 2021-09-28 | [link](https://www.youtube.com/watch?v=jmWHkwRsXdM) |
-| 103 | JVRed | 0:03:42 | 2024-09-16 | [link](https://youtu.be/aBYvegJFmpY) |
 | 103 | BusterMan | 0:03:42 | 2022-02-22 | [link](https://www.youtube.com/watch?v=7rlD3_MQxXE) |
+| 103 | JVRed | 0:03:42 | 2024-09-16 | [link](https://youtu.be/aBYvegJFmpY) |
 | 103 | SBDWolf | 0:03:42 | 2023-09-20 | [link](https://www.twitch.tv/videos/1931447200) |
 | 106 | sausage_walk | 0:03:43 | 2023-01-08 | [link](https://youtu.be/JmduClV5p2g) |
 | 106 | Oneyy | 0:03:43 | 2024-09-10 | [link](https://youtu.be/d7fG2IwLd78) |
