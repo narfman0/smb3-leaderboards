@@ -454,9 +454,9 @@ categories: speedrun
 | 438 | Carnageraiser1 | 0:04:25 | 2018-05-28 | [link](https://www.twitch.tv/videos/247330800) |
 | 438 | KuLemon | 0:04:25 | 2019-09-07 | [link](https://www.youtube.com/watch?v=Ve7IZy0tnnE&ab_channel=Ku%27Lemon) |
 | 438 | aimforthestars | 0:04:25 | 2024-05-15 | [link](https://youtu.be/wDR9W9lg3Rc) |
-| 448 | Y0m@n76 | 0:04:26 | 2024-09-21 | [link](https://www.twitch.tv/videos/2256751699) |
 | 448 | tenguliam | 0:04:26 | 2017-10-24 | [link](https://www.twitch.tv/videos/184648530) |
 | 448 | FoxyLove | 0:04:26 | 2020-11-23 | [link](https://www.youtube.com/watch?v=8QgWIgKmvCU) |
+| 448 | Y0m@n76 | 0:04:26 | 2024-09-21 | [link](https://www.twitch.tv/videos/2256751699) |
 | 448 | Pikaboy70 | 0:04:26 | 2020-08-27 | [link](https://www.twitch.tv/videos/723786965) |
 | 448 | Xcvazer | 0:04:26 | 2017-09-29 | [link](https://www.twitch.tv/videos/178476916) |
 | 448 | Rubens | 0:04:26 | 2020-08-06 | [link](https://www.youtube.com/watch?v=L0iBMaFsluM) |

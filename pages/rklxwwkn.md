@@ -8,8 +8,8 @@ categories: speedrun
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
 | 1 | narfman0 | 0:50:07 | 2024-04-11 | [link](https://www.twitch.tv/videos/2117096032) |
-| 2 | mitchflowerpower | 0:50:10 | 2022-09-03 | [link](https://www.youtube.com/watch?v=_3n12tb9Sg8&t=15s) |
-| 3 | Kuto1k | 0:50:23 | 2023-12-19 | [link](https://www.twitch.tv/videos/2008303442) |
+| 2 | Kuto1k | 0:50:10.217000 | 2024-09-24 | [link](https://www.twitch.tv/videos/2259105801) |
+| 3 | mitchflowerpower | 0:50:10.417000 | 2022-09-03 | [link](https://www.youtube.com/watch?v=_3n12tb9Sg8&t=15s) |
 | 4 | Czikubi | 0:50:27 | 2024-09-16 | [link](https://www.twitch.tv/videos/2252850647) |
 | 4 | Sakaali | 0:50:27 | 2024-08-28 | [link](https://www.twitch.tv/videos/2236381729) |
 | 6 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
