@@ -8,12 +8,12 @@ categories: speedrun
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
 | 1 | Kuto1k | 0:03:00.666000 | 2023-07-20 | [link](https://youtu.be/9G9bnhpyy_0) |
-| 2 | Czikubi | 0:03:02.383000 | 2021-03-29 | [link](https://www.twitch.tv/videos/968510773) |
-| 3 | narfman0 | 0:03:03.233000 | 2024-05-22 | [link](https://youtu.be/bta-tIhopAk) |
-| 4 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
-| 5 | TheCrit | 0:03:04.533000 | 2022-10-10 | [link](https://www.youtube.com/watch?v=ZKA3qjd9r1Q) |
-| 6 | KingOf_JonnyBoy | 0:03:05.183000 | 2024-07-22 | [link](https://www.youtube.com/watch?v=P8972zzHcsA) |
-| 7 | psyduck5698 | 0:03:05.216000 | 2024-09-22 | [link](https://youtu.be/hLW4DSMIp-o?si=14t1hOhS_Vw9ZyqY) |
+| 2 | psyduck5698 | 0:03:02.150000 | 2024-09-25 | [link](https://www.youtube.com/watch?v=vtEDrC3m6uw) |
+| 3 | Czikubi | 0:03:02.383000 | 2021-03-29 | [link](https://www.twitch.tv/videos/968510773) |
+| 4 | narfman0 | 0:03:03.233000 | 2024-05-22 | [link](https://youtu.be/bta-tIhopAk) |
+| 5 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
+| 6 | TheCrit | 0:03:04.533000 | 2022-10-10 | [link](https://www.youtube.com/watch?v=ZKA3qjd9r1Q) |
+| 7 | KingOf_JonnyBoy | 0:03:05.183000 | 2024-07-22 | [link](https://www.youtube.com/watch?v=P8972zzHcsA) |
 | 8 | Lui | 0:03:06.600000 | 2020-08-27 | [link](https://youtu.be/I2RFIq7N-JM) |
 | 9 | scalpel | 0:03:07.050000 | 2024-06-26 | [link](https://www.youtube.com/watch?v=cAgPpP-nJwU) |
 | 10 | Falkite | 0:03:07.200000 | 2022-11-10 | [link](https://www.twitch.tv/videos/1648843666) |
