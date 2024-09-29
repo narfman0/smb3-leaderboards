@@ -405,8 +405,8 @@ categories: speedrun
 | 393 | JosueG | 0:04:17 | 2022-02-28 | [link](https://www.youtube.com/watch?v=TIZiL6YToS0&t=246s) |
 | 393 | pinkpanthr_ | 0:04:17 | 2023-04-15 | [link](https://youtu.be/GEX8WoKCbpU) |
 | 398 | MinusWorldJay | 0:04:18 | 2020-06-22 | [link](https://youtu.be/0rQ9pTXMSYg) |
-| 398 | ShesChardcore | 0:04:18 | 2019-09-13 | [link](https://www.twitch.tv/videos/481011276) |
 | 398 | Darkman_ | 0:04:18 | 2022-08-10 | [link](https://www.youtube.com/watch?v=hvYhMI3e2bU) |
+| 398 | ShesChardcore | 0:04:18 | 2019-09-13 | [link](https://www.twitch.tv/videos/481011276) |
 | 398 | Twafad | 0:04:18 | 2021-05-24 | [link](https://youtu.be/SWGM77pHuls) |
 | 398 | Leybo | 0:04:18 | 2018-03-18 | [link](https://www.youtube.com/watch?v=V3PeKBjqClc) |
 | 398 | AnimusUnited | 0:04:18 | 2020-12-04 | [link](https://www.twitch.tv/videos/825412475) |
