@@ -187,9 +187,9 @@ categories: speedrun
 | 176 | jahaley64 | 0:11:46 | 2022-03-24 | [link](https://www.twitch.tv/videos/1435743701) |
 | 176 | WhicheverMirror | 0:11:46 | 2021-08-25 | [link](https://www.youtube.com/watch?v=_8Fcbyc27Fc) |
 | 180 | OnlyMoneyNotTalent | 0:11:47 | 2020-12-09 | [link](https://www.youtube.com/watch?v=HSQEqJewU_8) |
+| 181 | Littlezombie | 0:11:48 | 2024-09-28 | [link](https://youtu.be/htCI_MIrLrw) |
 | 181 | proa007 | 0:11:48 | 2019-12-31 | [link](https://www.twitch.tv/videos/529026133) |
 | 181 | bowtie1320 | 0:11:48 | 2021-02-13 | [link](https://www.twitch.tv/videos/913315628) |
-| 181 | Littlezombie | 0:11:48 | 2024-07-03 | [link](https://youtu.be/Pjqcjxj92d4) |
 | 181 | cleveland_tom | 0:11:48 | 2022-12-20 | [link](https://www.twitch.tv/videos/1684453701) |
 | 181 | THE_T_V1RUS | 0:11:48 | 2016-12-08 | [link](https://www.youtube.com/watch?v=RAuDdUcJGbg) |
 | 186 | mrpickaxe | 0:11:49 | 2020-09-25 | [link](https://youtu.be/gr8V3sIwfPQ) |
