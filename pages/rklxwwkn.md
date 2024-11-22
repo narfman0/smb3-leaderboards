@@ -10,8 +10,8 @@ categories: speedrun
 | 1 | narfman0 | 0:50:07 | 2024-04-11 | [link](https://www.twitch.tv/videos/2117096032) |
 | 2 | Kuto1k | 0:50:10.216000 | 2024-09-24 | [link](https://www.twitch.tv/videos/2259105801) |
 | 3 | mitchflowerpower | 0:50:10.416000 | 2022-09-03 | [link](https://www.youtube.com/watch?v=_3n12tb9Sg8&t=15s) |
-| 4 | Czikubi | 0:50:27 | 2024-09-16 | [link](https://www.twitch.tv/videos/2252850647) |
 | 4 | Sakaali | 0:50:27 | 2024-08-28 | [link](https://www.twitch.tv/videos/2236381729) |
+| 4 | Czikubi | 0:50:27 | 2024-09-16 | [link](https://www.twitch.tv/videos/2252850647) |
 | 6 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
 | 7 | maibaRTA | 0:50:49 | 2024-11-07 | [link](https://www.twitch.tv/videos/2297529183) |
 | 8 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
@@ -47,8 +47,8 @@ categories: speedrun
 | 37 | MarstoS | 0:51:56 | 2024-01-28 | [link](https://www.twitch.tv/videos/2046186355) |
 | 39 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
 | 40 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
-| 41 | Katti | 0:52:05 | 2024-02-11 | [link](https://www.twitch.tv/videos/2060000643) |
 | 41 | highflyer28 | 0:52:05 | 2024-11-09 | [link](https://www.twitch.tv/videos/2297938347) |
+| 41 | Katti | 0:52:05 | 2024-02-11 | [link](https://www.twitch.tv/videos/2060000643) |
 | 43 | helfmyselp | 0:52:08 | 2023-04-12 | [link](https://www.youtube.com/watch?v=WFafWW0fCaI) |
 | 44 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
 | 45 | iceball8314 | 0:52:22 | 2023-04-24 | [link](https://www.youtube.com/watch?v=HoMaD1WEDfc) |
@@ -58,9 +58,9 @@ categories: speedrun
 | 49 | MoonJi | 0:52:30 | 2019-01-10 | [link](https://www.youtube.com/watch?v=95c6tX8tY_c&t=1498s) |
 | 50 | Doomtap | 0:52:31 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450856849) |
 | 50 | Skippy | 0:52:31 | 2024-07-29 | [link](https://youtu.be/cRPC_a1Qsxw) |
+| 52 | Japezu | 0:52:32 | 2023-10-19 | [link](https://www.twitch.tv/videos/1954750838) |
 | 52 | uninerd | 0:52:32 | 2022-09-13 | [link](https://www.twitch.tv/videos/1590115133) |
 | 52 | brocis420 | 0:52:32 | 2022-12-28 | [link](https://www.twitch.tv/videos/1691525340) |
-| 52 | Japezu | 0:52:32 | 2023-10-19 | [link](https://www.twitch.tv/videos/1954750838) |
 | 55 | uropsalis | 0:52:34 | 2024-02-14 | [link](https://www.twitch.tv/videos/2063225367) |
 | 55 | Jokubotti | 0:52:34 | 2024-02-05 | [link](https://www.youtube.com/watch?v=hsBRr3BqZQI) |
 | 57 | Matepe | 0:52:36 | 2024-09-27 | [link](https://www.youtube.com/watch?v=2pwMeCgujYI) |
@@ -77,8 +77,8 @@ categories: speedrun
 | 67 | Aweglib | 0:53:10 | 2017-06-09 | [link](https://www.twitch.tv/videos/150756657) |
 | 69 | Finnish2005 | 0:53:13 | 2024-08-08 | [link](https://youtu.be/yECg1ORVAXM) |
 | 70 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
-| 71 | KobrahCJ | 0:53:15 | 2024-04-17 | [link](https://www.twitch.tv/videos/2122814733) |
 | 71 | reshia | 0:53:15 | 2024-10-23 | [link](https://www.twitch.tv/videos/2283244358) |
+| 71 | KobrahCJ | 0:53:15 | 2024-04-17 | [link](https://www.twitch.tv/videos/2122814733) |
 | 73 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
 | 74 | raymondamantius | 0:53:22 | 2024-02-06 | [link](https://www.youtube.com/watch?v=Cm4F4h1fc9E) |
 | 75 | GlitchyPa | 0:53:23 | 2023-09-17 | [link](https://www.twitch.tv/videos/1927957941) |
@@ -114,9 +114,9 @@ categories: speedrun
 | 105 | The_Col | 0:54:32 | 2018-07-15 | [link](https://www.twitch.tv/videos/285019580) |
 | 105 | Joshua69yt | 0:54:32 | 2020-08-13 | [link](https://youtu.be/TlfXut4Psws) |
 | 107 | denkiya | 0:54:35 | 2024-01-02 | [link](https://www.youtube.com/watch?v=rDASzztAwgY) |
+| 108 | GTAce99 | 0:54:38 | 2023-04-02 | [link](https://youtu.be/AUluEK3YaY4) |
 | 108 | Sharchid | 0:54:38 | 2024-05-20 | [link](https://www.twitch.tv/videos/2150886767) |
 | 108 | OnlyMoneyNotTalent | 0:54:38 | 2020-08-18 | [link](https://www.youtube.com/watch?v=MLXqEicjJL8) |
-| 108 | GTAce99 | 0:54:38 | 2023-04-02 | [link](https://youtu.be/AUluEK3YaY4) |
 | 111 | MidiGuyDP | 0:54:40 | 2023-04-04 | [link](https://www.youtube.com/watch?v=XCdpQY4hv60) |
 | 112 | Spongeday | 0:54:42 | 2023-04-12 | [link](https://www.twitch.tv/videos/1790370243) |
 | 112 | kekumanshoyu | 0:54:42 | 2021-05-20 | [link](https://www.twitch.tv/videos/1029009373) |
@@ -156,8 +156,8 @@ categories: speedrun
 | 147 | Kanis999 | 0:56:35 | 2020-08-29 | [link](https://www.youtube.com/watch?v=S4PBvcU5tuA) |
 | 148 | mrcab55 | 0:56:39 | 2019-12-23 | [link](https://www.youtube.com/watch?v=_N6U3s9yKEE) |
 | 148 | TuttiPullo | 0:56:39 | 2021-01-12 | [link](https://youtu.be/7KwD1QIn170) |
-| 150 | Vobard | 0:56:40 | 2016-02-14 | [link](http://www.twitch.tv/vobard/v/36880592) |
 | 150 | Skyoverlord | 0:56:40 | 2024-11-17 | [link](https://www.twitch.tv/videos/2304504580) |
+| 150 | Vobard | 0:56:40 | 2016-02-14 | [link](http://www.twitch.tv/vobard/v/36880592) |
 | 152 | MwDAShadow | 0:56:42 | 2024-06-01 | [link](https://www.twitch.tv/videos/2162368966) |
 | 153 | KLM1187 | 0:56:47 | 2020-07-06 | [link](https://www.twitch.tv/videos/671888605) |
 | 154 | iateyoursenpai | 0:56:51 | 2017-11-26 | [link](https://youtu.be/52yimTTPhjs) |
@@ -217,8 +217,8 @@ categories: speedrun
 | 207 | Schicksal | 0:59:44 | 2018-05-09 | [link](https://www.twitch.tv/videos/259545648) |
 | 209 | windcask | 0:59:46 | 2017-02-12 | [link](https://www.youtube.com/watch?v=-RDnkzPAq_I) |
 | 210 | Remz | 0:59:48 | 2017-11-23 | [link](https://www.twitch.tv/videos/203719293) |
-| 211 | sabori | 0:59:50 | 2022-12-22 | [link](https://www.youtube.com/watch?v=1o-EcMr9BDI&t=3301s) |
 | 211 | Evvy_wevy | 0:59:50 | 2024-11-14 | [link](https://youtu.be/AiI-gXWiyck?feature=shared) |
+| 211 | sabori | 0:59:50 | 2022-12-22 | [link](https://www.youtube.com/watch?v=1o-EcMr9BDI&t=3301s) |
 | 213 | kattabuu | 0:59:52 | 2024-04-27 | [link](https://youtu.be/-EjsKYsvmU8?si=Uxtefp4ib36rvF38) |
 | 214 | subtlewookiee | 0:59:55 | 2023-09-21 | [link](https://youtu.be/gf6VmkGQTlY) |
 | 214 | Acmlm | 0:59:55 | 2014-01-04 | [link](http://www.twitch.tv/acmlm/c/3492492) |
