@@ -101,8 +101,8 @@ categories: speedrun
 | 91 | Freezen85 | 0:54:02 | 2024-11-05 | [link](https://youtu.be/BQ2TNusknII) |
 | 93 | Madu | 0:54:09 | 2023-03-12 | [link](https://www.twitch.tv/videos/1763626685) |
 | 94 | zyzex_remix | 0:54:10 | 2020-05-22 | [link](https://www.twitch.tv/videos/629130264) |
-| 95 | HocusPocus | 0:54:21 | 2021-08-27 | [link](https://www.twitch.tv/videos/1131428124) |
-| 95 | J_Ephemeral | 0:54:21 | 2021-04-04 | [link](https://www.youtube.com/watch?v=7SDCi3r30GM) |
+| 95 | HocusPocus | 0:54:19 | 2024-12-13 | [link](https://www.twitch.tv/videos/2325721697) |
+| 96 | J_Ephemeral | 0:54:21 | 2021-04-04 | [link](https://www.youtube.com/watch?v=7SDCi3r30GM) |
 | 97 | Papatate7 | 0:54:24 | 2024-11-12 | [link](https://www.twitch.tv/videos/2299850944) |
 | 98 | Grayskull83 | 0:54:26 | 2022-04-12 | [link](https://www.twitch.tv/videos/1454218684) |
 | 99 | DaveLindo | 0:54:27 | 2019-10-28 | [link](https://www.twitch.tv/videos/500833323) |
@@ -216,9 +216,9 @@ categories: speedrun
 | 207 | BPowda | 0:59:44 | 2023-03-12 | [link](https://www.youtube.com/watch?v=Hm3jjpoYZv4) |
 | 207 | Schicksal | 0:59:44 | 2018-05-09 | [link](https://www.twitch.tv/videos/259545648) |
 | 209 | windcask | 0:59:46 | 2017-02-12 | [link](https://www.youtube.com/watch?v=-RDnkzPAq_I) |
+| 210 | Evvy_wevy | 0:59:48 | 2024-12-12 | [link](https://youtu.be/ElPlsbpPbtI?feature=shared) |
 | 210 | Remz | 0:59:48 | 2017-11-23 | [link](https://www.twitch.tv/videos/203719293) |
-| 211 | Evvy_wevy | 0:59:50 | 2024-11-14 | [link](https://youtu.be/AiI-gXWiyck?feature=shared) |
-| 211 | sabori | 0:59:50 | 2022-12-22 | [link](https://www.youtube.com/watch?v=1o-EcMr9BDI&t=3301s) |
+| 212 | sabori | 0:59:50 | 2022-12-22 | [link](https://www.youtube.com/watch?v=1o-EcMr9BDI&t=3301s) |
 | 213 | subtlewookiee | 0:59:55 | 2023-09-21 | [link](https://youtu.be/gf6VmkGQTlY) |
 | 213 | Acmlm | 0:59:55 | 2014-01-04 | [link](http://www.twitch.tv/acmlm/c/3492492) |
 | 215 | JakeBopDart | 0:59:57 | 2024-01-21 | [link](https://youtu.be/9tZRAtKH118?si=9Ut0tq0JqVMoqt4N) |
