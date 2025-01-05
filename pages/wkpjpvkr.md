@@ -7,8 +7,8 @@ categories: speedrun
 
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
-| 1 | Kuto1k | 0:03:00.666000 | 2023-07-20 | [link](https://youtu.be/9G9bnhpyy_0) |
-| 2 | psyduck5698 | 0:03:02.150000 | 2024-09-25 | [link](https://www.youtube.com/watch?v=vtEDrC3m6uw) |
+| 1 | Kuto1k | 0:03:00 | 2025-01-04 | [link](https://youtu.be/yhDdLV-5wC0) |
+| 2 | psyduck5698 | 0:03:01 | 2024-12-29 | [link](https://youtu.be/ma1vRRSfcpE?si=A0r9P5k1Kq_vZav1) |
 | 3 | Czikubi | 0:03:02.383000 | 2021-03-29 | [link](https://www.twitch.tv/videos/968510773) |
 | 4 | narfman0 | 0:03:03.233000 | 2024-05-22 | [link](https://youtu.be/bta-tIhopAk) |
 | 5 | Kirua | 0:03:04.033000 | 2017-09-28 | [link](https://www.twitch.tv/videos/178152895) |
