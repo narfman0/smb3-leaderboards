@@ -10,10 +10,10 @@ categories: speedrun
 | 1 | narfman0 | 0:50:07 | 2024-04-11 | [link](https://www.twitch.tv/videos/2117096032) |
 | 2 | Kuto1k | 0:50:10.216000 | 2024-09-24 | [link](https://www.twitch.tv/videos/2259105801) |
 | 3 | mitchflowerpower | 0:50:10.416000 | 2022-09-03 | [link](https://www.youtube.com/watch?v=_3n12tb9Sg8&t=15s) |
-| 4 | Sakaali | 0:50:27 | 2024-08-28 | [link](https://www.twitch.tv/videos/2236381729) |
-| 4 | Czikubi | 0:50:27 | 2024-09-16 | [link](https://www.twitch.tv/videos/2252850647) |
-| 6 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
-| 7 | maibaRTA | 0:50:49 | 2024-11-07 | [link](https://www.twitch.tv/videos/2297529183) |
+| 4 | maibaRTA | 0:50:17 | 2025-01-13 | [link](https://www.twitch.tv/videos/2352891430) |
+| 5 | Sakaali | 0:50:27 | 2024-08-28 | [link](https://www.twitch.tv/videos/2236381729) |
+| 5 | Czikubi | 0:50:27 | 2024-09-16 | [link](https://www.twitch.tv/videos/2252850647) |
+| 7 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
 | 8 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
 | 9 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
 | 9 | TEEX88 | 0:50:53 | 2022-09-10 | [link](https://www.twitch.tv/videos/1587591151) |
