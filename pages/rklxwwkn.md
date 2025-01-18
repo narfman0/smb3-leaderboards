@@ -62,8 +62,8 @@ categories: speedrun
 | 53 | uninerd | 0:52:32 | 2022-09-13 | [link](https://www.twitch.tv/videos/1590115133) |
 | 53 | brocis420 | 0:52:32 | 2022-12-28 | [link](https://www.twitch.tv/videos/1691525340) |
 | 55 | Cookiewise | 0:52:33 | 2024-12-30 | [link](https://www.twitch.tv/videos/2340009667) |
-| 56 | uropsalis | 0:52:34 | 2024-02-14 | [link](https://www.twitch.tv/videos/2063225367) |
 | 56 | Jokubotti | 0:52:34 | 2024-02-05 | [link](https://www.youtube.com/watch?v=hsBRr3BqZQI) |
+| 56 | uropsalis | 0:52:34 | 2024-02-14 | [link](https://www.twitch.tv/videos/2063225367) |
 | 58 | Matepe | 0:52:36 | 2024-09-27 | [link](https://www.youtube.com/watch?v=2pwMeCgujYI) |
 | 59 | reshia | 0:52:39 | 2024-12-08 | [link](https://www.twitch.tv/videos/2321430278) |
 | 60 | assemble_me | 0:52:44 | 2024-05-24 | [link](https://youtu.be/ZhoiD9TisNU?si=h_w4D9VBFDD24CxX&t=18) |
@@ -115,8 +115,8 @@ categories: speedrun
 | 105 | Joshua69yt | 0:54:32 | 2020-08-13 | [link](https://youtu.be/TlfXut4Psws) |
 | 107 | KingOfNothing95 | 0:54:35 | 2024-12-28 | [link](https://www.youtube.com/watch?v=5VUFiaYlFvQ) |
 | 107 | denkiya | 0:54:35 | 2024-01-02 | [link](https://www.youtube.com/watch?v=rDASzztAwgY) |
-| 109 | GTAce99 | 0:54:38 | 2023-04-02 | [link](https://youtu.be/AUluEK3YaY4) |
 | 109 | Sharchid | 0:54:38 | 2024-05-20 | [link](https://www.twitch.tv/videos/2150886767) |
+| 109 | GTAce99 | 0:54:38 | 2023-04-02 | [link](https://youtu.be/AUluEK3YaY4) |
 | 109 | OnlyMoneyNotTalent | 0:54:38 | 2020-08-18 | [link](https://www.youtube.com/watch?v=MLXqEicjJL8) |
 | 112 | MidiGuyDP | 0:54:40 | 2023-04-04 | [link](https://www.youtube.com/watch?v=XCdpQY4hv60) |
 | 113 | Spongeday | 0:54:42 | 2023-04-12 | [link](https://www.twitch.tv/videos/1790370243) |
