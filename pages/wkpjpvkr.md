@@ -250,10 +250,11 @@ categories: speedrun
 | 227 | EliSpeedrun | 0:03:57 | 2022-05-21 | [link](https://www.twitch.tv/videos/1489879789) |
 | 242 | SAOkyy | 0:03:58 | 2021-01-04 | [link](https://www.youtube.com/watch?v=miY3UoLN4Ng) |
 | 242 | MelonTheFelon | 0:03:58 | 2018-09-29 | [link](https://www.twitch.tv/videos/316331417) |
-| 242 | SpUnKeN_DK | 0:03:58 | 2025-01-06 | [link](https://www.twitch.tv/videos/2345569420) |
+| 242 | PabloDiazViolin | 0:03:58 | 2025-01-08 | [link](https://youtu.be/Ayf5n1lNjC4) |
 | 242 | Validusername16 | 0:03:58 | 2019-09-16 | [link](https://www.youtube.com/watch?v=VJGGGLGZnPA) |
 | 242 | miletic_ivan | 0:03:58 | 2022-01-17 | [link](https://www.youtube.com/watch?v=qSk_nPABXtU) |
 | 242 | TheBaconator108 | 0:03:58 | 2022-03-03 | [link](https://www.youtube.com/watch?v=mrQ2gs4X2OA) |
+| 242 | SpUnKeN_DK | 0:03:58 | 2025-01-06 | [link](https://www.twitch.tv/videos/2345569420) |
 | 242 | Eichi | 0:03:58 | 2017-02-21 | [link](https://www.youtube.com/watch?v=udH2JtOA3GY) |
 | 242 | Tmitt7 | 0:03:58 | 2017-11-04 | [link](https://www.youtube.com/watch?v=_12jMiqkAMM) |
 | 242 | Avriix | 0:03:58 | 2024-03-04 | [link](https://youtu.be/_fiR98yI_4A) |
@@ -264,7 +265,6 @@ categories: speedrun
 | 242 | Kosmic | 0:03:58 | 2017-08-29 | [link](https://www.twitch.tv/videos/171132847) |
 | 242 | aidenlt | 0:03:58 | 2019-10-22 | [link](https://www.youtube.com/watch?v=KgeG1twsE48) |
 | 242 | Karyno | 0:03:58 | 2017-05-13 | [link](https://www.youtube.com/watch?v=JvjeloAySEY) |
-| 242 | PabloDiazViolin | 0:03:58 | 2025-01-08 | [link](https://youtu.be/Ayf5n1lNjC4) |
 | 259 | ThePigKing | 0:03:59 | 2020-01-13 | [link](https://youtu.be/IvhV07eVwq8) |
 | 259 | Kettu82 | 0:03:59 | 2024-10-16 | [link](https://www.youtube.com/watch?v=5Cdtwr1MalU) |
 | 259 | TheGoodGoomba | 0:03:59 | 2020-10-25 | [link](https://youtu.be/QHp6RWDZKJo) |
