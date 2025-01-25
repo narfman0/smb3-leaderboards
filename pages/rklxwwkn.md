@@ -92,9 +92,9 @@ categories: speedrun
 | 83 | COOLKID | 0:53:41 | 2019-03-19 | [link](https://www.twitch.tv/videos/398148894) |
 | 84 | zekeSSB | 0:53:48 | 2024-05-24 | [link](https://www.twitch.tv/videos/2153697846) |
 | 85 | TheClassicOne88 | 0:53:50 | 2020-07-26 | [link](https://www.twitch.tv/videos/691257713) |
-| 86 | Tompa | 0:53:58 | 2022-06-02 | [link](https://www.twitch.tv/videos/1503754373) |
-| 86 | Kettu82 | 0:53:58 | 2024-07-19 | [link](https://www.youtube.com/watch?v=DtdivymLhqQ) |
-| 86 | TheLightYagami | 0:53:58 | 2015-09-08 | [link](http://www.twitch.tv/thelightyagami/v/15146872) |
+| 86 | Kettu82 | 0:53:54 | 2024-11-30 | [link](https://www.youtube.com/watch?v=JxxQYUAxCEY) |
+| 87 | Tompa | 0:53:58 | 2022-06-02 | [link](https://www.twitch.tv/videos/1503754373) |
+| 87 | TheLightYagami | 0:53:58 | 2015-09-08 | [link](http://www.twitch.tv/thelightyagami/v/15146872) |
 | 89 | esmo88 | 0:53:59 | 2020-02-01 | [link](https://www.twitch.tv/videos/545533125) |
 | 90 | Chelney | 0:54:01 | 2016-02-28 | [link](http://www.twitch.tv/chelney1/v/51413068) |
 | 91 | hum4ls | 0:54:02 | 2024-10-30 | [link](https://www.youtube.com/watch?v=te66sw8rD-Q) |

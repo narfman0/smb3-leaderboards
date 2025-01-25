@@ -356,6 +356,7 @@ categories: speedrun
 | 339 | Typhlo | 0:04:08 | 2018-07-17 | [link](https://www.youtube.com/watch?v=z7CDGAnbrfk) |
 | 348 | bmoncayito | 0:04:09 | 2020-06-25 | [link](https://www.youtube.com/watch?v=6iRI_Y9Ngv0) |
 | 348 | __LoS_ | 0:04:09 | 2018-06-25 | [link](https://youtu.be/HJc8MROZUV0) |
+| 348 | 8BitPlumber | 0:04:09 | 2024-11-29 | [link](https://youtu.be/CQIDrMfOFAk) |
 | 348 | SAMUR | 0:04:09 | 2022-04-12 | [link](https://youtu.be/mIZh09PUw64) |
 | 348 | FyrizZ | 0:04:09 | 2022-07-22 | [link](https://youtu.be/_0tZ3wMROPg) |
 | 348 | klebdotio | 0:04:09 | 2018-07-15 | [link](https://youtu.be/oG-zlc1hTVQ) |
@@ -364,7 +365,6 @@ categories: speedrun
 | 348 | sdmx | 0:04:09 | 2018-11-17 | [link](https://www.youtube.com/watch?v=Aut2GUbHtGo) |
 | 348 | Lipe_Berserker | 0:04:09 | 2017-02-23 | [link](https://www.youtube.com/watch?v=HytnSGqrous) |
 | 348 | Darkmariosan | 0:04:09 | 2018-01-28 | [link](https://www.youtube.com/watch?v=WA2avBuWtpk) |
-| 348 | 8BitPlumber | 0:04:09 | 2024-11-29 | [link](https://youtu.be/CQIDrMfOFAk) |
 | 359 | Thelxinoe | 0:04:10 | 2020-09-06 | [link](https://www.twitch.tv/videos/730836076) |
 | 359 | chinoe | 0:04:10 | 2021-12-22 | [link](https://youtu.be/43TbHWwshrg) |
 | 359 | ViolentCrumble | 0:04:10 | 2016-07-16 | [link](https://www.youtube.com/watch?v=Br47sxEbpQ8&feature=youtu.be) |
