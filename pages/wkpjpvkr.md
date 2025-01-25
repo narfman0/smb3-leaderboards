@@ -194,10 +194,10 @@ categories: speedrun
 | 175 | Supermariobruh | 0:03:51 | 2022-03-23 | [link](https://youtu.be/8IZJQcCRh6Y) |
 | 186 | Uvideo | 0:03:52 | 2020-04-15 | [link](https://www.youtube.com/watch?v=fw4wjXq7dOE) |
 | 186 | JoeyWheeler | 0:03:52 | 2019-07-08 | [link](https://www.youtube.com/watch?v=nxI2jPfBFpI) |
-| 186 | crasyfingers | 0:03:52 | 2019-02-09 | [link](https://www.twitch.tv/videos/377672762) |
 | 186 | WhicheverMirror | 0:03:52 | 2021-06-29 | [link](https://www.youtube.com/watch?v=GM2xy6YLkmU) |
 | 186 | zaqwa | 0:03:52 | 2017-09-07 | [link](https://www.youtube.com/watch?v=CrhfO2MdsfY) |
 | 186 | CarlEmilEx | 0:03:52 | 2017-03-13 | [link](https://youtu.be/Fg0kcSOYfwk) |
+| 186 | crasyfingers | 0:03:52 | 2019-02-09 | [link](https://www.twitch.tv/videos/377672762) |
 | 186 | akr_sm64 | 0:03:52 | 2023-09-29 | [link](https://youtu.be/fS_mhGRRXXU) |
 | 186 | SebbyG13 | 0:03:52 | 2024-03-31 | [link](https://youtu.be/qbWdFxuPaJw) |
 | 186 | Mingura666 | 0:03:52 | 2021-04-12 | [link](https://youtu.be/sd02-v4Qxxg) |
