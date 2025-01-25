@@ -73,10 +73,10 @@ categories: speedrun
 | 64 | roopert83 | 0:11:00 | 2021-10-26 | [link](https://www.youtube.com/watch?v=0gx6U3cQYNc) |
 | 64 | GungeonLover | 0:11:00 | 2023-04-20 | [link](https://www.twitch.tv/videos/1799402508) |
 | 64 | MoonJi | 0:11:00 | 2018-05-19 | [link](https://youtu.be/lDOU-ET2LGM) |
-| 67 | TheMexicanRunner | 0:11:01 | 2023-07-20 | [link](https://www.twitch.tv/videos/1877063876) |
-| 67 | SuperSonic | 0:11:01 | 2023-01-17 | [link](https://youtu.be/GGr1Dqtbxcg) |
-| 69 | k1ngk0opa | 0:11:02 | 2023-04-13 | [link](https://youtu.be/pa48kMGj-W8) |
-| 69 | Cookiewise | 0:11:02 | 2023-10-09 | [link](https://www.twitch.tv/videos/1947259052) |
+| 64 | Cookiewise | 0:11:00 | 2024-12-28 | [link](https://www.twitch.tv/videos/2338475749&ab_channel=cookiewise_22) |
+| 68 | TheMexicanRunner | 0:11:01 | 2023-07-20 | [link](https://www.twitch.tv/videos/1877063876) |
+| 68 | SuperSonic | 0:11:01 | 2023-01-17 | [link](https://youtu.be/GGr1Dqtbxcg) |
+| 70 | k1ngk0opa | 0:11:02 | 2023-04-13 | [link](https://youtu.be/pa48kMGj-W8) |
 | 71 | Bertstarebro | 0:11:03 | 2014-09-17 | [link](https://www.youtube.com/watch?v=aTmUEpEu680) |
 | 72 | YerocXx | 0:11:04 | 2020-07-25 | [link](https://youtu.be/tWNbecUrM44) |
 | 72 | Kyuvolka | 0:11:04 | 2023-01-09 | [link](https://www.twitch.tv/videos/1702277928) |
