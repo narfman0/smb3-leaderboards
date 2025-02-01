@@ -70,8 +70,8 @@ categories: speedrun
 | 61 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 61 | assemble_me | 0:52:44 | 2024-05-24 | [link](https://youtu.be/ZhoiD9TisNU?si=h_w4D9VBFDD24CxX&t=18) |
 | 63 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
-| 64 | duckfist | 0:52:47 | 2021-09-04 | [link](https://www.twitch.tv/videos/1139437792?collection=pgQmVpxPpBao_Q) |
 | 64 | TheLostLlama | 0:52:47 | 2016-02-03 | [link](http://www.twitch.tv/thelostllama/v/40275470) |
+| 64 | duckfist | 0:52:47 | 2021-09-04 | [link](https://www.twitch.tv/videos/1139437792?collection=pgQmVpxPpBao_Q) |
 | 66 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
 | 67 | ratboy42 | 0:52:59 | 2023-11-07 | [link](https://www.youtube.com/watch?v=noFQ40qYzaU) |
 | 68 | Malachibros20085721 | 0:53:07 | 2022-06-06 | [link](https://www.twitch.tv/videos/1496529200) |
