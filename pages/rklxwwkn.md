@@ -75,8 +75,8 @@ categories: speedrun
 | 66 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
 | 67 | ratboy42 | 0:52:59 | 2023-11-07 | [link](https://www.youtube.com/watch?v=noFQ40qYzaU) |
 | 68 | Malachibros20085721 | 0:53:07 | 2022-06-06 | [link](https://www.twitch.tv/videos/1496529200) |
-| 69 | Hasauce | 0:53:09 | 2024-06-26 | [link](https://youtu.be/-MtdeWyM8Io) |
-| 69 | roopert83 | 0:53:09 | 2023-03-28 | [link](https://www.youtube.com/watch?v=_8yShyQfy-M) |
+| 68 | roopert83 | 0:53:07 | 2023-03-29 | [link](https://youtu.be/i5oIIgbfM24) |
+| 70 | Hasauce | 0:53:09 | 2024-06-26 | [link](https://youtu.be/-MtdeWyM8Io) |
 | 71 | Finnish2005 | 0:53:13 | 2024-08-08 | [link](https://youtu.be/yECg1ORVAXM) |
 | 72 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
 | 73 | KobrahCJ | 0:53:15 | 2024-04-17 | [link](https://www.twitch.tv/videos/2122814733) |
