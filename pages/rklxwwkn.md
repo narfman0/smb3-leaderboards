@@ -184,8 +184,8 @@ categories: speedrun
 | 175 | reverendtrell | 0:57:48 | 2020-11-13 | [link](https://www.twitch.tv/videos/801414675) |
 | 176 | Gonzo_RTA | 0:57:51 | 2022-04-24 | [link](https://www.twitch.tv/videos/1466385944) |
 | 177 | ZodiacDredd | 0:57:52 | 2018-11-13 | [link](https://www.twitch.tv/videos/335282451) |
-| 178 | thatonevenusaur | 0:57:57 | 2025-01-28 | [link](https://youtu.be/lgE5Bm9lGX0) |
-| 179 | Evvy_wevy | 0:57:58 | 2025-01-27 | [link](https://youtu.be/T6k5fAsZGkk?feature=shared) |
+| 178 | Evvy_wevy | 0:57:54 | 2025-02-06 | [link](https://youtu.be/s8V3McxIQK8?feature=shared) |
+| 179 | thatonevenusaur | 0:57:57 | 2025-01-28 | [link](https://youtu.be/lgE5Bm9lGX0) |
 | 180 | PeaJae | 0:58:03 | 2023-03-06 | [link](https://www.youtube.com/watch?v=dth3aAL5MRk&ab_channel=PeaJae) |
 | 181 | Overswarm | 0:58:06 | 2020-12-11 | [link](https://www.twitch.tv/videos/833482135) |
 | 182 | Veeetiihhh | 0:58:10 | 2023-07-26 | [link](https://www.twitch.tv/videos/1885476885) |
