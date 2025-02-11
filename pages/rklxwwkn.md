@@ -14,9 +14,9 @@ categories: speedrun
 | 5 | Sakaali | 0:50:27 | 2024-08-28 | [link](https://www.twitch.tv/videos/2236381729) |
 | 5 | Czikubi | 0:50:27 | 2024-09-16 | [link](https://www.twitch.tv/videos/2252850647) |
 | 7 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
-| 8 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
-| 9 | TEEX88 | 0:50:53 | 2022-09-10 | [link](https://www.twitch.tv/videos/1587591151) |
-| 9 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
+| 8 | TEEX88 | 0:50:48 | 2025-02-10 | [link](https://www.twitch.tv/videos/2377338814) |
+| 9 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
+| 10 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
 | 11 | Kirua | 0:50:57 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
 | 12 | yatokami9 | 0:51:00 | 2025-01-29 | [link](https://www.youtube.com/watch?v=Zy46S5O2VoI) |
 | 13 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
