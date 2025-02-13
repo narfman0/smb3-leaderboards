@@ -157,8 +157,8 @@ categories: speedrun
 | 148 | Kanis999 | 0:56:35 | 2020-08-29 | [link](https://www.youtube.com/watch?v=S4PBvcU5tuA) |
 | 149 | mrcab55 | 0:56:39 | 2019-12-23 | [link](https://www.youtube.com/watch?v=_N6U3s9yKEE) |
 | 149 | TuttiPullo | 0:56:39 | 2021-01-12 | [link](https://youtu.be/7KwD1QIn170) |
-| 151 | Skyoverlord | 0:56:40 | 2024-11-17 | [link](https://www.twitch.tv/videos/2304504580) |
 | 151 | Vobard | 0:56:40 | 2016-02-14 | [link](http://www.twitch.tv/vobard/v/36880592) |
+| 151 | Skyoverlord | 0:56:40 | 2024-11-17 | [link](https://www.twitch.tv/videos/2304504580) |
 | 153 | MwDAShadow | 0:56:42 | 2024-06-01 | [link](https://www.twitch.tv/videos/2162368966) |
 | 154 | KLM1187 | 0:56:47 | 2020-07-06 | [link](https://www.twitch.tv/videos/671888605) |
 | 155 | iateyoursenpai | 0:56:51 | 2017-11-26 | [link](https://youtu.be/52yimTTPhjs) |
