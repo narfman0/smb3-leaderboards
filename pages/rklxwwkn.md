@@ -12,7 +12,7 @@ categories: speedrun
 | 3 | mitchflowerpower | 0:50:10.416000 | 2022-09-03 | [link](https://www.youtube.com/watch?v=_3n12tb9Sg8&t=15s) |
 | 4 | maibaRTA | 0:50:17 | 2025-01-13 | [link](https://www.twitch.tv/videos/2352891430) |
 | 5 | Czikubi | 0:50:21 | 2025-02-11 | [link](https://www.twitch.tv/videos/2378957754) |
-| 6 | Sakaali | 0:50:27 | 2024-08-28 | [link](https://www.twitch.tv/videos/2236381729) |
+| 6 | Sakaali | 0:50:23 | 2025-02-17 | [link](https://www.twitch.tv/videos/2383765380) |
 | 7 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
 | 8 | TEEX88 | 0:50:48 | 2025-02-10 | [link](https://www.twitch.tv/videos/2377338814) |
 | 9 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
