@@ -412,7 +412,7 @@ categories: speedrun
 | 402 | neapolitan_ice_cream | 0:13:55 | 2023-06-17 | [link](https://youtu.be/2RI2Luv7In8) |
 | 404 | BigMoneyBags | 0:13:55.055000 | 2017-08-22 | [link](https://www.youtube.com/watch?v=qRfY7Hzo0Ss&feature=youtu.be) |
 | 405 | Majora_iOS | 0:13:55.066000 | 2019-12-25 | [link](https://twitter.com/majoraios/status/1209741565226364928?s=21) |
-| 406 | ShesChardcore | 0:13:56 | 2019-09-13 | [link](https://www.twitch.tv/videos/481011283) |
+| 406 | ShesChardcore | 0:13:56 | 2019-09-13 | [link](https://youtu.be/rNTxhn0Ii_Q) |
 | 406 | KillerJorma | 0:13:56 | 2020-10-02 | [link](https://www.youtube.com/watch?v=FqTRbq_rHQg) |
 | 406 | jgmadman | 0:13:56 | 2017-02-07 | [link](https://www.twitch.tv/videos/120384922) |
 | 409 | FarmerDarc | 0:13:58 | 2022-03-11 | [link](https://www.twitch.tv/videos/1422029373) |
