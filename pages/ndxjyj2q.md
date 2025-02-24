@@ -553,7 +553,7 @@ categories: speedrun
 | 544 | garionoldwolf | 0:18:35 | 2018-07-08 | [link](https://www.twitch.tv/videos/282275124) |
 | 545 | JoeyNGaming | 0:18:36 | 2023-11-16 | [link](https://www.twitch.tv/videos/2002375903) |
 | 546 | PilotPlaysGames | 0:18:59 | 2021-04-19 | [link](https://www.twitch.tv/videos/993264719) |
-| 547 | arcticayeka | 0:19:05 | 2024-05-19 | [link](https://www.twitch.tv/videos/2149619592) |
+| 547 | arcticayeka | 0:19:05 | 2024-05-19 | [link](https://www.youtube.com/watch?v=AJDmhPKo1fI&ab_channel=ArcticAyeka) |
 | 548 | Johny_Mandarino | 0:19:22 | 2018-04-04 | [link](https://www.youtube.com/watch?v=e8H6406-j-k) |
 | 549 | maksimry | 0:19:59 | 2022-01-04 | [link](https://youtu.be/0D8TDCkqXH8) |
 | 550 | GreenFrog | 0:20:06 | 2024-03-02 | [link](https://youtu.be/x4RIiHm59gg) |

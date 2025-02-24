@@ -258,7 +258,7 @@ categories: speedrun
 | 249 | ePG | 1:03:53 | 2020-05-12 | [link](https://www.twitch.tv/videos/619452276) |
 | 250 | J_willy91 | 1:04:12 | 2020-04-23 | [link](https://www.twitch.tv/videos/600832499) |
 | 251 | dm1184 | 1:04:27 | 2019-07-22 | [link](https://youtu.be/Gv9NpsWyrnM) |
-| 252 | smartalec24 | 1:04:31 | 2018-01-14 | [link](https://www.twitch.tv/videos/218580567) |
+| 252 | smartalec24 | 1:04:31 | 2018-01-14 | [link](https://www.youtube.com/watch?v=P42tbyWZj_Q) |
 | 253 | NilesMonkey | 1:04:33 | 2022-02-26 | [link](https://www.youtube.com/watch?v=g2njTjS0NBE) |
 | 254 | KingRhodesTn | 1:04:37 | 2018-08-02 | [link](https://www.twitch.tv/videos/292104272) |
 | 255 | Flonichiwa | 1:04:44 | 2020-08-11 | [link](https://www.twitch.tv/videos/707110732) |
