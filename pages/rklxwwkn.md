@@ -7,12 +7,12 @@ categories: speedrun
 
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
-| 1 | narfman0 | 0:50:07 | 2024-04-11 | [link](https://www.twitch.tv/videos/2117096032) |
-| 2 | Kuto1k | 0:50:10.216000 | 2024-09-24 | [link](https://www.twitch.tv/videos/2259105801) |
-| 3 | mitchflowerpower | 0:50:10.416000 | 2022-09-03 | [link](https://www.youtube.com/watch?v=_3n12tb9Sg8&t=15s) |
-| 4 | maibaRTA | 0:50:17 | 2025-01-13 | [link](https://www.twitch.tv/videos/2352891430) |
-| 5 | Czikubi | 0:50:21 | 2025-02-11 | [link](https://www.twitch.tv/videos/2378957754) |
-| 6 | Sakaali | 0:50:23 | 2025-02-17 | [link](https://www.twitch.tv/videos/2383765380) |
+| 1 | narfman0 | 0:50:07.383000 | 2024-04-11 | [link](https://www.twitch.tv/videos/2117096032) |
+| 2 | Sakaali | 0:50:07.433000 | 2025-02-24 | [link](https://www.youtube.com/watch?v=Uy8z5aZwbxs) |
+| 3 | Kuto1k | 0:50:10.216000 | 2024-09-24 | [link](https://www.twitch.tv/videos/2259105801) |
+| 4 | mitchflowerpower | 0:50:10.416000 | 2022-09-03 | [link](https://www.youtube.com/watch?v=_3n12tb9Sg8&t=15s) |
+| 5 | maibaRTA | 0:50:17 | 2025-01-13 | [link](https://www.twitch.tv/videos/2352891430) |
+| 6 | Czikubi | 0:50:21 | 2025-02-11 | [link](https://www.twitch.tv/videos/2378957754) |
 | 7 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
 | 8 | TEEX88 | 0:50:48 | 2025-02-10 | [link](https://www.twitch.tv/videos/2377338814) |
 | 9 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
@@ -49,7 +49,7 @@ categories: speedrun
 | 40 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
 | 41 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
 | 42 | highflyer28 | 0:52:05 | 2024-11-09 | [link](https://www.twitch.tv/videos/2297938347) |
-| 42 | Katti | 0:52:05 | 2024-02-11 | [link](https://www.twitch.tv/videos/2060000643) |
+| 42 | Katti | 0:52:05 | 2024-02-11 | [link](https://youtu.be/w2WeoZs9Fcc) |
 | 44 | helfmyselp | 0:52:08 | 2023-04-12 | [link](https://www.youtube.com/watch?v=WFafWW0fCaI) |
 | 45 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
 | 46 | Japezu | 0:52:15 | 2024-11-29 | [link](https://www.twitch.tv/videos/2313626357) |
@@ -262,7 +262,7 @@ categories: speedrun
 | 253 | NilesMonkey | 1:04:33 | 2022-02-26 | [link](https://www.youtube.com/watch?v=g2njTjS0NBE) |
 | 254 | KingRhodesTn | 1:04:37 | 2018-08-02 | [link](https://www.twitch.tv/videos/292104272) |
 | 255 | Flonichiwa | 1:04:44 | 2020-08-11 | [link](https://www.twitch.tv/videos/707110732) |
-| 256 | sYn | 1:04:45 | 2018-07-05 | [link](https://www.twitch.tv/videos/281380929) |
+| 256 | sYn | 1:04:45 | 2018-07-05 | [link](https://youtu.be/1QxMSI65H9A) |
 | 257 | compugab | 1:04:46 | 2022-02-11 | [link](https://www.twitch.tv/videos/1295181395) |
 | 258 | jamesjmarkeyjr | 1:04:52 | 2021-08-16 | [link](https://youtu.be/8stxbStpMSA) |
 | 259 | Niamek | 1:05:04 | 2024-08-13 | [link](https://www.twitch.tv/videos/2223533461) |
