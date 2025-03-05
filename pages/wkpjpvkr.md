@@ -366,7 +366,7 @@ categories: speedrun
 | 355 | tchfunkta | 0:04:07 | 2017-04-19 | [link](https://youtu.be/iQZ3f5Z1goI) |
 | 355 | Gumbraise | 0:04:07 | 2022-03-19 | [link](https://www.twitch.tv/videos/1430752952) |
 | 355 | CloudsLikeJohn | 0:04:07 | 2023-01-10 | [link](https://youtu.be/PknVYYCNbJM) |
-| 355 | smartalec24 | 0:04:07 | 2024-01-27 | [link](https://www.twitch.tv/videos/2044817053) |
+| 355 | smartalec24 | 0:04:07 | 2024-01-27 | [link](https://www.youtube.com/watch?v=dORHdi6gX98) |
 | 355 | LightWers_ | 0:04:07 | 2018-02-14 | [link](https://www.youtube.com/watch?v=x1W6vKjQmiI) |
 | 355 | DrgnRAGE | 0:04:07 | 2017-03-26 | [link](https://www.youtube.com/watch?v=ekgbcKiQypk) |
 | 355 | defybydefault | 0:04:07 | 2022-03-25 | [link](https://www.twitch.tv/videos/1435999373) |
