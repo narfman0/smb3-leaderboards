@@ -137,9 +137,9 @@ categories: speedrun
 | 127 | Schwartz_RTA | 0:55:13 | 2022-05-16 | [link](https://www.youtube.com/watch?v=t291dw2Z2oU) |
 | 129 | Killamox | 0:55:18 | 2016-03-18 | [link](http://www.twitch.tv/killamox18/v/55107584) |
 | 130 | bowtie1320 | 0:55:19 | 2021-01-19 | [link](https://www.twitch.tv/videos/880694645) |
+| 131 | Shoryupiff | 0:55:27 | 2016-06-27 | [link](https://www.twitch.tv/shoryupiff/v/74817967) |
 | 131 | CraigSMB3 | 0:55:27 | 2022-04-09 | [link](https://www.twitch.tv/videos/1451129661) |
 | 131 | favoritepie | 0:55:27 | 2021-08-15 | [link](https://www.youtube.com/watch?v=QkaZs3RsUGo) |
-| 131 | Shoryupiff | 0:55:27 | 2016-06-27 | [link](https://www.twitch.tv/shoryupiff/v/74817967) |
 | 134 | Galatea86 | 0:55:32 | 2021-11-28 | [link](https://www.youtube.com/watch?v=H3mYvG2HfK0&ab_channel=Galatea86) |
 | 135 | Growly87 | 0:55:41 | 2021-03-25 | [link](https://www.twitch.tv/videos/962376915) |
 | 136 | proa007 | 0:55:48 | 2021-01-27 | [link](https://www.twitch.tv/videos/890704690) |
@@ -171,8 +171,8 @@ categories: speedrun
 | 162 | spsmartguy | 0:56:58 | 2024-06-03 | [link](https://www.youtube.com/watch?v=dS-XC4v06Cs) |
 | 163 | TheBeastMonster_ | 0:57:07 | 2021-03-24 | [link](https://youtu.be/CgoI6vS84ok) |
 | 164 | AnimusUnited | 0:57:08 | 2021-04-17 | [link](https://www.twitch.tv/videos/991323385) |
-| 165 | Mr.JacoPbass | 0:57:18 | 2018-11-28 | [link](https://www.twitch.tv/videos/341875055) |
-| 165 | Evvy_wevy | 0:57:18 | 2025-02-21 | [link](https://youtu.be/k0_HuM6zLIs?feature=shared) |
+| 165 | Evvy_wevy | 0:57:11 | 2025-03-07 | [link](https://youtu.be/1ALRe2bhvcQ?feature=shared) |
+| 166 | Mr.JacoPbass | 0:57:18 | 2018-11-28 | [link](https://www.twitch.tv/videos/341875055) |
 | 167 | Oopla | 0:57:26 | 2023-07-26 | [link](https://www.twitch.tv/videos/1885596651) |
 | 168 | IsoFrieze | 0:57:29 | 2016-12-07 | [link](https://www.youtube.com/watch?v=7-WO3P7viG8) |
 | 169 | kidneykyle | 0:57:29.370000 | 2019-10-06 | [link](https://www.twitch.tv/videos/491121457) |
