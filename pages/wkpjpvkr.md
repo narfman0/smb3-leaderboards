@@ -183,10 +183,10 @@ categories: speedrun
 | 169 | LiamTrader | 0:03:50 | 2023-03-23 | [link](https://youtu.be/XiAwFIfPgfM) |
 | 169 | Happyzombie33 | 0:03:50 | 2024-08-12 | [link](https://www.bilibili.com/video/BV1TAYfeQE7W?t=281.0) |
 | 169 | MC_2018 | 0:03:50 | 2019-01-07 | [link](https://youtu.be/9-Vy5nScZRM) |
+| 177 | DeadmanPR | 0:03:51 | 2020-12-20 | [link](https://www.twitch.tv/videos/844504796) |
 | 177 | Mrvic | 0:03:51 | 2020-10-27 | [link](https://youtu.be/s7yJjpPaRaA) |
 | 177 | dubiousdinobot | 0:03:51 | 2020-08-06 | [link](https://www.twitch.tv/videos/702129272) |
 | 177 | CasualTom | 0:03:51 | 2019-03-30 | [link](https://www.youtube.com/watch?v=27CJsHO1Qt0) |
-| 177 | DeadmanPR | 0:03:51 | 2020-12-20 | [link](https://www.twitch.tv/videos/844504796) |
 | 177 | NathanAlmighty | 0:03:51 | 2017-10-23 | [link](https://www.youtube.com/watch?v=pAvdf5a677k&feature=youtu.be) |
 | 177 | DelTaz | 0:03:51 | 2016-12-14 | [link](https://www.youtube.com/watch?v=1xJ5dhsxtyk&feature=youtu.be) |
 | 177 | Hmw1337 | 0:03:51 | 2018-11-23 | [link](https://www.twitch.tv/videos/339779040) |

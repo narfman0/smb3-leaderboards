@@ -544,7 +544,7 @@ categories: speedrun
 | 535 | dpadsense | 0:17:19 | 2023-01-29 | [link](https://www.twitch.tv/videos/1722442036) |
 | 536 | Klown | 0:17:39 | 2023-09-10 | [link](https://share.icloud.com/photos/090Hsazy8_leNJtMpKDAZpLew) |
 | 537 | Daekwon_M | 0:17:43 | 2024-03-28 | [link](https://www.youtube.com/watch?v=eM2WrqiE6_g) |
-| 538 | Logaaaaan64 | 0:17:44 | 2025-02-05 | [link](https://www.twitch.tv/videos/2372731709) |
+| 538 | Logaaaaan64 | 0:17:44 | 2025-02-05 | [link](https://youtu.be/U-f9EU0ZYaY) |
 | 539 | RickyBoy_EA96 | 0:17:46 | 2020-12-22 | [link](https://www.youtube.com/watch?v=mQjlZntCwmM) |
 | 540 | NegritoGarka123 | 0:17:50 | 2021-02-24 | [link](https://youtu.be/0sJAmF_c2HA) |
 | 541 | JustLeeBelmont | 0:18:02 | 2019-01-09 | [link](https://www.twitch.tv/videos/390428265) |
