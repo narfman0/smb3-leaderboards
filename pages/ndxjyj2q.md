@@ -379,7 +379,7 @@ categories: speedrun
 | 370 | MythicDeo | 0:13:31 | 2018-03-28 | [link](https://www.twitch.tv/videos/244112139) |
 | 370 | Charlieboy | 0:13:31 | 2017-02-08 | [link](https://www.youtube.com/watch?v=W9s6qlXi74s) |
 | 372 | Storster | 0:13:33 | 2022-03-10 | [link](https://youtu.be/4pcJ8jlItpQ) |
-| 372 | HerrBucket | 0:13:33 | 2013-08-16 | [link](http://www.twitch.tv/herrbucket/c/2763471) |
+| 372 | HerrBucket | 0:13:33 | 2013-08-16 | [link](https://www.youtube.com/watch?v=awXpZZeL8WI) |
 | 374 | andresfgp13 | 0:13:35 | 2021-03-05 | [link](https://youtu.be/BIM4Jn0ZrOE) |
 | 374 | AnotherFunkingGamer | 0:13:35 | 2021-01-23 | [link](https://www.youtube.com/watch?v=bPBVeE4RcJM&feature=youtu.be) |
 | 376 | ilmothedude | 0:13:37 | 2017-11-05 | [link](https://www.youtube.com/watch?v=JIyLPSbXea0) |
