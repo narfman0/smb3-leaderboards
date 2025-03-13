@@ -282,7 +282,7 @@ categories: speedrun
 | 273 | Tymondo | 0:12:26 | 2023-06-19 | [link](https://www.youtube.com/watch?v=C8MXomfj3is) |
 | 273 | tylerthomson84 | 0:12:26 | 2017-03-27 | [link](https://www.youtube.com/watch?v=EMIs_OhaIuE) |
 | 273 | kirbocyhn | 0:12:26 | 2019-02-17 | [link](https://www.twitch.tv/videos/382485932) |
-| 273 | AaronTruitt | 0:12:26 | 2022-04-08 | [link](https://www.twitch.tv/videos/1450316515) |
+| 273 | AaronTruitt | 0:12:26 | 2022-04-08 | [link](https://youtu.be/2oZV5CgIqlU) |
 | 277 | Guwapo | 0:12:27 | 2024-04-18 | [link](https://www.twitch.tv/videos/2123638424) |
 | 278 | PeekingBoo | 0:12:29 | 2018-11-26 | [link](https://www.youtube.com/watch?v=JHtMpOWdBaE) |
 | 279 | chadilak | 0:12:30 | 2018-07-11 | [link](https://www.youtube.com/watch?v=5x8wH-dj0xI) |
