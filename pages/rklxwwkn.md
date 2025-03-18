@@ -28,8 +28,8 @@ categories: speedrun
 | 19 | Lainerainer | 0:51:20 | 2024-03-23 | [link](https://youtu.be/s2lNt7R5cOU?si=N58mqrSnA27isW84) |
 | 20 | Ellonija | 0:51:21 | 2017-05-24 | [link](https://www.twitch.tv/videos/146750506) |
 | 21 | Mondii | 0:51:23 | 2023-04-02 | [link](https://www.twitch.tv/videos/1782912675) |
-| 22 | Scarface | 0:51:26 | 2022-04-04 | [link](https://youtu.be/rxJoeyjzlDA) |
 | 22 | budzyRNG | 0:51:26 | 2023-12-19 | [link](https://www.youtube.com/watch?v=Bnviz9aoKgM) |
+| 22 | Scarface | 0:51:26 | 2022-04-04 | [link](https://youtu.be/rxJoeyjzlDA) |
 | 24 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
 | 24 | neoshazam | 0:51:27 | 2024-07-30 | [link](https://www.bitchute.com/video/rePDGrc5FI0t) |
 | 26 | stewie_cartman | 0:51:31 | 2024-10-19 | [link](https://www.twitch.tv/videos/2280368172) |
