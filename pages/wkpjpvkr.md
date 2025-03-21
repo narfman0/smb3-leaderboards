@@ -243,12 +243,12 @@ categories: speedrun
 | 224 | quesmues | 0:03:55 | 2016-09-19 | [link](https://www.youtube.com/watch?v=YBs5IrDC33M&feature=youtu.be) |
 | 224 | santicop | 0:03:55 | 2024-11-02 | [link](https://youtu.be/Eb_Ub7kZIBw) |
 | 236 | Vireth | 0:03:56 | 2020-06-07 | [link](https://youtu.be/YweVOyYi3FQ) |
-| 236 | epicnubedemelon | 0:03:56 | 2019-03-28 | [link](https://www.youtube.com/watch?v=9OhFY4Ckf4Y&feature=youtu.be) |
 | 236 | yatokami9 | 0:03:56 | 2021-06-30 | [link](https://www.twitch.tv/videos/1071691925) |
 | 236 | Magestikal | 0:03:56 | 2021-06-19 | [link](https://www.youtube.com/watch?v=1S5zyfYdV6s) |
 | 236 | TakoGamesAu | 0:03:56 | 2021-06-15 | [link](https://www.youtube.com/watch?v=e-9BfExjtKQ) |
 | 236 | FozyCX | 0:03:56 | 2021-04-27 | [link](https://www.twitch.tv/videos/1002603632) |
 | 236 | Adam1205 | 0:03:56 | 2017-08-22 | [link](https://www.youtube.com/watch?v=8Z2r2MucCmI&feature=youtu.be) |
+| 236 | epicnubedemelon | 0:03:56 | 2019-03-28 | [link](https://www.youtube.com/watch?v=9OhFY4Ckf4Y&feature=youtu.be) |
 | 236 | Vertor | 0:03:56 | 2024-08-08 | [link](https://www.youtube.com/watch?v=VhuVlwsSXXg) |
 | 236 | Kojr55 | 0:03:56 | 2018-07-01 | [link](https://www.youtube.com/watch?v=-C0PMYgCI6Y) |
 | 236 | 33quentin | 0:03:56 | 2018-02-01 | [link](https://www.youtube.com/watch?v=6S9mj09sRPk) |
@@ -578,7 +578,7 @@ categories: speedrun
 | 568 | Contraslayer | 0:04:46 | 2017-01-26 | [link](https://www.twitch.tv/contraslayer/v/117521496) |
 | 568 | zombieSR | 0:04:46 | 2022-02-27 | [link](https://youtu.be/PtvFswKbTGs) |
 | 568 | GonGon99 | 0:04:46 | 2023-02-12 | [link](https://youtu.be/pVe9JqUqhkY) |
-| 568 | TheFrenchSushi | 0:04:46 | 2025-03-19 | [link](https://youtu.be/qLpRZ1DiGqQ?si=Qo3dJ_AgPqRLaZbc) |
+| 568 | TheFrenchSushi | 0:04:46 | 2025-03-16 | [link](https://youtu.be/qLpRZ1DiGqQ?si=Qo3dJ_AgPqRLaZbc) |
 | 573 | Firelemon | 0:04:47 | 2020-07-24 | [link](https://www.youtube.com/watch?v=KCpkefiEBho&feature=youtu.be) |
 | 573 | Uriroitgrund | 0:04:47 | 2020-12-28 | [link](https://youtu.be/QTHjTlLDhb4) |
 | 573 | tyleursmb3 | 0:04:47 | 2022-05-23 | [link](https://youtu.be/i4NQBeeMX7Q) |
