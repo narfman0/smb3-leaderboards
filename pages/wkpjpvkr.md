@@ -358,7 +358,7 @@ categories: speedrun
 | 346 | Unstea | 0:04:06 | 2016-11-27 | [link](https://www.youtube.com/watch?v=_i-YBdoeuJQ&feature=youtu.be) |
 | 346 | Billy_bongsalot | 0:04:06 | 2024-08-23 | [link](https://www.youtube.com/watch?v=Fs8rz2L8nIM) |
 | 346 | MarioOO | 0:04:06 | 2023-07-16 | [link](https://youtu.be/c7qIXyEFWX4) |
-| 346 | link_7777 | 0:04:06 | 2018-03-11 | [link](https://www.twitch.tv/videos/240009004) |
+| 346 | link_7777 | 0:04:06 | 2018-03-11 | [link](https://youtu.be/qJKnGtoo3H4) |
 | 346 | dohggy | 0:04:06 | 2018-12-31 | [link](https://youtu.be/HYgZtiVm6TY) |
 | 346 | ShadowPanda | 0:04:06 | 2016-11-04 | [link](https://www.twitch.tv/shadowpanda__/v/99024030) |
 | 346 | DylanClarkWebb | 0:04:06 | 2018-02-15 | [link](https://youtu.be/WhjzZ0OnnF4) |

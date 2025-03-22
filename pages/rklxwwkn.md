@@ -144,8 +144,8 @@ categories: speedrun
 | 135 | Growly87 | 0:55:41 | 2021-03-25 | [link](https://www.twitch.tv/videos/962376915) |
 | 136 | proa007 | 0:55:48 | 2021-01-27 | [link](https://www.twitch.tv/videos/890704690) |
 | 136 | 10ooki | 0:55:48 | 2015-09-20 | [link](https://youtu.be/moWdUhL7_FY) |
-| 138 | beardylocks | 0:55:52 | 2022-04-29 | [link](https://youtu.be/NQtke3_kmFo) |
 | 138 | SuperMegaDav | 0:55:52 | 2021-01-23 | [link](https://www.twitch.tv/videos/897929872) |
+| 138 | beardylocks | 0:55:52 | 2022-04-29 | [link](https://youtu.be/NQtke3_kmFo) |
 | 140 | RoyLT | 0:55:59 | 2020-09-20 | [link](https://youtu.be/5K221OrzOt8) |
 | 141 | Peter_Blacksmith | 0:56:10 | 2025-03-05 | [link](https://www.youtube.com/watch?v=9huYenOqr-g) |
 | 142 | nerd4LERT | 0:56:12 | 2023-03-12 | [link](https://www.youtube.com/watch?v=rwMg47Sfc_8) |
