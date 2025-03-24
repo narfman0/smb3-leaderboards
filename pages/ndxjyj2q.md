@@ -417,7 +417,7 @@ categories: speedrun
 | 407 | KillerJorma | 0:13:56 | 2020-10-02 | [link](https://www.youtube.com/watch?v=FqTRbq_rHQg) |
 | 407 | jgmadman | 0:13:56 | 2017-02-07 | [link](https://www.twitch.tv/videos/120384922) |
 | 410 | FarmerDarc | 0:13:58 | 2022-03-11 | [link](https://www.twitch.tv/videos/1422029373) |
-| 410 | ShyKoopa_LFG | 0:13:58 | 2025-02-02 | [link](https://www.twitch.tv/videos/2370822271) |
+| 410 | ShyKoopa_LFG | 0:13:58 | 2025-02-02 | [link](https://youtu.be/EDEcojwXv5Y?si=cOCPPweSs4Mg65bg) |
 | 412 | j_wiegs | 0:13:59 | 2018-11-29 | [link](https://www.twitch.tv/videos/342548963) |
 | 412 | KALLAX | 0:13:59 | 2022-03-30 | [link](https://youtu.be/7sGWcWiNcCQ) |
 | 412 | OldSchool_Richard | 0:13:59 | 2016-10-22 | [link](https://www.twitch.tv/infestedriche/v/96510781) |
