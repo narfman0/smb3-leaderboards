@@ -18,8 +18,8 @@ categories: speedrun
 | 9 | thebagler5 | 0:50:52 | 2023-03-24 | [link](https://www.twitch.tv/videos/1774582325) |
 | 10 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
 | 11 | Kirua | 0:50:57 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
-| 12 | yatokami9 | 0:51:00 | 2025-01-29 | [link](https://www.youtube.com/watch?v=Zy46S5O2VoI) |
-| 13 | Track1 | 0:51:07 | 2025-02-28 | [link](https://www.twitch.tv/videos/2393261632?filter=highlights&sort=time) |
+| 12 | Track1 | 0:50:59 | 2025-03-25 | [link](https://www.twitch.tv/videos/2415137811) |
+| 13 | yatokami9 | 0:51:00 | 2025-01-29 | [link](https://www.youtube.com/watch?v=Zy46S5O2VoI) |
 | 14 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
 | 15 | jtknott | 0:51:09 | 2024-04-13 | [link](https://youtu.be/k3K5M794lZE) |
 | 16 | scalpel | 0:51:11 | 2024-02-10 | [link](https://www.youtube.com/watch?v=eJr2hN62rEE) |
