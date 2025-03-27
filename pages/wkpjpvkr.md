@@ -169,9 +169,9 @@ categories: speedrun
 | 153 | pJ00nas | 0:03:48 | 2021-08-30 | [link](https://www.twitch.tv/videos/1134129680) |
 | 153 | SomeBro | 0:03:48 | 2018-02-16 | [link](https://youtu.be/n2uP1ndlgmw) |
 | 162 | eHolden | 0:03:49 | 2020-06-17 | [link](https://youtu.be/bRPZ6UlAGOI) |
-| 162 | Steele | 0:03:49 | 2019-03-28 | [link](https://youtu.be/SWWhAN9Mu4Y) |
 | 162 | Kinder | 0:03:49 | 2017-10-31 | [link](https://www.youtube.com/watch?v=hqMYTOwGGSc&feature=youtu.be) |
 | 162 | JeimarZeth | 0:03:49 | 2017-07-01 | [link](https://www.twitch.tv/videos/155754621) |
+| 162 | Steele | 0:03:49 | 2019-03-28 | [link](https://youtu.be/SWWhAN9Mu4Y) |
 | 162 | I_Enjoy_Games | 0:03:49 | 2023-06-13 | [link](https://youtu.be/sSbgr2jiiHc) |
 | 162 | BoonieVeteran | 0:03:49 | 2024-09-04 | [link](https://youtu.be/bsMUMaGtCSM?si=oBTKsREYxA3kUYed) |
 | 162 | THE_T_V1RUS | 0:03:49 | 2016-10-31 | [link](https://www.youtube.com/watch?v=tvhB-OiUha4&feature=youtu.be) |
