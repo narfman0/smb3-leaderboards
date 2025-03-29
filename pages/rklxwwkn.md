@@ -38,7 +38,7 @@ categories: speedrun
 | 29 | Baddap1 | 0:51:44 | 2025-03-22 | [link](https://youtu.be/0s0Ut-Sivns) |
 | 30 | SpicyChickenSpiciBoi | 0:51:46 | 2024-01-26 | [link](https://youtu.be/m04CEaE3KbM) |
 | 31 | GungeonLover | 0:51:47 | 2023-07-21 | [link](https://www.twitch.tv/videos/1877692681) |
-| 32 | MarstoS | 0:51:47.690000 | 2025-03-26 | [link](https://www.twitch.tv/videos/2416119222) |
+| 31 | MarstoS | 0:51:47 | 2025-03-26 | [link](https://www.twitch.tv/videos/2416119222) |
 | 33 | Mars02 | 0:51:51 | 2022-08-06 | [link](https://www.youtube.com/watch?v=jHfnOtf6HlA) |
 | 33 | WhenChukAttacks | 0:51:51 | 2018-03-29 | [link](https://www.twitch.tv/videos/244391585) |
 | 35 | Outside_Lutz | 0:51:53 | 2014-03-23 | [link](https://www.youtube.com/watch?v=IjSx5GHtB78) |
@@ -410,5 +410,6 @@ categories: speedrun
 | 401 | derrykyle | 4:04:10 | 2019-08-19 | [link](https://www.twitch.tv/videos/236889131) |
 | 402 | Forrestkitty | 4:15:40 | 2020-06-04 | [link](https://www.twitch.tv/videos/641807192) |
 | 403 | Wyatt_James | 4:45:52 | 2018-12-15 | [link](https://youtu.be/PD-DHhCoclc) |
-| 404 | rezephos | 5:35:37 | 2017-03-26 | [link](https://www.twitch.tv/videos/131436208) |
-| 405 | Milk | 19:09:32 | 2015-01-18 | [link](https://www.twitch.tv/powderedmilk_/v/42001981) |
+| 404 | Rox | 5:10:54 | 2025-03-27 | [link](https://youtu.be/7WM7ikMfW6I) |
+| 405 | rezephos | 5:35:37 | 2017-03-26 | [link](https://www.twitch.tv/videos/131436208) |
+| 406 | Milk | 19:09:32 | 2015-01-18 | [link](https://www.twitch.tv/powderedmilk_/v/42001981) |

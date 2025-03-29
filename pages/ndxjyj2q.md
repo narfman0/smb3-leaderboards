@@ -519,7 +519,7 @@ categories: speedrun
 | 510 | DodgemasterDooley | 0:15:52 | 2018-01-19 | [link](https://www.twitch.tv/videos/220072290) |
 | 511 | zdoroviy_antony | 0:15:53 | 2017-09-15 | [link](https://www.youtube.com/watch?v=UGkzXF3PFoQ&feature=youtu.be) |
 | 512 | briphotoguy | 0:15:54 | 2016-11-27 | [link](https://www.twitch.tv/briphotoguy/v/103737900) |
-| 513 | JoePulito | 0:15:56 | 2020-12-08 | [link](https://www.twitch.tv/videos/826274355) |
+| 513 | JoePulito | 0:15:56 | 2020-12-08 | [link](https://youtu.be/a98ADuwdzmw) |
 | 514 | cpt32 | 0:15:57 | 2024-10-07 | [link](https://www.bilibili.com/video/BV1641CYVEuQ) |
 | 515 | Rissey | 0:15:58 | 2020-07-04 | [link](https://youtu.be/MeAdUML5kIU) |
 | 516 | tacocatmke | 0:16:03 | 2020-02-08 | [link](https://www.twitch.tv/videos/549437295) |
