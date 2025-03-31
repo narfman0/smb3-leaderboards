@@ -23,7 +23,7 @@ categories: speedrun
 | 14 | jscarbo | 0:10:48.183000 | 2021-07-26 | [link](https://youtu.be/wZ4yCw3VTCI) |
 | 15 | narfman0 | 0:10:48.233000 | 2025-02-11 | [link](https://www.twitch.tv/videos/2378965803) |
 | 16 | iceball8314 | 0:10:48.466000 | 2022-11-26 | [link](https://www.youtube.com/watch?v=yfs7KZd-aZI) |
-| 17 | stewie_cartman | 0:10:48.766000 | 2023-04-19 | [link](https://www.twitch.tv/videos/1798550554) |
+| 17 | stewie_cartman | 0:10:48.766000 | 2023-04-19 | [link](https://www.youtube.com/watch?v=zR8jB6c317s) |
 | 18 | Miniland | 0:10:48.900000 | 2021-07-23 | [link](https://youtu.be/A5Eh3eKw69c) |
 | 19 | Sakaali | 0:10:49.250000 | 2024-03-14 | [link](https://www.twitch.tv/videos/2090717742) |
 | 20 | SkylightFox | 0:10:49.366000 | 2017-03-05 | [link](https://www.twitch.tv/videos/126600230) |
