@@ -292,6 +292,7 @@ categories: speedrun
 | 280 | CreatiX | 0:03:59 | 2020-02-22 | [link](https://youtu.be/cThrF_3Invs) |
 | 280 | ThePigKing | 0:03:59 | 2020-01-13 | [link](https://youtu.be/IvhV07eVwq8) |
 | 280 | Dellowood | 0:03:59 | 2021-01-08 | [link](https://www.youtube.com/watch?v=-mHo4ksbReY) |
+| 280 | Sofa1 | 0:03:59 | 2018-02-02 | [link](https://www.twitch.tv/videos/224762764) |
 | 280 | HJA | 0:03:59 | 2017-10-23 | [link](https://www.youtube.com/watch?v=_CmANw241yo) |
 | 280 | KaiserKrister | 0:03:59 | 2017-09-19 | [link](https://www.twitch.tv/videos/175971008) |
 | 280 | Nikelaus | 0:03:59 | 2017-06-01 | [link](https://www.youtube.com/watch?v=mRU-DR2kNjs) |
@@ -300,7 +301,6 @@ categories: speedrun
 | 280 | sejoon0701 | 0:03:59 | 2024-05-12 | [link](https://youtu.be/VlPVoWkmRM8?si=XAuu8td88BTIanlH) |
 | 280 | Marmon | 0:03:59 | 2023-04-30 | [link](https://www.twitch.tv/videos/1803960875) |
 | 280 | IluvMario | 0:03:59 | 2014-05-21 | [link](https://www.twitch.tv/iluvmario/v/49223345) |
-| 280 | Sofa1 | 0:03:59 | 2018-02-02 | [link](https://www.twitch.tv/videos/224762764) |
 | 280 | ThatRedMelon | 0:03:59 | 2025-01-18 | [link](https://www.youtube.com/watch?v=4--xJ8Ug69c) |
 | 296 | tmyoukai | 0:04:00 | 2020-07-08 | [link](https://www.twitch.tv/videos/673384421) |
 | 296 | SilenceErupts | 0:04:00 | 2019-11-20 | [link](https://www.youtube.com/watch?v=OIAwbaeiGIQ) |
@@ -397,8 +397,8 @@ categories: speedrun
 | 379 | sdmx | 0:04:09 | 2018-11-17 | [link](https://www.youtube.com/watch?v=Aut2GUbHtGo) |
 | 379 | Darkmariosan | 0:04:09 | 2018-01-28 | [link](https://www.youtube.com/watch?v=WA2avBuWtpk) |
 | 390 | Thelxinoe | 0:04:10 | 2020-09-06 | [link](https://www.twitch.tv/videos/730836076) |
-| 390 | Parrot_Dash | 0:04:10 | 2019-04-17 | [link](https://youtu.be/7b0MFKNSNh4) |
 | 390 | chinoe | 0:04:10 | 2021-12-22 | [link](https://youtu.be/43TbHWwshrg) |
+| 390 | Parrot_Dash | 0:04:10 | 2019-04-17 | [link](https://youtu.be/7b0MFKNSNh4) |
 | 390 | Datenshineko | 0:04:10 | 2017-01-27 | [link](https://www.youtube.com/watch?v=kkfTM37j-NU) |
 | 390 | ViolentCrumble | 0:04:10 | 2016-07-16 | [link](https://www.youtube.com/watch?v=Br47sxEbpQ8&feature=youtu.be) |
 | 390 | NeonSpeak | 0:04:10 | 2018-06-19 | [link](https://www.twitch.tv/videos/275057288) |
@@ -588,9 +588,9 @@ categories: speedrun
 | 578 | Firelemon | 0:04:47 | 2020-07-24 | [link](https://www.youtube.com/watch?v=KCpkefiEBho&feature=youtu.be) |
 | 578 | tyleursmb3 | 0:04:47 | 2022-05-23 | [link](https://youtu.be/i4NQBeeMX7Q) |
 | 581 | alex03 | 0:04:48 | 2020-09-10 | [link](https://www.youtube.com/watch?v=cv1UmYpt0Y8) |
+| 581 | sirmax | 0:04:48 | 2018-02-04 | [link](https://youtu.be/ZCx68_FAvu4) |
 | 581 | GibEvad | 0:04:48 | 2018-03-10 | [link](https://www.youtube.com/watch?v=820tiC3WHAc) |
 | 581 | poyo64 | 0:04:48 | 2023-12-11 | [link](https://youtu.be/qpTxeuJ0w2k?si=Q8OwXLo4fpj3Adxp) |
-| 581 | sirmax | 0:04:48 | 2018-02-04 | [link](https://youtu.be/ZCx68_FAvu4) |
 | 581 | dydyhg | 0:04:48 | 2018-03-28 | [link](https://youtu.be/DgAolwtQ_YQ) |
 | 581 | Alicemadness | 0:04:48 | 2022-06-30 | [link](https://www.youtube.com/watch?v=n5Zvq2aiI_s) |
 | 581 | CaptainBob6 | 0:04:48 | 2019-09-29 | [link](https://www.youtube.com/watch?v=PHA3VwtZXIk&t) |
