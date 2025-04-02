@@ -403,7 +403,7 @@ categories: speedrun
 | 394 | Kongkrete | 2:26:09 | 2020-11-15 | [link](https://www.youtube.com/watch?v=ifG1d0nR86M) |
 | 395 | brunobrolly | 2:46:29 | 2022-04-04 | [link](https://www.youtube.com/watch?v=rzE1-Pp3ONA) |
 | 396 | KaiserKrister | 2:47:29 | 2017-06-06 | [link](https://www.twitch.tv/videos/149819915) |
-| 397 | FurretTurret | 2:55:49 | 2015-01-17 | [link](https://www.twitch.tv/videos/41891156) |
+| 397 | FurretTurret | 2:55:49 | 2015-01-17 | [link](https://www.youtube.com/watch?v=Mv0gYMf_lcg) |
 | 398 | coolmario2156 | 3:00:00 | 2017-06-26 | [link](http://emulator.online/nes/super-mario-bros-3/) |
 | 399 | stephen_irl | 3:16:41 | 2017-05-19 | [link](https://www.twitch.tv/videos/145468114) |
 | 400 | Johny_Mandarino | 3:59:24 | 2018-03-24 | [link](https://www.youtube.com/watch?v=Zxn7SulO_m8) |
