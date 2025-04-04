@@ -227,7 +227,7 @@ categories: speedrun
 | 218 | Remz | 0:59:48 | 2017-11-23 | [link](https://www.twitch.tv/videos/203719293) |
 | 219 | sabori | 0:59:50 | 2022-12-22 | [link](https://www.youtube.com/watch?v=1o-EcMr9BDI&t=3301s) |
 | 220 | subtlewookiee | 0:59:55 | 2023-09-21 | [link](https://youtu.be/gf6VmkGQTlY) |
-| 220 | Acmlm | 0:59:55 | 2014-01-04 | [link](https://www.twitch.tv/videos/46110189) |
+| 220 | Acmlm | 0:59:55 | 2014-01-04 | [link](https://youtu.be/bYg9JqDgCBw) |
 | 222 | JakeBopDart | 0:59:57 | 2024-01-21 | [link](https://youtu.be/9tZRAtKH118?si=9Ut0tq0JqVMoqt4N) |
 | 223 | JSR_ | 1:00:10 | 2021-04-03 | [link](https://www.twitch.tv/videos/974527277) |
 | 224 | Jhoelito | 1:00:11 | 2023-04-10 | [link](https://youtu.be/CWGIlUEkIlY) |
