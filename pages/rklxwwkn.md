@@ -92,11 +92,11 @@ categories: speedrun
 | 83 | deisui | 0:53:37 | 2016-09-07 | [link](http://www.nicovideo.jp/watch/sm30043547) |
 | 83 | hum4ls | 0:53:37 | 2025-03-06 | [link](https://www.youtube.com/watch?v=uZaotj7cySs) |
 | 85 | Rh4kor | 0:53:40 | 2024-09-14 | [link](https://www.twitch.tv/videos/2251184398) |
-| 86 | COOLKID | 0:53:41 | 2019-03-19 | [link](https://www.twitch.tv/videos/398148894) |
-| 87 | Kettu82 | 0:53:43 | 2025-03-30 | [link](https://www.twitch.tv/videos/2419673047) |
-| 88 | zekeSSB | 0:53:48 | 2024-05-24 | [link](https://www.twitch.tv/videos/2153697846) |
-| 89 | TheClassicOne88 | 0:53:50 | 2020-07-26 | [link](https://www.twitch.tv/videos/691257713) |
-| 90 | HocusPocus | 0:53:51 | 2025-02-25 | [link](https://www.twitch.tv/videos/2390838106) |
+| 85 | HocusPocus | 0:53:40 | 2025-04-06 | [link](https://www.twitch.tv/videos/2425622097) |
+| 87 | COOLKID | 0:53:41 | 2019-03-19 | [link](https://www.twitch.tv/videos/398148894) |
+| 88 | Kettu82 | 0:53:43 | 2025-03-30 | [link](https://www.twitch.tv/videos/2419673047) |
+| 89 | zekeSSB | 0:53:48 | 2024-05-24 | [link](https://www.twitch.tv/videos/2153697846) |
+| 90 | TheClassicOne88 | 0:53:50 | 2020-07-26 | [link](https://www.twitch.tv/videos/691257713) |
 | 91 | TheLightYagami | 0:53:58 | 2015-09-08 | [link](http://www.twitch.tv/thelightyagami/v/15146872) |
 | 91 | Tompa | 0:53:58 | 2022-06-02 | [link](https://www.twitch.tv/videos/1503754373) |
 | 93 | esmo88 | 0:53:59 | 2020-02-01 | [link](https://www.twitch.tv/videos/545533125) |
