@@ -573,7 +573,7 @@ categories: speedrun
 | 564 | SamuelStokesMusic | 0:24:55 | 2021-01-04 | [link](https://youtu.be/tyNckQ9OzCg) |
 | 565 | Dutch_Kirb | 0:25:37 | 2023-08-22 | [link](https://youtu.be/b7Z3r_7Pbhk) |
 | 566 | kabAudio | 0:27:07 | 2022-02-06 | [link](https://www.twitch.tv/videos/1289635912) |
-| 567 | mammaru339 | 0:30:09 | 2019-03-18 | [link](https://www.twitch.tv/videos/398919815) |
+| 567 | mammaru339 | 0:30:09 | 2019-03-18 | [link](https://youtu.be/tyUSGOpENZo) |
 | 568 | derrykyle | 0:34:05 | 2019-09-01 | [link](https://www.twitch.tv/videos/475477284) |
 | 569 | Drumboardist | 0:40:39 | 2019-03-02 | [link](https://www.twitch.tv/videos/393869021) |
 | 570 | aaron2u2 | 0:41:25 | 2021-03-25 | [link](https://www.twitch.tv/videos/964813357) |

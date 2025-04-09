@@ -249,10 +249,10 @@ categories: speedrun
 | 240 | itsbeeve | 1:01:39 | 2022-01-30 | [link](https://www.twitch.tv/videos/1281797471) |
 | 241 | riscky | 1:01:50 | 2018-03-30 | [link](https://youtu.be/UEFUtJmqm2U) |
 | 242 | grimlocksoflove | 1:01:54 | 2021-09-14 | [link](https://www.twitch.tv/videos/1148803650) |
-| 243 | DAIKON | 1:02:50 | 2016-09-06 | [link](https://www.twitch.tv/officialdaikon/v/87943522) |
-| 244 | VintageClassicGamer | 1:02:54 | 2020-04-09 | [link](https://www.twitch.tv/videos/587930656) |
-| 244 | extyman | 1:02:54 | 2018-04-18 | [link](https://www.youtube.com/watch?v=OP1USSOZXSo) |
-| 246 | naksuboyvesifirma | 1:03:13 | 2025-02-27 | [link](https://youtu.be/XtiUZptgYvc) |
+| 243 | naksuboyvesifirma | 1:02:16 | 2025-04-08 | [link](https://youtu.be/8eovdsdPOpk) |
+| 244 | DAIKON | 1:02:50 | 2016-09-06 | [link](https://www.twitch.tv/officialdaikon/v/87943522) |
+| 245 | VintageClassicGamer | 1:02:54 | 2020-04-09 | [link](https://www.twitch.tv/videos/587930656) |
+| 245 | extyman | 1:02:54 | 2018-04-18 | [link](https://www.youtube.com/watch?v=OP1USSOZXSo) |
 | 247 | macmacer | 1:03:23 | 2022-06-22 | [link](https://youtu.be/zD4wU3NNTec) |
 | 248 | Justinmetal | 1:03:24 | 2021-10-31 | [link](https://m.youtube.com/watch?v=leZy-Bdfew8&t=2390s) |
 | 249 | SeanRaider | 1:03:31 | 2021-06-20 | [link](https://www.twitch.tv/videos/1057097019) |
