@@ -93,8 +93,8 @@ categories: speedrun
 | 83 | hum4ls | 0:53:37 | 2025-03-06 | [link](https://www.youtube.com/watch?v=uZaotj7cySs) |
 | 85 | Rh4kor | 0:53:40 | 2024-09-14 | [link](https://www.twitch.tv/videos/2251184398) |
 | 85 | HocusPocus | 0:53:40 | 2025-04-06 | [link](https://www.twitch.tv/videos/2425622097) |
-| 87 | COOLKID | 0:53:41 | 2019-03-19 | [link](https://www.twitch.tv/videos/398148894) |
-| 88 | Kettu82 | 0:53:43 | 2025-03-30 | [link](https://www.twitch.tv/videos/2419673047) |
+| 85 | Kettu82 | 0:53:40 | 2025-04-09 | [link](https://www.youtube.com/watch?v=2Ya2-Tl_DMY) |
+| 88 | COOLKID | 0:53:41 | 2019-03-19 | [link](https://www.twitch.tv/videos/398148894) |
 | 89 | zekeSSB | 0:53:48 | 2024-05-24 | [link](https://www.twitch.tv/videos/2153697846) |
 | 90 | TheClassicOne88 | 0:53:50 | 2020-07-26 | [link](https://www.twitch.tv/videos/691257713) |
 | 91 | TheLightYagami | 0:53:58 | 2015-09-08 | [link](http://www.twitch.tv/thelightyagami/v/15146872) |
