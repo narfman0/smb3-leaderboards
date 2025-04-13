@@ -379,7 +379,7 @@ categories: speedrun
 | 370 | PrecisGirl | 0:13:28 | 2023-05-16 | [link](https://www.twitch.tv/videos/1821978941) |
 | 371 | sYn | 0:13:29 | 2018-03-14 | [link](https://www.twitch.tv/videos/238912690) |
 | 371 | MauricinhoPOWER | 0:13:29 | 2021-02-23 | [link](https://www.twitch.tv/videos/926043645) |
-| 371 | BloodDerg | 0:13:29 | 2019-02-06 | [link](https://www.twitch.tv/videos/376215831) |
+| 371 | BloodDerg | 0:13:29 | 2019-02-06 | [link](https://www.youtube.com/watch?v=7vbA1dsZ9FE) |
 | 374 | synthpopisback | 0:13:30 | 2019-10-27 | [link](https://www.twitch.tv/videos/500215531) |
 | 375 | MythicDeo | 0:13:31 | 2018-03-28 | [link](https://www.twitch.tv/videos/244112139) |
 | 375 | Charlieboy | 0:13:31 | 2017-02-08 | [link](https://www.youtube.com/watch?v=W9s6qlXi74s) |
