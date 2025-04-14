@@ -417,7 +417,7 @@ categories: speedrun
 | 402 | noonyfu | 0:04:12 | 2023-01-28 | [link](https://www.youtube.com/watch?v=zsnSZ_yWqIQ) |
 | 409 | SwemxdTV | 0:04:13 | 2020-10-07 | [link](https://www.youtube.com/watch?v=SOu9_7QKfbw&ab_channel=SwemxdTV) |
 | 409 | Checkmate6659 | 0:04:13 | 2020-07-12 | [link](https://youtu.be/0fWJRVJsYN0) |
-| 409 | 360Chrism | 0:04:13 | 2020-02-08 | [link](https://www.twitch.tv/videos/549481827) |
+| 409 | 360Chrism | 0:04:13 | 2020-02-08 | [link](https://youtu.be/nu9HQjENqLQ) |
 | 409 | greatjhon | 0:04:13 | 2017-04-12 | [link](https://www.twitch.tv/videos/135261476) |
 | 409 | KittyWake | 0:04:13 | 2025-01-06 | [link](https://www.youtube.com/watch?v=rC_kQpjM6T4&ab_channel=KittyWake) |
 | 409 | mtheordinarygamer | 0:04:13 | 2022-04-29 | [link](https://www.youtube.com/watch?v=ZnD3Tm_ElqY) |

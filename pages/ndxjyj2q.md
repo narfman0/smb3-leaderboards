@@ -197,7 +197,7 @@ categories: speedrun
 | 188 | SamuraiYudansha | 0:11:45 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450924685) |
 | 189 | TheTerrificTracy | 0:11:46 | 2021-02-16 | [link](https://youtu.be/1voAI4JhuoQ) |
 | 189 | Vicksland | 0:11:46 | 2023-10-24 | [link](https://www.youtube.com/watch?v=JhoGZGLPbcc) |
-| 189 | jahaley64 | 0:11:46 | 2022-03-24 | [link](https://www.twitch.tv/videos/1435743701) |
+| 189 | jahaley64 | 0:11:46 | 2022-03-24 | [link](https://youtu.be/bGYuZYwpgDs?feature=shared) |
 | 189 | WhicheverMirror | 0:11:46 | 2021-08-25 | [link](https://www.youtube.com/watch?v=_8Fcbyc27Fc) |
 | 193 | OnlyMoneyNotTalent | 0:11:47 | 2020-12-09 | [link](https://www.youtube.com/watch?v=HSQEqJewU_8) |
 | 193 | Jokubotti | 0:11:47 | 2025-02-12 | [link](https://youtu.be/_-jpIQCClNw?si=B1hhZ8_CPqtvAthU) |
