@@ -180,8 +180,8 @@ categories: speedrun
 | 171 | kidneykyle | 0:57:29.370000 | 2019-10-06 | [link](https://www.twitch.tv/videos/491121457) |
 | 172 | Turanin | 0:57:31 | 2024-07-19 | [link](https://www.youtube.com/watch?v=w9WZebGQnEA&ab_channel=Turanin) |
 | 173 | Tannhausx | 0:57:37 | 2022-01-30 | [link](https://www.twitch.tv/videos/1281217063) |
-| 174 | Hjellith | 0:57:42 | 2022-05-07 | [link](https://www.twitch.tv/videos/1477540881) |
 | 174 | AceOfArrows | 0:57:42 | 2016-11-20 | [link](https://www.twitch.tv/aceofarrows/v/102371462) |
+| 174 | Hjellith | 0:57:42 | 2022-05-07 | [link](https://www.twitch.tv/videos/1477540881) |
 | 176 | barnowl | 0:57:43 | 2015-08-29 | [link](http://www.twitch.tv/barnowl/v/13457077) |
 | 176 | Brownietown | 0:57:43 | 2017-07-19 | [link](https://www.youtube.com/watch?v=GWqHyL0_sdA&t) |
 | 178 | bmfm | 0:57:45 | 2013-12-18 | [link](https://www.twitch.tv/videos/45946247) |
