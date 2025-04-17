@@ -19,9 +19,9 @@ categories: speedrun
 | 10 | TheHaxor | 0:50:53 | 2022-04-04 | [link](https://www.twitch.tv/videos/1445959118?collection=QoGKihunLxWVlw) |
 | 10 | Track1 | 0:50:53 | 2025-04-12 | [link](https://www.twitch.tv/videos/2430819698) |
 | 12 | Kirua | 0:50:57 | 2017-06-07 | [link](https://www.twitch.tv/videos/150100594) |
-| 13 | yatokami9 | 0:51:00 | 2025-01-29 | [link](https://www.youtube.com/watch?v=Zy46S5O2VoI) |
-| 14 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
-| 15 | jtknott | 0:51:09 | 2024-04-13 | [link](https://youtu.be/k3K5M794lZE) |
+| 13 | jtknott | 0:50:59 | 2025-04-15 | [link](https://www.youtube.com/watch?v=qvrEV_cB_h0) |
+| 14 | yatokami9 | 0:51:00 | 2025-01-29 | [link](https://www.youtube.com/watch?v=Zy46S5O2VoI) |
+| 15 | Furopen | 0:51:08 | 2022-04-23 | [link](https://youtu.be/TAbIi3Aqi2c) |
 | 16 | scalpel | 0:51:11 | 2024-02-10 | [link](https://www.youtube.com/watch?v=eJr2hN62rEE) |
 | 17 | IluvMario | 0:51:17 | 2018-04-09 | [link](https://www.twitch.tv/videos/248583120) |
 | 18 | ZoneVD | 0:51:19 | 2021-04-22 | [link](https://www.twitch.tv/videos/995985992) |
