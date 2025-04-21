@@ -382,8 +382,8 @@ categories: speedrun
 | 373 | Ulrisse | 0:04:07.050000 | 2018-01-24 | [link](https://www.youtube.com/watch?v=10DtH_rxM8U) |
 | 374 | Ayoub | 0:04:07.280000 | 2023-08-24 | [link](https://youtu.be/4goqDQ9qdMY?si=t-1nQFnqQJIB9nCu) |
 | 375 | Meztorkin | 0:04:07.650000 | 2019-07-22 | [link](https://youtu.be/ZkeaLex6G2M) |
-| 376 | Saturnb | 0:04:08 | 2021-03-30 | [link](https://youtu.be/Wx174Ydh8wY) |
 | 376 | Odme_ | 0:04:08 | 2022-02-22 | [link](https://www.youtube.com/watch?v=axXAZVsd7ps) |
+| 376 | Saturnb | 0:04:08 | 2021-03-30 | [link](https://youtu.be/Wx174Ydh8wY) |
 | 376 | LordHVetinari | 0:04:08 | 2018-12-24 | [link](https://youtu.be/MLb-W8CPt1E) |
 | 376 | Jama7301 | 0:04:08 | 2016-10-04 | [link](https://www.twitch.tv/jama7301/v/92990429) |
 | 376 | antodur | 0:04:08 | 2018-03-04 | [link](https://youtu.be/847zQgQMelA) |
