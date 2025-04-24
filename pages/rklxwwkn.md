@@ -49,8 +49,8 @@ categories: speedrun
 | 40 | EthanRTA | 0:51:56 | 2022-04-17 | [link](https://youtu.be/u5DaRhfjaQo) |
 | 41 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
 | 42 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
-| 43 | highflyer28 | 0:52:05 | 2024-11-09 | [link](https://www.twitch.tv/videos/2297938347) |
 | 43 | Katti | 0:52:05 | 2024-02-11 | [link](https://youtu.be/w2WeoZs9Fcc) |
+| 43 | highflyer28 | 0:52:05 | 2024-11-09 | [link](https://www.twitch.tv/videos/2297938347) |
 | 45 | helfmyselp | 0:52:08 | 2023-04-12 | [link](https://www.youtube.com/watch?v=WFafWW0fCaI) |
 | 46 | Jokubotti | 0:52:10 | 2025-03-04 | [link](https://www.twitch.tv/videos/2396557827) |
 | 47 | darbian | 0:52:14 | 2018-06-12 | [link](https://youtu.be/kI2_12jlaqE) |
