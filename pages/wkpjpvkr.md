@@ -256,13 +256,13 @@ categories: speedrun
 | 245 | Magestikal | 0:03:56 | 2021-06-19 | [link](https://www.youtube.com/watch?v=1S5zyfYdV6s) |
 | 245 | TakoGamesAu | 0:03:56 | 2021-06-15 | [link](https://www.youtube.com/watch?v=e-9BfExjtKQ) |
 | 245 | FozyCX | 0:03:56 | 2021-04-27 | [link](https://www.twitch.tv/videos/1002603632) |
+| 245 | Dr_Syltonic | 0:03:56 | 2018-02-27 | [link](https://youtu.be/6h6xje91tbw) |
 | 245 | 33quentin | 0:03:56 | 2018-02-01 | [link](https://www.youtube.com/watch?v=6S9mj09sRPk) |
 | 245 | Adam1205 | 0:03:56 | 2017-08-22 | [link](https://www.youtube.com/watch?v=8Z2r2MucCmI&feature=youtu.be) |
 | 245 | epicnubedemelon | 0:03:56 | 2019-03-28 | [link](https://www.youtube.com/watch?v=9OhFY4Ckf4Y&feature=youtu.be) |
 | 245 | Vertor | 0:03:56 | 2024-08-08 | [link](https://www.youtube.com/watch?v=VhuVlwsSXXg) |
 | 245 | Kojr55 | 0:03:56 | 2018-07-01 | [link](https://www.youtube.com/watch?v=-C0PMYgCI6Y) |
 | 245 | CratiX14 | 0:03:56 | 2020-09-06 | [link](https://youtu.be/OyoIxN5IcfE) |
-| 245 | Dr_Syltonic | 0:03:56 | 2018-02-27 | [link](https://youtu.be/6h6xje91tbw) |
 | 245 | Drako93 | 0:03:56 | 2018-09-13 | [link](https://www.youtube.com/watch?v=Fzn5EvnL4G4&t=2s) |
 | 245 | JeremyMKW | 0:03:56 | 2018-03-15 | [link](https://www.twitch.tv/videos/238911313) |
 | 245 | SpUnKeN_DK | 0:03:56 | 2025-02-13 | [link](https://www.twitch.tv/videos/2380063791) |
