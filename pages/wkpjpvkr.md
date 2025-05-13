@@ -449,9 +449,9 @@ categories: speedrun
 | 437 | barnowl | 0:04:16 | 2017-09-11 | [link](https://www.twitch.tv/videos/174090156) |
 | 437 | Miriao | 0:04:16 | 2022-05-20 | [link](https://www.youtube.com/watch?v=udVFH9pULmE) |
 | 442 | Karmakun | 0:04:16.330000 | 2017-02-12 | [link](https://www.youtube.com/watch?v=Bf5hDAcSXrI&feature=youtu.be) |
+| 443 | JosueG | 0:04:17 | 2022-02-28 | [link](https://www.youtube.com/watch?v=TIZiL6YToS0&t=246s) |
 | 443 | MoisSR | 0:04:17 | 2021-04-05 | [link](https://youtu.be/aJeTK-tBsDs) |
 | 443 | Finnish2005 | 0:04:17 | 2024-12-31 | [link](https://youtu.be/AU6CS_0-6lg?si=JRxlV7pcnnUwuCKh) |
-| 443 | JosueG | 0:04:17 | 2022-02-28 | [link](https://www.youtube.com/watch?v=TIZiL6YToS0&t=246s) |
 | 443 | pinkpanthr_ | 0:04:17 | 2023-04-15 | [link](https://youtu.be/GEX8WoKCbpU) |
 | 443 | grape | 0:04:17 | 2024-05-31 | [link](https://youtu.be/6E8D0BmWiQ4?feature=shared&t=34) |
 | 443 | Nerd_Squared | 0:04:17 | 2015-06-25 | [link](https://www.youtube.com/watch?v=iqWUmOcsl8w&feature=youtu.be) |
@@ -529,9 +529,9 @@ categories: speedrun
 | 519 | TanplayzGamez | 0:04:29 | 2018-04-09 | [link](https://www.twitch.tv/videos/248582159) |
 | 519 | LeMecSansPseudo | 0:04:29 | 2018-05-10 | [link](https://youtu.be/A66oxzoGFiU) |
 | 522 | BitZel | 0:04:29.097000 | 2020-11-13 | [link](https://youtu.be/aanLh6JmnB0) |
+| 523 | EpicSussy0945 | 0:04:30 | 2022-02-28 | [link](https://www.youtube.com/watch?v=3ZEykVDBpUk&feature=youtu.be) |
 | 523 | Tokageki | 0:04:30 | 2021-04-27 | [link](https://youtu.be/2nlv4du7gDc) |
 | 523 | shauty | 0:04:30 | 2024-12-19 | [link](https://youtu.be/epq4zsL96f8) |
-| 523 | EpicSussy0945 | 0:04:30 | 2022-02-28 | [link](https://www.youtube.com/watch?v=3ZEykVDBpUk&feature=youtu.be) |
 | 523 | ALGOV | 0:04:30 | 2021-08-07 | [link](https://www.youtube.com/watch?v=yNio2toFXAc) |
 | 527 | DIYisDead | 0:04:31 | 2022-01-19 | [link](https://www.youtube.com/watch?v=G-r9FLqlET0&ab_channel=DIYisDead) |
 | 527 | OblivionStoned | 0:04:31 | 2017-02-05 | [link](https://www.youtube.com/watch?v=hM8UmtJ5lxQ) |
@@ -539,10 +539,10 @@ categories: speedrun
 | 530 | TwinChubbs | 0:04:32 | 2020-06-18 | [link](https://youtu.be/gZ1Tay9himo) |
 | 530 | ecobb23 | 0:04:32 | 2021-11-22 | [link](https://youtu.be/L8w1XyxgAqs) |
 | 530 | Casqui | 0:04:32 | 2021-02-21 | [link](https://youtu.be/PvvR6WOR-kk) |
+| 530 | SoakChannel | 0:04:32 | 2018-03-01 | [link](https://youtu.be/T3EtzI38gFQ) |
 | 530 | brman85 | 0:04:32 | 2017-03-23 | [link](https://www.youtube.com/watch?v=Pwq3apILbXs) |
 | 530 | CooperJW13 | 0:04:32 | 2018-12-30 | [link](https://www.youtube.com/watch?v=PIobUwAqwp4&t=27s&list=PL7-CHhvyavsL50_wOpvfl1yU2pfr_VQXq&index=11) |
 | 530 | q9_l | 0:04:32 | 2024-07-11 | [link](https://www.bilibili.com/video/BV1F3ajepE66/?spm_id_from=333.999.0.0&vd_source=b634d1eeac74d575faefec2803da4740) |
-| 530 | SoakChannel | 0:04:32 | 2018-03-01 | [link](https://youtu.be/T3EtzI38gFQ) |
 | 530 | Nateorious | 0:04:32 | 2025-03-29 | [link](https://www.youtube.com/watch?v=Pc04QE1PqlE) |
 | 538 | Toadtoad | 0:04:33 | 2018-01-06 | [link](https://drive.google.com/file/d/14Cy8TAT94iw7L-FEsNjQIfl4Hm_tvWeC/preview) |
 | 538 | Justme_01 | 0:04:33 | 2024-10-26 | [link](https://youtu.be/qg6Idb5zU6o?si=w5YWC7cej1LKcDHl) |
@@ -558,8 +558,8 @@ categories: speedrun
 | 549 | sendokiller10 | 0:04:36.015000 | 2024-07-23 | [link](https://youtu.be/yUX_T65nP6s) |
 | 550 | LamppuOsmo | 0:04:37 | 2024-05-07 | [link](https://youtu.be/iXqfzQ1yLIc) |
 | 551 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
-| 551 | aardvaaarc | 0:04:38 | 2024-10-04 | [link](https://youtu.be/KgdOrCH-nUM) |
 | 551 | Lao | 0:04:38 | 2018-03-01 | [link](https://www.youtube.com/watch?v=6p9FOkAU4AM) |
+| 551 | aardvaaarc | 0:04:38 | 2024-10-04 | [link](https://youtu.be/KgdOrCH-nUM) |
 | 551 | speedruntutor | 0:04:38 | 2024-06-06 | [link](https://www.youtube.com/watch?v=SsGeptq1tRA) |
 | 551 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
 | 556 | DanteOwO | 0:04:38.075000 | 2020-11-03 | [link](https://www.youtube.com/watch?v=Z3x-5aENA0k&t=454s) |
