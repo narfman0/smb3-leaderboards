@@ -138,7 +138,7 @@ categories: speedrun
 | 129 | KingOfNothing95 | 0:11:19 | 2023-07-14 | [link](https://youtu.be/2j_M3OYQ-ok) |
 | 130 | yeabruh | 0:11:20 | 2024-09-16 | [link](https://www.twitch.tv/videos/2252315925) |
 | 130 | Varek | 0:11:20 | 2022-05-06 | [link](https://youtu.be/BiUNgLTwu1M) |
-| 130 | Kosmic | 0:11:20 | 2017-03-20 | [link](https://www.twitch.tv/videos/129953800) |
+| 130 | Kosmic | 0:11:20 | 2017-03-20 | [link](https://youtu.be/W8rann7Ja-c) |
 | 133 | wotsuh_thedeal | 0:11:21 | 2021-10-05 | [link](https://www.twitch.tv/videos/1168454040) |
 | 133 | Carter44 | 0:11:21 | 2019-07-23 | [link](https://www.youtube.com/watch?v=6yMOexUENJE) |
 | 135 | Tonmaiii | 0:11:22 | 2022-05-20 | [link](https://youtu.be/HhWjqaYzk44) |

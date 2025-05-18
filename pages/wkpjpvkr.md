@@ -166,9 +166,9 @@ categories: speedrun
 | 155 | AD2 | 0:03:47 | 2017-03-18 | [link](https://www.twitch.tv/videos/129453312) |
 | 155 | alabastro1 | 0:03:47 | 2024-04-16 | [link](https://youtu.be/DoNvcUnnAZc) |
 | 155 | Tintin08 | 0:03:47 | 2022-11-16 | [link](https://youtu.be/wsixs4yOFrA) |
+| 160 | Brubs | 0:03:48 | 2021-02-20 | [link](https://youtu.be/sNXMVbRlVAw) |
 | 160 | timmyshotgun | 0:03:48 | 2020-12-18 | [link](https://youtu.be/bWzGlR-22X0) |
 | 160 | MauricinhoPOWER | 0:03:48 | 2021-04-25 | [link](https://www.twitch.tv/videos/1001155699) |
-| 160 | Brubs | 0:03:48 | 2021-02-20 | [link](https://youtu.be/sNXMVbRlVAw) |
 | 160 | SomeBro | 0:03:48 | 2018-02-16 | [link](https://youtu.be/n2uP1ndlgmw) |
 | 160 | joka | 0:03:48 | 2017-02-07 | [link](https://www.youtube.com/watch?v=RSO5h78ntYI) |
 | 160 | HylianSomething | 0:03:48 | 2023-12-18 | [link](https://youtu.be/vkfFhy6hvEg) |
@@ -288,7 +288,7 @@ categories: speedrun
 | 277 | Validusername16 | 0:03:58 | 2019-09-16 | [link](https://www.youtube.com/watch?v=VJGGGLGZnPA) |
 | 277 | miletic_ivan | 0:03:58 | 2022-01-17 | [link](https://www.youtube.com/watch?v=qSk_nPABXtU) |
 | 277 | Tmitt7 | 0:03:58 | 2017-11-04 | [link](https://www.youtube.com/watch?v=_12jMiqkAMM) |
-| 277 | Kosmic | 0:03:58 | 2017-08-29 | [link](https://www.twitch.tv/videos/171132847) |
+| 277 | Kosmic | 0:03:58 | 2017-08-29 | [link](https://youtu.be/AVWMzGZOMiA) |
 | 277 | zdoroviy_antony | 0:03:58 | 2017-08-30 | [link](https://www.youtube.com/watch?v=L-BZNH_8ufQ&feature=youtu.be) |
 | 277 | Karyno | 0:03:58 | 2017-05-13 | [link](https://www.youtube.com/watch?v=JvjeloAySEY) |
 | 277 | Eichi | 0:03:58 | 2017-02-21 | [link](https://www.youtube.com/watch?v=udH2JtOA3GY) |
@@ -345,9 +345,9 @@ categories: speedrun
 | 330 | IvanSt33zy | 0:04:03 | 2018-07-07 | [link](https://www.youtube.com/watch?v=OdWeLkY4V4o) |
 | 330 | RetroTimes | 0:04:03 | 2022-10-29 | [link](https://www.youtube.com/watch?v=UDCcaGaa8QQ&t=247s) |
 | 330 | Sariiger | 0:04:03 | 2018-09-06 | [link](https://www.youtube.com/watch?v=rAPoFOouJA8) |
+| 339 | spsxis | 0:04:04 | 2021-02-22 | [link](https://www.twitch.tv/videos/924856840) |
 | 339 | Snowpie | 0:04:04 | 2021-01-17 | [link](https://www.twitch.tv/videos/877708357) |
 | 339 | nerphblaster27 | 0:04:04 | 2021-11-20 | [link](https://youtu.be/-qx7SQV05HI) |
-| 339 | spsxis | 0:04:04 | 2021-02-22 | [link](https://www.twitch.tv/videos/924856840) |
 | 339 | Lomiig | 0:04:04 | 2017-11-12 | [link](https://youtu.be/z9QRlSaOIGc) |
 | 339 | Traklon | 0:04:04 | 2017-10-31 | [link](https://www.youtube.com/watch?v=1Uo-x5f-MUM) |
 | 339 | RoyLT | 0:04:04 | 2017-07-07 | [link](https://www.twitch.tv/videos/157376963) |
@@ -538,9 +538,9 @@ categories: speedrun
 | 529 | DIYisDead | 0:04:31 | 2022-01-19 | [link](https://www.youtube.com/watch?v=G-r9FLqlET0&ab_channel=DIYisDead) |
 | 529 | OblivionStoned | 0:04:31 | 2017-02-05 | [link](https://www.youtube.com/watch?v=hM8UmtJ5lxQ) |
 | 529 | WalrusShoes | 0:04:31 | 2018-10-17 | [link](https://www.youtube.com/watch?v=Pkw7U1RT4Eg) |
+| 532 | Casqui | 0:04:32 | 2021-02-21 | [link](https://youtu.be/PvvR6WOR-kk) |
 | 532 | TwinChubbs | 0:04:32 | 2020-06-18 | [link](https://youtu.be/gZ1Tay9himo) |
 | 532 | ecobb23 | 0:04:32 | 2021-11-22 | [link](https://youtu.be/L8w1XyxgAqs) |
-| 532 | Casqui | 0:04:32 | 2021-02-21 | [link](https://youtu.be/PvvR6WOR-kk) |
 | 532 | SoakChannel | 0:04:32 | 2018-03-01 | [link](https://youtu.be/T3EtzI38gFQ) |
 | 532 | brman85 | 0:04:32 | 2017-03-23 | [link](https://www.youtube.com/watch?v=Pwq3apILbXs) |
 | 532 | CooperJW13 | 0:04:32 | 2018-12-30 | [link](https://www.youtube.com/watch?v=PIobUwAqwp4&t=27s&list=PL7-CHhvyavsL50_wOpvfl1yU2pfr_VQXq&index=11) |
