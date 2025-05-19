@@ -393,7 +393,7 @@ categories: speedrun
 | 384 | TheBeastMonster_ | 0:13:38 | 2020-11-14 | [link](https://youtu.be/_n6d-m-nuRQ) |
 | 384 | NME | 0:13:38 | 2015-12-04 | [link](http://www.twitch.tv/nmetv/v/28176000) |
 | 384 | mario104 | 0:13:38 | 2024-10-11 | [link](https://www.bilibili.com/video/BV1mo2kYoECn/?spm_id_from=333.999.0.0) |
-| 387 | JSR_ | 0:13:39 | 2018-03-10 | [link](https://www.twitch.tv/videos/237522483) |
+| 387 | JSR_ | 0:13:39 | 2018-03-10 | [link](https://youtu.be/7QYU7NDpV7A) |
 | 388 | MegaDad | 0:13:40 | 2017-06-27 | [link](https://www.twitch.tv/videos/154940816?t=01h40m48s) |
 | 388 | BigCheese | 0:13:40 | 2025-02-07 | [link](https://youtu.be/AmsjDu4sOgs) |
 | 390 | GamingWithNino | 0:13:43 | 2022-06-28 | [link](https://youtu.be/JrOLb9jr6jA) |

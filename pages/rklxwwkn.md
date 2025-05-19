@@ -232,7 +232,7 @@ categories: speedrun
 | 223 | subtlewookiee | 0:59:55 | 2023-09-21 | [link](https://youtu.be/gf6VmkGQTlY) |
 | 223 | Acmlm | 0:59:55 | 2014-01-04 | [link](https://youtu.be/bYg9JqDgCBw) |
 | 225 | JakeBopDart | 0:59:57 | 2024-01-21 | [link](https://youtu.be/9tZRAtKH118?si=9Ut0tq0JqVMoqt4N) |
-| 226 | JSR_ | 1:00:10 | 2021-04-03 | [link](https://www.twitch.tv/videos/974527277) |
+| 226 | JSR_ | 1:00:10 | 2021-04-03 | [link](https://youtu.be/bZWNqifKGaA) |
 | 227 | Jhoelito | 1:00:11 | 2023-04-10 | [link](https://youtu.be/CWGIlUEkIlY) |
 | 228 | glutamic_acid | 1:00:14 | 2020-10-10 | [link](https://www.twitch.tv/videos/766631321) |
 | 229 | Adotis | 1:00:15 | 2020-11-30 | [link](https://www.twitch.tv/videos/820683849) |
