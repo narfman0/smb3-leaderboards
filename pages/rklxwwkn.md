@@ -303,8 +303,8 @@ categories: speedrun
 | 294 | yiye | 1:11:24 | 2022-01-28 | [link](https://v.youku.com/v_show/id_XMTQ0MTAxMDAzNg==.html?x&sharefrom=android&scene=long&playMode=&sharekey=c3c9dd444c7c3b1036f7e621d84df00e4) |
 | 295 | PeekingBoo | 1:11:34 | 2018-04-01 | [link](https://www.youtube.com/watch?v=mkV3fBiCVTo) |
 | 296 | Vultus | 1:11:36 | 2019-01-06 | [link](https://www.twitch.tv/videos/359874017) |
-| 297 | Snowpie | 1:12:17 | 2021-11-07 | [link](https://www.twitch.tv/videos/1199074759) |
 | 297 | thetantalus | 1:12:17 | 2021-03-19 | [link](https://www.twitch.tv/videos/957367746) |
+| 297 | Snowpie | 1:12:17 | 2021-11-07 | [link](https://www.twitch.tv/videos/1199074759) |
 | 299 | MisterSensitive | 1:12:30 | 2023-11-21 | [link](https://youtu.be/docMnFa4vmA?si=3RPGVpBvLnuOqpvq) |
 | 300 | ThreeToadSloth | 1:12:38 | 2020-01-06 | [link](https://youtu.be/itGPpMAGFHo) |
 | 301 | SherriAttacks | 1:13:12 | 2017-09-25 | [link](https://www.twitch.tv/videos/176412324) |
