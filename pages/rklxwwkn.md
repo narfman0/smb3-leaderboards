@@ -49,8 +49,8 @@ categories: speedrun
 | 40 | EthanRTA | 0:51:56 | 2022-04-17 | [link](https://youtu.be/u5DaRhfjaQo) |
 | 41 | Calco2 | 0:51:57 | 2019-02-05 | [link](https://www.twitch.tv/videos/375413324) |
 | 42 | AdamFerrari64 | 0:51:59 | 2022-03-14 | [link](https://www.twitch.tv/videos/1481581003) |
-| 43 | Katti | 0:52:05 | 2024-02-11 | [link](https://youtu.be/w2WeoZs9Fcc) |
-| 43 | highflyer28 | 0:52:05 | 2024-11-09 | [link](https://www.twitch.tv/videos/2297938347) |
+| 43 | Katti | 0:52:04 | 2025-05-21 | [link](https://youtu.be/hs2Hj_BjsoI?si=iXeU_yfFl6xocLKY&t=610) |
+| 44 | highflyer28 | 0:52:05 | 2024-11-09 | [link](https://www.twitch.tv/videos/2297938347) |
 | 45 | helfmyselp | 0:52:08 | 2023-04-12 | [link](https://www.youtube.com/watch?v=WFafWW0fCaI) |
 | 46 | Jokubotti | 0:52:10 | 2025-03-04 | [link](https://www.twitch.tv/videos/2396557827) |
 | 47 | Hasauce | 0:52:11 | 2025-04-28 | [link](https://www.twitch.tv/videos/2445003564) |
@@ -75,9 +75,9 @@ categories: speedrun
 | 66 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
 | 67 | TheLostLlama | 0:52:47 | 2016-02-03 | [link](http://www.twitch.tv/thelostllama/v/40275470) |
 | 67 | duckfist | 0:52:47 | 2021-09-04 | [link](https://www.twitch.tv/videos/1139437792?collection=pgQmVpxPpBao_Q) |
-| 69 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
-| 70 | ratboy42 | 0:52:59 | 2023-11-07 | [link](https://www.youtube.com/watch?v=noFQ40qYzaU) |
-| 71 | hammersuits | 0:53:04 | 2025-04-23 | [link](https://youtu.be/hgj-xqZgJvQ?feature=shared) |
+| 69 | hammersuits | 0:52:49 | 2025-05-15 | [link](https://youtu.be/ZRlk2jkOZwo?feature=shared) |
+| 70 | Lawso42 | 0:52:54 | 2020-02-03 | [link](https://www.twitch.tv/videos/546525574) |
+| 71 | ratboy42 | 0:52:59 | 2023-11-07 | [link](https://www.youtube.com/watch?v=noFQ40qYzaU) |
 | 72 | Malachibros20085721 | 0:53:07 | 2022-06-06 | [link](https://www.twitch.tv/videos/1496529200) |
 | 72 | roopert83 | 0:53:07 | 2023-03-29 | [link](https://youtu.be/i5oIIgbfM24) |
 | 74 | Lyvye327 | 0:53:10 | 2025-05-07 | [link](https://www.twitch.tv/videos/2452290950) |
@@ -94,8 +94,8 @@ categories: speedrun
 | 85 | MelonTheFelon | 0:53:36 | 2019-01-23 | [link](https://www.twitch.tv/videos/368899547) |
 | 86 | deisui | 0:53:37 | 2016-09-07 | [link](http://www.nicovideo.jp/watch/sm30043547) |
 | 86 | hum4ls | 0:53:37 | 2025-03-06 | [link](https://www.youtube.com/watch?v=uZaotj7cySs) |
-| 88 | Rh4kor | 0:53:40 | 2024-09-14 | [link](https://www.twitch.tv/videos/2251184398) |
-| 88 | Kettu82 | 0:53:40 | 2025-04-09 | [link](https://www.youtube.com/watch?v=2Ya2-Tl_DMY) |
+| 86 | Kettu82 | 0:53:37 | 2025-05-16 | [link](https://www.twitch.tv/videos/2460503553) |
+| 89 | Rh4kor | 0:53:40 | 2024-09-14 | [link](https://www.twitch.tv/videos/2251184398) |
 | 90 | COOLKID | 0:53:41 | 2019-03-19 | [link](https://www.twitch.tv/videos/398148894) |
 | 91 | zekeSSB | 0:53:48 | 2024-05-24 | [link](https://www.twitch.tv/videos/2153697846) |
 | 92 | TheClassicOne88 | 0:53:50 | 2020-07-26 | [link](https://www.twitch.tv/videos/691257713) |
