@@ -356,7 +356,7 @@ categories: speedrun
 | 346 | themechanicalkoopa | 0:13:10 | 2018-09-23 | [link](https://youtu.be/-HuwkiIJdAU) |
 | 348 | Billy_bongsalot | 0:13:11 | 2021-03-06 | [link](https://www.twitch.tv/videos/939987768) |
 | 349 | Matepe | 0:13:12 | 2021-08-08 | [link](https://www.twitch.tv/videos/1111962500) |
-| 349 | JairGamer40 | 0:13:12 | 2022-12-10 | [link](https://www.twitch.tv/videos/1678027099?t=0h39m28s) |
+| 349 | JairGamer40 | 0:13:12 | 2022-12-10 | [link](https://www.youtube.com/watch?v=yp4C6NzaLVg?t=2369) |
 | 351 | Ben | 0:13:15 | 2017-10-14 | [link](https://youtu.be/tcd9wxbC2M4) |
 | 352 | hero_82 | 0:13:19 | 2023-09-15 | [link](https://www.twitch.tv/videos/1928991631) |
 | 353 | RosesThorn | 0:13:20 | 2017-04-07 | [link](https://www.youtube.com/watch?v=35X-cwKx2GY) |

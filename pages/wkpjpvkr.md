@@ -286,6 +286,7 @@ categories: speedrun
 | 277 | SAOkyy | 0:03:58 | 2021-01-04 | [link](https://www.youtube.com/watch?v=miY3UoLN4Ng) |
 | 277 | aidenlt | 0:03:58 | 2019-10-22 | [link](https://www.youtube.com/watch?v=KgeG1twsE48) |
 | 277 | Validusername16 | 0:03:58 | 2019-09-16 | [link](https://www.youtube.com/watch?v=VJGGGLGZnPA) |
+| 277 | TheBaconator108 | 0:03:58 | 2022-03-03 | [link](https://www.youtube.com/watch?v=mrQ2gs4X2OA) |
 | 277 | miletic_ivan | 0:03:58 | 2022-01-17 | [link](https://www.youtube.com/watch?v=qSk_nPABXtU) |
 | 277 | Tmitt7 | 0:03:58 | 2017-11-04 | [link](https://www.youtube.com/watch?v=_12jMiqkAMM) |
 | 277 | Kosmic | 0:03:58 | 2017-08-29 | [link](https://youtu.be/AVWMzGZOMiA) |
@@ -294,7 +295,6 @@ categories: speedrun
 | 277 | Eichi | 0:03:58 | 2017-02-21 | [link](https://www.youtube.com/watch?v=udH2JtOA3GY) |
 | 277 | SuperMariLo | 0:03:58 | 2019-02-21 | [link](https://youtu.be/TK_DDOMJVCU) |
 | 277 | MelonTheFelon | 0:03:58 | 2018-09-29 | [link](https://www.twitch.tv/videos/316331417) |
-| 277 | TheBaconator108 | 0:03:58 | 2022-03-03 | [link](https://www.youtube.com/watch?v=mrQ2gs4X2OA) |
 | 277 | Avriix | 0:03:58 | 2024-03-04 | [link](https://youtu.be/_fiR98yI_4A) |
 | 277 | DogDeeDer | 0:03:58 | 2021-08-26 | [link](https://www.youtube.com/watch?v=17Rn6se7A0Q) |
 | 291 | Dellowood | 0:03:59 | 2021-01-08 | [link](https://www.youtube.com/watch?v=-mHo4ksbReY) |
@@ -433,9 +433,9 @@ categories: speedrun
 | 416 | NinWorld | 0:04:13 | 2018-07-09 | [link](https://www.youtube.com/watch?v=Sr1Np54wYfw&t=3140s) |
 | 425 | JonnyLink | 0:04:14 | 2021-06-07 | [link](https://youtu.be/UkZ13jmSKhM) |
 | 425 | Jayaye78 | 0:04:14 | 2021-05-14 | [link](https://www.twitch.tv/videos/1025365133) |
+| 425 | zutetflute | 0:04:14 | 2018-03-02 | [link](https://youtu.be/jrsHceWF7vM) |
 | 425 | yelir64 | 0:04:14 | 2022-09-12 | [link](https://www.youtube.com/watch?v=3mrfDCOrdcM) |
 | 425 | unfinish | 0:04:14 | 2023-03-09 | [link](https://scratch.mit.edu/projects/816752245/) |
-| 425 | zutetflute | 0:04:14 | 2018-03-02 | [link](https://youtu.be/jrsHceWF7vM) |
 | 425 | OneWingdAngel | 0:04:14 | 2018-03-20 | [link](https://youtu.be/E38FBfMZe5k) |
 | 425 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
 | 432 | TH3MOTOGAM3R | 0:04:15 | 2020-05-25 | [link](http://www.twitch.tv/th3motogam3r/v/632090049?sr=a&t=0s) |
@@ -505,10 +505,10 @@ categories: speedrun
 | 495 | Jepsi | 0:04:24 | 2024-10-04 | [link](https://youtu.be/tkXgHuP1Mr8?si=TrFB8HgEFYceHw4M&t=80) |
 | 497 | ben949 | 0:04:24.400000 | 2023-05-14 | [link](https://www.youtube.com/watch?v=q2WRqOW5zv8&t) |
 | 498 | epicnessthehilarious | 0:04:24.767000 | 2021-09-03 | [link](https://youtu.be/yGZzW1LaBI0) |
-| 499 | KuLemon | 0:04:25 | 2019-09-07 | [link](https://www.youtube.com/watch?v=Ve7IZy0tnnE&ab_channel=Ku%27Lemon) |
 | 499 | beast14356 | 0:04:25 | 2021-12-06 | [link](https://www.youtube.com/watch?v=B3XDda29iWc) |
 | 499 | ZeldasKitten | 0:04:25 | 2021-03-14 | [link](https://youtu.be/tX4Bs4lkTtI) |
 | 499 | miba | 0:04:25 | 2018-02-10 | [link](https://youtu.be/yJiY1rBj27k) |
+| 499 | KuLemon | 0:04:25 | 2019-09-07 | [link](https://www.youtube.com/watch?v=Ve7IZy0tnnE&ab_channel=Ku%27Lemon) |
 | 499 | GHOST97X | 0:04:25 | 2024-08-05 | [link](https://www.youtube.com/watch?v=HShgZzk25xw) |
 | 499 | Carancool | 0:04:25 | 2023-07-30 | [link](https://youtu.be/_s8a8fcqX6Y) |
 | 499 | SpringF | 0:04:25 | 2024-05-13 | [link](https://youtu.be/2sRSjLRCw4M?si=0ML8Wz9JJXpvNvns) |
