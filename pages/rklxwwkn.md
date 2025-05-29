@@ -206,8 +206,8 @@ categories: speedrun
 | 197 | Toastyglint420 | 0:58:40 | 2016-01-26 | [link](http://www.twitch.tv/toastyglint420/v/37830862) |
 | 198 | Ben | 0:58:41 | 2018-12-31 | [link](https://www.youtube.com/watch?v=v_MPTZ0Fxa8) |
 | 199 | Renakun | 0:58:48 | 2019-04-13 | [link](https://www.youtube.com/watch?v=W4-Rfo2Noxs&feature=youtu.be) |
-| 200 | Konaxs1 | 0:58:51 | 2021-07-28 | [link](https://www.twitch.tv/videos/1100557301?filter=highlights&sort=time) |
 | 200 | RickDavoice | 0:58:51 | 2024-04-19 | [link](https://www.youtube.com/watch?v=wFESLsCqR9Q) |
+| 200 | Konaxs1 | 0:58:51 | 2021-07-28 | [link](https://www.twitch.tv/videos/1100557301?filter=highlights&sort=time) |
 | 202 | Fengar32 | 0:58:54 | 2020-06-20 | [link](https://youtu.be/7neYMTWd_6A) |
 | 203 | Rocksy | 0:58:56 | 2017-03-31 | [link](https://www.twitch.tv/videos/135289955) |
 | 204 | Skybilz | 0:58:59 | 2014-04-03 | [link](https://www.twitch.tv/videos/47143770) |
