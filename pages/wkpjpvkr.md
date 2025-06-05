@@ -99,8 +99,8 @@ categories: speedrun
 | 89 | L01C | 0:03:24 | 2024-08-31 | [link](https://youtu.be/QDiqa4lE_f0?si=f3W6XPV8LfnwaN2I) |
 | 89 | Ugly_Owl | 0:03:24 | 2025-04-24 | [link](https://www.youtube.com/watch?v=v3LhbyNVH0U) |
 | 92 | Boethiah | 0:03:25 | 2020-01-26 | [link](https://www.twitch.tv/videos/542022781) |
-| 92 | ROOK_jpn | 0:03:25 | 2019-06-15 | [link](https://www.youtube.com/watch?v=DVGqsSpeH9w) |
 | 92 | Themasterpro1212 | 0:03:25 | 2021-06-26 | [link](https://youtu.be/67cSAuse6Rs) |
+| 92 | ROOK_jpn | 0:03:25 | 2019-06-15 | [link](https://www.youtube.com/watch?v=DVGqsSpeH9w) |
 | 92 | Chinese_mario | 0:03:25 | 2024-07-14 | [link](https://www.bilibili.com/video/BV1qabLeMEh5/?spm_id_from=333.999.0.0) |
 | 96 | MatyMak | 0:03:26 | 2021-12-13 | [link](https://www.youtube.com/watch?v=UkVLLBdX6lw&ab_channel=MatyMak) |
 | 96 | KALLAX | 0:03:26 | 2023-10-22 | [link](https://youtu.be/DnRAgC9hkz8?si=mYshxNEyNI7D8G3v) |
@@ -215,10 +215,10 @@ categories: speedrun
 | 199 | SebbyG13 | 0:03:52 | 2024-03-31 | [link](https://youtu.be/qbWdFxuPaJw) |
 | 199 | Mingura666 | 0:03:52 | 2021-04-12 | [link](https://youtu.be/sd02-v4Qxxg) |
 | 199 | FURiOUS | 0:03:52 | 2015-06-19 | [link](https://www.youtube.com/watch?v=qnC1fzT7oXM) |
+| 209 | MinDsiL | 0:03:53 | 2022-03-08 | [link](https://www.twitch.tv/videos/1419016634) |
 | 209 | TheSkeeterBronson | 0:03:53 | 2022-03-06 | [link](https://youtu.be/GKwKfOxDCB0) |
 | 209 | Aydles | 0:03:53 | 2018-06-13 | [link](https://youtu.be/1qpvwqmvhkg) |
 | 209 | Ribb95 | 0:03:53 | 2018-10-27 | [link](https://www.youtube.com/watch?v=Rml4m5X437Y&t=2s) |
-| 209 | MinDsiL | 0:03:53 | 2022-03-08 | [link](https://www.twitch.tv/videos/1419016634) |
 | 209 | icterus440 | 0:03:53 | 2018-03-28 | [link](https://www.youtube.com/watch?v=N3SFFZvh6_A&feature=youtu.be) |
 | 209 | kinopico33 | 0:03:53 | 2024-08-10 | [link](https://www.bilibili.com/video/BV1ZNYjeJENS) |
 | 209 | JustEdd | 0:03:53 | 2024-08-21 | [link](https://www.youtube.com/watch?v=5NhvKGEH12c) |
