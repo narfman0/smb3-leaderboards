@@ -99,8 +99,8 @@ categories: speedrun
 | 89 | L01C | 0:03:24 | 2024-08-31 | [link](https://youtu.be/QDiqa4lE_f0?si=f3W6XPV8LfnwaN2I) |
 | 89 | Ugly_Owl | 0:03:24 | 2025-04-24 | [link](https://www.youtube.com/watch?v=v3LhbyNVH0U) |
 | 92 | Boethiah | 0:03:25 | 2020-01-26 | [link](https://www.twitch.tv/videos/542022781) |
-| 92 | ROOK_jpn | 0:03:25 | 2019-06-15 | [link](https://www.youtube.com/watch?v=DVGqsSpeH9w) |
 | 92 | Themasterpro1212 | 0:03:25 | 2021-06-26 | [link](https://youtu.be/67cSAuse6Rs) |
+| 92 | ROOK_jpn | 0:03:25 | 2019-06-15 | [link](https://www.youtube.com/watch?v=DVGqsSpeH9w) |
 | 92 | Chinese_mario | 0:03:25 | 2024-07-14 | [link](https://www.bilibili.com/video/BV1qabLeMEh5/?spm_id_from=333.999.0.0) |
 | 96 | MatyMak | 0:03:26 | 2021-12-13 | [link](https://www.youtube.com/watch?v=UkVLLBdX6lw&ab_channel=MatyMak) |
 | 96 | KALLAX | 0:03:26 | 2023-10-22 | [link](https://youtu.be/DnRAgC9hkz8?si=mYshxNEyNI7D8G3v) |
@@ -241,9 +241,9 @@ categories: speedrun
 | 219 | AK_Potatoes | 0:03:54 | 2025-04-08 | [link](https://youtu.be/n_H8ub5y0tw) |
 | 219 | KingKappa | 0:03:54 | 2025-05-24 | [link](https://youtu.be/hZVNzvFzhE4?si=yRpKmipHLp54cSkj) |
 | 234 | Velodh | 0:03:54.096000 | 2021-08-16 | [link](https://youtu.be/LFgn9Sb2EBY) |
+| 235 | Growly87 | 0:03:55 | 2021-03-04 | [link](https://www.twitch.tv/videos/937539476) |
 | 235 | Konaxs1 | 0:03:55 | 2021-01-30 | [link](https://www.youtube.com/watch?v=tu_txngKU9o) |
 | 235 | Javeliin | 0:03:55 | 2021-08-07 | [link](https://youtu.be/xuTwO1j9YOc) |
-| 235 | Growly87 | 0:03:55 | 2021-03-04 | [link](https://www.twitch.tv/videos/937539476) |
 | 235 | topher123890 | 0:03:55 | 2017-09-06 | [link](https://youtu.be/0iv4c-qasqs) |
 | 235 | Warpx3 | 0:03:55 | 2017-05-12 | [link](https://www.twitch.tv/videos/143384195) |
 | 235 | xenkaroshi | 0:03:55 | 2019-02-27 | [link](https://www.youtube.com/watch?v=QM714I2II9Y) |
@@ -461,9 +461,9 @@ categories: speedrun
 | 446 | SantasLittleNibbler | 0:04:17 | 2018-12-25 | [link](https://youtu.be/i6vpWmvIsSM) |
 | 453 | AnimusUnited | 0:04:18 | 2020-12-04 | [link](https://www.twitch.tv/videos/825412475) |
 | 453 | MinusWorldJay | 0:04:18 | 2020-06-22 | [link](https://youtu.be/0rQ9pTXMSYg) |
-| 453 | ShesChardcore | 0:04:18 | 2019-09-13 | [link](https://www.twitch.tv/videos/481011276) |
 | 453 | Twafad | 0:04:18 | 2021-05-24 | [link](https://youtu.be/SWGM77pHuls) |
 | 453 | 6regory | 0:04:18 | 2017-09-09 | [link](https://youtu.be/xozuG7fSB2M) |
+| 453 | ShesChardcore | 0:04:18 | 2019-09-13 | [link](https://www.twitch.tv/videos/481011276) |
 | 453 | JuegAriel | 0:04:18 | 2017-03-21 | [link](https://www.twitch.tv/videos/130239510) |
 | 453 | Bullfrog | 0:04:18 | 2017-02-23 | [link](https://www.twitch.tv/videos/124119242) |
 | 453 | Darkman_ | 0:04:18 | 2022-08-10 | [link](https://www.youtube.com/watch?v=hvYhMI3e2bU) |
