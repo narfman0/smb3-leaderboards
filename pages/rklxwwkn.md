@@ -385,7 +385,7 @@ categories: speedrun
 | 376 | Daekwon_M | 1:36:36 | 2025-02-03 | [link](https://youtu.be/GSHiYZG0m9Y?si=-tFy_dQYqXOh9HgS) |
 | 377 | lewisthefifth | 1:36:38 | 2020-05-27 | [link](https://www.youtube.com/watch?v=MCPjQgMM27s) |
 | 378 | KenshinTrek | 1:37:11 | 2021-12-25 | [link](https://www.twitch.tv/videos/1243966429) |
-| 379 | Query | 1:37:24 | 2022-02-16 | [link](https://www.twitch.tv/videos/1300292528) |
+| 379 | Query | 1:37:24 | 2022-02-16 | [link](https://youtu.be/3Jylddi6h7o) |
 | 380 | AdirondackRick | 1:37:28 | 2020-03-23 | [link](https://www.twitch.tv/videos/574069019) |
 | 381 | bruceiam | 1:38:45 | 2021-05-19 | [link](https://www.twitch.tv/videos/1028823097) |
 | 382 | TheBenjanator | 1:39:20 | 2023-01-24 | [link](https://youtu.be/iCd9ar3Kwo0) |
