@@ -121,8 +121,8 @@ categories: speedrun
 | 112 | denkiya | 0:54:35 | 2024-01-02 | [link](https://www.youtube.com/watch?v=rDASzztAwgY) |
 | 112 | KingOfNothing95 | 0:54:35 | 2024-12-28 | [link](https://www.youtube.com/watch?v=5VUFiaYlFvQ) |
 | 114 | OnlyMoneyNotTalent | 0:54:38 | 2020-08-18 | [link](https://www.youtube.com/watch?v=MLXqEicjJL8) |
-| 114 | GTAce99 | 0:54:38 | 2023-04-02 | [link](https://youtu.be/AUluEK3YaY4) |
 | 114 | Sharchid | 0:54:38 | 2024-05-20 | [link](https://www.twitch.tv/videos/2150886767) |
+| 114 | GTAce99 | 0:54:38 | 2023-04-02 | [link](https://youtu.be/AUluEK3YaY4) |
 | 117 | MidiGuyDP | 0:54:40 | 2023-04-04 | [link](https://www.youtube.com/watch?v=XCdpQY4hv60) |
 | 118 | Spongeday | 0:54:42 | 2023-04-12 | [link](https://www.twitch.tv/videos/1790370243) |
 | 118 | kekumanshoyu | 0:54:42 | 2021-05-20 | [link](https://www.twitch.tv/videos/1029009373) |
