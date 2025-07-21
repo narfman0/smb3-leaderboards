@@ -274,7 +274,7 @@ categories: speedrun
 | 265 | KingRhodesTn | 1:04:37 | 2018-08-02 | [link](https://www.twitch.tv/videos/292104272) |
 | 266 | Flonichiwa | 1:04:44 | 2020-08-11 | [link](https://www.twitch.tv/videos/707110732) |
 | 267 | sYn | 1:04:45 | 2018-07-05 | [link](https://youtu.be/1QxMSI65H9A) |
-| 268 | compugab | 1:04:46 | 2022-02-11 | [link](https://www.twitch.tv/videos/1295181395) |
+| 268 | compugab | 1:04:46 | 2022-02-11 | [link](https://youtu.be/6uHNCPgliN8) |
 | 269 | jamesjmarkeyjr | 1:04:52 | 2021-08-16 | [link](https://youtu.be/8stxbStpMSA) |
 | 270 | Niamek | 1:05:04 | 2024-08-13 | [link](https://www.twitch.tv/videos/2223533461) |
 | 271 | deuisy | 1:05:05 | 2021-03-21 | [link](https://www.twitch.tv/videos/957671579) |
