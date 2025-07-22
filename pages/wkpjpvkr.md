@@ -286,13 +286,13 @@ categories: speedrun
 | 264 | Kzwbz | 0:03:57 | 2025-05-14 | [link](None) |
 | 278 | SAOkyy | 0:03:58 | 2021-01-04 | [link](https://www.youtube.com/watch?v=miY3UoLN4Ng) |
 | 278 | aidenlt | 0:03:58 | 2019-10-22 | [link](https://www.youtube.com/watch?v=KgeG1twsE48) |
-| 278 | Validusername16 | 0:03:58 | 2019-09-16 | [link](https://www.youtube.com/watch?v=VJGGGLGZnPA) |
 | 278 | TheBaconator108 | 0:03:58 | 2022-03-03 | [link](https://www.youtube.com/watch?v=mrQ2gs4X2OA) |
 | 278 | miletic_ivan | 0:03:58 | 2022-01-17 | [link](https://www.youtube.com/watch?v=qSk_nPABXtU) |
 | 278 | Tmitt7 | 0:03:58 | 2017-11-04 | [link](https://www.youtube.com/watch?v=_12jMiqkAMM) |
 | 278 | Kosmic | 0:03:58 | 2017-08-29 | [link](https://youtu.be/AVWMzGZOMiA) |
 | 278 | zdoroviy_antony | 0:03:58 | 2017-08-30 | [link](https://www.youtube.com/watch?v=L-BZNH_8ufQ&feature=youtu.be) |
 | 278 | Karyno | 0:03:58 | 2017-05-13 | [link](https://www.youtube.com/watch?v=JvjeloAySEY) |
+| 278 | Validusername16 | 0:03:58 | 2019-09-16 | [link](https://www.youtube.com/watch?v=VJGGGLGZnPA) |
 | 278 | Eichi | 0:03:58 | 2017-02-21 | [link](https://www.youtube.com/watch?v=udH2JtOA3GY) |
 | 278 | SuperMariLo | 0:03:58 | 2019-02-21 | [link](https://youtu.be/TK_DDOMJVCU) |
 | 278 | MelonTheFelon | 0:03:58 | 2018-09-29 | [link](https://www.twitch.tv/videos/316331417) |
@@ -379,9 +379,9 @@ categories: speedrun
 | 362 | dohggy | 0:04:06 | 2018-12-31 | [link](https://youtu.be/HYgZtiVm6TY) |
 | 362 | ShadowPanda | 0:04:06 | 2016-11-04 | [link](https://www.twitch.tv/shadowpanda__/v/99024030) |
 | 362 | Jellyman102 | 0:04:06 | 2016-07-16 | [link](https://secure.twitch.tv/jellyman67890/v/78424660) |
-| 373 | Clementox_Liano | 0:04:07 | 2018-11-24 | [link](https://youtu.be/7f2VLtpt3qc) |
 | 373 | LightWers_ | 0:04:07 | 2018-02-14 | [link](https://www.youtube.com/watch?v=x1W6vKjQmiI) |
 | 373 | tchfunkta | 0:04:07 | 2017-04-19 | [link](https://youtu.be/iQZ3f5Z1goI) |
+| 373 | Clementox_Liano | 0:04:07 | 2018-11-24 | [link](https://youtu.be/7f2VLtpt3qc) |
 | 373 | DanDizz | 0:04:07 | 2019-05-16 | [link](https://youtu.be/m5QypThYY3U) |
 | 373 | Gumbraise | 0:04:07 | 2022-03-19 | [link](https://www.twitch.tv/videos/1430752952) |
 | 373 | CloudsLikeJohn | 0:04:07 | 2023-01-10 | [link](https://youtu.be/PknVYYCNbJM) |
@@ -507,8 +507,8 @@ categories: speedrun
 | 497 | Jepsi | 0:04:24 | 2024-10-04 | [link](https://youtu.be/tkXgHuP1Mr8?si=TrFB8HgEFYceHw4M&t=80) |
 | 499 | ben949 | 0:04:24.400000 | 2023-05-14 | [link](https://www.youtube.com/watch?v=q2WRqOW5zv8&t) |
 | 500 | epicnessthehilarious | 0:04:24.767000 | 2021-09-03 | [link](https://youtu.be/yGZzW1LaBI0) |
-| 501 | beast14356 | 0:04:25 | 2021-12-06 | [link](https://www.youtube.com/watch?v=B3XDda29iWc) |
 | 501 | ZeldasKitten | 0:04:25 | 2021-03-14 | [link](https://youtu.be/tX4Bs4lkTtI) |
+| 501 | beast14356 | 0:04:25 | 2021-12-06 | [link](https://www.youtube.com/watch?v=B3XDda29iWc) |
 | 501 | miba | 0:04:25 | 2018-02-10 | [link](https://youtu.be/yJiY1rBj27k) |
 | 501 | KuLemon | 0:04:25 | 2019-09-07 | [link](https://www.youtube.com/watch?v=Ve7IZy0tnnE&ab_channel=Ku%27Lemon) |
 | 501 | GHOST97X | 0:04:25 | 2024-08-05 | [link](https://www.youtube.com/watch?v=HShgZzk25xw) |
@@ -624,9 +624,9 @@ categories: speedrun
 | 615 | Bearblue21 | 0:04:58 | 2024-12-28 | [link](https://youtu.be/NfqeSBROQoY?si=kFBkrvbNVkcckoVA) |
 | 616 | NoLimitTHT | 0:04:59 | 2023-01-13 | [link](https://youtu.be/6qfDfrKjbNk) |
 | 617 | VITA_retro | 0:05:00 | 2021-01-25 | [link](https://youtu.be/X1ajHPIgucU) |
+| 617 | jonathanirvings | 0:05:00 | 2022-03-18 | [link](https://www.youtube.com/watch?v=BsKl1uPIhhw) |
 | 617 | scottzirra | 0:05:00 | 2017-04-05 | [link](https://www.youtube.com/watch?v=DCt8vVoPZjw) |
 | 617 | Ladob | 0:05:00 | 2021-09-15 | [link](https://www.twitch.tv/videos/1149216348) |
-| 617 | jonathanirvings | 0:05:00 | 2022-03-18 | [link](https://www.youtube.com/watch?v=BsKl1uPIhhw) |
 | 621 | Leggs | 0:05:02 | 2021-04-27 | [link](https://youtu.be/FLW9stUSjic) |
 | 621 | DrPackun | 0:05:02 | 2022-08-03 | [link](https://youtu.be/E0SFTXfyA9U) |
 | 623 | Pepita14 | 0:05:03 | 2025-01-05 | [link](https://www.youtube.com/watch?v=GP03d7oewi4) |
