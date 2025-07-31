@@ -198,6 +198,7 @@ categories: speedrun
 | 189 | DeadmanPR | 0:03:51 | 2020-12-20 | [link](https://www.twitch.tv/videos/844504796) |
 | 189 | Mrvic | 0:03:51 | 2020-10-27 | [link](https://youtu.be/s7yJjpPaRaA) |
 | 189 | dubiousdinobot | 0:03:51 | 2020-08-06 | [link](https://www.twitch.tv/videos/702129272) |
+| 189 | Supermariobruh | 0:03:51 | 2022-03-23 | [link](https://youtu.be/8IZJQcCRh6Y) |
 | 189 | NathanAlmighty | 0:03:51 | 2017-10-23 | [link](https://www.youtube.com/watch?v=pAvdf5a677k&feature=youtu.be) |
 | 189 | CasualTom | 0:03:51 | 2019-03-30 | [link](https://www.youtube.com/watch?v=27CJsHO1Qt0) |
 | 189 | DelTaz | 0:03:51 | 2016-12-14 | [link](https://www.youtube.com/watch?v=1xJ5dhsxtyk&feature=youtu.be) |
@@ -205,7 +206,6 @@ categories: speedrun
 | 189 | KaysCre | 0:03:51 | 2024-04-28 | [link](https://youtu.be/jLvxGoD7sPw) |
 | 189 | Sc0tty047 | 0:03:51 | 2023-08-16 | [link](https://www.youtube.com/watch?v=y35ymYE3LCQ) |
 | 189 | HarrisonCheng | 0:03:51 | 2022-04-15 | [link](https://youtu.be/zPdtbYwq6Ss) |
-| 189 | Supermariobruh | 0:03:51 | 2022-03-23 | [link](https://youtu.be/8IZJQcCRh6Y) |
 | 189 | SumIntegrals | 0:03:51 | 2025-04-01 | [link](https://youtu.be/KYtR3fRvOeg) |
 | 201 | Uvideo | 0:03:52 | 2020-04-15 | [link](https://www.youtube.com/watch?v=fw4wjXq7dOE) |
 | 201 | WhicheverMirror | 0:03:52 | 2021-06-29 | [link](https://www.youtube.com/watch?v=GM2xy6YLkmU) |
@@ -380,6 +380,7 @@ categories: speedrun
 | 363 | dohggy | 0:04:06 | 2018-12-31 | [link](https://youtu.be/HYgZtiVm6TY) |
 | 363 | ShadowPanda | 0:04:06 | 2016-11-04 | [link](https://www.twitch.tv/shadowpanda__/v/99024030) |
 | 363 | Jellyman102 | 0:04:06 | 2016-07-16 | [link](https://secure.twitch.tv/jellyman67890/v/78424660) |
+| 374 | defybydefault | 0:04:07 | 2022-03-25 | [link](https://www.twitch.tv/videos/1435999373) |
 | 374 | Gumbraise | 0:04:07 | 2022-03-19 | [link](https://www.twitch.tv/videos/1430752952) |
 | 374 | LightWers_ | 0:04:07 | 2018-02-14 | [link](https://www.youtube.com/watch?v=x1W6vKjQmiI) |
 | 374 | tchfunkta | 0:04:07 | 2017-04-19 | [link](https://youtu.be/iQZ3f5Z1goI) |
@@ -388,7 +389,6 @@ categories: speedrun
 | 374 | CloudsLikeJohn | 0:04:07 | 2023-01-10 | [link](https://youtu.be/PknVYYCNbJM) |
 | 374 | smartalec24 | 0:04:07 | 2024-01-27 | [link](https://www.youtube.com/watch?v=dORHdi6gX98) |
 | 374 | DrgnRAGE | 0:04:07 | 2017-03-26 | [link](https://www.youtube.com/watch?v=ekgbcKiQypk) |
-| 374 | defybydefault | 0:04:07 | 2022-03-25 | [link](https://www.twitch.tv/videos/1435999373) |
 | 383 | Ulrisse | 0:04:07.050000 | 2018-01-24 | [link](https://www.youtube.com/watch?v=10DtH_rxM8U) |
 | 384 | Ayoub | 0:04:07.280000 | 2023-08-24 | [link](https://youtu.be/4goqDQ9qdMY?si=t-1nQFnqQJIB9nCu) |
 | 385 | Meztorkin | 0:04:07.650000 | 2019-07-22 | [link](https://youtu.be/ZkeaLex6G2M) |
@@ -399,11 +399,11 @@ categories: speedrun
 | 386 | Jama7301 | 0:04:08 | 2016-10-04 | [link](https://www.twitch.tv/jama7301/v/92990429) |
 | 386 | Typhlo | 0:04:08 | 2018-07-17 | [link](https://www.youtube.com/watch?v=z7CDGAnbrfk) |
 | 392 | bmoncayito | 0:04:09 | 2020-06-25 | [link](https://www.youtube.com/watch?v=6iRI_Y9Ngv0) |
+| 392 | SAMUR | 0:04:09 | 2022-04-12 | [link](https://youtu.be/mIZh09PUw64) |
 | 392 | Yosch | 0:04:09 | 2021-03-27 | [link](https://www.youtube.com/watch?v=sup42wDHXU4) |
 | 392 | Lipe_Berserker | 0:04:09 | 2017-02-23 | [link](https://www.youtube.com/watch?v=HytnSGqrous) |
 | 392 | __LoS_ | 0:04:09 | 2018-06-25 | [link](https://youtu.be/HJc8MROZUV0) |
 | 392 | 8BitPlumber | 0:04:09 | 2024-11-29 | [link](https://youtu.be/CQIDrMfOFAk) |
-| 392 | SAMUR | 0:04:09 | 2022-04-12 | [link](https://youtu.be/mIZh09PUw64) |
 | 392 | FyrizZ | 0:04:09 | 2022-07-22 | [link](https://youtu.be/_0tZ3wMROPg) |
 | 392 | Liano98 | 0:04:09 | 2024-02-01 | [link](https://www.youtube.com/watch?v=7jnRiopSs_Y) |
 | 392 | klebdotio | 0:04:09 | 2018-07-15 | [link](https://youtu.be/oG-zlc1hTVQ) |
@@ -436,10 +436,10 @@ categories: speedrun
 | 419 | NinWorld | 0:04:13 | 2018-07-09 | [link](https://www.youtube.com/watch?v=Sr1Np54wYfw&t=3140s) |
 | 428 | JonnyLink | 0:04:14 | 2021-06-07 | [link](https://youtu.be/UkZ13jmSKhM) |
 | 428 | Jayaye78 | 0:04:14 | 2021-05-14 | [link](https://www.twitch.tv/videos/1025365133) |
+| 428 | OneWingdAngel | 0:04:14 | 2018-03-20 | [link](https://youtu.be/E38FBfMZe5k) |
 | 428 | zutetflute | 0:04:14 | 2018-03-02 | [link](https://youtu.be/jrsHceWF7vM) |
 | 428 | yelir64 | 0:04:14 | 2022-09-12 | [link](https://www.youtube.com/watch?v=3mrfDCOrdcM) |
 | 428 | unfinish | 0:04:14 | 2023-03-09 | [link](https://scratch.mit.edu/projects/816752245/) |
-| 428 | OneWingdAngel | 0:04:14 | 2018-03-20 | [link](https://youtu.be/E38FBfMZe5k) |
 | 428 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
 | 435 | TH3MOTOGAM3R | 0:04:15 | 2020-05-25 | [link](http://www.twitch.tv/th3motogam3r/v/632090049?sr=a&t=0s) |
 | 435 | nicorasu | 0:04:15 | 2019-12-22 | [link](https://www.twitch.tv/videos/524752526) |
@@ -464,13 +464,13 @@ categories: speedrun
 | 455 | AnimusUnited | 0:04:18 | 2020-12-04 | [link](https://www.twitch.tv/videos/825412475) |
 | 455 | MinusWorldJay | 0:04:18 | 2020-06-22 | [link](https://youtu.be/0rQ9pTXMSYg) |
 | 455 | Twafad | 0:04:18 | 2021-05-24 | [link](https://youtu.be/SWGM77pHuls) |
+| 455 | Leybo | 0:04:18 | 2018-03-18 | [link](https://www.youtube.com/watch?v=V3PeKBjqClc) |
 | 455 | 6regory | 0:04:18 | 2017-09-09 | [link](https://youtu.be/xozuG7fSB2M) |
 | 455 | ShesChardcore | 0:04:18 | 2019-09-13 | [link](https://www.twitch.tv/videos/481011276) |
 | 455 | JuegAriel | 0:04:18 | 2017-03-21 | [link](https://www.twitch.tv/videos/130239510) |
 | 455 | Bullfrog | 0:04:18 | 2017-02-23 | [link](https://www.twitch.tv/videos/124119242) |
 | 455 | Darkman_ | 0:04:18 | 2022-08-10 | [link](https://www.youtube.com/watch?v=hvYhMI3e2bU) |
 | 455 | Memphis1 | 0:04:18 | 2023-05-20 | [link](https://youtu.be/_YP0bAgBwPI) |
-| 455 | Leybo | 0:04:18 | 2018-03-18 | [link](https://www.youtube.com/watch?v=V3PeKBjqClc) |
 | 455 | EthanAlexE | 0:04:18 | 2018-12-13 | [link](https://youtu.be/1nvrFDwyHNs) |
 | 466 | Slackh | 0:04:19 | 2020-05-21 | [link](https://www.twitch.tv/videos/627706353) |
 | 466 | ThreeToadSloth | 0:04:19 | 2019-12-31 | [link](https://youtu.be/4Bwv4pbl4qg) |
@@ -614,8 +614,8 @@ categories: speedrun
 | 605 | AiSnake | 0:04:51 | 2020-09-01 | [link](https://youtu.be/e_kLhlSSg-E) |
 | 605 | PeeBee | 0:04:51 | 2018-01-14 | [link](https://youtu.be/_HuT9V04YkU) |
 | 605 | CaillouKan | 0:04:51 | 2017-06-06 | [link](https://www.youtube.com/watch?v=dW9eyncKCas) |
-| 608 | biox | 0:04:52 | 2020-09-03 | [link](https://www.youtube.com/watch?v=WNb5Ilw5WLU) |
 | 608 | seungoh1 | 0:04:52 | 2021-03-22 | [link](https://youtu.be/UsxZSXjzTVA) |
+| 608 | biox | 0:04:52 | 2020-09-03 | [link](https://www.youtube.com/watch?v=WNb5Ilw5WLU) |
 | 608 | DJMiller | 0:04:52 | 2019-09-25 | [link](https://www.twitch.tv/videos/486300081) |
 | 611 | ImGhost | 0:04:52.385000 | 2021-03-21 | [link](https://youtu.be/60Om6gzHS9s) |
 | 612 | Tailsgenesis | 0:04:53 | 2024-05-22 | [link](https://drive.google.com/file/d/1rS86Dt7Coh6s0Z6zzsl6A_nEUrTp0IOs/view) |
