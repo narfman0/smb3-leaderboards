@@ -124,8 +124,8 @@ categories: speedrun
 | 115 | amorujao | 0:03:33 | 2018-10-26 | [link](https://www.youtube.com/watch?v=5Fn63YnGaaE) |
 | 116 | IsoFrieze | 0:03:34 | 2016-10-08 | [link](https://www.youtube.com/watch?v=O6uSrvU7K4I) |
 | 116 | Seanzilla | 0:03:34 | 2018-06-07 | [link](https://youtu.be/m0P2E7JiFMI) |
-| 118 | CaptainSpeedruns | 0:03:36 | 2019-08-05 | [link](https://www.youtube.com/watch?v=TwpELgXL6aE&feature=youtu.be) |
 | 118 | yeabruh | 0:03:36 | 2022-04-16 | [link](https://youtu.be/iK69Vm6MrK8) |
+| 118 | CaptainSpeedruns | 0:03:36 | 2019-08-05 | [link](https://www.youtube.com/watch?v=TwpELgXL6aE&feature=youtu.be) |
 | 120 | mpu | 0:03:37 | 2017-09-20 | [link](https://youtu.be/6jSr5yiY8BY) |
 | 121 | decrazyo | 0:03:38 | 2019-05-03 | [link](https://www.youtube.com/watch?v=iq1U6zOATQQ) |
 | 121 | MSP-Wakas | 0:03:38 | 2018-10-12 | [link](https://www.youtube.com/watch?v=qRrxttC30AE) |
@@ -399,9 +399,9 @@ categories: speedrun
 | 387 | LordHVetinari | 0:04:08 | 2018-12-24 | [link](https://youtu.be/MLb-W8CPt1E) |
 | 387 | Jama7301 | 0:04:08 | 2016-10-04 | [link](https://www.twitch.tv/jama7301/v/92990429) |
 | 387 | Typhlo | 0:04:08 | 2018-07-17 | [link](https://www.youtube.com/watch?v=z7CDGAnbrfk) |
+| 393 | Yosch | 0:04:09 | 2021-03-27 | [link](https://www.youtube.com/watch?v=sup42wDHXU4) |
 | 393 | bmoncayito | 0:04:09 | 2020-06-25 | [link](https://www.youtube.com/watch?v=6iRI_Y9Ngv0) |
 | 393 | SAMUR | 0:04:09 | 2022-04-12 | [link](https://youtu.be/mIZh09PUw64) |
-| 393 | Yosch | 0:04:09 | 2021-03-27 | [link](https://www.youtube.com/watch?v=sup42wDHXU4) |
 | 393 | Lipe_Berserker | 0:04:09 | 2017-02-23 | [link](https://www.youtube.com/watch?v=HytnSGqrous) |
 | 393 | __LoS_ | 0:04:09 | 2018-06-25 | [link](https://youtu.be/HJc8MROZUV0) |
 | 393 | 8BitPlumber | 0:04:09 | 2024-11-29 | [link](https://youtu.be/CQIDrMfOFAk) |
@@ -429,9 +429,9 @@ categories: speedrun
 | 420 | SwemxdTV | 0:04:13 | 2020-10-07 | [link](https://www.youtube.com/watch?v=SOu9_7QKfbw&ab_channel=SwemxdTV) |
 | 420 | Checkmate6659 | 0:04:13 | 2020-07-12 | [link](https://youtu.be/0fWJRVJsYN0) |
 | 420 | 360Chrism | 0:04:13 | 2020-02-08 | [link](https://youtu.be/nu9HQjENqLQ) |
+| 420 | mtheordinarygamer | 0:04:13 | 2022-04-29 | [link](https://www.youtube.com/watch?v=ZnD3Tm_ElqY) |
 | 420 | greatjhon | 0:04:13 | 2017-04-12 | [link](https://www.twitch.tv/videos/135261476) |
 | 420 | KittyWake | 0:04:13 | 2025-01-06 | [link](https://www.youtube.com/watch?v=rC_kQpjM6T4&ab_channel=KittyWake) |
-| 420 | mtheordinarygamer | 0:04:13 | 2022-04-29 | [link](https://www.youtube.com/watch?v=ZnD3Tm_ElqY) |
 | 420 | DragonRanger | 0:04:13 | 2023-01-29 | [link](https://www.youtube.com/watch?v=U3uFkdlaeb4) |
 | 420 | SuperM | 0:04:13 | 2018-12-26 | [link](https://www.youtube.com/watch?v=AuBhetnUiP4) |
 | 420 | NinWorld | 0:04:13 | 2018-07-09 | [link](https://www.youtube.com/watch?v=Sr1Np54wYfw&t=3140s) |
@@ -443,8 +443,8 @@ categories: speedrun
 | 429 | unfinish | 0:04:14 | 2023-03-09 | [link](https://scratch.mit.edu/projects/816752245/) |
 | 429 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
 | 436 | TH3MOTOGAM3R | 0:04:15 | 2020-05-25 | [link](http://www.twitch.tv/th3motogam3r/v/632090049?sr=a&t=0s) |
-| 436 | nicorasu | 0:04:15 | 2019-12-22 | [link](https://www.twitch.tv/videos/524752526) |
 | 436 | Yamia | 0:04:15 | 2017-04-30 | [link](https://youtu.be/HA1Yd05g2ps) |
+| 436 | nicorasu | 0:04:15 | 2019-12-22 | [link](https://www.twitch.tv/videos/524752526) |
 | 436 | melloflowz | 0:04:15 | 2019-03-19 | [link](https://www.twitch.tv/videos/398382567) |
 | 436 | WontedEvil158 | 0:04:15 | 2022-05-23 | [link](https://youtu.be/TgGbfOnS_Sg) |
 | 436 | _generic | 0:04:15 | 2023-03-22 | [link](https://www.youtube.com/watch?v=b4YaQDgJGPM&ab_channel=__generic) |
@@ -475,8 +475,8 @@ categories: speedrun
 | 456 | EthanAlexE | 0:04:18 | 2018-12-13 | [link](https://youtu.be/1nvrFDwyHNs) |
 | 467 | Slackh | 0:04:19 | 2020-05-21 | [link](https://www.twitch.tv/videos/627706353) |
 | 467 | ThreeToadSloth | 0:04:19 | 2019-12-31 | [link](https://youtu.be/4Bwv4pbl4qg) |
-| 467 | SickMyDuck | 0:04:19 | 2018-01-26 | [link](https://youtu.be/IrFvbdj5mow) |
 | 467 | Lilpuri | 0:04:19 | 2022-04-29 | [link](https://www.youtube.com/watch?v=SqifPD81Wsk) |
+| 467 | SickMyDuck | 0:04:19 | 2018-01-26 | [link](https://youtu.be/IrFvbdj5mow) |
 | 467 | Lucha_Gym | 0:04:19 | 2023-01-24 | [link](https://youtu.be/bBXpHtx2sTg) |
 | 467 | DramenDays | 0:04:19 | 2018-04-12 | [link](https://youtu.be/Hja2Abo-2GE) |
 | 473 | Elohzee | 0:04:20 | 2021-03-21 | [link](https://youtu.be/dxNPQ-o0FXQ) |
@@ -564,8 +564,8 @@ categories: speedrun
 | 553 | The_TK | 0:04:36 | 2018-03-26 | [link](https://www.youtube.com/watch?v=-BGlf-784l4) |
 | 556 | sendokiller10 | 0:04:36.015000 | 2024-07-23 | [link](https://youtu.be/yUX_T65nP6s) |
 | 557 | LamppuOsmo | 0:04:37 | 2024-05-07 | [link](https://youtu.be/iXqfzQ1yLIc) |
-| 558 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
 | 558 | Lao | 0:04:38 | 2018-03-01 | [link](https://www.youtube.com/watch?v=6p9FOkAU4AM) |
+| 558 | ReMeDee | 0:04:38 | 2019-12-05 | [link](https://youtu.be/-Vpo2q6k6CI) |
 | 558 | aardvaaarc | 0:04:38 | 2024-10-04 | [link](https://youtu.be/KgdOrCH-nUM) |
 | 558 | speedruntutor | 0:04:38 | 2024-06-06 | [link](https://www.youtube.com/watch?v=SsGeptq1tRA) |
 | 558 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
