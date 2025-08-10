@@ -219,13 +219,13 @@ categories: speedrun
 | 201 | FURiOUS | 0:03:52 | 2015-06-19 | [link](https://www.youtube.com/watch?v=qnC1fzT7oXM) |
 | 211 | MinDsiL | 0:03:53 | 2022-03-08 | [link](https://www.twitch.tv/videos/1419016634) |
 | 211 | TheSkeeterBronson | 0:03:53 | 2022-03-06 | [link](https://youtu.be/GKwKfOxDCB0) |
+| 211 | kei | 0:03:53 | 2018-03-25 | [link](https://www.youtube.com/watch?v=lc9gjWkGu98) |
 | 211 | Nowey | 0:03:53 | 2018-03-07 | [link](https://www.youtube.com/watch?v=wIAWr3da_wM) |
 | 211 | Aydles | 0:03:53 | 2018-06-13 | [link](https://youtu.be/1qpvwqmvhkg) |
 | 211 | Ribb95 | 0:03:53 | 2018-10-27 | [link](https://www.youtube.com/watch?v=Rml4m5X437Y&t=2s) |
 | 211 | icterus440 | 0:03:53 | 2018-03-28 | [link](https://www.youtube.com/watch?v=N3SFFZvh6_A&feature=youtu.be) |
 | 211 | kinopico33 | 0:03:53 | 2024-08-10 | [link](https://www.bilibili.com/video/BV1ZNYjeJENS) |
 | 211 | JustEdd | 0:03:53 | 2024-08-21 | [link](https://www.youtube.com/watch?v=5NhvKGEH12c) |
-| 211 | kei | 0:03:53 | 2018-03-25 | [link](https://www.youtube.com/watch?v=lc9gjWkGu98) |
 | 220 | GoukiMaster06 | 0:03:53.290000 | 2023-04-12 | [link](https://www.youtube.com/watch?v=FVpnwD5u9v8) |
 | 221 | alpha_ray_burst | 0:03:54 | 2020-12-17 | [link](https://www.twitch.tv/videos/840496035) |
 | 221 | Take72 | 0:03:54 | 2020-03-14 | [link](https://www.twitch.tv/videos/568036938?) |
@@ -395,8 +395,8 @@ categories: speedrun
 | 386 | Ulrisse | 0:04:07.050000 | 2018-01-24 | [link](https://www.youtube.com/watch?v=10DtH_rxM8U) |
 | 387 | Ayoub | 0:04:07.280000 | 2023-08-24 | [link](https://youtu.be/4goqDQ9qdMY?si=t-1nQFnqQJIB9nCu) |
 | 388 | Meztorkin | 0:04:07.650000 | 2019-07-22 | [link](https://youtu.be/ZkeaLex6G2M) |
-| 389 | Odme_ | 0:04:08 | 2022-02-22 | [link](https://www.youtube.com/watch?v=axXAZVsd7ps) |
 | 389 | Saturnb | 0:04:08 | 2021-03-30 | [link](https://youtu.be/Wx174Ydh8wY) |
+| 389 | Odme_ | 0:04:08 | 2022-02-22 | [link](https://www.youtube.com/watch?v=axXAZVsd7ps) |
 | 389 | antodur | 0:04:08 | 2018-03-04 | [link](https://youtu.be/847zQgQMelA) |
 | 389 | LordHVetinari | 0:04:08 | 2018-12-24 | [link](https://youtu.be/MLb-W8CPt1E) |
 | 389 | Jama7301 | 0:04:08 | 2016-10-04 | [link](https://www.twitch.tv/jama7301/v/92990429) |
@@ -421,9 +421,9 @@ categories: speedrun
 | 406 | Genca | 0:04:10 | 2025-05-10 | [link](https://youtu.be/kXpRXrirLTk) |
 | 413 | x7universe | 0:04:10.710000 | 2017-06-01 | [link](None) |
 | 414 | Fuzzyzilla | 0:04:11 | 2018-02-23 | [link](https://www.youtube.com/watch?v=f82fxeCG6Fo) |
-| 415 | FGrim | 0:04:12 | 2019-12-29 | [link](https://youtu.be/WvYAtqIN7yg) |
 | 415 | KiD_ViD | 0:04:12 | 2018-03-11 | [link](https://youtu.be/uo8FWar7_gE) |
 | 415 | grandpoobear | 0:04:12 | 2017-05-28 | [link](https://youtu.be/6JgulD05ou0) |
+| 415 | FGrim | 0:04:12 | 2019-12-29 | [link](https://youtu.be/WvYAtqIN7yg) |
 | 415 | 24ShyGuy | 0:04:12 | 2024-03-17 | [link](https://www.youtube.com/watch?v=lj6En3bj7u0) |
 | 415 | BubuMC | 0:04:12 | 2018-09-07 | [link](https://www.twitch.tv/videos/345499715) |
 | 415 | HomerOfSteel | 0:04:12 | 2023-11-12 | [link](https://youtu.be/0eqD8a-AVyI) |
@@ -562,8 +562,8 @@ categories: speedrun
 | 550 | Chocomantis | 0:04:35 | 2018-08-30 | [link](https://www.youtube.com/watch?v=XFw0zFlRiR4&feature=youtu.be) |
 | 554 | AGRAZZ | 0:04:35.270000 | 2023-07-11 | [link](https://www.youtube.com/watch?v=OjXiGXh15d8) |
 | 555 | Seriouslysam25 | 0:04:36 | 2022-03-11 | [link](https://www.youtube.com/watch?v=lR1XcnLQobA&ab_channel=ShinyGiveaways) |
-| 555 | Pushungo507 | 0:04:36 | 2018-02-13 | [link](https://www.youtube.com/watch?v=hkl26VDkrrk) |
 | 555 | The_TK | 0:04:36 | 2018-03-26 | [link](https://www.youtube.com/watch?v=-BGlf-784l4) |
+| 555 | Pushungo507 | 0:04:36 | 2018-02-13 | [link](https://www.youtube.com/watch?v=hkl26VDkrrk) |
 | 558 | sendokiller10 | 0:04:36.015000 | 2024-07-23 | [link](https://youtu.be/yUX_T65nP6s) |
 | 559 | LamppuOsmo | 0:04:37 | 2024-05-07 | [link](https://youtu.be/iXqfzQ1yLIc) |
 | 560 | Lao | 0:04:38 | 2018-03-01 | [link](https://www.youtube.com/watch?v=6p9FOkAU4AM) |
@@ -605,10 +605,10 @@ categories: speedrun
 | 595 | Firelemon | 0:04:47 | 2020-07-24 | [link](https://www.youtube.com/watch?v=KCpkefiEBho&feature=youtu.be) |
 | 595 | tyleursmb3 | 0:04:47 | 2022-05-23 | [link](https://youtu.be/i4NQBeeMX7Q) |
 | 598 | alex03 | 0:04:48 | 2020-09-10 | [link](https://www.youtube.com/watch?v=cv1UmYpt0Y8) |
+| 598 | dydyhg | 0:04:48 | 2018-03-28 | [link](https://youtu.be/DgAolwtQ_YQ) |
 | 598 | sirmax | 0:04:48 | 2018-02-04 | [link](https://youtu.be/ZCx68_FAvu4) |
 | 598 | GibEvad | 0:04:48 | 2018-03-10 | [link](https://www.youtube.com/watch?v=820tiC3WHAc) |
 | 598 | poyo64 | 0:04:48 | 2023-12-11 | [link](https://youtu.be/qpTxeuJ0w2k?si=Q8OwXLo4fpj3Adxp) |
-| 598 | dydyhg | 0:04:48 | 2018-03-28 | [link](https://youtu.be/DgAolwtQ_YQ) |
 | 598 | Alicemadness | 0:04:48 | 2022-06-30 | [link](https://www.youtube.com/watch?v=n5Zvq2aiI_s) |
 | 598 | CaptainBob6 | 0:04:48 | 2019-09-29 | [link](https://www.youtube.com/watch?v=PHA3VwtZXIk&t) |
 | 605 | SpevanGaming | 0:04:49 | 2017-09-27 | [link](https://www.twitch.tv/videos/178026410) |
