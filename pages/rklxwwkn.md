@@ -70,8 +70,8 @@ categories: speedrun
 | 61 | Matepe | 0:52:36 | 2024-09-27 | [link](https://www.youtube.com/watch?v=2pwMeCgujYI) |
 | 62 | HocusPocus | 0:52:38 | 2025-05-19 | [link](https://www.twitch.tv/videos/2462865646) |
 | 63 | reshia | 0:52:39 | 2024-12-08 | [link](https://www.twitch.tv/videos/2321430278) |
-| 64 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 64 | assemble_me | 0:52:44 | 2024-05-24 | [link](https://youtu.be/ZhoiD9TisNU?si=h_w4D9VBFDD24CxX&t=18) |
+| 64 | Ezeron | 0:52:44 | 2019-09-16 | [link](https://youtu.be/ZoesAnsjBSQ) |
 | 66 | grandpoobear | 0:52:46 | 2017-06-28 | [link](https://www.twitch.tv/videos/154915618) |
 | 67 | TheLostLlama | 0:52:47 | 2016-02-03 | [link](http://www.twitch.tv/thelostllama/v/40275470) |
 | 67 | duckfist | 0:52:47 | 2021-09-04 | [link](https://www.twitch.tv/videos/1139437792?collection=pgQmVpxPpBao_Q) |
