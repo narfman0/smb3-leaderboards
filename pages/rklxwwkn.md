@@ -253,7 +253,7 @@ categories: speedrun
 | 244 | buster__bee | 1:01:34 | 2018-08-10 | [link](https://youtu.be/6GGMEygwEA8) |
 | 245 | authorblues | 1:01:35 | 2014-03-22 | [link](https://www.twitch.tv/authorblues/v/43012023) |
 | 246 | Sten | 1:01:36 | 2019-05-01 | [link](https://www.youtube.com/watch?v=kFrbyPfpVKI) |
-| 247 | itsbeeve | 1:01:39 | 2022-01-30 | [link](https://www.twitch.tv/videos/1281797471) |
+| 247 | itsbeeve | 1:01:39 | 2022-01-30 | [link](https://youtu.be/9TqlnhqFtlA) |
 | 248 | riscky | 1:01:50 | 2018-03-30 | [link](https://youtu.be/UEFUtJmqm2U) |
 | 249 | grimlocksoflove | 1:01:54 | 2021-09-14 | [link](https://www.twitch.tv/videos/1148803650) |
 | 250 | naksuboyvesifirma | 1:02:16 | 2025-04-08 | [link](https://youtu.be/8eovdsdPOpk) |
