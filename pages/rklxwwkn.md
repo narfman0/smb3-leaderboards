@@ -147,8 +147,8 @@ categories: speedrun
 | 136 | favoritepie | 0:55:27 | 2021-08-15 | [link](https://www.youtube.com/watch?v=QkaZs3RsUGo) |
 | 139 | Galatea86 | 0:55:32 | 2021-11-28 | [link](https://www.youtube.com/watch?v=H3mYvG2HfK0&ab_channel=Galatea86) |
 | 140 | Growly87 | 0:55:41 | 2021-03-25 | [link](https://www.twitch.tv/videos/962376915) |
-| 141 | proa007 | 0:55:48 | 2021-01-27 | [link](https://www.twitch.tv/videos/890704690) |
 | 141 | 10ooki | 0:55:48 | 2015-09-20 | [link](https://youtu.be/moWdUhL7_FY) |
+| 141 | proa007 | 0:55:48 | 2021-01-27 | [link](https://www.twitch.tv/videos/890704690) |
 | 143 | SuperMegaDav | 0:55:52 | 2021-01-23 | [link](https://www.twitch.tv/videos/897929872) |
 | 143 | beardylocks | 0:55:52 | 2022-04-29 | [link](https://youtu.be/NQtke3_kmFo) |
 | 145 | RoyLT | 0:55:59 | 2020-09-20 | [link](https://youtu.be/5K221OrzOt8) |

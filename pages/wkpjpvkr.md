@@ -234,9 +234,9 @@ categories: speedrun
 | 217 | JustEdd | 0:03:53 | 2024-08-21 | [link](https://www.youtube.com/watch?v=5NhvKGEH12c) |
 | 226 | GoukiMaster06 | 0:03:53.290000 | 2023-04-12 | [link](https://www.youtube.com/watch?v=FVpnwD5u9v8) |
 | 227 | alpha_ray_burst | 0:03:54 | 2020-12-17 | [link](https://www.twitch.tv/videos/840496035) |
+| 227 | Take72 | 0:03:54 | 2020-03-14 | [link](https://www.twitch.tv/videos/568036938?) |
 | 227 | Echon | 0:03:54 | 2021-12-12 | [link](https://www.twitch.tv/videos/1231252315) |
 | 227 | Neptunolium | 0:03:54 | 2018-04-10 | [link](https://www.twitch.tv/videos/248653933) |
-| 227 | Take72 | 0:03:54 | 2020-03-14 | [link](https://www.twitch.tv/videos/568036938?) |
 | 227 | psload | 0:03:54 | 2017-05-06 | [link](https://www.youtube.com/watch?v=H7TTSIce4NU) |
 | 227 | Volpey | 0:03:54 | 2019-09-27 | [link](https://www.youtube.com/watch?v=z_j7-TOOYME) |
 | 227 | Mr.JacoPbass | 0:03:54 | 2018-05-22 | [link](https://www.youtube.com/watch?v=-58ezFfKTx4) |
@@ -310,11 +310,11 @@ categories: speedrun
 | 300 | TheGoodGoomba | 0:03:59 | 2020-10-25 | [link](https://youtu.be/QHp6RWDZKJo) |
 | 300 | oknem | 0:03:59 | 2020-10-12 | [link](https://youtu.be/QFfxq209voU) |
 | 300 | KLM1187 | 0:03:59 | 2020-06-23 | [link](https://youtu.be/TNTEEsu3Nrc) |
+| 300 | CreatiX | 0:03:59 | 2020-02-22 | [link](https://youtu.be/cThrF_3Invs) |
 | 300 | Sofa1 | 0:03:59 | 2018-02-02 | [link](https://www.twitch.tv/videos/224762764) |
 | 300 | HJA | 0:03:59 | 2017-10-23 | [link](https://www.youtube.com/watch?v=_CmANw241yo) |
 | 300 | KaiserKrister | 0:03:59 | 2017-09-19 | [link](https://www.twitch.tv/videos/175971008) |
 | 300 | Nikelaus | 0:03:59 | 2017-06-01 | [link](https://www.youtube.com/watch?v=mRU-DR2kNjs) |
-| 300 | CreatiX | 0:03:59 | 2020-02-22 | [link](https://youtu.be/cThrF_3Invs) |
 | 300 | ThePigKing | 0:03:59 | 2020-01-13 | [link](https://youtu.be/IvhV07eVwq8) |
 | 300 | Kettu82 | 0:03:59 | 2024-10-16 | [link](https://www.youtube.com/watch?v=5Cdtwr1MalU) |
 | 300 | AgentWyvern | 0:03:59 | 2024-11-20 | [link](https://youtu.be/zKsN942L_WU) |
