@@ -235,9 +235,9 @@ categories: speedrun
 | 218 | JustEdd | 0:03:53 | 2024-08-21 | [link](https://www.youtube.com/watch?v=5NhvKGEH12c) |
 | 227 | GoukiMaster06 | 0:03:53.290000 | 2023-04-12 | [link](https://www.youtube.com/watch?v=FVpnwD5u9v8) |
 | 228 | alpha_ray_burst | 0:03:54 | 2020-12-17 | [link](https://www.twitch.tv/videos/840496035) |
-| 228 | Take72 | 0:03:54 | 2020-03-14 | [link](https://www.twitch.tv/videos/568036938?) |
 | 228 | Echon | 0:03:54 | 2021-12-12 | [link](https://www.twitch.tv/videos/1231252315) |
 | 228 | Neptunolium | 0:03:54 | 2018-04-10 | [link](https://www.twitch.tv/videos/248653933) |
+| 228 | Take72 | 0:03:54 | 2020-03-14 | [link](https://www.twitch.tv/videos/568036938?) |
 | 228 | psload | 0:03:54 | 2017-05-06 | [link](https://www.youtube.com/watch?v=H7TTSIce4NU) |
 | 228 | Volpey | 0:03:54 | 2019-09-27 | [link](https://www.youtube.com/watch?v=z_j7-TOOYME) |
 | 228 | Mr.JacoPbass | 0:03:54 | 2018-05-22 | [link](https://www.youtube.com/watch?v=-58ezFfKTx4) |
