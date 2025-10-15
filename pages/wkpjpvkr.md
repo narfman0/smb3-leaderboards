@@ -583,9 +583,9 @@ categories: speedrun
 | 570 | MrPyt1001 | 0:04:38 | 2016-06-05 | [link](https://www.youtube.com/watch?v=zgZgvNC3Joo) |
 | 570 | Artoman | 0:04:38 | 2025-10-04 | [link](https://youtu.be/CrYI05iejts) |
 | 576 | DanteOwO | 0:04:38.075000 | 2020-11-03 | [link](https://www.youtube.com/watch?v=Z3x-5aENA0k&t=454s) |
-| 577 | owilderman | 0:04:39 | 2020-03-29 | [link](https://youtu.be/S2-w2HdiWoc) |
 | 577 | BoBoTheMonkey | 0:04:39 | 2022-06-22 | [link](https://www.youtube.com/watch?v=YfX9WUBTNZU) |
 | 577 | hazelnym | 0:04:39 | 2018-04-14 | [link](https://www.youtube.com/watch?v=OsM3ZqS8ARs) |
+| 577 | owilderman | 0:04:39 | 2020-03-29 | [link](https://youtu.be/S2-w2HdiWoc) |
 | 577 | ToshiyukiDoma | 0:04:39 | 2024-02-22 | [link](https://youtu.be/vKAJjEdmcx4) |
 | 581 | misterweber | 0:04:40 | 2021-02-26 | [link](https://youtu.be/pRswFXxiEak) |
 | 581 | JoakoLab | 0:04:40 | 2019-01-29 | [link](https://youtu.be/3vS8tMXhj8U) |
