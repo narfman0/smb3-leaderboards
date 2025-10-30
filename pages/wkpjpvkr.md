@@ -365,12 +365,12 @@ categories: speedrun
 | 356 | spsxis | 0:04:04 | 2021-02-22 | [link](https://www.twitch.tv/videos/924856840) |
 | 356 | Snowpie | 0:04:04 | 2021-01-17 | [link](https://www.twitch.tv/videos/877708357) |
 | 356 | nerphblaster27 | 0:04:04 | 2021-11-20 | [link](https://youtu.be/-qx7SQV05HI) |
+| 356 | lookitdisguy | 0:04:04 | 2018-05-29 | [link](https://www.twitch.tv/videos/266940452) |
 | 356 | Lomiig | 0:04:04 | 2017-11-12 | [link](https://youtu.be/z9QRlSaOIGc) |
 | 356 | Traklon | 0:04:04 | 2017-10-31 | [link](https://www.youtube.com/watch?v=1Uo-x5f-MUM) |
 | 356 | RoyLT | 0:04:04 | 2017-07-07 | [link](https://www.twitch.tv/videos/157376963) |
 | 356 | CoconutsX | 0:04:04 | 2017-05-17 | [link](https://www.youtube.com/watch?v=j3XZgsyORe4) |
 | 356 | Miki | 0:04:04 | 2016-12-08 | [link](https://www.youtube.com/watch?v=0cPTB-sYsrQ) |
-| 356 | lookitdisguy | 0:04:04 | 2018-05-29 | [link](https://www.twitch.tv/videos/266940452) |
 | 356 | Bokonon_Lives | 0:04:04 | 2019-02-08 | [link](https://www.twitch.tv/videos/377552963) |
 | 356 | Agnaraak | 0:04:04 | 2017-01-26 | [link](https://www.youtube.com/watch?v=EOXFIhAJHPQ&t=36s) |
 | 356 | TheRealSampai | 0:04:04 | 2018-10-14 | [link](https://youtu.be/LTPTzReuH_A) |
@@ -589,8 +589,8 @@ categories: speedrun
 | 578 | owilderman | 0:04:39 | 2020-03-29 | [link](https://youtu.be/S2-w2HdiWoc) |
 | 578 | ToshiyukiDoma | 0:04:39 | 2024-02-22 | [link](https://youtu.be/vKAJjEdmcx4) |
 | 582 | misterweber | 0:04:40 | 2021-02-26 | [link](https://youtu.be/pRswFXxiEak) |
-| 582 | JoakoLab | 0:04:40 | 2019-01-29 | [link](https://youtu.be/3vS8tMXhj8U) |
 | 582 | os2251car | 0:04:40 | 2022-08-18 | [link](https://www.youtube.com/watch?v=lRmzfveVZrA) |
+| 582 | JoakoLab | 0:04:40 | 2019-01-29 | [link](https://youtu.be/3vS8tMXhj8U) |
 | 585 | NilesMonkey | 0:04:41 | 2022-06-04 | [link](https://www.youtube.com/watch?v=fdwhYNe0aG4) |
 | 585 | kingkura | 0:04:41 | 2018-06-07 | [link](https://www.youtube.com/watch?v=H8Fo5kJ6LB8) |
 | 585 | MidnightFractal | 0:04:41 | 2024-04-02 | [link](https://youtu.be/WZ7_g5U_ZD0) |
