@@ -111,8 +111,8 @@ categories: speedrun
 | 101 | SuperSonic | 0:54:21 | 2025-03-25 | [link](https://www.youtube.com/watch?v=pl-_Bl7cNvE) |
 | 103 | Njoammil | 0:54:22 | 2021-03-27 | [link](https://www.twitch.tv/videos/965526098) |
 | 104 | Grayskull83 | 0:54:26 | 2022-04-12 | [link](https://www.twitch.tv/videos/1454218684) |
-| 105 | DaveLindo | 0:54:27 | 2019-10-28 | [link](https://www.twitch.tv/videos/500833323) |
 | 105 | WRD116 | 0:54:27 | 2021-02-12 | [link](https://www.youtube.com/watch?v=RDi3JMZaMwE&feature=share&fbclid=IwAR3lHYuGX2ZaEfmJraE541gYfG9r65kFaW_0E3YNjL6z_KylrqCVBb4fEmE&ab_channel=WRD116) |
+| 105 | DaveLindo | 0:54:27 | 2019-10-28 | [link](https://www.twitch.tv/videos/500833323) |
 | 105 | GreenDeathFlavor | 0:54:27 | 2017-09-18 | [link](https://www.twitch.tv/videos/175804502) |
 | 108 | RSixsmith | 0:54:28 | 2016-12-07 | [link](https://www.youtube.com/watch?v=AJb5eZE5LxE) |
 | 109 | SkylightFox | 0:54:30 | 2017-04-07 | [link](https://www.twitch.tv/videos/134025630) |
