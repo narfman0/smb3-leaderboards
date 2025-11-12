@@ -450,9 +450,9 @@ categories: speedrun
 | 435 | DragonRanger | 0:04:13 | 2023-01-29 | [link](https://www.youtube.com/watch?v=U3uFkdlaeb4) |
 | 435 | SuperM | 0:04:13 | 2018-12-26 | [link](https://www.youtube.com/watch?v=AuBhetnUiP4) |
 | 435 | NinWorld | 0:04:13 | 2018-07-09 | [link](https://www.youtube.com/watch?v=Sr1Np54wYfw&t=3140s) |
+| 444 | Jayaye78 | 0:04:14 | 2021-05-14 | [link](https://www.twitch.tv/videos/1025365133) |
 | 444 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
 | 444 | JonnyLink | 0:04:14 | 2021-06-07 | [link](https://youtu.be/UkZ13jmSKhM) |
-| 444 | Jayaye78 | 0:04:14 | 2021-05-14 | [link](https://www.twitch.tv/videos/1025365133) |
 | 444 | OneWingdAngel | 0:04:14 | 2018-03-20 | [link](https://youtu.be/E38FBfMZe5k) |
 | 444 | zutetflute | 0:04:14 | 2018-03-02 | [link](https://youtu.be/jrsHceWF7vM) |
 | 444 | yelir64 | 0:04:14 | 2022-09-12 | [link](https://www.youtube.com/watch?v=3mrfDCOrdcM) |
@@ -545,8 +545,8 @@ categories: speedrun
 | 535 | RealNariox | 0:04:27 | 2024-10-20 | [link](https://www.twitch.tv/videos/2143196604) |
 | 535 | Fj123u | 0:04:27 | 2023-06-24 | [link](https://youtu.be/Tib8bkri9vU) |
 | 538 | d_bo84 | 0:04:27.720000 | 2023-02-17 | [link](https://youtu.be/91fysQzs4j8) |
-| 539 | alisammm | 0:04:28 | 2020-02-15 | [link](https://youtu.be/nCDCt0ldE_I) |
 | 539 | Sheddar_ | 0:04:28 | 2020-03-03 | [link](https://www.instagram.com/p/B9QScVrpdHN/) |
+| 539 | alisammm | 0:04:28 | 2020-02-15 | [link](https://youtu.be/nCDCt0ldE_I) |
 | 541 | LeMecSansPseudo | 0:04:29 | 2018-05-10 | [link](https://youtu.be/A66oxzoGFiU) |
 | 541 | TanplayzGamez | 0:04:29 | 2018-04-09 | [link](https://www.twitch.tv/videos/248582159) |
 | 541 | KingParity | 0:04:29 | 2019-10-11 | [link](https://youtu.be/prVutTFFppk) |
@@ -568,8 +568,8 @@ categories: speedrun
 | 553 | Nateorious | 0:04:32 | 2025-03-29 | [link](https://www.youtube.com/watch?v=Pc04QE1PqlE) |
 | 560 | Toadtoad | 0:04:33 | 2018-01-06 | [link](https://drive.google.com/file/d/14Cy8TAT94iw7L-FEsNjQIfl4Hm_tvWeC/preview) |
 | 560 | Ajarmar | 0:04:33 | 2017-09-11 | [link](https://www.twitch.tv/videos/173994895) |
-| 562 | fsvgm777 | 0:04:35 | 2020-05-02 | [link](https://youtu.be/4NodT0WoFxc) |
 | 562 | lozplyr89 | 0:04:35 | 2022-03-02 | [link](https://youtu.be/OcNUD9tFUhI) |
+| 562 | fsvgm777 | 0:04:35 | 2020-05-02 | [link](https://youtu.be/4NodT0WoFxc) |
 | 562 | AksisSR | 0:04:35 | 2020-01-29 | [link](https://youtu.be/IT_6_gcRNwE) |
 | 562 | Chocomantis | 0:04:35 | 2018-08-30 | [link](https://www.youtube.com/watch?v=XFw0zFlRiR4&feature=youtu.be) |
 | 566 | AGRAZZ | 0:04:35.270000 | 2023-07-11 | [link](https://www.youtube.com/watch?v=OjXiGXh15d8) |
