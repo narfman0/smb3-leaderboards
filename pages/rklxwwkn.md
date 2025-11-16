@@ -62,8 +62,8 @@ categories: speedrun
 | 53 | Macobra52 | 0:52:26 | 2020-07-31 | [link](https://www.twitch.tv/videos/696469338) |
 | 54 | nissault | 0:52:28 | 2022-09-22 | [link](https://youtu.be/jcpFFM9LPrk) |
 | 55 | MoonJi | 0:52:30 | 2019-01-10 | [link](https://www.youtube.com/watch?v=95c6tX8tY_c&t=1498s) |
-| 56 | Doomtap | 0:52:31 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450856849) |
 | 56 | Skippy | 0:52:31 | 2024-07-29 | [link](https://youtu.be/cRPC_a1Qsxw) |
+| 56 | Doomtap | 0:52:31 | 2022-04-09 | [link](https://www.twitch.tv/videos/1450856849) |
 | 58 | uninerd | 0:52:32 | 2022-09-13 | [link](https://www.twitch.tv/videos/1590115133) |
 | 58 | brocis420 | 0:52:32 | 2022-12-28 | [link](https://www.twitch.tv/videos/1691525340) |
 | 60 | Cookiewise | 0:52:33 | 2024-12-30 | [link](https://www.twitch.tv/videos/2340009667) |
