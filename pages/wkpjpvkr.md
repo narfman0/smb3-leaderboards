@@ -495,11 +495,11 @@ categories: speedrun
 | 483 | SickMyDuck | 0:04:19 | 2018-01-26 | [link](https://youtu.be/IrFvbdj5mow) |
 | 483 | ThreeToadSloth | 0:04:19 | 2019-12-31 | [link](https://youtu.be/4Bwv4pbl4qg) |
 | 483 | Lucha_Gym | 0:04:19 | 2023-01-24 | [link](https://youtu.be/bBXpHtx2sTg) |
+| 489 | 456Productions_YT | 0:04:20 | 2021-05-21 | [link](https://www.youtube.com/watch?v=wIjaWEixbsM) |
 | 489 | Elohzee | 0:04:20 | 2021-03-21 | [link](https://youtu.be/dxNPQ-o0FXQ) |
 | 489 | Flamedemon612 | 0:04:20 | 2020-08-20 | [link](https://youtu.be/7uIrn_9-iAY) |
 | 489 | Falling_Tacos | 0:04:20 | 2022-01-16 | [link](https://www.twitch.tv/videos/1266208515) |
 | 489 | JuanSantamaria | 0:04:20 | 2021-07-11 | [link](https://www.twitch.tv/zencl4/v/1083277816?sr=a&t=184s) |
-| 489 | 456Productions_YT | 0:04:20 | 2021-05-21 | [link](https://www.youtube.com/watch?v=wIjaWEixbsM) |
 | 489 | Ceriel | 0:04:20 | 2017-12-08 | [link](https://www.youtube.com/watch?v=qdYq4oYHiKI) |
 | 489 | pahchi | 0:04:20 | 2017-09-11 | [link](https://www.twitch.tv/videos/173933796) |
 | 489 | Claire | 0:04:20 | 2019-10-20 | [link](https://www.twitch.tv/videos/497807984) |
