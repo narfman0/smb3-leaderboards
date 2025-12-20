@@ -345,10 +345,10 @@ categories: speedrun
 | 336 | Cannalyst | 0:04:02 | 2020-11-04 | [link](https://youtu.be/wZnRhjZt-sg) |
 | 336 | DrNexo | 0:04:02 | 2020-07-25 | [link](https://www.youtube.com/watch?v=MqtTqT1rSXw) |
 | 336 | Oxwaa | 0:04:02 | 2020-06-11 | [link](https://www.youtube.com/watch?v=5QSxx5v5KNs) |
-| 336 | MagicK | 0:04:02 | 2020-05-14 | [link](https://www.youtube.com/watch?v=0LIBMy9gJ3E) |
-| 336 | abrahamw999 | 0:04:02 | 2021-05-24 | [link](https://www.youtube.com/watch?v=R1JZt64AS00&ab_channel=Abrahamw999) |
-| 336 | ACB | 0:04:02 | 2018-06-21 | [link](https://youtu.be/b_OoHHsCvBk) |
 | 336 | Honkalaaa | 0:04:02 | 2022-09-02 | [link](https://youtu.be/Sl7b8QUVuFA) |
+| 336 | abrahamw999 | 0:04:02 | 2021-05-24 | [link](https://www.youtube.com/watch?v=R1JZt64AS00&ab_channel=Abrahamw999) |
+| 336 | MagicK | 0:04:02 | 2020-05-14 | [link](https://www.youtube.com/watch?v=0LIBMy9gJ3E) |
+| 336 | ACB | 0:04:02 | 2018-06-21 | [link](https://youtu.be/b_OoHHsCvBk) |
 | 336 | Thole | 0:04:02 | 2024-12-05 | [link](https://youtu.be/QflKZehSj5M) |
 | 336 | Jurgen322 | 0:04:02 | 2023-04-16 | [link](https://youtu.be/iJ1NFVT427Q) |
 | 336 | xNonglitch | 0:04:02 | 2025-03-09 | [link](https://youtu.be/nGTIhZlJc9A?si=ks8UPmJoW9bjtccd) |
@@ -478,10 +478,10 @@ categories: speedrun
 | 464 | Nerd_Squared | 0:04:17 | 2015-06-25 | [link](https://www.youtube.com/watch?v=iqWUmOcsl8w&feature=youtu.be) |
 | 464 | SantasLittleNibbler | 0:04:17 | 2018-12-25 | [link](https://youtu.be/i6vpWmvIsSM) |
 | 464 | BloodDerg | 0:04:17 | 2025-09-13 | [link](https://www.youtube.com/watch?v=B6HE-n1DKAs) |
+| 472 | Twafad | 0:04:18 | 2021-05-24 | [link](https://youtu.be/SWGM77pHuls) |
 | 472 | AnimusUnited | 0:04:18 | 2020-12-04 | [link](https://www.twitch.tv/videos/825412475) |
 | 472 | MinusWorldJay | 0:04:18 | 2020-06-22 | [link](https://youtu.be/0rQ9pTXMSYg) |
 | 472 | Darkman_ | 0:04:18 | 2022-08-10 | [link](https://www.youtube.com/watch?v=hvYhMI3e2bU) |
-| 472 | Twafad | 0:04:18 | 2021-05-24 | [link](https://youtu.be/SWGM77pHuls) |
 | 472 | Leybo | 0:04:18 | 2018-03-18 | [link](https://www.youtube.com/watch?v=V3PeKBjqClc) |
 | 472 | 6regory | 0:04:18 | 2017-09-09 | [link](https://youtu.be/xozuG7fSB2M) |
 | 472 | ShesChardcore | 0:04:18 | 2019-09-13 | [link](https://www.twitch.tv/videos/481011276) |
@@ -489,10 +489,10 @@ categories: speedrun
 | 472 | Bullfrog | 0:04:18 | 2017-02-23 | [link](https://www.twitch.tv/videos/124119242) |
 | 472 | Memphis1 | 0:04:18 | 2023-05-20 | [link](https://youtu.be/_YP0bAgBwPI) |
 | 472 | EthanAlexE | 0:04:18 | 2018-12-13 | [link](https://youtu.be/1nvrFDwyHNs) |
-| 483 | Slackh | 0:04:19 | 2020-05-21 | [link](https://www.twitch.tv/videos/627706353) |
 | 483 | Lilpuri | 0:04:19 | 2022-04-29 | [link](https://www.youtube.com/watch?v=SqifPD81Wsk) |
 | 483 | DramenDays | 0:04:19 | 2018-04-12 | [link](https://youtu.be/Hja2Abo-2GE) |
 | 483 | SickMyDuck | 0:04:19 | 2018-01-26 | [link](https://youtu.be/IrFvbdj5mow) |
+| 483 | Slackh | 0:04:19 | 2020-05-21 | [link](https://www.twitch.tv/videos/627706353) |
 | 483 | ThreeToadSloth | 0:04:19 | 2019-12-31 | [link](https://youtu.be/4Bwv4pbl4qg) |
 | 483 | Lucha_Gym | 0:04:19 | 2023-01-24 | [link](https://youtu.be/bBXpHtx2sTg) |
 | 489 | 456Productions_YT | 0:04:20 | 2021-05-21 | [link](https://www.youtube.com/watch?v=wIjaWEixbsM) |
