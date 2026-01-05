@@ -451,12 +451,12 @@ categories: speedrun
 | 436 | DragonRanger | 0:04:13 | 2023-01-29 | [link](https://www.youtube.com/watch?v=U3uFkdlaeb4) |
 | 436 | SuperM | 0:04:13 | 2018-12-26 | [link](https://www.youtube.com/watch?v=AuBhetnUiP4) |
 | 436 | NinWorld | 0:04:13 | 2018-07-09 | [link](https://www.youtube.com/watch?v=Sr1Np54wYfw&t=3140s) |
-| 445 | Jayaye78 | 0:04:14 | 2021-05-14 | [link](https://www.twitch.tv/videos/1025365133) |
-| 445 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
 | 445 | JonnyLink | 0:04:14 | 2021-06-07 | [link](https://youtu.be/UkZ13jmSKhM) |
+| 445 | Jayaye78 | 0:04:14 | 2021-05-14 | [link](https://www.twitch.tv/videos/1025365133) |
+| 445 | yelir64 | 0:04:14 | 2022-09-12 | [link](https://www.youtube.com/watch?v=3mrfDCOrdcM) |
+| 445 | infxsion | 0:04:14 | 2022-08-17 | [link](https://youtu.be/1tQOZIyThjc) |
 | 445 | OneWingdAngel | 0:04:14 | 2018-03-20 | [link](https://youtu.be/E38FBfMZe5k) |
 | 445 | zutetflute | 0:04:14 | 2018-03-02 | [link](https://youtu.be/jrsHceWF7vM) |
-| 445 | yelir64 | 0:04:14 | 2022-09-12 | [link](https://www.youtube.com/watch?v=3mrfDCOrdcM) |
 | 445 | unfinish | 0:04:14 | 2023-03-09 | [link](https://scratch.mit.edu/projects/816752245/) |
 | 452 | TH3MOTOGAM3R | 0:04:15 | 2020-05-25 | [link](http://www.twitch.tv/th3motogam3r/v/632090049?sr=a&t=0s) |
 | 452 | WontedEvil158 | 0:04:15 | 2022-05-23 | [link](https://youtu.be/TgGbfOnS_Sg) |
@@ -604,8 +604,8 @@ categories: speedrun
 | 595 | memeq_speed | 0:04:42.055000 | 2021-07-14 | [link](https://youtu.be/AjCHcIHv_8w) |
 | 596 | sirpoggies | 0:04:42.370000 | 2021-11-25 | [link](https://www.youtube.com/watch?v=ph55NjVK7tM) |
 | 597 | GreudoGames | 0:04:43 | 2020-09-25 | [link](https://www.youtube.com/watch?v=crBFf9hAvsE) |
-| 597 | Waza__Alex | 0:04:43 | 2020-05-31 | [link](https://youtu.be/UYN5pfiS1lE) |
 | 597 | Keyro | 0:04:43 | 2018-05-27 | [link](https://www.youtube.com/watch?v=ypvkN4KG8J8&feature=youtu.be) |
+| 597 | Waza__Alex | 0:04:43 | 2020-05-31 | [link](https://youtu.be/UYN5pfiS1lE) |
 | 597 | MartinCaita | 0:04:43 | 2024-03-31 | [link](https://www.youtube.com/watch?v=QFxzvv0uC-c&ab_channel=Phizzy) |
 | 597 | soycoronado | 0:04:43 | 2021-12-28 | [link](https://www.twitch.tv/videos/1246378243) |
 | 602 | RealMim | 0:04:45 | 2021-05-04 | [link](https://youtu.be/mTWBgpYxcG8) |
