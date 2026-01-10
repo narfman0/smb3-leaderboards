@@ -128,8 +128,8 @@ categories: speedrun
 | 119 | Axodo | 0:03:32 | 2015-02-16 | [link](https://www.youtube.com/watch?v=vYjXcIl7K34) |
 | 119 | WoskiBoy | 0:03:32 | 2025-05-03 | [link](https://youtu.be/2BKu0FAc_Qk) |
 | 121 | amorujao | 0:03:33 | 2018-10-26 | [link](https://www.youtube.com/watch?v=5Fn63YnGaaE) |
-| 122 | IsoFrieze | 0:03:34 | 2016-10-08 | [link](https://www.youtube.com/watch?v=O6uSrvU7K4I) |
 | 122 | Seanzilla | 0:03:34 | 2018-06-07 | [link](https://youtu.be/m0P2E7JiFMI) |
+| 122 | IsoFrieze | 0:03:34 | 2016-10-08 | [link](https://www.youtube.com/watch?v=O6uSrvU7K4I) |
 | 124 | yeabruh | 0:03:36 | 2022-04-16 | [link](https://youtu.be/iK69Vm6MrK8) |
 | 124 | CaptainSpeedruns | 0:03:36 | 2019-08-05 | [link](https://www.youtube.com/watch?v=TwpELgXL6aE&feature=youtu.be) |
 | 126 | mpu | 0:03:37 | 2017-09-20 | [link](https://youtu.be/6jSr5yiY8BY) |
@@ -231,10 +231,10 @@ categories: speedrun
 | 212 | KingKappa | 0:03:52 | 2025-09-20 | [link](https://youtu.be/bKx-GdNrbZY) |
 | 223 | MinDsiL | 0:03:53 | 2022-03-08 | [link](https://www.twitch.tv/videos/1419016634) |
 | 223 | TheSkeeterBronson | 0:03:53 | 2022-03-06 | [link](https://youtu.be/GKwKfOxDCB0) |
+| 223 | Aydles | 0:03:53 | 2018-06-13 | [link](https://youtu.be/1qpvwqmvhkg) |
 | 223 | icterus440 | 0:03:53 | 2018-03-28 | [link](https://www.youtube.com/watch?v=N3SFFZvh6_A&feature=youtu.be) |
 | 223 | kei | 0:03:53 | 2018-03-25 | [link](https://www.youtube.com/watch?v=lc9gjWkGu98) |
 | 223 | Nowey | 0:03:53 | 2018-03-07 | [link](https://www.youtube.com/watch?v=wIAWr3da_wM) |
-| 223 | Aydles | 0:03:53 | 2018-06-13 | [link](https://youtu.be/1qpvwqmvhkg) |
 | 223 | Ribb95 | 0:03:53 | 2018-10-27 | [link](https://www.youtube.com/watch?v=Rml4m5X437Y&t=2s) |
 | 223 | kinopico33 | 0:03:53 | 2024-08-10 | [link](https://www.bilibili.com/video/BV1ZNYjeJENS) |
 | 223 | JustEdd | 0:03:53 | 2024-08-21 | [link](https://www.youtube.com/watch?v=5NhvKGEH12c) |
@@ -354,9 +354,9 @@ categories: speedrun
 | 336 | xNonglitch | 0:04:02 | 2025-03-09 | [link](https://youtu.be/nGTIhZlJc9A?si=ks8UPmJoW9bjtccd) |
 | 336 | Doggasus | 0:04:02 | 2026-01-01 | [link](https://youtu.be/LggIvlvOBIE) |
 | 347 | Lucistic | 0:04:02.059000 | 2023-08-04 | [link](https://www.youtube.com/watch?v=u8fW8jQ7d9s) |
-| 348 | Choigogi | 0:04:03 | 2020-06-07 | [link](https://youtu.be/o-bUc8eabWc) |
 | 348 | milestaills | 0:04:03 | 2022-03-22 | [link](https://www.youtube.com/watch?v=bleipWYjNh4) |
 | 348 | BriGuy13 | 0:04:03 | 2018-02-14 | [link](https://youtu.be/PTfYAIAS0FQ) |
+| 348 | Choigogi | 0:04:03 | 2020-06-07 | [link](https://youtu.be/o-bUc8eabWc) |
 | 348 | LEITHAL | 0:04:03 | 2019-06-14 | [link](https://youtu.be/aPLPluWlSV0) |
 | 348 | Romxn | 0:04:03 | 2018-06-13 | [link](https://www.twitch.tv/videos/272904639) |
 | 348 | LucaN64pro | 0:04:03 | 2023-09-30 | [link](https://youtu.be/xM91JV3sCjo?si=17VqJA-QufgcuGce) |
@@ -499,6 +499,7 @@ categories: speedrun
 | 490 | 456Productions_YT | 0:04:20 | 2021-05-21 | [link](https://www.youtube.com/watch?v=wIjaWEixbsM) |
 | 490 | Elohzee | 0:04:20 | 2021-03-21 | [link](https://youtu.be/dxNPQ-o0FXQ) |
 | 490 | Flamedemon612 | 0:04:20 | 2020-08-20 | [link](https://youtu.be/7uIrn_9-iAY) |
+| 490 | Moarf23 | 0:04:20 | 2022-09-30 | [link](https://www.youtube.com/watch?v=tcLLH5Xco3M) |
 | 490 | Falling_Tacos | 0:04:20 | 2022-01-16 | [link](https://www.twitch.tv/videos/1266208515) |
 | 490 | JuanSantamaria | 0:04:20 | 2021-07-11 | [link](https://www.twitch.tv/zencl4/v/1083277816?sr=a&t=184s) |
 | 490 | Ceriel | 0:04:20 | 2017-12-08 | [link](https://www.youtube.com/watch?v=qdYq4oYHiKI) |
@@ -506,7 +507,6 @@ categories: speedrun
 | 490 | Claire | 0:04:20 | 2019-10-20 | [link](https://www.twitch.tv/videos/497807984) |
 | 490 | pacoistaco459 | 0:04:20 | 2019-06-29 | [link](https://youtu.be/9CoiLLp2rh4) |
 | 490 | Jean20B | 0:04:20 | 2018-09-19 | [link](https://youtu.be/vTrN4I-30Ac) |
-| 490 | Moarf23 | 0:04:20 | 2022-09-30 | [link](https://www.youtube.com/watch?v=tcLLH5Xco3M) |
 | 490 | Agent_Stuffie | 0:04:20 | 2024-11-19 | [link](https://m.twitch.tv/videos/2306204740) |
 | 490 | Akisto | 0:04:20 | 2015-06-05 | [link](https://www.youtube.com/watch?v=cOUZUYgoFWs) |
 | 490 | jbgames420 | 0:04:20 | 2024-06-15 | [link](https://drive.google.com/file/d/1ANe3Jb1OqQRt2N0HOLoyijCO6Ad4VKfD/view?usp=drivesdk) |
