@@ -428,7 +428,7 @@ categories: speedrun
 | 419 | coolmario2156 | 3:00:00 | 2017-06-26 | [link](http://emulator.online/nes/super-mario-bros-3/) |
 | 420 | stephen_irl | 3:16:41 | 2017-05-19 | [link](https://www.twitch.tv/videos/145468114) |
 | 421 | Johny_Mandarino | 3:59:24 | 2018-03-24 | [link](https://www.youtube.com/watch?v=Zxn7SulO_m8) |
-| 422 | derrykyle | 4:04:10 | 2019-08-19 | [link](https://www.twitch.tv/videos/236889131) |
+| 422 | derrykyle | 4:04:10 | 2019-08-19 | [link](https://youtu.be/tDO2gVZ4WYQ) |
 | 423 | Forrestkitty | 4:15:40 | 2020-06-04 | [link](https://www.twitch.tv/videos/641807192) |
 | 424 | Wyatt_James | 4:45:52 | 2018-12-15 | [link](https://youtu.be/PD-DHhCoclc) |
 | 425 | Rox | 5:10:54 | 2025-03-27 | [link](https://youtu.be/7WM7ikMfW6I) |
