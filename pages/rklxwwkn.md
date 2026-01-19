@@ -253,8 +253,8 @@ categories: speedrun
 | 244 | Mizumaririn | 1:01:05 | 2021-06-13 | [link](https://www.twitch.tv/videos/1054299455) |
 | 245 | RaikouRider | 1:01:25 | 2018-07-09 | [link](https://www.twitch.tv/videos/282901860) |
 | 246 | williamInTX | 1:01:28 | 2025-12-27 | [link](https://www.twitch.tv/videos/2654723326) |
-| 247 | Simplistic_Memes | 1:01:32 | 2021-06-30 | [link](https://youtu.be/dur5ebxi8QM) |
 | 247 | bhearsum | 1:01:32 | 2017-08-28 | [link](https://www.twitch.tv/videos/170701715) |
+| 247 | Simplistic_Memes | 1:01:32 | 2021-06-30 | [link](https://youtu.be/dur5ebxi8QM) |
 | 249 | DodgemasterDooley | 1:01:33 | 2019-04-07 | [link](https://www.twitch.tv/videos/407410456) |
 | 250 | buster__bee | 1:01:34 | 2018-08-10 | [link](https://youtu.be/6GGMEygwEA8) |
 | 251 | authorblues | 1:01:35 | 2014-03-22 | [link](https://www.twitch.tv/authorblues/v/43012023) |
