@@ -347,8 +347,8 @@ categories: speedrun
 | 338 | abrahamw999 | 0:04:02 | 2021-05-24 | [link](https://www.youtube.com/watch?v=R1JZt64AS00&ab_channel=Abrahamw999) |
 | 338 | Cannalyst | 0:04:02 | 2020-11-04 | [link](https://youtu.be/wZnRhjZt-sg) |
 | 338 | DrNexo | 0:04:02 | 2020-07-25 | [link](https://www.youtube.com/watch?v=MqtTqT1rSXw) |
-| 338 | Oxwaa | 0:04:02 | 2020-06-11 | [link](https://www.youtube.com/watch?v=5QSxx5v5KNs) |
 | 338 | Honkalaaa | 0:04:02 | 2022-09-02 | [link](https://youtu.be/Sl7b8QUVuFA) |
+| 338 | Oxwaa | 0:04:02 | 2020-06-11 | [link](https://www.youtube.com/watch?v=5QSxx5v5KNs) |
 | 338 | MagicK | 0:04:02 | 2020-05-14 | [link](https://www.youtube.com/watch?v=0LIBMy9gJ3E) |
 | 338 | ACB | 0:04:02 | 2018-06-21 | [link](https://youtu.be/b_OoHHsCvBk) |
 | 338 | Thole | 0:04:02 | 2024-12-05 | [link](https://youtu.be/QflKZehSj5M) |
@@ -427,10 +427,10 @@ categories: speedrun
 | 408 | Darkmariosan | 0:04:09 | 2018-01-28 | [link](https://www.youtube.com/watch?v=WA2avBuWtpk) |
 | 419 | Thelxinoe | 0:04:10 | 2020-09-06 | [link](https://www.twitch.tv/videos/730836076) |
 | 419 | chinoe | 0:04:10 | 2021-12-22 | [link](https://youtu.be/43TbHWwshrg) |
+| 419 | NeonSpeak | 0:04:10 | 2018-06-19 | [link](https://www.twitch.tv/videos/275057288) |
 | 419 | Parrot_Dash | 0:04:10 | 2019-04-17 | [link](https://youtu.be/7b0MFKNSNh4) |
 | 419 | Datenshineko | 0:04:10 | 2017-01-27 | [link](https://www.youtube.com/watch?v=kkfTM37j-NU) |
 | 419 | ViolentCrumble | 0:04:10 | 2016-07-16 | [link](https://www.youtube.com/watch?v=Br47sxEbpQ8&feature=youtu.be) |
-| 419 | NeonSpeak | 0:04:10 | 2018-06-19 | [link](https://www.twitch.tv/videos/275057288) |
 | 419 | Genca | 0:04:10 | 2025-05-10 | [link](https://youtu.be/kXpRXrirLTk) |
 | 419 | NicolasNmasN78 | 0:04:10 | 2025-11-04 | [link](https://youtu.be/nZKG1W1apvY) |
 | 427 | x7universe | 0:04:10.710000 | 2017-06-01 | [link](None) |
