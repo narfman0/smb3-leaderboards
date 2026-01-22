@@ -62,7 +62,7 @@ categories: speedrun
 | 53 | Kyuvolka | 0:03:14.166000 | 2022-07-01 | [link](https://youtu.be/FrE1rYkFc2Q) |
 | 54 | Sluggy | 0:03:14.883000 | 2021-12-12 | [link](https://youtu.be/CM_DOkyxF0g) |
 | 55 | CyanogenSmb1 | 0:03:15 | 2021-10-24 | [link](https://youtu.be/T14fwBrEcnQ) |
-| 56 | mrswaggins69 | 0:03:15.378000 | 2025-09-15 | [link](https://youtu.be/E7BoyqfReX8) |
+| 56 | mrswaggins69 | 0:03:15.383000 | 2025-09-15 | [link](https://youtu.be/E7BoyqfReX8) |
 | 57 | Freezen85 | 0:03:15.683000 | 2023-08-25 | [link](https://youtu.be/mmyE9DZVRRc) |
 | 58 | Spiker | 0:03:15.750000 | 2024-04-05 | [link](https://www.youtube.com/watch?v=III95Catp10) |
 | 59 | Alvaca | 0:03:15.866000 | 2024-03-25 | [link](https://youtu.be/T4AlGJ0t-Qs) |
