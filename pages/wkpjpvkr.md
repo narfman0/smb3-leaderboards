@@ -190,8 +190,8 @@ categories: speedrun
 | 173 | pJ00nas | 0:03:48 | 2021-08-30 | [link](https://www.twitch.tv/videos/1134129680) |
 | 173 | The_H_Pandin | 0:03:48 | 2025-02-08 | [link](https://www.youtube.com/watch?v=pt2pP8B9xOQ) |
 | 173 | Ian_1243 | 0:03:48 | 2026-01-22 | [link](https://youtu.be/KbMGPcoUhw4) |
-| 184 | eHolden | 0:03:49 | 2020-06-17 | [link](https://youtu.be/bRPZ6UlAGOI) |
 | 184 | Kinder | 0:03:49 | 2017-10-31 | [link](https://www.youtube.com/watch?v=hqMYTOwGGSc&feature=youtu.be) |
+| 184 | eHolden | 0:03:49 | 2020-06-17 | [link](https://youtu.be/bRPZ6UlAGOI) |
 | 184 | JeimarZeth | 0:03:49 | 2017-07-01 | [link](https://www.twitch.tv/videos/155754621) |
 | 184 | Steele | 0:03:49 | 2019-03-28 | [link](https://youtu.be/SWWhAN9Mu4Y) |
 | 184 | I_Enjoy_Games | 0:03:49 | 2023-06-13 | [link](https://youtu.be/sSbgr2jiiHc) |
@@ -272,10 +272,10 @@ categories: speedrun
 | 253 | quesmues | 0:03:55 | 2016-09-19 | [link](https://www.youtube.com/watch?v=YBs5IrDC33M&feature=youtu.be) |
 | 253 | SalaryMan | 0:03:55 | 2025-03-30 | [link](https://www.twitch.tv/videos/2419619900) |
 | 253 | q9_l | 0:03:55 | 2025-10-08 | [link](https://www.bilibili.com/video/BV1wQx9zBEtD/?spm_id_from=333.1387.homepage.video_card.click&vd_source=b634d1eeac74d575faefec2803da4740) |
+| 266 | Magestikal | 0:03:56 | 2021-06-19 | [link](https://www.youtube.com/watch?v=1S5zyfYdV6s) |
 | 266 | TakoGamesAu | 0:03:56 | 2021-06-15 | [link](https://www.youtube.com/watch?v=e-9BfExjtKQ) |
 | 266 | FozyCX | 0:03:56 | 2021-04-27 | [link](https://www.twitch.tv/videos/1002603632) |
 | 266 | yatokami9 | 0:03:56 | 2021-06-30 | [link](https://www.twitch.tv/videos/1071691925) |
-| 266 | Magestikal | 0:03:56 | 2021-06-19 | [link](https://www.youtube.com/watch?v=1S5zyfYdV6s) |
 | 266 | Dr_Syltonic | 0:03:56 | 2018-02-27 | [link](https://youtu.be/6h6xje91tbw) |
 | 266 | 33quentin | 0:03:56 | 2018-02-01 | [link](https://www.youtube.com/watch?v=6S9mj09sRPk) |
 | 266 | Adam1205 | 0:03:56 | 2017-08-22 | [link](https://www.youtube.com/watch?v=8Z2r2MucCmI&feature=youtu.be) |
@@ -350,13 +350,14 @@ categories: speedrun
 | 340 | Cannalyst | 0:04:02 | 2020-11-04 | [link](https://youtu.be/wZnRhjZt-sg) |
 | 340 | DrNexo | 0:04:02 | 2020-07-25 | [link](https://www.youtube.com/watch?v=MqtTqT1rSXw) |
 | 340 | Honkalaaa | 0:04:02 | 2022-09-02 | [link](https://youtu.be/Sl7b8QUVuFA) |
+| 340 | ACB | 0:04:02 | 2018-06-21 | [link](https://youtu.be/b_OoHHsCvBk) |
 | 340 | Oxwaa | 0:04:02 | 2020-06-11 | [link](https://www.youtube.com/watch?v=5QSxx5v5KNs) |
 | 340 | MagicK | 0:04:02 | 2020-05-14 | [link](https://www.youtube.com/watch?v=0LIBMy9gJ3E) |
-| 340 | ACB | 0:04:02 | 2018-06-21 | [link](https://youtu.be/b_OoHHsCvBk) |
 | 340 | Thole | 0:04:02 | 2024-12-05 | [link](https://youtu.be/QflKZehSj5M) |
 | 340 | Jurgen322 | 0:04:02 | 2023-04-16 | [link](https://youtu.be/iJ1NFVT427Q) |
 | 340 | xNonglitch | 0:04:02 | 2025-03-09 | [link](https://youtu.be/nGTIhZlJc9A?si=ks8UPmJoW9bjtccd) |
 | 350 | Lucistic | 0:04:02.059000 | 2023-08-04 | [link](https://www.youtube.com/watch?v=u8fW8jQ7d9s) |
+| 351 | RetroTimes | 0:04:03 | 2022-10-29 | [link](https://www.youtube.com/watch?v=UDCcaGaa8QQ&t=247s) |
 | 351 | milestaills | 0:04:03 | 2022-03-22 | [link](https://www.youtube.com/watch?v=bleipWYjNh4) |
 | 351 | Romxn | 0:04:03 | 2018-06-13 | [link](https://www.twitch.tv/videos/272904639) |
 | 351 | BriGuy13 | 0:04:03 | 2018-02-14 | [link](https://youtu.be/PTfYAIAS0FQ) |
@@ -364,7 +365,6 @@ categories: speedrun
 | 351 | LEITHAL | 0:04:03 | 2019-06-14 | [link](https://youtu.be/aPLPluWlSV0) |
 | 351 | LucaN64pro | 0:04:03 | 2023-09-30 | [link](https://youtu.be/xM91JV3sCjo?si=17VqJA-QufgcuGce) |
 | 351 | IvanSt33zy | 0:04:03 | 2018-07-07 | [link](https://www.youtube.com/watch?v=OdWeLkY4V4o) |
-| 351 | RetroTimes | 0:04:03 | 2022-10-29 | [link](https://www.youtube.com/watch?v=UDCcaGaa8QQ&t=247s) |
 | 351 | Sariiger | 0:04:03 | 2018-09-06 | [link](https://www.youtube.com/watch?v=rAPoFOouJA8) |
 | 360 | spsxis | 0:04:04 | 2021-02-22 | [link](https://www.twitch.tv/videos/924856840) |
 | 360 | Snowpie | 0:04:04 | 2021-01-17 | [link](https://www.twitch.tv/videos/877708357) |
@@ -420,8 +420,8 @@ categories: speedrun
 | 410 | bmoncayito | 0:04:09 | 2020-06-25 | [link](https://www.youtube.com/watch?v=6iRI_Y9Ngv0) |
 | 410 | FyrizZ | 0:04:09 | 2022-07-22 | [link](https://youtu.be/_0tZ3wMROPg) |
 | 410 | SAMUR | 0:04:09 | 2022-04-12 | [link](https://youtu.be/mIZh09PUw64) |
-| 410 | Lipe_Berserker | 0:04:09 | 2017-02-23 | [link](https://www.youtube.com/watch?v=HytnSGqrous) |
 | 410 | __LoS_ | 0:04:09 | 2018-06-25 | [link](https://youtu.be/HJc8MROZUV0) |
+| 410 | Lipe_Berserker | 0:04:09 | 2017-02-23 | [link](https://www.youtube.com/watch?v=HytnSGqrous) |
 | 410 | 8BitPlumber | 0:04:09 | 2024-11-29 | [link](https://youtu.be/CQIDrMfOFAk) |
 | 410 | Liano98 | 0:04:09 | 2024-02-01 | [link](https://www.youtube.com/watch?v=7jnRiopSs_Y) |
 | 410 | klebdotio | 0:04:09 | 2018-07-15 | [link](https://youtu.be/oG-zlc1hTVQ) |
