@@ -164,9 +164,9 @@ categories: speedrun
 | 152 | ImNightmare06 | 0:03:44 | 2025-10-10 | [link](https://www.youtube.com/watch?v=DHJf2BUGrtk) |
 | 152 | Parimatch | 0:03:44 | 2026-01-12 | [link](https://www.youtube.com/watch?v=zqYKBGParjM) |
 | 157 | JDElfo33 | 0:03:45 | 2024-03-11 | [link](https://www.youtube.com/watch?v=bQVwFpAR6ik) |
+| 157 | youtubeman06 | 0:03:45 | 2018-07-04 | [link](https://www.twitch.tv/videos/280868982) |
 | 157 | Xein64 | 0:03:45 | 2018-03-18 | [link](https://www.youtube.com/watch?v=3omQ1NSe840&t) |
 | 157 | JoeTheBrooo | 0:03:45 | 2023-07-04 | [link](https://youtu.be/bkgYzWpy96U) |
-| 157 | youtubeman06 | 0:03:45 | 2018-07-04 | [link](https://www.twitch.tv/videos/280868982) |
 | 157 | ProfessorRetro | 0:03:45 | 2025-04-07 | [link](https://www.youtube.com/watch?v=a4FlzF4aIH8) |
 | 157 | SpUnKeN_DK | 0:03:45 | 2025-11-08 | [link](https://www.twitch.tv/videos/2613416528) |
 | 163 | riscky | 0:03:46 | 2017-10-04 | [link](https://youtu.be/6PuHaIBrXSI) |
@@ -176,10 +176,10 @@ categories: speedrun
 | 163 | CujoIHSV | 0:03:46 | 2015-10-29 | [link](http://www.twitch.tv/cujoihsv/v/23111363) |
 | 163 | makotoito | 0:03:46 | 2025-09-29 | [link](https://www.bilibili.com/video/BV1F4HczgEcN/?spm_id_from=333.1387.homepage.video_card.click&vd_source=9e67ca4e2d1f93ce21374a818d1c22db) |
 | 169 | Tex-Saralonde | 0:03:47 | 2020-08-29 | [link](https://youtu.be/2x2W5SRFMVw) |
+| 169 | Tintin08 | 0:03:47 | 2022-11-16 | [link](https://youtu.be/wsixs4yOFrA) |
 | 169 | Rocksy | 0:03:47 | 2017-09-17 | [link](https://www.twitch.tv/videos/175410694) |
 | 169 | AD2 | 0:03:47 | 2017-03-18 | [link](https://www.twitch.tv/videos/129453312) |
 | 169 | alabastro1 | 0:03:47 | 2024-04-16 | [link](https://youtu.be/DoNvcUnnAZc) |
-| 169 | Tintin08 | 0:03:47 | 2022-11-16 | [link](https://youtu.be/wsixs4yOFrA) |
 | 174 | MauricinhoPOWER | 0:03:48 | 2021-04-25 | [link](https://www.twitch.tv/videos/1001155699) |
 | 174 | Brubs | 0:03:48 | 2021-02-20 | [link](https://youtu.be/sNXMVbRlVAw) |
 | 174 | timmyshotgun | 0:03:48 | 2020-12-18 | [link](https://youtu.be/bWzGlR-22X0) |
@@ -272,10 +272,10 @@ categories: speedrun
 | 253 | quesmues | 0:03:55 | 2016-09-19 | [link](https://www.youtube.com/watch?v=YBs5IrDC33M&feature=youtu.be) |
 | 253 | SalaryMan | 0:03:55 | 2025-03-30 | [link](https://www.twitch.tv/videos/2419619900) |
 | 253 | q9_l | 0:03:55 | 2025-10-08 | [link](https://www.bilibili.com/video/BV1wQx9zBEtD/?spm_id_from=333.1387.homepage.video_card.click&vd_source=b634d1eeac74d575faefec2803da4740) |
+| 266 | yatokami9 | 0:03:56 | 2021-06-30 | [link](https://www.twitch.tv/videos/1071691925) |
 | 266 | Magestikal | 0:03:56 | 2021-06-19 | [link](https://www.youtube.com/watch?v=1S5zyfYdV6s) |
 | 266 | TakoGamesAu | 0:03:56 | 2021-06-15 | [link](https://www.youtube.com/watch?v=e-9BfExjtKQ) |
 | 266 | FozyCX | 0:03:56 | 2021-04-27 | [link](https://www.twitch.tv/videos/1002603632) |
-| 266 | yatokami9 | 0:03:56 | 2021-06-30 | [link](https://www.twitch.tv/videos/1071691925) |
 | 266 | Kojr55 | 0:03:56 | 2018-07-01 | [link](https://www.youtube.com/watch?v=-C0PMYgCI6Y) |
 | 266 | Dr_Syltonic | 0:03:56 | 2018-02-27 | [link](https://youtu.be/6h6xje91tbw) |
 | 266 | 33quentin | 0:03:56 | 2018-02-01 | [link](https://www.youtube.com/watch?v=6S9mj09sRPk) |
@@ -418,10 +418,10 @@ categories: speedrun
 | 405 | Jama7301 | 0:04:08 | 2016-10-04 | [link](https://www.twitch.tv/jama7301/v/92990429) |
 | 405 | Typhlo | 0:04:08 | 2018-07-17 | [link](https://www.youtube.com/watch?v=z7CDGAnbrfk) |
 | 411 | Yosch | 0:04:09 | 2021-03-27 | [link](https://www.youtube.com/watch?v=sup42wDHXU4) |
-| 411 | bmoncayito | 0:04:09 | 2020-06-25 | [link](https://www.youtube.com/watch?v=6iRI_Y9Ngv0) |
 | 411 | FyrizZ | 0:04:09 | 2022-07-22 | [link](https://youtu.be/_0tZ3wMROPg) |
 | 411 | SAMUR | 0:04:09 | 2022-04-12 | [link](https://youtu.be/mIZh09PUw64) |
 | 411 | __LoS_ | 0:04:09 | 2018-06-25 | [link](https://youtu.be/HJc8MROZUV0) |
+| 411 | bmoncayito | 0:04:09 | 2020-06-25 | [link](https://www.youtube.com/watch?v=6iRI_Y9Ngv0) |
 | 411 | Lipe_Berserker | 0:04:09 | 2017-02-23 | [link](https://www.youtube.com/watch?v=HytnSGqrous) |
 | 411 | 8BitPlumber | 0:04:09 | 2024-11-29 | [link](https://youtu.be/CQIDrMfOFAk) |
 | 411 | Liano98 | 0:04:09 | 2024-02-01 | [link](https://www.youtube.com/watch?v=7jnRiopSs_Y) |
