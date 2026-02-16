@@ -287,12 +287,12 @@ categories: speedrun
 | 266 | Drako93 | 0:03:56 | 2018-09-13 | [link](https://www.youtube.com/watch?v=Fzn5EvnL4G4&t=2s) |
 | 266 | JeremyMKW | 0:03:56 | 2018-03-15 | [link](https://www.twitch.tv/videos/238911313) |
 | 266 | MajorGamer | 0:03:56 | 2025-03-31 | [link](https://youtu.be/njfh0dwEaZQ) |
-| 281 | DashGamer | 0:03:57 | 2021-07-22 | [link](https://www.youtube.com/watch?v=_6sbg8LrKN8) |
 | 281 | DarthTyrael | 0:03:57 | 2020-10-08 | [link](https://youtu.be/oJN-JXNIzlA) |
 | 281 | SmiithTV | 0:03:57 | 2020-09-01 | [link](https://www.twitch.tv/videos/727858097) |
 | 281 | Broran01 | 0:03:57 | 2022-05-22 | [link](https://www.youtube.com/watch?v=rmZcHNGv3tQ) |
 | 281 | EliSpeedrun | 0:03:57 | 2022-05-21 | [link](https://www.twitch.tv/videos/1489879789) |
 | 281 | WolfAeterni | 0:03:57 | 2021-09-20 | [link](https://youtu.be/vzn9g1zdgeU) |
+| 281 | DashGamer | 0:03:57 | 2021-07-22 | [link](https://www.youtube.com/watch?v=_6sbg8LrKN8) |
 | 281 | Laupok | 0:03:57 | 2018-02-25 | [link](https://www.youtube.com/watch?v=PgOAcpxBXbg) |
 | 281 | PixelCrusher | 0:03:57 | 2020-02-20 | [link](https://www.youtube.com/watch?v=nEaFWU3Oay4&fbclid=IwAR2cUvEmWVYyypVDwoJtHvQ31zZ28ikwd3r35SOljefDhwkSXO1sddVIccU) |
 | 281 | caleb2112 | 0:03:57 | 2020-02-16 | [link](https://youtu.be/hEmnmzi07qc) |
@@ -341,8 +341,8 @@ categories: speedrun
 | 327 | SethBling | 0:04:00 | 2019-01-23 | [link](https://www.twitch.tv/videos/368728425) |
 | 327 | NoahUnknownYT | 0:04:00 | 2025-08-01 | [link](https://www.youtube.com/watch?v=_PRFsAfJ2z0) |
 | 327 | Justme_01 | 0:04:00 | 2025-09-30 | [link](https://youtu.be/98D9tdcrdL0?si=qVKTnEUK-O6JgzJz) |
-| 335 | RitzMania | 0:04:01 | 2023-01-29 | [link](https://youtu.be/kSGL_cnM2KQ) |
 | 335 | Smirn | 0:04:01 | 2018-06-29 | [link](https://youtu.be/vlG3OSJ5HjM) |
+| 335 | RitzMania | 0:04:01 | 2023-01-29 | [link](https://youtu.be/kSGL_cnM2KQ) |
 | 335 | Henear | 0:04:01 | 2020-07-03 | [link](https://www.youtube.com/watch?v=YaPeg0NyMUM) |
 | 335 | Saria_100 | 0:04:01 | 2023-06-17 | [link](https://youtu.be/d5MsuJtjI3Q) |
 | 335 | Paihiro | 0:04:01 | 2021-10-14 | [link](https://youtu.be/OyV-J0pN2lE) |
@@ -360,10 +360,10 @@ categories: speedrun
 | 351 | Lucistic | 0:04:02.059000 | 2023-08-04 | [link](https://www.youtube.com/watch?v=u8fW8jQ7d9s) |
 | 352 | RetroTimes | 0:04:03 | 2022-10-29 | [link](https://www.youtube.com/watch?v=UDCcaGaa8QQ&t=247s) |
 | 352 | milestaills | 0:04:03 | 2022-03-22 | [link](https://www.youtube.com/watch?v=bleipWYjNh4) |
-| 352 | Sariiger | 0:04:03 | 2018-09-06 | [link](https://www.youtube.com/watch?v=rAPoFOouJA8) |
 | 352 | IvanSt33zy | 0:04:03 | 2018-07-07 | [link](https://www.youtube.com/watch?v=OdWeLkY4V4o) |
 | 352 | Romxn | 0:04:03 | 2018-06-13 | [link](https://www.twitch.tv/videos/272904639) |
 | 352 | BriGuy13 | 0:04:03 | 2018-02-14 | [link](https://youtu.be/PTfYAIAS0FQ) |
+| 352 | Sariiger | 0:04:03 | 2018-09-06 | [link](https://www.youtube.com/watch?v=rAPoFOouJA8) |
 | 352 | Choigogi | 0:04:03 | 2020-06-07 | [link](https://youtu.be/o-bUc8eabWc) |
 | 352 | LEITHAL | 0:04:03 | 2019-06-14 | [link](https://youtu.be/aPLPluWlSV0) |
 | 352 | LucaN64pro | 0:04:03 | 2023-09-30 | [link](https://youtu.be/xM91JV3sCjo?si=17VqJA-QufgcuGce) |
