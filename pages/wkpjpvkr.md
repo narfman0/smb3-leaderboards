@@ -342,8 +342,8 @@ categories: speedrun
 | 328 | SethBling | 0:04:00 | 2019-01-23 | [link](https://www.twitch.tv/videos/368728425) |
 | 328 | NoahUnknownYT | 0:04:00 | 2025-08-01 | [link](https://www.youtube.com/watch?v=_PRFsAfJ2z0) |
 | 328 | Justme_01 | 0:04:00 | 2025-09-30 | [link](https://youtu.be/98D9tdcrdL0?si=qVKTnEUK-O6JgzJz) |
-| 336 | Smirn | 0:04:01 | 2018-06-29 | [link](https://youtu.be/vlG3OSJ5HjM) |
 | 336 | RitzMania | 0:04:01 | 2023-01-29 | [link](https://youtu.be/kSGL_cnM2KQ) |
+| 336 | Smirn | 0:04:01 | 2018-06-29 | [link](https://youtu.be/vlG3OSJ5HjM) |
 | 336 | Henear | 0:04:01 | 2020-07-03 | [link](https://www.youtube.com/watch?v=YaPeg0NyMUM) |
 | 336 | Saria_100 | 0:04:01 | 2023-06-17 | [link](https://youtu.be/d5MsuJtjI3Q) |
 | 336 | Paihiro | 0:04:01 | 2021-10-14 | [link](https://youtu.be/OyV-J0pN2lE) |
@@ -361,10 +361,10 @@ categories: speedrun
 | 352 | Lucistic | 0:04:02.059000 | 2023-08-04 | [link](https://www.youtube.com/watch?v=u8fW8jQ7d9s) |
 | 353 | RetroTimes | 0:04:03 | 2022-10-29 | [link](https://www.youtube.com/watch?v=UDCcaGaa8QQ&t=247s) |
 | 353 | milestaills | 0:04:03 | 2022-03-22 | [link](https://www.youtube.com/watch?v=bleipWYjNh4) |
+| 353 | Sariiger | 0:04:03 | 2018-09-06 | [link](https://www.youtube.com/watch?v=rAPoFOouJA8) |
 | 353 | IvanSt33zy | 0:04:03 | 2018-07-07 | [link](https://www.youtube.com/watch?v=OdWeLkY4V4o) |
 | 353 | Romxn | 0:04:03 | 2018-06-13 | [link](https://www.twitch.tv/videos/272904639) |
 | 353 | BriGuy13 | 0:04:03 | 2018-02-14 | [link](https://youtu.be/PTfYAIAS0FQ) |
-| 353 | Sariiger | 0:04:03 | 2018-09-06 | [link](https://www.youtube.com/watch?v=rAPoFOouJA8) |
 | 353 | Choigogi | 0:04:03 | 2020-06-07 | [link](https://youtu.be/o-bUc8eabWc) |
 | 353 | LEITHAL | 0:04:03 | 2019-06-14 | [link](https://youtu.be/aPLPluWlSV0) |
 | 353 | LucaN64pro | 0:04:03 | 2023-09-30 | [link](https://youtu.be/xM91JV3sCjo?si=17VqJA-QufgcuGce) |
