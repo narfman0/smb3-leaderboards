@@ -28,7 +28,7 @@ categories: speedrun
 | 19 | narfman0 | 0:10:48.233000 | 2025-02-11 | [link](https://www.twitch.tv/videos/2378965803) |
 | 20 | AbellaBrothers1 | 0:10:48.283000 | 2025-09-28 | [link](https://youtu.be/AKWjX-8IcU8) |
 | 21 | iceball8314 | 0:10:48.466000 | 2022-11-26 | [link](https://www.youtube.com/watch?v=yfs7KZd-aZI) |
-| 22 | averge11 | 0:10:48.617000 | 2025-10-02 | [link](https://youtu.be/mu6CfMseplQ) |
+| 22 | averge11 | 0:10:48.616000 | 2025-10-02 | [link](https://youtu.be/mu6CfMseplQ) |
 | 23 | stewie_cartman | 0:10:48.766000 | 2023-04-19 | [link](https://www.youtube.com/watch?v=zR8jB6c317s) |
 | 24 | Miniland | 0:10:48.900000 | 2021-07-23 | [link](https://youtu.be/A5Eh3eKw69c) |
 | 25 | ramunesakusan | 0:10:49.083000 | 2025-11-26 | [link](https://youtu.be/ptUNt7JXAKk?si=x49WI2dUJNEqYrea) |
