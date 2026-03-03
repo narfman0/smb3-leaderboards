@@ -9,7 +9,7 @@ categories: speedrun
  ---- | ------ | ---- | ---- | ----- 
 | 1 | Kobewhon | 0:04:14.027000 | 2022-12-07 | [link](https://www.youtube.com/watch?v=mJoVkuvMULk) |
 | 2 | Kuto1k | 0:10:41.083000 | 2022-10-22 | [link](https://www.youtube.com/watch?v=zaJCgcf114s) |
-| 3 | mitchflowerpower | 0:10:41.700000 | 2021-08-31 | [link](https://www.youtube.com/watch?v=9rnyXaSZ3uU&t=643s) |
+| 3 | mitchflowerpower | 0:10:41.700000 | 2021-08-31 | [link](https://www.youtube.com/watch?v=9rnyXaSZ3uU) |
 | 4 | jonnylegz | 0:10:43 | 2018-06-19 | [link](https://www.youtube.com/watch?v=LyOBBbrD17I) |
 | 5 | MostDefinitelyAlbert | 0:10:43.750000 | 2026-01-26 | [link](https://www.youtube.com/watch?v=ss7ESfpTbrM) |
 | 6 | Czikubi | 0:10:44.066000 | 2021-07-26 | [link](https://www.twitch.tv/videos/1098482605) |
