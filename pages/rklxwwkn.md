@@ -262,8 +262,8 @@ categories: speedrun
 | 253 | itsbeeve | 1:01:39 | 2022-01-30 | [link](https://youtu.be/9TqlnhqFtlA) |
 | 254 | riscky | 1:01:50 | 2018-03-30 | [link](https://youtu.be/UEFUtJmqm2U) |
 | 255 | grimlocksoflove | 1:01:54 | 2021-09-14 | [link](https://www.twitch.tv/videos/1148803650) |
-| 256 | thatbishlinzy | 1:02:23 | 2025-12-03 | [link](https://youtu.be/MxJcyDjSjxY?si=rwZcoj7sc7xDiG6d) |
-| 257 | BigOtassss | 1:02:39 | 2025-04-11 | [link](https://youtu.be/d1-HNYyRvDg) |
+| 256 | BigOtassss | 1:02:05 | 2026-03-03 | [link](https://youtu.be/dxoPhIj9a2s) |
+| 257 | thatbishlinzy | 1:02:23 | 2025-12-03 | [link](https://youtu.be/MxJcyDjSjxY?si=rwZcoj7sc7xDiG6d) |
 | 258 | DAIKON | 1:02:50 | 2016-09-06 | [link](https://www.twitch.tv/officialdaikon/v/87943522) |
 | 259 | VintageClassicGamer | 1:02:54 | 2020-04-09 | [link](https://www.twitch.tv/videos/587930656) |
 | 259 | extyman | 1:02:54 | 2018-04-18 | [link](https://www.youtube.com/watch?v=OP1USSOZXSo) |
