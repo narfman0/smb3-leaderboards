@@ -621,9 +621,9 @@ categories: speedrun
 | 611 | Esthrus | 0:04:45 | 2019-06-07 | [link](https://youtu.be/nq-erkE5FKs) |
 | 611 | Djinnesis | 0:04:45 | 2019-03-22 | [link](https://youtu.be/LKkJglzvMf4) |
 | 614 | Yalemarr | 0:04:46 | 2020-09-22 | [link](https://m.youtube.com/watch?v=vruug4_sfDU) |
+| 614 | GonGon99 | 0:04:46 | 2023-02-12 | [link](https://youtu.be/pVe9JqUqhkY) |
 | 614 | zombieSR | 0:04:46 | 2022-02-27 | [link](https://youtu.be/PtvFswKbTGs) |
 | 614 | Contraslayer | 0:04:46 | 2017-01-26 | [link](https://www.twitch.tv/contraslayer/v/117521496) |
-| 614 | GonGon99 | 0:04:46 | 2023-02-12 | [link](https://youtu.be/pVe9JqUqhkY) |
 | 614 | TheFrenchSushi | 0:04:46 | 2025-03-16 | [link](https://youtu.be/qLpRZ1DiGqQ?si=Qo3dJ_AgPqRLaZbc) |
 | 614 | noma2460 | 0:04:46 | 2025-05-07 | [link](https://www.twitch.tv/videos/2451888597) |
 | 620 | Uriroitgrund | 0:04:47 | 2020-12-28 | [link](https://youtu.be/QTHjTlLDhb4) |
