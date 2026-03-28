@@ -306,6 +306,7 @@ categories: speedrun
 | 297 | SAOkyy | 0:03:58 | 2021-01-04 | [link](https://www.youtube.com/watch?v=miY3UoLN4Ng) |
 | 297 | TheBaconator108 | 0:03:58 | 2022-03-03 | [link](https://www.youtube.com/watch?v=mrQ2gs4X2OA) |
 | 297 | miletic_ivan | 0:03:58 | 2022-01-17 | [link](https://www.youtube.com/watch?v=qSk_nPABXtU) |
+| 297 | MelonTheFelon | 0:03:58 | 2018-09-29 | [link](https://www.twitch.tv/videos/316331417) |
 | 297 | Tmitt7 | 0:03:58 | 2017-11-04 | [link](https://www.youtube.com/watch?v=_12jMiqkAMM) |
 | 297 | Kosmic | 0:03:58 | 2017-08-29 | [link](https://youtu.be/AVWMzGZOMiA) |
 | 297 | zdoroviy_antony | 0:03:58 | 2017-08-30 | [link](https://www.youtube.com/watch?v=L-BZNH_8ufQ&feature=youtu.be) |
@@ -314,7 +315,6 @@ categories: speedrun
 | 297 | Validusername16 | 0:03:58 | 2019-09-16 | [link](https://www.youtube.com/watch?v=VJGGGLGZnPA) |
 | 297 | Eichi | 0:03:58 | 2017-02-21 | [link](https://www.youtube.com/watch?v=udH2JtOA3GY) |
 | 297 | SuperMariLo | 0:03:58 | 2019-02-21 | [link](https://youtu.be/TK_DDOMJVCU) |
-| 297 | MelonTheFelon | 0:03:58 | 2018-09-29 | [link](https://www.twitch.tv/videos/316331417) |
 | 297 | Avriix | 0:03:58 | 2024-03-04 | [link](https://youtu.be/_fiR98yI_4A) |
 | 297 | DogDeeDer | 0:03:58 | 2021-08-26 | [link](https://www.youtube.com/watch?v=17Rn6se7A0Q) |
 | 297 | Tumbad0 | 0:03:58 | 2026-02-04 | [link](https://youtu.be/G7W_OBSMRU0) |
@@ -552,9 +552,9 @@ categories: speedrun
 | 540 | tenguliam | 0:04:26 | 2017-10-24 | [link](https://www.twitch.tv/videos/184648530) |
 | 540 | Xcvazer | 0:04:26 | 2017-09-29 | [link](https://www.twitch.tv/videos/178476916) |
 | 545 | Yizo64 | 0:04:26.360000 | 2023-08-10 | [link](https://youtu.be/7dQ36wOYAFg) |
+| 546 | d_bo84 | 0:04:27 | 2023-02-17 | [link](https://youtu.be/91fysQzs4j8) |
 | 546 | shd | 0:04:27 | 2017-12-19 | [link](https://www.twitch.tv/videos/210995956) |
 | 546 | RealNariox | 0:04:27 | 2024-10-20 | [link](https://www.twitch.tv/videos/2143196604) |
-| 546 | d_bo84 | 0:04:27 | 2023-02-17 | [link](https://youtu.be/91fysQzs4j8) |
 | 546 | Fj123u | 0:04:27 | 2023-06-24 | [link](https://youtu.be/Tib8bkri9vU) |
 | 550 | Sheddar_ | 0:04:28 | 2020-03-03 | [link](https://www.instagram.com/p/B9QScVrpdHN/) |
 | 550 | alisammm | 0:04:28 | 2020-02-15 | [link](https://youtu.be/nCDCt0ldE_I) |
@@ -572,9 +572,9 @@ categories: speedrun
 | 562 | OblivionStoned | 0:04:31 | 2017-02-05 | [link](https://www.youtube.com/watch?v=hM8UmtJ5lxQ) |
 | 562 | WalrusShoes | 0:04:31 | 2018-10-17 | [link](https://www.youtube.com/watch?v=Pkw7U1RT4Eg) |
 | 565 | Casqui | 0:04:32 | 2021-02-21 | [link](https://youtu.be/PvvR6WOR-kk) |
-| 565 | TwinChubbs | 0:04:32 | 2020-06-18 | [link](https://youtu.be/gZ1Tay9himo) |
 | 565 | ecobb23 | 0:04:32 | 2021-11-22 | [link](https://youtu.be/L8w1XyxgAqs) |
 | 565 | SoakChannel | 0:04:32 | 2018-03-01 | [link](https://youtu.be/T3EtzI38gFQ) |
+| 565 | TwinChubbs | 0:04:32 | 2020-06-18 | [link](https://youtu.be/gZ1Tay9himo) |
 | 565 | brman85 | 0:04:32 | 2017-03-23 | [link](https://www.youtube.com/watch?v=Pwq3apILbXs) |
 | 565 | CooperJW13 | 0:04:32 | 2018-12-30 | [link](https://www.youtube.com/watch?v=PIobUwAqwp4&t=27s&list=PL7-CHhvyavsL50_wOpvfl1yU2pfr_VQXq&index=11) |
 | 565 | Nateorious | 0:04:32 | 2025-03-29 | [link](https://www.youtube.com/watch?v=Pc04QE1PqlE) |
@@ -632,9 +632,9 @@ categories: speedrun
 | 621 | Firelemon | 0:04:47 | 2020-07-24 | [link](https://www.youtube.com/watch?v=KCpkefiEBho&feature=youtu.be) |
 | 624 | alex03 | 0:04:48 | 2020-09-10 | [link](https://www.youtube.com/watch?v=cv1UmYpt0Y8) |
 | 624 | Alicemadness | 0:04:48 | 2022-06-30 | [link](https://www.youtube.com/watch?v=n5Zvq2aiI_s) |
+| 624 | GibEvad | 0:04:48 | 2018-03-10 | [link](https://www.youtube.com/watch?v=820tiC3WHAc) |
 | 624 | dydyhg | 0:04:48 | 2018-03-28 | [link](https://youtu.be/DgAolwtQ_YQ) |
 | 624 | sirmax | 0:04:48 | 2018-02-04 | [link](https://youtu.be/ZCx68_FAvu4) |
-| 624 | GibEvad | 0:04:48 | 2018-03-10 | [link](https://www.youtube.com/watch?v=820tiC3WHAc) |
 | 624 | poyo64 | 0:04:48 | 2023-12-11 | [link](https://youtu.be/qpTxeuJ0w2k?si=Q8OwXLo4fpj3Adxp) |
 | 624 | CaptainBob6 | 0:04:48 | 2019-09-29 | [link](https://www.youtube.com/watch?v=PHA3VwtZXIk&t) |
 | 631 | SpevanGaming | 0:04:49 | 2017-09-27 | [link](https://www.twitch.tv/videos/178026410) |
@@ -670,8 +670,8 @@ categories: speedrun
 | 661 | clearlycharlie | 0:05:15 | 2017-02-22 | [link](https://www.twitch.tv/videos/123864008) |
 | 661 | NotRSpwn | 0:05:15 | 2025-09-22 | [link](https://youtu.be/FW2_9lP_BIU?si=J6c-gERsXFBgjV_J) |
 | 663 | Moluk | 0:05:16 | 2020-09-13 | [link](https://youtu.be/hk4CxNJZHJ4) |
-| 664 | Maestro227 | 0:05:20 | 2016-02-02 | [link](https://www.youtube.com/watch?v=GN1IRaMI7_E) |
 | 664 | ZevZX | 0:05:20 | 2023-03-09 | [link](https://youtu.be/96R84bI54tc) |
+| 664 | Maestro227 | 0:05:20 | 2016-02-02 | [link](https://www.youtube.com/watch?v=GN1IRaMI7_E) |
 | 666 | jgmadman | 0:05:21 | 2017-02-10 | [link](https://www.twitch.tv/videos/121022751) |
 | 667 | tryhardsnipehrd | 0:05:24 | 2020-06-03 | [link](https://youtu.be/1gbwIpsmaaQ) |
 | 668 | Billybob157 | 0:05:30 | 2022-01-28 | [link](https://youtu.be/0qKhXQ0cNR0) |
