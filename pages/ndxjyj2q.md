@@ -93,7 +93,7 @@ categories: speedrun
 | 82 | MoonJi | 0:11:00 | 2018-05-19 | [link](https://youtu.be/lDOU-ET2LGM) |
 | 82 | Cookiewise | 0:11:00 | 2024-12-28 | [link](https://www.twitch.tv/videos/2338475749&ab_channel=cookiewise_22) |
 | 82 | DenimVest25 | 0:11:00 | 2025-06-12 | [link](https://youtu.be/tfZX9EbMq98) |
-| 87 | TheMexicanRunner | 0:11:01 | 2023-07-20 | [link](https://www.twitch.tv/videos/1877063876) |
+| 87 | TheMexicanRunner | 0:11:01 | 2023-07-20 | [link](https://youtu.be/N2X94tq31Yc) |
 | 87 | Papatate7 | 0:11:01 | 2025-06-09 | [link](https://www.twitch.tv/videos/2481193882) |
 | 87 | Freezen85 | 0:11:01 | 2026-01-09 | [link](https://youtu.be/HS3UaLURkzY) |
 | 90 | k1ngk0opa | 0:11:02 | 2023-04-13 | [link](https://youtu.be/pa48kMGj-W8) |
