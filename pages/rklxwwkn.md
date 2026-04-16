@@ -327,8 +327,8 @@ categories: speedrun
 | 318 | gameaholic2k | 1:13:56 | 2018-07-11 | [link](https://www.twitch.tv/videos/283668653) |
 | 319 | blufall | 1:14:03 | 2021-05-27 | [link](https://youtu.be/_Yu20YOY4Po) |
 | 320 | rockdet | 1:14:04 | 2016-10-03 | [link](https://www.twitch.tv/rockdet/v/92903603) |
-| 321 | Cad225 | 1:14:33 | 2019-02-03 | [link](https://www.youtube.com/watch?v=ziRVPP56Nvo) |
 | 321 | spike007980 | 1:14:33 | 2017-08-11 | [link](https://www.twitch.tv/videos/166119178) |
+| 321 | Cad225 | 1:14:33 | 2019-02-03 | [link](https://www.youtube.com/watch?v=ziRVPP56Nvo) |
 | 323 | milestaills | 1:14:50 | 2025-05-11 | [link](https://www.youtube.com/watch?v=WK49dC7MJvk) |
 | 324 | xNirox | 1:15:17 | 2023-04-01 | [link](https://youtu.be/6Eup7lxBN4o) |
 | 325 | SuperJoeKingGaming | 1:15:29 | 2023-05-13 | [link](https://www.facebook.com/108749582078946/videos/776155424230018/) |

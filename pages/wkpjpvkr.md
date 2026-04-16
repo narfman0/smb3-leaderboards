@@ -213,9 +213,9 @@ categories: speedrun
 | 196 | Zarc0nis | 0:03:50 | 2025-04-06 | [link](https://youtu.be/KMkqlKONaVs) |
 | 205 | DeadmanPR | 0:03:51 | 2020-12-20 | [link](https://www.twitch.tv/videos/844504796) |
 | 205 | Mrvic | 0:03:51 | 2020-10-27 | [link](https://youtu.be/s7yJjpPaRaA) |
-| 205 | dubiousdinobot | 0:03:51 | 2020-08-06 | [link](https://www.twitch.tv/videos/702129272) |
 | 205 | Supermariobruh | 0:03:51 | 2022-03-23 | [link](https://youtu.be/8IZJQcCRh6Y) |
 | 205 | NathanAlmighty | 0:03:51 | 2017-10-23 | [link](https://www.youtube.com/watch?v=pAvdf5a677k&feature=youtu.be) |
+| 205 | dubiousdinobot | 0:03:51 | 2020-08-06 | [link](https://www.twitch.tv/videos/702129272) |
 | 205 | CasualTom | 0:03:51 | 2019-03-30 | [link](https://www.youtube.com/watch?v=27CJsHO1Qt0) |
 | 205 | DelTaz | 0:03:51 | 2016-12-14 | [link](https://www.youtube.com/watch?v=1xJ5dhsxtyk&feature=youtu.be) |
 | 205 | Hmw1337 | 0:03:51 | 2018-11-23 | [link](https://www.twitch.tv/videos/339779040) |
@@ -263,13 +263,13 @@ categories: speedrun
 | 242 | AK_Potatoes | 0:03:54 | 2025-04-08 | [link](https://youtu.be/n_H8ub5y0tw) |
 | 242 | GuibMath | 0:03:54 | 2025-08-05 | [link](https://youtu.be/x21FPGhiEU0) |
 | 256 | Velodh | 0:03:54.096000 | 2021-08-16 | [link](https://youtu.be/LFgn9Sb2EBY) |
+| 257 | Javeliin | 0:03:55 | 2021-08-07 | [link](https://youtu.be/xuTwO1j9YOc) |
 | 257 | Growly87 | 0:03:55 | 2021-03-04 | [link](https://www.twitch.tv/videos/937539476) |
 | 257 | Konaxs1 | 0:03:55 | 2021-01-30 | [link](https://www.youtube.com/watch?v=tu_txngKU9o) |
-| 257 | Javeliin | 0:03:55 | 2021-08-07 | [link](https://youtu.be/xuTwO1j9YOc) |
+| 257 | AquaticBoba | 0:03:55 | 2023-03-21 | [link](https://www.twitch.tv/videos/1771287487) |
 | 257 | topher123890 | 0:03:55 | 2017-09-06 | [link](https://youtu.be/0iv4c-qasqs) |
 | 257 | Warpx3 | 0:03:55 | 2017-05-12 | [link](https://www.twitch.tv/videos/143384195) |
 | 257 | xenkaroshi | 0:03:55 | 2019-02-27 | [link](https://www.youtube.com/watch?v=QM714I2II9Y) |
-| 257 | AquaticBoba | 0:03:55 | 2023-03-21 | [link](https://www.twitch.tv/videos/1771287487) |
 | 257 | SeraphmIII | 0:03:55 | 2024-04-10 | [link](https://www.youtube.com/watch?v=9IZ0hX7iVfM) |
 | 257 | ZachFX | 0:03:55 | 2023-06-17 | [link](https://www.youtube.com/watch?v=_IYSqS4OqXs) |
 | 257 | wake911 | 0:03:55 | 2018-12-05 | [link](https://youtu.be/dEe-iBjZAhA) |
@@ -549,9 +549,9 @@ categories: speedrun
 | 530 | nabbit_staxkz | 0:04:25 | 2025-08-02 | [link](https://www.youtube.com/live/IwMjGERQQpo?si=asHghdPxweGIeeyf) |
 | 541 | FoxyLove | 0:04:26 | 2020-11-23 | [link](https://www.youtube.com/watch?v=8QgWIgKmvCU) |
 | 541 | Pikaboy70 | 0:04:26 | 2020-08-27 | [link](https://www.twitch.tv/videos/723786965) |
-| 541 | Rubens | 0:04:26 | 2020-08-06 | [link](https://www.youtube.com/watch?v=L0iBMaFsluM) |
 | 541 | tenguliam | 0:04:26 | 2017-10-24 | [link](https://www.twitch.tv/videos/184648530) |
 | 541 | Xcvazer | 0:04:26 | 2017-09-29 | [link](https://www.twitch.tv/videos/178476916) |
+| 541 | Rubens | 0:04:26 | 2020-08-06 | [link](https://www.youtube.com/watch?v=L0iBMaFsluM) |
 | 546 | Yizo64 | 0:04:26.360000 | 2023-08-10 | [link](https://youtu.be/7dQ36wOYAFg) |
 | 547 | d_bo84 | 0:04:27 | 2023-02-17 | [link](https://youtu.be/91fysQzs4j8) |
 | 547 | shd | 0:04:27 | 2017-12-19 | [link](https://www.twitch.tv/videos/210995956) |
