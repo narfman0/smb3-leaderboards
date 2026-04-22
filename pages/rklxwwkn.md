@@ -91,10 +91,10 @@ categories: speedrun
 | 82 | Finnish2005 | 0:53:13 | 2024-08-08 | [link](https://youtu.be/yECg1ORVAXM) |
 | 83 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
 | 84 | KobrahCJ | 0:53:15 | 2024-04-17 | [link](https://www.twitch.tv/videos/2122814733) |
-| 85 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
-| 86 | raymondamantius | 0:53:22 | 2024-02-06 | [link](https://www.youtube.com/watch?v=Cm4F4h1fc9E) |
-| 87 | GlitchyPa | 0:53:23 | 2023-09-17 | [link](https://www.twitch.tv/videos/1927957941) |
-| 88 | hum4ls | 0:53:26 | 2026-01-16 | [link](https://youtu.be/uQY6b1sw0GY) |
+| 85 | hum4ls | 0:53:16 | 2026-04-21 | [link](https://youtu.be/LRHIX5vIg5M) |
+| 86 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
+| 87 | raymondamantius | 0:53:22 | 2024-02-06 | [link](https://www.youtube.com/watch?v=Cm4F4h1fc9E) |
+| 88 | GlitchyPa | 0:53:23 | 2023-09-17 | [link](https://www.twitch.tv/videos/1927957941) |
 | 89 | ryukahr | 0:53:32 | 2023-05-02 | [link](https://www.youtube.com/watch?v=ym-QXiCqicE) |
 | 90 | MelonTheFelon | 0:53:36 | 2019-01-23 | [link](https://www.twitch.tv/videos/368899547) |
 | 91 | deisui | 0:53:37 | 2016-09-07 | [link](http://www.nicovideo.jp/watch/sm30043547) |
@@ -121,8 +121,8 @@ categories: speedrun
 | 112 | xJRigsx | 0:54:31 | 2023-06-24 | [link](https://www.twitch.tv/videos/1854769245) |
 | 113 | Joshua69yt | 0:54:32 | 2020-08-13 | [link](https://youtu.be/TlfXut4Psws) |
 | 113 | The_Col | 0:54:32 | 2018-07-15 | [link](https://www.twitch.tv/videos/285019580) |
-| 115 | denkiya | 0:54:35 | 2024-01-02 | [link](https://www.youtube.com/watch?v=rDASzztAwgY) |
 | 115 | KingOfNothing95 | 0:54:35 | 2024-12-28 | [link](https://www.youtube.com/watch?v=5VUFiaYlFvQ) |
+| 115 | denkiya | 0:54:35 | 2024-01-02 | [link](https://www.youtube.com/watch?v=rDASzztAwgY) |
 | 117 | OnlyMoneyNotTalent | 0:54:38 | 2020-08-18 | [link](https://www.youtube.com/watch?v=MLXqEicjJL8) |
 | 117 | Sharchid | 0:54:38 | 2024-05-20 | [link](https://www.twitch.tv/videos/2150886767) |
 | 117 | GTAce99 | 0:54:38 | 2023-04-02 | [link](https://youtu.be/AUluEK3YaY4) |
