@@ -229,8 +229,8 @@ categories: speedrun
 | 220 | Raptortilla | 0:59:23 | 2025-05-09 | [link](https://www.twitch.tv/videos/2455990318) |
 | 221 | LmaoItsBool | 0:59:27 | 2018-04-02 | [link](https://youtu.be/uC_BFagiQIQ) |
 | 222 | WhicheverMirror | 0:59:28 | 2021-08-11 | [link](https://youtu.be/nY7SiJ4QfOY) |
-| 223 | baseball_caniac | 0:59:32 | 2016-04-02 | [link](https://www.youtube.com/watch?v=1vryuDYs3YM) |
 | 223 | JonnyLink | 0:59:32 | 2020-12-19 | [link](https://youtu.be/J4Gg5wODKVc) |
+| 223 | baseball_caniac | 0:59:32 | 2016-04-02 | [link](https://www.youtube.com/watch?v=1vryuDYs3YM) |
 | 225 | BigOtassss | 0:59:35 | 2026-03-10 | [link](https://youtu.be/Dk-K548vkI8) |
 | 226 | ElectroLlama | 0:59:37 | 2021-09-30 | [link](https://www.twitch.tv/videos/1164208304) |
 | 227 | gamercal | 0:59:39 | 2019-04-27 | [link](https://www.twitch.tv/videos/416832773) |
