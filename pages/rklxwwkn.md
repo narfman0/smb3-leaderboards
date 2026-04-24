@@ -88,10 +88,10 @@ categories: speedrun
 | 79 | nopons | 0:53:00 | 2025-06-06 | [link](https://youtu.be/1kIrI6sKmP0) |
 | 80 | Malachibros20085721 | 0:53:07 | 2022-06-06 | [link](https://www.twitch.tv/videos/1496529200) |
 | 81 | Karmic31 | 0:53:08 | 2025-06-10 | [link](https://www.youtube.com/watch?v=1qJJ_PPZ090) |
-| 82 | Finnish2005 | 0:53:13 | 2024-08-08 | [link](https://youtu.be/yECg1ORVAXM) |
-| 83 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
-| 84 | KobrahCJ | 0:53:15 | 2024-04-17 | [link](https://www.twitch.tv/videos/2122814733) |
-| 85 | hum4ls | 0:53:16 | 2026-04-21 | [link](https://youtu.be/LRHIX5vIg5M) |
+| 81 | hum4ls | 0:53:08 | 2026-04-22 | [link](https://youtu.be/0khUjEVTLl4) |
+| 83 | Finnish2005 | 0:53:13 | 2024-08-08 | [link](https://youtu.be/yECg1ORVAXM) |
+| 84 | RetroDial | 0:53:14 | 2021-12-11 | [link](https://www.twitch.tv/videos/1232280270) |
+| 85 | KobrahCJ | 0:53:15 | 2024-04-17 | [link](https://www.twitch.tv/videos/2122814733) |
 | 86 | goofychocobo | 0:53:18 | 2021-09-19 | [link](https://www.youtube.com/watch?v=8wd1J20RnuY) |
 | 87 | raymondamantius | 0:53:22 | 2024-02-06 | [link](https://www.youtube.com/watch?v=Cm4F4h1fc9E) |
 | 88 | GlitchyPa | 0:53:23 | 2023-09-17 | [link](https://www.twitch.tv/videos/1927957941) |
