@@ -133,8 +133,8 @@ categories: speedrun
 | 124 | Arcus | 0:54:45 | 2019-10-09 | [link](https://www.twitch.tv/videos/492542362) |
 | 124 | Jepsi | 0:54:45 | 2025-02-26 | [link](https://www.youtube.com/watch?v=TmCty38iIDk) |
 | 126 | BlazenBezza | 0:54:48 | 2022-04-06 | [link](https://www.twitch.tv/videos/1447936091) |
-| 127 | Dr_TrashPanda | 0:54:49 | 2021-03-10 | [link](https://www.twitch.tv/videos/944897352) |
 | 127 | yeabruh | 0:54:49 | 2025-01-09 | [link](https://www.twitch.tv/videos/2350185371) |
+| 127 | Dr_TrashPanda | 0:54:49 | 2021-03-10 | [link](https://www.twitch.tv/videos/944897352) |
 | 129 | chinesehulk | 0:54:57 | 2022-04-15 | [link](https://www.twitch.tv/videos/1456382620) |
 | 130 | xeroplanes | 0:55:01 | 2020-06-22 | [link](https://www.twitch.tv/videos/658458987) |
 | 131 | Akisto | 0:55:08 | 2015-06-05 | [link](https://www.youtube.com/watch?v=cU8SEb1i7yg) |
