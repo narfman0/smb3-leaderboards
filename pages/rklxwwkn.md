@@ -33,9 +33,9 @@ categories: speedrun
 | 24 | neoshazam | 0:51:27 | 2024-07-30 | [link](https://www.bitchute.com/video/rePDGrc5FI0t) |
 | 24 | CujoIHSV | 0:51:27 | 2015-11-13 | [link](http://www.twitch.tv/cujoihsv/v/25541482) |
 | 26 | stewie_cartman | 0:51:31 | 2024-10-19 | [link](https://www.youtube.com/watch?v=L5Waa5lbfvo) |
-| 27 | TrueHyperMario | 0:51:35 | 2023-07-22 | [link](https://www.twitch.tv/videos/1878931053) |
-| 28 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
-| 28 | MarstoS | 0:51:36 | 2026-01-28 | [link](https://www.twitch.tv/videos/2682874902) |
+| 27 | MarstoS | 0:51:33 | 2026-05-07 | [link](https://www.twitch.tv/videos/2766547977) |
+| 28 | TrueHyperMario | 0:51:35 | 2023-07-22 | [link](https://www.twitch.tv/videos/1878931053) |
+| 29 | HorseDad | 0:51:36 | 2018-07-30 | [link](https://www.twitch.tv/videos/291277866) |
 | 30 | Baddap1 | 0:51:44 | 2025-03-22 | [link](https://youtu.be/0s0Ut-Sivns) |
 | 31 | AliceHK8 | 0:51:45 | 2025-05-31 | [link](https://www.twitch.tv/videos/2473308357) |
 | 31 | Lyvye327 | 0:51:45 | 2026-02-22 | [link](https://www.twitch.tv/videos/2704326765) |
