@@ -361,6 +361,7 @@ categories: speedrun
 | 352 | spsxis | 0:04:04 | 2021-02-22 | [link](https://www.twitch.tv/videos/924856840) |
 | 352 | Snowpie | 0:04:04 | 2021-01-17 | [link](https://www.twitch.tv/videos/877708357) |
 | 352 | nerphblaster27 | 0:04:04 | 2021-11-20 | [link](https://youtu.be/-qx7SQV05HI) |
+| 352 | TheRealSampai | 0:04:04 | 2018-10-14 | [link](https://youtu.be/LTPTzReuH_A) |
 | 352 | lookitdisguy | 0:04:04 | 2018-05-29 | [link](https://www.twitch.tv/videos/266940452) |
 | 352 | Lomiig | 0:04:04 | 2017-11-12 | [link](https://youtu.be/z9QRlSaOIGc) |
 | 352 | Traklon | 0:04:04 | 2017-10-31 | [link](https://www.youtube.com/watch?v=1Uo-x5f-MUM) |
@@ -368,7 +369,6 @@ categories: speedrun
 | 352 | CoconutsX | 0:04:04 | 2017-05-17 | [link](https://www.youtube.com/watch?v=j3XZgsyORe4) |
 | 352 | Miki | 0:04:04 | 2016-12-08 | [link](https://www.youtube.com/watch?v=0cPTB-sYsrQ) |
 | 352 | Bokonon_Lives | 0:04:04 | 2019-02-08 | [link](https://www.twitch.tv/videos/377552963) |
-| 352 | TheRealSampai | 0:04:04 | 2018-10-14 | [link](https://youtu.be/LTPTzReuH_A) |
 | 352 | ramunesakusan | 0:04:04 | 2025-01-02 | [link](https://youtu.be/OmDDPi1QNAk?si=gcpzmAZQh7gKIUfu) |
 | 352 | PyrusDoesLife | 0:04:04 | 2026-01-23 | [link](https://www.youtube.com/watch?v=jK9SMbTuvU4) |
 | 365 | Mustinclude3to25 | 0:04:05 | 2021-04-28 | [link](https://youtu.be/wsZJRzy9q98) |
