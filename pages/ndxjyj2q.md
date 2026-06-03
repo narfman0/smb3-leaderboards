@@ -7,9 +7,9 @@ categories: speedrun
 
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
-| 1 | Kuto1k | 0:10:41.083000 | 2022-10-22 | [link](https://www.youtube.com/watch?v=zaJCgcf114s) |
-| 2 | mitchflowerpower | 0:10:41.700000 | 2021-08-31 | [link](https://www.youtube.com/watch?v=9rnyXaSZ3uU) |
-| 3 | MostDefinitelyAlbert | 0:10:43.750000 | 2026-01-26 | [link](https://www.youtube.com/watch?v=ss7ESfpTbrM) |
+| 1 | MostDefinitelyAlbert | 0:10:40.533000 | 2026-06-01 | [link](https://www.youtube.com/watch?v=FsAqzchzZfo) |
+| 2 | Kuto1k | 0:10:41.083000 | 2022-10-22 | [link](https://www.youtube.com/watch?v=zaJCgcf114s) |
+| 3 | mitchflowerpower | 0:10:41.700000 | 2021-08-31 | [link](https://www.youtube.com/watch?v=9rnyXaSZ3uU) |
 | 4 | Czikubi | 0:10:44.066000 | 2021-07-26 | [link](https://www.twitch.tv/videos/1098482605) |
 | 5 | jtknott | 0:10:44.500000 | 2023-04-23 | [link](https://www.youtube.com/watch?v=mozapDf6b6E) |
 | 6 | psyduck5698 | 0:10:44.916000 | 2025-09-30 | [link](https://youtu.be/AIQ9yri0H7E) |
