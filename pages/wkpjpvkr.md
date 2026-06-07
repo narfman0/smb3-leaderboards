@@ -488,10 +488,10 @@ categories: speedrun
 | 479 | JuanSantamaria | 0:04:20 | 2021-07-11 | [link](https://www.twitch.tv/zencl4/v/1083277816?sr=a&t=184s) |
 | 479 | 456Productions_YT | 0:04:20 | 2021-05-21 | [link](https://www.youtube.com/watch?v=wIjaWEixbsM) |
 | 479 | Elohzee | 0:04:20 | 2021-03-21 | [link](https://youtu.be/dxNPQ-o0FXQ) |
-| 479 | Flamedemon612 | 0:04:20 | 2020-08-20 | [link](https://youtu.be/7uIrn_9-iAY) |
 | 479 | Moarf23 | 0:04:20 | 2022-09-30 | [link](https://www.youtube.com/watch?v=tcLLH5Xco3M) |
 | 479 | Falling_Tacos | 0:04:20 | 2022-01-16 | [link](https://www.twitch.tv/videos/1266208515) |
 | 479 | Ceriel | 0:04:20 | 2017-12-08 | [link](https://www.youtube.com/watch?v=qdYq4oYHiKI) |
+| 479 | Flamedemon612 | 0:04:20 | 2020-08-20 | [link](https://youtu.be/7uIrn_9-iAY) |
 | 479 | pahchi | 0:04:20 | 2017-09-11 | [link](https://www.twitch.tv/videos/173933796) |
 | 479 | Claire | 0:04:20 | 2019-10-20 | [link](https://www.twitch.tv/videos/497807984) |
 | 479 | pacoistaco459 | 0:04:20 | 2019-06-29 | [link](https://youtu.be/9CoiLLp2rh4) |
@@ -540,8 +540,8 @@ categories: speedrun
 | 529 | shauty | 0:04:30 | 2024-12-19 | [link](https://youtu.be/epq4zsL96f8) |
 | 529 | defiines | 0:04:30 | 2025-12-07 | [link](https://www.youtube.com/watch?v=ZAiu1pzWQ0U) |
 | 533 | DIYisDead | 0:04:31 | 2022-01-19 | [link](https://www.youtube.com/watch?v=G-r9FLqlET0&ab_channel=DIYisDead) |
-| 533 | OblivionStoned | 0:04:31 | 2017-02-05 | [link](https://www.youtube.com/watch?v=hM8UmtJ5lxQ) |
 | 533 | WalrusShoes | 0:04:31 | 2018-10-17 | [link](https://www.youtube.com/watch?v=Pkw7U1RT4Eg) |
+| 533 | OblivionStoned | 0:04:31 | 2017-02-05 | [link](https://www.youtube.com/watch?v=hM8UmtJ5lxQ) |
 | 533 | SantasLittleNibbler | 0:04:31 | 2018-11-25 | [link](https://youtu.be/2kRUzFZUgOA) |
 | 537 | Casqui | 0:04:32 | 2021-02-21 | [link](https://youtu.be/PvvR6WOR-kk) |
 | 537 | ecobb23 | 0:04:32 | 2021-11-22 | [link](https://youtu.be/L8w1XyxgAqs) |
