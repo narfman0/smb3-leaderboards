@@ -340,13 +340,13 @@ categories: speedrun
 | 325 | TarokoKookie | 0:04:01 | 2026-05-22 | [link](https://youtu.be/_q8Yp431e5s) |
 | 332 | abrahamw999 | 0:04:02 | 2021-05-24 | [link](https://www.youtube.com/watch?v=R1JZt64AS00&ab_channel=Abrahamw999) |
 | 332 | Cannalyst | 0:04:02 | 2020-11-04 | [link](https://youtu.be/wZnRhjZt-sg) |
+| 332 | Jurgen322 | 0:04:02 | 2023-04-16 | [link](https://youtu.be/iJ1NFVT427Q) |
 | 332 | Honkalaaa | 0:04:02 | 2022-09-02 | [link](https://youtu.be/Sl7b8QUVuFA) |
 | 332 | ACB | 0:04:02 | 2018-06-21 | [link](https://youtu.be/b_OoHHsCvBk) |
 | 332 | DrNexo | 0:04:02 | 2020-07-25 | [link](https://www.youtube.com/watch?v=MqtTqT1rSXw) |
 | 332 | Oxwaa | 0:04:02 | 2020-06-11 | [link](https://www.youtube.com/watch?v=5QSxx5v5KNs) |
 | 332 | MagicK | 0:04:02 | 2020-05-14 | [link](https://www.youtube.com/watch?v=0LIBMy9gJ3E) |
 | 332 | Thole | 0:04:02 | 2024-12-05 | [link](https://youtu.be/QflKZehSj5M) |
-| 332 | Jurgen322 | 0:04:02 | 2023-04-16 | [link](https://youtu.be/iJ1NFVT427Q) |
 | 332 | xNonglitch | 0:04:02 | 2025-03-09 | [link](https://youtu.be/nGTIhZlJc9A?si=ks8UPmJoW9bjtccd) |
 | 342 | RetroTimes | 0:04:03 | 2022-10-29 | [link](https://www.youtube.com/watch?v=UDCcaGaa8QQ&t=247s) |
 | 342 | milestaills | 0:04:03 | 2022-03-22 | [link](https://www.youtube.com/watch?v=bleipWYjNh4) |
@@ -463,9 +463,9 @@ categories: speedrun
 | 450 | bowmiee | 0:04:16 | 2020-01-26 | [link](https://youtu.be/B6L3ZKGoxBI) |
 | 450 | BloodDerg | 0:04:16 | 2026-06-06 | [link](https://www.youtube.com/watch?v=64s4UDp6jYY) |
 | 456 | MoisSR | 0:04:17 | 2021-04-05 | [link](https://youtu.be/aJeTK-tBsDs) |
+| 456 | pinkpanthr_ | 0:04:17 | 2023-04-15 | [link](https://youtu.be/GEX8WoKCbpU) |
 | 456 | JosueG | 0:04:17 | 2022-02-28 | [link](https://www.youtube.com/watch?v=TIZiL6YToS0&t=246s) |
 | 456 | Finnish2005 | 0:04:17 | 2024-12-31 | [link](https://youtu.be/AU6CS_0-6lg?si=JRxlV7pcnnUwuCKh) |
-| 456 | pinkpanthr_ | 0:04:17 | 2023-04-15 | [link](https://youtu.be/GEX8WoKCbpU) |
 | 456 | grape | 0:04:17 | 2024-05-31 | [link](https://youtu.be/6E8D0BmWiQ4?feature=shared&t=34) |
 | 456 | Nerd_Squared | 0:04:17 | 2015-06-25 | [link](https://www.youtube.com/watch?v=iqWUmOcsl8w&feature=youtu.be) |
 | 462 | Twafad | 0:04:18 | 2021-05-24 | [link](https://youtu.be/SWGM77pHuls) |
