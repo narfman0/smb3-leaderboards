@@ -34,10 +34,10 @@ categories: speedrun
 | 25 | Kzwbz | 0:03:09.383000 | 2025-12-31 | [link](https://www.youtube.com/watch?v=EmSwJz3582k) |
 | 26 | mitchflowerpower | 0:03:09.583000 | 2015-02-09 | [link](http://www.twitch.tv/mitchflowerpower/v/3767813) |
 | 27 | tavenwebb2002 | 0:03:09.700000 | 2017-07-15 | [link](https://youtu.be/q8pYk9VkVns) |
-| 28 | Bebert5014 | 0:03:10 | 2026-05-28 | [link](https://youtu.be/BzSvFW4KLR0?is=F3dX7mH5T6Z17uyC) |
-| 29 | AbellaBrothers1 | 0:03:10.116000 | 2024-10-10 | [link](https://youtu.be/_HOfClasIHY) |
-| 30 | Mauir | 0:03:10.133000 | 2026-02-12 | [link](https://youtu.be/RrxpGQY5quY) |
-| 31 | Matepe | 0:03:10.166000 | 2024-10-10 | [link](https://youtu.be/Yg4FDTVdVuo) |
+| 28 | AbellaBrothers1 | 0:03:10.116000 | 2024-10-10 | [link](https://youtu.be/_HOfClasIHY) |
+| 29 | Mauir | 0:03:10.133000 | 2026-02-12 | [link](https://youtu.be/RrxpGQY5quY) |
+| 30 | Matepe | 0:03:10.166000 | 2024-10-10 | [link](https://youtu.be/Yg4FDTVdVuo) |
+| 31 | Bebert5014 | 0:03:10.200000 | 2026-05-28 | [link](https://youtu.be/BzSvFW4KLR0?is=F3dX7mH5T6Z17uyC) |
 | 32 | Scrimsion | 0:03:10.283000 | 2024-04-08 | [link](https://youtu.be/ZzkyMxKOve0) |
 | 33 | Sakaali | 0:03:10.516000 | 2023-07-16 | [link](https://www.twitch.tv/videos/1873603473) |
 | 34 | MrDasho | 0:03:10.666000 | 2026-03-20 | [link](https://youtu.be/JlrYCuUmWfE?si=sdSHLg9hcpRKiRpS) |
@@ -45,9 +45,9 @@ categories: speedrun
 | 35 | Ian_1243 | 0:03:10.900000 | 2026-02-13 | [link](https://youtu.be/-KE_TF7bIhQ) |
 | 37 | Ricxrdo | 0:03:11 | 2024-02-23 | [link](https://youtu.be/vgM-RtFhteQ?si=eAnPEOYkw7CIA_bb) |
 | 38 | Doggasus | 0:03:11.366000 | 2026-03-10 | [link](https://youtu.be/UVLJ90Q1o8Q) |
-| 39 | billztr | 0:03:12 | 2025-08-11 | [link](https://youtu.be/R1RkLBlHCvs?si=Dr5dJVyK9CJ4M38F) |
-| 40 | fishman1 | 0:03:12.166000 | 2024-05-27 | [link](https://youtu.be/Ih2hK_DI6IM) |
-| 41 | robertalbertson240 | 0:03:12.416000 | 2022-02-06 | [link](https://youtu.be/mEwRlQDsWTk) |
+| 39 | fishman1 | 0:03:12.166000 | 2024-05-27 | [link](https://youtu.be/Ih2hK_DI6IM) |
+| 40 | robertalbertson240 | 0:03:12.416000 | 2022-02-06 | [link](https://youtu.be/mEwRlQDsWTk) |
+| 41 | billztr | 0:03:12.683000 | 2025-08-11 | [link](https://youtu.be/R1RkLBlHCvs?si=Dr5dJVyK9CJ4M38F) |
 | 42 | Ricxrdo | 0:03:12.833000 | 2024-03-16 | [link](https://youtu.be/r9ft2hILwrY) |
 | 43 | Simplistic_Memes | 0:03:13.233000 | 2024-04-11 | [link](https://youtu.be/sPWg166yd_g) |
 | 44 | Maggara1 | 0:03:13.833000 | 2016-11-11 | [link](https://www.twitch.tv/noreallyihavenothing/v/100408423) |
