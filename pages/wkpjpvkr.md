@@ -224,11 +224,11 @@ categories: speedrun
 | 205 | KingKappa | 0:03:52 | 2025-09-20 | [link](https://youtu.be/bKx-GdNrbZY) |
 | 216 | MinDsiL | 0:03:53 | 2022-03-08 | [link](https://www.twitch.tv/videos/1419016634) |
 | 216 | TheSkeeterBronson | 0:03:53 | 2022-03-06 | [link](https://youtu.be/GKwKfOxDCB0) |
+| 216 | Ribb95 | 0:03:53 | 2018-10-27 | [link](https://www.youtube.com/watch?v=Rml4m5X437Y&t=2s) |
 | 216 | Aydles | 0:03:53 | 2018-06-13 | [link](https://youtu.be/1qpvwqmvhkg) |
 | 216 | icterus440 | 0:03:53 | 2018-03-28 | [link](https://www.youtube.com/watch?v=N3SFFZvh6_A&feature=youtu.be) |
 | 216 | kei | 0:03:53 | 2018-03-25 | [link](https://www.youtube.com/watch?v=lc9gjWkGu98) |
 | 216 | Nowey | 0:03:53 | 2018-03-07 | [link](https://www.youtube.com/watch?v=wIAWr3da_wM) |
-| 216 | Ribb95 | 0:03:53 | 2018-10-27 | [link](https://www.youtube.com/watch?v=Rml4m5X437Y&t=2s) |
 | 216 | kinopico33 | 0:03:53 | 2024-08-10 | [link](https://www.bilibili.com/video/BV1ZNYjeJENS) |
 | 216 | JustEdd | 0:03:53 | 2024-08-21 | [link](https://www.youtube.com/watch?v=5NhvKGEH12c) |
 | 216 | Keingz7 | 0:03:53 | 2025-12-12 | [link](https://youtu.be/XeV0cMveHfU) |
@@ -500,13 +500,13 @@ categories: speedrun
 | 479 | Akisto | 0:04:20 | 2015-06-05 | [link](https://www.youtube.com/watch?v=cOUZUYgoFWs) |
 | 479 | Tsuki_tao | 0:04:20 | 2026-05-31 | [link](https://youtu.be/LTw2C2Rne7k?si=MmEtpZYUfGVP2DME) |
 | 479 | Mmk_ | 0:04:20 | 2026-06-23 | [link](https://youtu.be/qHn6S5qMeag) |
+| 494 | 2True4You | 0:04:21 | 2023-05-03 | [link](https://youtu.be/TVWSgDGKzzE) |
 | 494 | tdiogo_gamer | 0:04:21 | 2022-01-26 | [link](https://youtu.be/W3XDkfItYsw) |
 | 494 | mister_nibbles | 0:04:21 | 2018-07-28 | [link](https://www.youtube.com/watch?v=-_us_yli8_I) |
 | 494 | NaiieX | 0:04:21 | 2018-03-07 | [link](https://www.youtube.com/watch?v=FqcMDXu5BkQ) |
 | 494 | Supernickid | 0:04:21 | 2017-05-25 | [link](https://www.youtube.com/watch?v=OtZnsTfna4M) |
 | 494 | ThatOneRottenSpud | 0:04:21 | 2017-04-30 | [link](https://www.youtube.com/watch?v=NGsQXCRHyxE) |
 | 494 | LucasFidelis | 0:04:21 | 2017-02-20 | [link](https://youtu.be/m1gI4RQTgDI) |
-| 494 | 2True4You | 0:04:21 | 2023-05-03 | [link](https://youtu.be/TVWSgDGKzzE) |
 | 501 | BOTSam | 0:04:22 | 2020-12-26 | [link](https://youtu.be/jXALZLgW11I) |
 | 502 | cerealmasticator | 0:04:23 | 2020-01-15 | [link](https://www.twitch.tv/videos/536734568) |
 | 503 | diemb | 0:04:24 | 2021-05-05 | [link](https://www.youtube.com/watch?v=BELMPNC4iRA) |
