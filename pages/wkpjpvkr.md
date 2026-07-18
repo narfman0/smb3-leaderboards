@@ -234,13 +234,13 @@ categories: speedrun
 | 216 | Keingz7 | 0:03:53 | 2025-12-12 | [link](https://youtu.be/XeV0cMveHfU) |
 | 216 | BLGHAReal | 0:03:53 | 2026-03-20 | [link](https://youtu.be/w4a-P31fC9k) |
 | 227 | alpha_ray_burst | 0:03:54 | 2020-12-17 | [link](https://www.twitch.tv/videos/840496035) |
+| 227 | ArcadeRiot91 | 0:03:54 | 2023-05-08 | [link](https://youtu.be/m1sm-8HDbtE) |
 | 227 | Echon | 0:03:54 | 2021-12-12 | [link](https://www.twitch.tv/videos/1231252315) |
 | 227 | Mr.JacoPbass | 0:03:54 | 2018-05-22 | [link](https://www.youtube.com/watch?v=-58ezFfKTx4) |
 | 227 | Neptunolium | 0:03:54 | 2018-04-10 | [link](https://www.twitch.tv/videos/248653933) |
 | 227 | Take72 | 0:03:54 | 2020-03-14 | [link](https://www.twitch.tv/videos/568036938?) |
 | 227 | psload | 0:03:54 | 2017-05-06 | [link](https://www.youtube.com/watch?v=H7TTSIce4NU) |
 | 227 | Volpey | 0:03:54 | 2019-09-27 | [link](https://www.youtube.com/watch?v=z_j7-TOOYME) |
-| 227 | ArcadeRiot91 | 0:03:54 | 2023-05-08 | [link](https://youtu.be/m1sm-8HDbtE) |
 | 227 | Andres_ | 0:03:54 | 2024-08-11 | [link](https://youtu.be/oDKvfmE3714) |
 | 227 | dk | 0:03:54 | 2016-01-15 | [link](https://www.youtube.com/watch?v=jBT9zwOY11E) |
 | 227 | Dieg0XX43 | 0:03:54 | 2025-02-09 | [link](https://www.twitch.tv/videos/2376927797) |
