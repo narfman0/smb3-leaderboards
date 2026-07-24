@@ -28,7 +28,7 @@ categories: speedrun
 | 19 | Ellonija | 0:03:08.716000 | 2018-11-14 | [link](https://www.twitch.tv/videos/335488260) |
 | 20 | MrSavageKitty | 0:03:08.733000 | 2022-02-27 | [link](https://www.youtube.com/watch?v=0Spt16Z_2vU) |
 | 21 | eddiecatgaming | 0:03:09 | 2021-08-08 | [link](https://www.youtube.com/watch?v=sPdj_LJr8PI) |
-| 22 | Nebula_Composer | 0:03:09.117000 | 2026-07-22 | [link](https://www.youtube.com/watch?v=fiB7EvKSS2g) |
+| 22 | Nebula_Composer | 0:03:09.116000 | 2026-07-22 | [link](https://www.youtube.com/watch?v=fiB7EvKSS2g) |
 | 23 | kabAudio | 0:03:09.183000 | 2021-09-16 | [link](https://www.twitch.tv/videos/1149616892) |
 | 24 | Nolmy | 0:03:09.200000 | 2022-01-29 | [link](https://www.youtube.com/watch?v=krBY4On6XY0) |
 | 25 | FoguYanker | 0:03:09.283000 | 2024-03-25 | [link](https://youtu.be/78jJ6djoM-Q?si=c3preoIw1gjTBn4t) |
@@ -432,11 +432,11 @@ categories: speedrun
 | 416 | NicolasNmasN78 | 0:04:10 | 2025-11-04 | [link](https://youtu.be/nZKG1W1apvY) |
 | 424 | Fuzzyzilla | 0:04:11 | 2018-02-23 | [link](https://www.youtube.com/watch?v=f82fxeCG6Fo) |
 | 424 | ArturoYanezz | 0:04:11 | 2025-10-28 | [link](https://youtu.be/8-0jwFbubeI) |
+| 426 | BubuMC | 0:04:12 | 2018-09-07 | [link](https://www.twitch.tv/videos/345499715) |
 | 426 | KiD_ViD | 0:04:12 | 2018-03-11 | [link](https://youtu.be/uo8FWar7_gE) |
 | 426 | grandpoobear | 0:04:12 | 2017-05-28 | [link](https://youtu.be/6JgulD05ou0) |
 | 426 | FGrim | 0:04:12 | 2019-12-29 | [link](https://youtu.be/WvYAtqIN7yg) |
 | 426 | 24ShyGuy | 0:04:12 | 2024-03-17 | [link](https://www.youtube.com/watch?v=lj6En3bj7u0) |
-| 426 | BubuMC | 0:04:12 | 2018-09-07 | [link](https://www.twitch.tv/videos/345499715) |
 | 426 | HomerOfSteel | 0:04:12 | 2023-11-12 | [link](https://youtu.be/0eqD8a-AVyI) |
 | 426 | noonyfu | 0:04:12 | 2023-01-28 | [link](https://www.youtube.com/watch?v=zsnSZ_yWqIQ) |
 | 426 | daiden | 0:04:12 | 2026-04-16 | [link](https://youtu.be/UpY6Tla-bQo) |
@@ -605,11 +605,11 @@ categories: speedrun
 | 596 | Uriroitgrund | 0:04:47 | 2020-12-28 | [link](https://youtu.be/QTHjTlLDhb4) |
 | 596 | tyleursmb3 | 0:04:47 | 2022-05-23 | [link](https://youtu.be/i4NQBeeMX7Q) |
 | 596 | Firelemon | 0:04:47 | 2020-07-24 | [link](https://www.youtube.com/watch?v=KCpkefiEBho&feature=youtu.be) |
-| 599 | alex03 | 0:04:48 | 2020-09-10 | [link](https://www.youtube.com/watch?v=cv1UmYpt0Y8) |
 | 599 | Alicemadness | 0:04:48 | 2022-06-30 | [link](https://www.youtube.com/watch?v=n5Zvq2aiI_s) |
 | 599 | GibEvad | 0:04:48 | 2018-03-10 | [link](https://www.youtube.com/watch?v=820tiC3WHAc) |
 | 599 | dydyhg | 0:04:48 | 2018-03-28 | [link](https://youtu.be/DgAolwtQ_YQ) |
 | 599 | sirmax | 0:04:48 | 2018-02-04 | [link](https://youtu.be/ZCx68_FAvu4) |
+| 599 | alex03 | 0:04:48 | 2020-09-10 | [link](https://www.youtube.com/watch?v=cv1UmYpt0Y8) |
 | 599 | poyo64 | 0:04:48 | 2023-12-11 | [link](https://youtu.be/qpTxeuJ0w2k?si=Q8OwXLo4fpj3Adxp) |
 | 605 | SpevanGaming | 0:04:49 | 2017-09-27 | [link](https://www.twitch.tv/videos/178026410) |
 | 605 | Amune138 | 0:04:49 | 2019-03-07 | [link](https://www.twitch.tv/videos/391775247) |
