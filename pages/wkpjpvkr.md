@@ -476,13 +476,13 @@ categories: speedrun
 | 467 | Twafad | 0:04:18 | 2021-05-24 | [link](https://youtu.be/SWGM77pHuls) |
 | 467 | AnimusUnited | 0:04:18 | 2020-12-04 | [link](https://www.twitch.tv/videos/825412475) |
 | 467 | Darkman_ | 0:04:18 | 2022-08-10 | [link](https://www.youtube.com/watch?v=hvYhMI3e2bU) |
+| 467 | EthanAlexE | 0:04:18 | 2018-12-13 | [link](https://youtu.be/1nvrFDwyHNs) |
 | 467 | Leybo | 0:04:18 | 2018-03-18 | [link](https://www.youtube.com/watch?v=V3PeKBjqClc) |
 | 467 | 6regory | 0:04:18 | 2017-09-09 | [link](https://youtu.be/xozuG7fSB2M) |
 | 467 | MinusWorldJay | 0:04:18 | 2020-06-22 | [link](https://youtu.be/0rQ9pTXMSYg) |
 | 467 | ShesChardcore | 0:04:18 | 2019-09-13 | [link](https://www.twitch.tv/videos/481011276) |
 | 467 | JuegAriel | 0:04:18 | 2017-03-21 | [link](https://www.twitch.tv/videos/130239510) |
 | 467 | Bullfrog | 0:04:18 | 2017-02-23 | [link](https://www.twitch.tv/videos/124119242) |
-| 467 | EthanAlexE | 0:04:18 | 2018-12-13 | [link](https://youtu.be/1nvrFDwyHNs) |
 | 477 | Lucha_Gym | 0:04:19 | 2023-01-24 | [link](https://youtu.be/bBXpHtx2sTg) |
 | 477 | Lilpuri | 0:04:19 | 2022-04-29 | [link](https://www.youtube.com/watch?v=SqifPD81Wsk) |
 | 477 | DramenDays | 0:04:19 | 2018-04-12 | [link](https://youtu.be/Hja2Abo-2GE) |
