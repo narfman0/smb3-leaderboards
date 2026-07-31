@@ -156,9 +156,9 @@ categories: speedrun
 | 144 | ImNightmare06 | 0:03:44 | 2025-10-10 | [link](https://www.youtube.com/watch?v=DHJf2BUGrtk) |
 | 144 | Parimatch | 0:03:44 | 2026-01-12 | [link](https://www.youtube.com/watch?v=zqYKBGParjM) |
 | 149 | JDElfo33 | 0:03:45 | 2024-03-11 | [link](https://www.youtube.com/watch?v=bQVwFpAR6ik) |
+| 149 | JoeTheBrooo | 0:03:45 | 2023-07-04 | [link](https://youtu.be/bkgYzWpy96U) |
 | 149 | youtubeman06 | 0:03:45 | 2018-07-04 | [link](https://www.twitch.tv/videos/280868982) |
 | 149 | Xein64 | 0:03:45 | 2018-03-18 | [link](https://www.youtube.com/watch?v=3omQ1NSe840&t) |
-| 149 | JoeTheBrooo | 0:03:45 | 2023-07-04 | [link](https://youtu.be/bkgYzWpy96U) |
 | 149 | ProfessorRetro | 0:03:45 | 2025-04-07 | [link](https://www.youtube.com/watch?v=a4FlzF4aIH8) |
 | 149 | SpUnKeN_DK | 0:03:45 | 2025-11-08 | [link](https://www.twitch.tv/videos/2613416528) |
 | 155 | riscky | 0:03:46 | 2017-10-04 | [link](https://youtu.be/6PuHaIBrXSI) |
@@ -283,10 +283,10 @@ categories: speedrun
 | 273 | DashGamer | 0:03:57 | 2021-07-22 | [link](https://www.youtube.com/watch?v=_6sbg8LrKN8) |
 | 273 | pJ00nas | 0:03:57 | 2021-02-10 | [link](https://www.twitch.tv/pj00nas/v/906046247?sr=a&t=9s) |
 | 273 | DarthTyrael | 0:03:57 | 2020-10-08 | [link](https://youtu.be/oJN-JXNIzlA) |
-| 273 | CratiX14 | 0:03:57 | 2020-09-06 | [link](https://youtu.be/OyoIxN5IcfE) |
 | 273 | Broran01 | 0:03:57 | 2022-05-22 | [link](https://www.youtube.com/watch?v=rmZcHNGv3tQ) |
 | 273 | EliSpeedrun | 0:03:57 | 2022-05-21 | [link](https://www.twitch.tv/videos/1489879789) |
 | 273 | Laupok | 0:03:57 | 2018-02-25 | [link](https://www.youtube.com/watch?v=PgOAcpxBXbg) |
+| 273 | CratiX14 | 0:03:57 | 2020-09-06 | [link](https://youtu.be/OyoIxN5IcfE) |
 | 273 | SmiithTV | 0:03:57 | 2020-09-01 | [link](https://www.twitch.tv/videos/727858097) |
 | 273 | PixelCrusher | 0:03:57 | 2020-02-20 | [link](https://www.youtube.com/watch?v=nEaFWU3Oay4&fbclid=IwAR2cUvEmWVYyypVDwoJtHvQ31zZ28ikwd3r35SOljefDhwkSXO1sddVIccU) |
 | 273 | caleb2112 | 0:03:57 | 2020-02-16 | [link](https://youtu.be/hEmnmzi07qc) |
@@ -404,11 +404,11 @@ categories: speedrun
 | 388 | smartalec24 | 0:04:07 | 2024-01-27 | [link](https://www.youtube.com/watch?v=dORHdi6gX98) |
 | 396 | Saturnb | 0:04:08 | 2021-03-30 | [link](https://youtu.be/Wx174Ydh8wY) |
 | 396 | Odme_ | 0:04:08 | 2022-02-22 | [link](https://www.youtube.com/watch?v=axXAZVsd7ps) |
+| 396 | LordHVetinari | 0:04:08 | 2018-12-24 | [link](https://youtu.be/MLb-W8CPt1E) |
 | 396 | Typhlo | 0:04:08 | 2018-07-17 | [link](https://www.youtube.com/watch?v=z7CDGAnbrfk) |
 | 396 | antodur | 0:04:08 | 2018-03-04 | [link](https://youtu.be/847zQgQMelA) |
 | 396 | Ulrisse | 0:04:08 | 2018-02-23 | [link](https://www.youtube.com/watch?v=3D8Oz4tuvbI&feature=youtu.be) |
 | 396 | DrgnRAGE | 0:04:08 | 2017-03-26 | [link](https://www.youtube.com/watch?v=ekgbcKiQypk) |
-| 396 | LordHVetinari | 0:04:08 | 2018-12-24 | [link](https://youtu.be/MLb-W8CPt1E) |
 | 396 | Jama7301 | 0:04:08 | 2016-10-04 | [link](https://www.twitch.tv/jama7301/v/92990429) |
 | 396 | Waluirunner | 0:04:08 | 2026-07-17 | [link](https://youtu.be/k8bOSWKD3vg) |
 | 405 | Yosch | 0:04:09 | 2021-03-27 | [link](https://www.youtube.com/watch?v=sup42wDHXU4) |
