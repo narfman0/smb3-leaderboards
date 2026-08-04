@@ -444,12 +444,12 @@ categories: speedrun
 | 435 | SwemxdTV | 0:04:13 | 2020-10-07 | [link](https://www.youtube.com/watch?v=SOu9_7QKfbw&ab_channel=SwemxdTV) |
 | 435 | DragonRanger | 0:04:13 | 2023-01-29 | [link](https://www.youtube.com/watch?v=U3uFkdlaeb4) |
 | 435 | mtheordinarygamer | 0:04:13 | 2022-04-29 | [link](https://www.youtube.com/watch?v=ZnD3Tm_ElqY) |
+| 435 | SuperM | 0:04:13 | 2018-12-26 | [link](https://www.youtube.com/watch?v=AuBhetnUiP4) |
 | 435 | NinWorld | 0:04:13 | 2018-07-09 | [link](https://www.youtube.com/watch?v=Sr1Np54wYfw&t=3140s) |
 | 435 | Checkmate6659 | 0:04:13 | 2020-07-12 | [link](https://youtu.be/0fWJRVJsYN0) |
 | 435 | 360Chrism | 0:04:13 | 2020-02-08 | [link](https://youtu.be/nu9HQjENqLQ) |
 | 435 | greatjhon | 0:04:13 | 2017-04-12 | [link](https://www.twitch.tv/videos/135261476) |
 | 435 | KittyWake | 0:04:13 | 2025-01-06 | [link](https://www.youtube.com/watch?v=rC_kQpjM6T4&ab_channel=KittyWake) |
-| 435 | SuperM | 0:04:13 | 2018-12-26 | [link](https://www.youtube.com/watch?v=AuBhetnUiP4) |
 | 444 | JonnyLink | 0:04:14 | 2021-06-07 | [link](https://youtu.be/UkZ13jmSKhM) |
 | 444 | Jayaye78 | 0:04:14 | 2021-05-14 | [link](https://www.twitch.tv/videos/1025365133) |
 | 444 | yelir64 | 0:04:14 | 2022-09-12 | [link](https://www.youtube.com/watch?v=3mrfDCOrdcM) |
