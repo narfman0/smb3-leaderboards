@@ -435,9 +435,9 @@ categories: speedrun
 | 418 | cjayTV | 0:04:10 | 2026-08-08 | [link](https://youtu.be/XorlVt1HUIw?si=S-um7U6VA2e1BuuV) |
 | 427 | Fuzzyzilla | 0:04:11 | 2018-02-23 | [link](https://www.youtube.com/watch?v=f82fxeCG6Fo) |
 | 427 | ArturoYanezz | 0:04:11 | 2025-10-28 | [link](https://youtu.be/8-0jwFbubeI) |
+| 429 | noonyfu | 0:04:12 | 2023-01-28 | [link](https://www.youtube.com/watch?v=zsnSZ_yWqIQ) |
 | 429 | BubuMC | 0:04:12 | 2018-09-07 | [link](https://www.twitch.tv/videos/345499715) |
 | 429 | KiD_ViD | 0:04:12 | 2018-03-11 | [link](https://youtu.be/uo8FWar7_gE) |
-| 429 | noonyfu | 0:04:12 | 2023-01-28 | [link](https://www.youtube.com/watch?v=zsnSZ_yWqIQ) |
 | 429 | grandpoobear | 0:04:12 | 2017-05-28 | [link](https://youtu.be/6JgulD05ou0) |
 | 429 | FGrim | 0:04:12 | 2019-12-29 | [link](https://youtu.be/WvYAtqIN7yg) |
 | 429 | 24ShyGuy | 0:04:12 | 2024-03-17 | [link](https://www.youtube.com/watch?v=lj6En3bj7u0) |
