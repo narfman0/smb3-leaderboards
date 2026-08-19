@@ -167,8 +167,8 @@ categories: speedrun
 | 158 | cleveland_tom | 0:56:27 | 2023-04-11 | [link](https://www.twitch.tv/videos/1790765175) |
 | 159 | CurtsNewBrand | 0:56:32 | 2022-03-20 | [link](https://www.twitch.tv/videos/1431853598) |
 | 160 | Kanis999 | 0:56:35 | 2020-08-29 | [link](https://www.youtube.com/watch?v=S4PBvcU5tuA) |
-| 161 | jondatflindo | 0:56:39 | 2025-02-21 | [link](https://www.twitch.tv/videos/2387532719) |
 | 161 | TuttiPullo | 0:56:39 | 2021-01-12 | [link](https://youtu.be/7KwD1QIn170) |
+| 161 | jondatflindo | 0:56:39 | 2025-02-21 | [link](https://www.twitch.tv/videos/2387532719) |
 | 161 | mrcab55 | 0:56:39 | 2019-12-23 | [link](https://www.youtube.com/watch?v=_N6U3s9yKEE) |
 | 164 | Vobard | 0:56:40 | 2016-02-14 | [link](http://www.twitch.tv/vobard/v/36880592) |
 | 165 | grumpydadgolf | 0:56:41 | 2025-09-29 | [link](https://www.youtube.com/watch?v=ew4RHKWvTfs) |
