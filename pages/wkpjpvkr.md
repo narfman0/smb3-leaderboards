@@ -203,9 +203,9 @@ categories: speedrun
 | 185 | Hutchkey23 | 0:03:50 | 2026-07-19 | [link](https://youtu.be/ggmrX4DNJ8k) |
 | 185 | Cachy | 0:03:50 | 2026-08-02 | [link](https://youtu.be/-ssuOkU0go0) |
 | 196 | DeadmanPR | 0:03:51 | 2020-12-20 | [link](https://www.twitch.tv/videos/844504796) |
-| 196 | Mrvic | 0:03:51 | 2020-10-27 | [link](https://youtu.be/s7yJjpPaRaA) |
 | 196 | Supermariobruh | 0:03:51 | 2022-03-23 | [link](https://youtu.be/8IZJQcCRh6Y) |
 | 196 | Hmw1337 | 0:03:51 | 2018-11-23 | [link](https://www.twitch.tv/videos/339779040) |
+| 196 | Mrvic | 0:03:51 | 2020-10-27 | [link](https://youtu.be/s7yJjpPaRaA) |
 | 196 | NathanAlmighty | 0:03:51 | 2017-10-23 | [link](https://www.youtube.com/watch?v=pAvdf5a677k&feature=youtu.be) |
 | 196 | dubiousdinobot | 0:03:51 | 2020-08-06 | [link](https://www.twitch.tv/videos/702129272) |
 | 196 | CasualTom | 0:03:51 | 2019-03-30 | [link](https://www.youtube.com/watch?v=27CJsHO1Qt0) |
@@ -368,9 +368,9 @@ categories: speedrun
 | 352 | LEITHAL | 0:04:03 | 2019-06-14 | [link](https://youtu.be/aPLPluWlSV0) |
 | 352 | LucaN64pro | 0:04:03 | 2023-09-30 | [link](https://youtu.be/xM91JV3sCjo?si=17VqJA-QufgcuGce) |
 | 352 | Finnish2005 | 0:04:03 | 2026-06-27 | [link](https://www.twitch.tv/videos/2806942027) |
+| 362 | nerphblaster27 | 0:04:04 | 2021-11-20 | [link](https://youtu.be/-qx7SQV05HI) |
 | 362 | spsxis | 0:04:04 | 2021-02-22 | [link](https://www.twitch.tv/videos/924856840) |
 | 362 | Snowpie | 0:04:04 | 2021-01-17 | [link](https://www.twitch.tv/videos/877708357) |
-| 362 | nerphblaster27 | 0:04:04 | 2021-11-20 | [link](https://youtu.be/-qx7SQV05HI) |
 | 362 | TheRealSampai | 0:04:04 | 2018-10-14 | [link](https://youtu.be/LTPTzReuH_A) |
 | 362 | lookitdisguy | 0:04:04 | 2018-05-29 | [link](https://www.twitch.tv/videos/266940452) |
 | 362 | Bokonon_Lives | 0:04:04 | 2019-02-08 | [link](https://www.twitch.tv/videos/377552963) |
@@ -526,10 +526,10 @@ categories: speedrun
 | 516 | Temmichel | 0:04:24 | 2021-01-31 | [link](https://www.youtube.com/watch?v=rRN5tRjjIPY) |
 | 516 | Jepsi | 0:04:24 | 2024-10-04 | [link](https://youtu.be/tkXgHuP1Mr8?si=TrFB8HgEFYceHw4M&t=80) |
 | 519 | ZeldasKitten | 0:04:25 | 2021-03-14 | [link](https://youtu.be/tX4Bs4lkTtI) |
+| 519 | Carancool | 0:04:25 | 2023-07-30 | [link](https://youtu.be/_s8a8fcqX6Y) |
 | 519 | beast14356 | 0:04:25 | 2021-12-06 | [link](https://www.youtube.com/watch?v=B3XDda29iWc) |
 | 519 | Carnageraiser1 | 0:04:25 | 2018-05-28 | [link](https://www.twitch.tv/videos/247330800) |
 | 519 | miba | 0:04:25 | 2018-02-10 | [link](https://youtu.be/yJiY1rBj27k) |
-| 519 | Carancool | 0:04:25 | 2023-07-30 | [link](https://youtu.be/_s8a8fcqX6Y) |
 | 519 | KuLemon | 0:04:25 | 2019-09-07 | [link](https://www.youtube.com/watch?v=Ve7IZy0tnnE&ab_channel=Ku%27Lemon) |
 | 519 | GHOST97X | 0:04:25 | 2024-08-05 | [link](https://www.youtube.com/watch?v=HShgZzk25xw) |
 | 519 | SpringF | 0:04:25 | 2024-05-13 | [link](https://youtu.be/2sRSjLRCw4M?si=0ML8Wz9JJXpvNvns) |
