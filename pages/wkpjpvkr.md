@@ -219,11 +219,11 @@ categories: speedrun
 | 197 | Crazy_Gaming61 | 0:03:51 | 2025-10-13 | [link](https://youtu.be/xqrZhgpjHPQ) |
 | 197 | Rubizx | 0:03:51 | 2026-04-17 | [link](https://youtu.be/sHN2u8SbTN4) |
 | 212 | WhicheverMirror | 0:03:52 | 2021-06-29 | [link](https://www.youtube.com/watch?v=GM2xy6YLkmU) |
+| 212 | crasyfingers | 0:03:52 | 2019-02-09 | [link](https://www.twitch.tv/videos/377672762) |
 | 212 | zaqwa | 0:03:52 | 2017-09-07 | [link](https://www.youtube.com/watch?v=CrhfO2MdsfY) |
 | 212 | Uvideo | 0:03:52 | 2020-04-15 | [link](https://www.youtube.com/watch?v=fw4wjXq7dOE) |
 | 212 | CarlEmilEx | 0:03:52 | 2017-03-13 | [link](https://youtu.be/Fg0kcSOYfwk) |
 | 212 | JoeyWheeler | 0:03:52 | 2019-07-08 | [link](https://www.youtube.com/watch?v=nxI2jPfBFpI) |
-| 212 | crasyfingers | 0:03:52 | 2019-02-09 | [link](https://www.twitch.tv/videos/377672762) |
 | 212 | akr_sm64 | 0:03:52 | 2023-09-29 | [link](https://youtu.be/fS_mhGRRXXU) |
 | 212 | SebbyG13 | 0:03:52 | 2024-03-31 | [link](https://youtu.be/qbWdFxuPaJw) |
 | 212 | Mingura666 | 0:03:52 | 2021-04-12 | [link](https://youtu.be/sd02-v4Qxxg) |
@@ -350,10 +350,10 @@ categories: speedrun
 | 334 | quo | 0:04:01 | 2026-08-27 | [link](https://www.youtube.com/watch?v=VO4elZP0En4) |
 | 334 | Clockiter | 0:04:01 | 2026-08-27 | [link](https://youtu.be/V25V_EoUCdo?si=UZLsz-AeYCvx67JU) |
 | 343 | abrahamw999 | 0:04:02 | 2021-05-24 | [link](https://www.youtube.com/watch?v=R1JZt64AS00&ab_channel=Abrahamw999) |
-| 343 | Cannalyst | 0:04:02 | 2020-11-04 | [link](https://youtu.be/wZnRhjZt-sg) |
 | 343 | Jurgen322 | 0:04:02 | 2023-04-16 | [link](https://youtu.be/iJ1NFVT427Q) |
 | 343 | Honkalaaa | 0:04:02 | 2022-09-02 | [link](https://youtu.be/Sl7b8QUVuFA) |
 | 343 | ACB | 0:04:02 | 2018-06-21 | [link](https://youtu.be/b_OoHHsCvBk) |
+| 343 | Cannalyst | 0:04:02 | 2020-11-04 | [link](https://youtu.be/wZnRhjZt-sg) |
 | 343 | DrNexo | 0:04:02 | 2020-07-25 | [link](https://www.youtube.com/watch?v=MqtTqT1rSXw) |
 | 343 | Oxwaa | 0:04:02 | 2020-06-11 | [link](https://www.youtube.com/watch?v=5QSxx5v5KNs) |
 | 343 | MagicK | 0:04:02 | 2020-05-14 | [link](https://www.youtube.com/watch?v=0LIBMy9gJ3E) |
@@ -372,9 +372,9 @@ categories: speedrun
 | 363 | nerphblaster27 | 0:04:04 | 2021-11-20 | [link](https://youtu.be/-qx7SQV05HI) |
 | 363 | spsxis | 0:04:04 | 2021-02-22 | [link](https://www.twitch.tv/videos/924856840) |
 | 363 | Snowpie | 0:04:04 | 2021-01-17 | [link](https://www.twitch.tv/videos/877708357) |
+| 363 | Bokonon_Lives | 0:04:04 | 2019-02-08 | [link](https://www.twitch.tv/videos/377552963) |
 | 363 | TheRealSampai | 0:04:04 | 2018-10-14 | [link](https://youtu.be/LTPTzReuH_A) |
 | 363 | lookitdisguy | 0:04:04 | 2018-05-29 | [link](https://www.twitch.tv/videos/266940452) |
-| 363 | Bokonon_Lives | 0:04:04 | 2019-02-08 | [link](https://www.twitch.tv/videos/377552963) |
 | 363 | Lomiig | 0:04:04 | 2017-11-12 | [link](https://youtu.be/z9QRlSaOIGc) |
 | 363 | Traklon | 0:04:04 | 2017-10-31 | [link](https://www.youtube.com/watch?v=1Uo-x5f-MUM) |
 | 363 | RoyLT | 0:04:04 | 2017-07-07 | [link](https://www.twitch.tv/videos/157376963) |
