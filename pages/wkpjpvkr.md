@@ -204,6 +204,7 @@ categories: speedrun
 | 186 | Hutchkey23 | 0:03:50 | 2026-07-19 | [link](https://youtu.be/ggmrX4DNJ8k) |
 | 186 | Cachy | 0:03:50 | 2026-08-02 | [link](https://youtu.be/-ssuOkU0go0) |
 | 197 | DeadmanPR | 0:03:51 | 2020-12-20 | [link](https://www.twitch.tv/videos/844504796) |
+| 197 | Sc0tty047 | 0:03:51 | 2023-08-16 | [link](https://www.youtube.com/watch?v=y35ymYE3LCQ) |
 | 197 | Supermariobruh | 0:03:51 | 2022-03-23 | [link](https://youtu.be/8IZJQcCRh6Y) |
 | 197 | Hmw1337 | 0:03:51 | 2018-11-23 | [link](https://www.twitch.tv/videos/339779040) |
 | 197 | Mrvic | 0:03:51 | 2020-10-27 | [link](https://youtu.be/s7yJjpPaRaA) |
@@ -212,7 +213,6 @@ categories: speedrun
 | 197 | CasualTom | 0:03:51 | 2019-03-30 | [link](https://www.youtube.com/watch?v=27CJsHO1Qt0) |
 | 197 | DelTaz | 0:03:51 | 2016-12-14 | [link](https://www.youtube.com/watch?v=1xJ5dhsxtyk&feature=youtu.be) |
 | 197 | KaysCre | 0:03:51 | 2024-04-28 | [link](https://youtu.be/jLvxGoD7sPw) |
-| 197 | Sc0tty047 | 0:03:51 | 2023-08-16 | [link](https://www.youtube.com/watch?v=y35ymYE3LCQ) |
 | 197 | HarrisonCheng | 0:03:51 | 2022-04-15 | [link](https://youtu.be/zPdtbYwq6Ss) |
 | 197 | SumIntegrals | 0:03:51 | 2025-04-01 | [link](https://youtu.be/KYtR3fRvOeg) |
 | 197 | Ghyuty17 | 0:03:51 | 2025-08-14 | [link](https://www.youtube.com/watch?v=IWEI7nU6aB0) |
