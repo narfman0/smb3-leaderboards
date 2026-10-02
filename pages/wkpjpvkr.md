@@ -115,8 +115,8 @@ categories: speedrun
 | 105 | chickenfish4 | 0:03:29 | 2017-06-25 | [link](https://youtu.be/yOOKGKufp4U) |
 | 105 | Retrothunder | 0:03:29 | 2025-03-14 | [link](https://youtu.be/hBY1yfRe7fM) |
 | 105 | Snarff | 0:03:29 | 2025-12-14 | [link](https://youtu.be/tIsPH-xR3WM) |
-| 109 | Scarface | 0:03:30 | 2020-11-12 | [link](https://youtu.be/sx7RXE0W9X4) |
 | 109 | Xelaa | 0:03:30 | 2018-11-29 | [link](https://youtu.be/6yvbt_hN7iM) |
+| 109 | Scarface | 0:03:30 | 2020-11-12 | [link](https://youtu.be/sx7RXE0W9X4) |
 | 109 | Blobopro | 0:03:30 | 2016-10-13 | [link](https://www.youtube.com/watch?v=4ydV0_AgITQ&feature=youtu.be) |
 | 112 | FranLMSP | 0:03:31 | 2018-04-08 | [link](https://youtu.be/1SRbWDCgHN4) |
 | 112 | Larsonix | 0:03:31 | 2019-03-19 | [link](https://streamable.com/xb9cx) |
@@ -301,6 +301,7 @@ categories: speedrun
 | 292 | SAOkyy | 0:03:58 | 2021-01-04 | [link](https://www.youtube.com/watch?v=miY3UoLN4Ng) |
 | 292 | TheBaconator108 | 0:03:58 | 2022-03-03 | [link](https://www.youtube.com/watch?v=mrQ2gs4X2OA) |
 | 292 | miletic_ivan | 0:03:58 | 2022-01-17 | [link](https://www.youtube.com/watch?v=qSk_nPABXtU) |
+| 292 | SuperMariLo | 0:03:58 | 2019-02-21 | [link](https://youtu.be/TK_DDOMJVCU) |
 | 292 | MelonTheFelon | 0:03:58 | 2018-09-29 | [link](https://www.twitch.tv/videos/316331417) |
 | 292 | Tmitt7 | 0:03:58 | 2017-11-04 | [link](https://www.youtube.com/watch?v=_12jMiqkAMM) |
 | 292 | Kosmic | 0:03:58 | 2017-08-29 | [link](https://youtu.be/AVWMzGZOMiA) |
@@ -309,7 +310,6 @@ categories: speedrun
 | 292 | aidenlt | 0:03:58 | 2019-10-22 | [link](https://www.youtube.com/watch?v=KgeG1twsE48) |
 | 292 | Validusername16 | 0:03:58 | 2019-09-16 | [link](https://www.youtube.com/watch?v=VJGGGLGZnPA) |
 | 292 | Eichi | 0:03:58 | 2017-02-21 | [link](https://www.youtube.com/watch?v=udH2JtOA3GY) |
-| 292 | SuperMariLo | 0:03:58 | 2019-02-21 | [link](https://youtu.be/TK_DDOMJVCU) |
 | 292 | Avriix | 0:03:58 | 2024-03-04 | [link](https://youtu.be/_fiR98yI_4A) |
 | 292 | DogDeeDer | 0:03:58 | 2021-08-26 | [link](https://www.youtube.com/watch?v=17Rn6se7A0Q) |
 | 292 | Tumbad0 | 0:03:58 | 2026-02-04 | [link](https://youtu.be/G7W_OBSMRU0) |
