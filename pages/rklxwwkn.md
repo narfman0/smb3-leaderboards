@@ -7,10 +7,10 @@ categories: speedrun
 
 | Rank | Player | Time | Date | Video |
  ---- | ------ | ---- | ---- | ----- 
-| 1 | Kuto1k | 0:49:50 | 2025-04-18 | [link](https://www.youtube.com/watch?v=TwmppTwKnaQ) |
-| 2 | mitchflowerpower | 0:49:51 | 2025-04-16 | [link](https://www.youtube.com/watch?v=P6BibwdX__o&t=27s) |
-| 3 | maibaRTA | 0:49:55 | 2025-08-03 | [link](https://www.twitch.tv/videos/2530062889) |
-| 4 | Sakaali | 0:50:00 | 2026-05-14 | [link](https://www.twitch.tv/videos/2771733509) |
+| 1 | Sakaali | 0:49:50.167000 | 2026-10-03 | [link](https://www.twitch.tv/videos/2890699758) |
+| 2 | Kuto1k | 0:49:50.417000 | 2025-04-18 | [link](https://www.youtube.com/watch?v=TwmppTwKnaQ) |
+| 3 | mitchflowerpower | 0:49:51 | 2025-04-16 | [link](https://www.youtube.com/watch?v=P6BibwdX__o&t=27s) |
+| 4 | maibaRTA | 0:49:55 | 2025-08-03 | [link](https://www.twitch.tv/videos/2530062889) |
 | 5 | narfman0 | 0:50:07 | 2024-04-11 | [link](https://www.twitch.tv/videos/2117096032) |
 | 6 | Czikubi | 0:50:21 | 2025-02-11 | [link](https://www.twitch.tv/videos/2378957754) |
 | 7 | Lui | 0:50:47 | 2023-03-29 | [link](https://youtu.be/O8iDlsR03ks) |
