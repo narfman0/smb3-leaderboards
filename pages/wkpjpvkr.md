@@ -258,9 +258,9 @@ categories: speedrun
 | 248 | Growly87 | 0:03:55 | 2021-03-04 | [link](https://www.twitch.tv/videos/937539476) |
 | 248 | Konaxs1 | 0:03:55 | 2021-01-30 | [link](https://www.youtube.com/watch?v=tu_txngKU9o) |
 | 248 | AquaticBoba | 0:03:55 | 2023-03-21 | [link](https://www.twitch.tv/videos/1771287487) |
+| 248 | xenkaroshi | 0:03:55 | 2019-02-27 | [link](https://www.youtube.com/watch?v=QM714I2II9Y) |
 | 248 | topher123890 | 0:03:55 | 2017-09-06 | [link](https://youtu.be/0iv4c-qasqs) |
 | 248 | Warpx3 | 0:03:55 | 2017-05-12 | [link](https://www.twitch.tv/videos/143384195) |
-| 248 | xenkaroshi | 0:03:55 | 2019-02-27 | [link](https://www.youtube.com/watch?v=QM714I2II9Y) |
 | 248 | SeraphmIII | 0:03:55 | 2024-04-10 | [link](https://www.youtube.com/watch?v=9IZ0hX7iVfM) |
 | 248 | ZachFX | 0:03:55 | 2023-06-17 | [link](https://www.youtube.com/watch?v=_IYSqS4OqXs) |
 | 248 | wake911 | 0:03:55 | 2018-12-05 | [link](https://youtu.be/dEe-iBjZAhA) |
