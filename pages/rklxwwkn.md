@@ -44,9 +44,9 @@ categories: speedrun
 | 34 | Jokubotti | 0:51:46 | 2025-08-12 | [link](https://www.twitch.tv/videos/2538219660) |
 | 36 | GungeonLover | 0:51:47 | 2023-07-21 | [link](https://www.twitch.tv/videos/1877692681) |
 | 36 | Katti | 0:51:47 | 2026-08-08 | [link](https://www.twitch.tv/videos/2840898904) |
-| 38 | Mars02 | 0:51:51 | 2022-08-06 | [link](https://www.youtube.com/watch?v=jHfnOtf6HlA) |
-| 38 | WhenChukAttacks | 0:51:51 | 2018-03-29 | [link](https://www.twitch.tv/videos/244391585) |
-| 40 | Arlilecay | 0:51:52 | 2026-09-17 | [link](https://youtu.be/sZZXxmOyE2A) |
+| 38 | Arlilecay | 0:51:48 | 2026-10-08 | [link](https://youtu.be/K4-d23CqJM0) |
+| 39 | Mars02 | 0:51:51 | 2022-08-06 | [link](https://www.youtube.com/watch?v=jHfnOtf6HlA) |
+| 39 | WhenChukAttacks | 0:51:51 | 2018-03-29 | [link](https://www.twitch.tv/videos/244391585) |
 | 41 | Outside_Lutz | 0:51:53 | 2014-03-23 | [link](https://www.youtube.com/watch?v=IjSx5GHtB78) |
 | 41 | Japezu | 0:51:53 | 2025-08-11 | [link](https://www.twitch.tv/videos/2537155057) |
 | 43 | ibuba7 | 0:51:54 | 2021-02-25 | [link](https://www.youtube.com/watch?v=fdKLbhv9TZQ&ab_channel=iBuba7) |
