@@ -37,7 +37,7 @@ categories: speedrun
 | 28 | FoguYanker | 0:03:09.283000 | 2024-03-25 | [link](https://youtu.be/78jJ6djoM-Q?si=c3preoIw1gjTBn4t) |
 | 28 | Ian_1243 | 0:03:09.283000 | 2026-09-21 | [link](https://youtu.be/sW1UniHXRpk) |
 | 30 | Kzwbz | 0:03:09.383000 | 2025-12-31 | [link](https://www.youtube.com/watch?v=EmSwJz3582k) |
-| 31 | TarokoKookie | 0:03:09.400000 | 2026-10-03 | [link](https://youtu.be/QrInlKqOxNQ) |
+| 31 | TarokoKookie | 0:03:09.416000 | 2026-10-03 | [link](https://youtu.be/cb255RB4PMM) |
 | 32 | mitchflowerpower | 0:03:09.583000 | 2015-02-09 | [link](http://www.twitch.tv/mitchflowerpower/v/3767813) |
 | 33 | tavenwebb2002 | 0:03:09.700000 | 2017-07-15 | [link](https://youtu.be/q8pYk9VkVns) |
 | 34 | AbellaBrothers1 | 0:03:10.116000 | 2024-10-10 | [link](https://youtu.be/_HOfClasIHY) |
@@ -486,10 +486,10 @@ categories: speedrun
 | 473 | Nerd_Squared | 0:04:17 | 2015-06-25 | [link](https://www.youtube.com/watch?v=iqWUmOcsl8w&feature=youtu.be) |
 | 473 | zhou114514 | 0:04:17 | 2026-09-26 | [link](https://www.bilibili.com/video/BV1P6h26nES3/?spm_id_from=333.1387.homepage.video_card.click) |
 | 479 | Twafad | 0:04:18 | 2021-05-24 | [link](https://youtu.be/SWGM77pHuls) |
-| 479 | AnimusUnited | 0:04:18 | 2020-12-04 | [link](https://www.twitch.tv/videos/825412475) |
 | 479 | Darkman_ | 0:04:18 | 2022-08-10 | [link](https://www.youtube.com/watch?v=hvYhMI3e2bU) |
 | 479 | EthanAlexE | 0:04:18 | 2018-12-13 | [link](https://youtu.be/1nvrFDwyHNs) |
 | 479 | Leybo | 0:04:18 | 2018-03-18 | [link](https://www.youtube.com/watch?v=V3PeKBjqClc) |
+| 479 | AnimusUnited | 0:04:18 | 2020-12-04 | [link](https://www.twitch.tv/videos/825412475) |
 | 479 | 6regory | 0:04:18 | 2017-09-09 | [link](https://youtu.be/xozuG7fSB2M) |
 | 479 | MinusWorldJay | 0:04:18 | 2020-06-22 | [link](https://youtu.be/0rQ9pTXMSYg) |
 | 479 | ShesChardcore | 0:04:18 | 2019-09-13 | [link](https://www.twitch.tv/videos/481011276) |
