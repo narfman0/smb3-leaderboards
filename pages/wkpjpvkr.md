@@ -624,8 +624,8 @@ categories: speedrun
 | 612 | sirmax | 0:04:48 | 2018-02-04 | [link](https://youtu.be/ZCx68_FAvu4) |
 | 612 | alex03 | 0:04:48 | 2020-09-10 | [link](https://www.youtube.com/watch?v=cv1UmYpt0Y8) |
 | 612 | poyo64 | 0:04:48 | 2023-12-11 | [link](https://youtu.be/qpTxeuJ0w2k?si=Q8OwXLo4fpj3Adxp) |
-| 618 | SpevanGaming | 0:04:49 | 2017-09-27 | [link](https://www.twitch.tv/videos/178026410) |
 | 618 | Amune138 | 0:04:49 | 2019-03-07 | [link](https://www.twitch.tv/videos/391775247) |
+| 618 | SpevanGaming | 0:04:49 | 2017-09-27 | [link](https://www.twitch.tv/videos/178026410) |
 | 620 | TheAelig | 0:04:50 | 2021-04-18 | [link](https://www.youtube.com/watch?v=8ZBkguO5lsU) |
 | 621 | PeeBee | 0:04:51 | 2018-01-14 | [link](https://youtu.be/_HuT9V04YkU) |
 | 621 | AiSnake | 0:04:51 | 2020-09-01 | [link](https://youtu.be/e_kLhlSSg-E) |
