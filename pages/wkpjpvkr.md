@@ -119,8 +119,8 @@ categories: speedrun
 | 110 | Xelaa | 0:03:30 | 2018-11-29 | [link](https://youtu.be/6yvbt_hN7iM) |
 | 110 | Scarface | 0:03:30 | 2020-11-12 | [link](https://youtu.be/sx7RXE0W9X4) |
 | 110 | Blobopro | 0:03:30 | 2016-10-13 | [link](https://www.youtube.com/watch?v=4ydV0_AgITQ&feature=youtu.be) |
-| 113 | FranLMSP | 0:03:31 | 2018-04-08 | [link](https://youtu.be/1SRbWDCgHN4) |
 | 113 | Larsonix | 0:03:31 | 2019-03-19 | [link](https://streamable.com/xb9cx) |
+| 113 | FranLMSP | 0:03:31 | 2018-04-08 | [link](https://youtu.be/1SRbWDCgHN4) |
 | 115 | Axodo | 0:03:32 | 2015-02-16 | [link](https://www.youtube.com/watch?v=vYjXcIl7K34) |
 | 116 | amorujao | 0:03:33 | 2018-10-26 | [link](https://www.youtube.com/watch?v=5Fn63YnGaaE) |
 | 116 | LinuxHater | 0:03:33 | 2026-02-13 | [link](https://youtu.be/IWJI-bueN5c) |
@@ -240,11 +240,11 @@ categories: speedrun
 | 223 | JustEdd | 0:03:53 | 2024-08-21 | [link](https://www.youtube.com/watch?v=5NhvKGEH12c) |
 | 223 | Keingz7 | 0:03:53 | 2025-12-12 | [link](https://youtu.be/XeV0cMveHfU) |
 | 223 | BLGHAReal | 0:03:53 | 2026-03-20 | [link](https://youtu.be/w4a-P31fC9k) |
-| 234 | alpha_ray_burst | 0:03:54 | 2020-12-17 | [link](https://www.twitch.tv/videos/840496035) |
 | 234 | ArcadeRiot91 | 0:03:54 | 2023-05-08 | [link](https://youtu.be/m1sm-8HDbtE) |
 | 234 | Echon | 0:03:54 | 2021-12-12 | [link](https://www.twitch.tv/videos/1231252315) |
 | 234 | Mr.JacoPbass | 0:03:54 | 2018-05-22 | [link](https://www.youtube.com/watch?v=-58ezFfKTx4) |
 | 234 | Neptunolium | 0:03:54 | 2018-04-10 | [link](https://www.twitch.tv/videos/248653933) |
+| 234 | alpha_ray_burst | 0:03:54 | 2020-12-17 | [link](https://www.twitch.tv/videos/840496035) |
 | 234 | Take72 | 0:03:54 | 2020-03-14 | [link](https://www.twitch.tv/videos/568036938?) |
 | 234 | psload | 0:03:54 | 2017-05-06 | [link](https://www.youtube.com/watch?v=H7TTSIce4NU) |
 | 234 | Volpey | 0:03:54 | 2019-09-27 | [link](https://www.youtube.com/watch?v=z_j7-TOOYME) |
@@ -530,9 +530,9 @@ categories: speedrun
 | 521 | diemb | 0:04:24 | 2021-05-05 | [link](https://www.youtube.com/watch?v=BELMPNC4iRA) |
 | 521 | Temmichel | 0:04:24 | 2021-01-31 | [link](https://www.youtube.com/watch?v=rRN5tRjjIPY) |
 | 521 | Jepsi | 0:04:24 | 2024-10-04 | [link](https://youtu.be/tkXgHuP1Mr8?si=TrFB8HgEFYceHw4M&t=80) |
+| 524 | beast14356 | 0:04:25 | 2021-12-06 | [link](https://www.youtube.com/watch?v=B3XDda29iWc) |
 | 524 | ZeldasKitten | 0:04:25 | 2021-03-14 | [link](https://youtu.be/tX4Bs4lkTtI) |
 | 524 | Carancool | 0:04:25 | 2023-07-30 | [link](https://youtu.be/_s8a8fcqX6Y) |
-| 524 | beast14356 | 0:04:25 | 2021-12-06 | [link](https://www.youtube.com/watch?v=B3XDda29iWc) |
 | 524 | Carnageraiser1 | 0:04:25 | 2018-05-28 | [link](https://www.twitch.tv/videos/247330800) |
 | 524 | miba | 0:04:25 | 2018-02-10 | [link](https://youtu.be/yJiY1rBj27k) |
 | 524 | KuLemon | 0:04:25 | 2019-09-07 | [link](https://www.youtube.com/watch?v=Ve7IZy0tnnE&ab_channel=Ku%27Lemon) |
