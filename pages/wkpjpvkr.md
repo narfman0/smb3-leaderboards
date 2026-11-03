@@ -144,8 +144,8 @@ categories: speedrun
 | 131 | Brandon_Lepetrie42 | 0:03:40 | 2024-04-10 | [link](https://youtu.be/GNswsS6iC08) |
 | 131 | santicop | 0:03:40 | 2025-09-06 | [link](https://youtu.be/E8ZmAeA6V8E) |
 | 137 | Rh4kor | 0:03:41 | 2021-09-28 | [link](https://www.youtube.com/watch?v=jmWHkwRsXdM) |
-| 138 | BusterMan | 0:03:42 | 2022-02-22 | [link](https://www.youtube.com/watch?v=7rlD3_MQxXE) |
 | 138 | SBDWolf | 0:03:42 | 2023-09-20 | [link](https://www.youtube.com/watch?v=Fr19d5uktn4) |
+| 138 | BusterMan | 0:03:42 | 2022-02-22 | [link](https://www.youtube.com/watch?v=7rlD3_MQxXE) |
 | 140 | joshuatalato | 0:03:43 | 2021-03-07 | [link](https://www.youtube.com/watch?v=lVtoeIsGmHA) |
 | 140 | sausage_walk | 0:03:43 | 2023-01-08 | [link](https://youtu.be/JmduClV5p2g) |
 | 140 | ImDangerous20 | 0:03:43 | 2018-03-29 | [link](https://www.twitch.tv/videos/244103093) |
@@ -178,8 +178,8 @@ categories: speedrun
 | 166 | alabastro1 | 0:03:47 | 2024-04-16 | [link](https://youtu.be/DoNvcUnnAZc) |
 | 170 | MauricinhoPOWER | 0:03:48 | 2021-04-25 | [link](https://www.twitch.tv/videos/1001155699) |
 | 170 | Brubs | 0:03:48 | 2021-02-20 | [link](https://youtu.be/sNXMVbRlVAw) |
-| 170 | timmyshotgun | 0:03:48 | 2020-12-18 | [link](https://youtu.be/bWzGlR-22X0) |
 | 170 | SomeBro | 0:03:48 | 2018-02-16 | [link](https://youtu.be/n2uP1ndlgmw) |
+| 170 | timmyshotgun | 0:03:48 | 2020-12-18 | [link](https://youtu.be/bWzGlR-22X0) |
 | 170 | joka | 0:03:48 | 2017-02-07 | [link](https://www.youtube.com/watch?v=RSO5h78ntYI) |
 | 170 | stewie_cartman | 0:03:48 | 2024-08-22 | [link](https://www.youtube.com/watch?v=7KJU_v0Bt7s) |
 | 170 | The_H_Pandin | 0:03:48 | 2025-02-08 | [link](https://www.youtube.com/watch?v=pt2pP8B9xOQ) |
@@ -469,10 +469,10 @@ categories: speedrun
 | 455 | zutetflute | 0:04:14 | 2018-03-02 | [link](https://youtu.be/jrsHceWF7vM) |
 | 455 | DiegoH | 0:04:14 | 2026-01-31 | [link](https://youtu.be/csTDsQqPYXk?si=3jCHI6Flx_2Y2pSw) |
 | 462 | WontedEvil158 | 0:04:15 | 2022-05-23 | [link](https://youtu.be/TgGbfOnS_Sg) |
+| 462 | melloflowz | 0:04:15 | 2019-03-19 | [link](https://www.twitch.tv/videos/398382567) |
 | 462 | TH3MOTOGAM3R | 0:04:15 | 2020-05-25 | [link](http://www.twitch.tv/th3motogam3r/v/632090049?sr=a&t=0s) |
 | 462 | Yamia | 0:04:15 | 2017-04-30 | [link](https://youtu.be/HA1Yd05g2ps) |
 | 462 | nicorasu | 0:04:15 | 2019-12-22 | [link](https://www.twitch.tv/videos/524752526) |
-| 462 | melloflowz | 0:04:15 | 2019-03-19 | [link](https://www.twitch.tv/videos/398382567) |
 | 462 | turara32767 | 0:04:15 | 2023-12-23 | [link](https://youtu.be/WyhXU_4OJLQ) |
 | 468 | rockonig | 0:04:16 | 2020-12-23 | [link](https://youtu.be/O0Lij_UoI9g) |
 | 468 | Miriao | 0:04:16 | 2022-05-20 | [link](https://www.youtube.com/watch?v=udVFH9pULmE) |
