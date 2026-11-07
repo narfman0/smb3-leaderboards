@@ -609,8 +609,8 @@ categories: speedrun
 | 598 | Waza__Alex | 0:04:43 | 2020-05-31 | [link](https://youtu.be/UYN5pfiS1lE) |
 | 598 | MartinCaita | 0:04:43 | 2024-03-31 | [link](https://www.youtube.com/watch?v=QFxzvv0uC-c&ab_channel=Phizzy) |
 | 602 | RealMim | 0:04:45 | 2021-05-04 | [link](https://youtu.be/mTWBgpYxcG8) |
-| 602 | Esthrus | 0:04:45 | 2019-06-07 | [link](https://youtu.be/nq-erkE5FKs) |
 | 602 | Djinnesis | 0:04:45 | 2019-03-22 | [link](https://youtu.be/LKkJglzvMf4) |
+| 602 | Esthrus | 0:04:45 | 2019-06-07 | [link](https://youtu.be/nq-erkE5FKs) |
 | 605 | GonGon99 | 0:04:46 | 2023-02-12 | [link](https://youtu.be/pVe9JqUqhkY) |
 | 605 | zombieSR | 0:04:46 | 2022-02-27 | [link](https://youtu.be/PtvFswKbTGs) |
 | 605 | Yalemarr | 0:04:46 | 2020-09-22 | [link](https://m.youtube.com/watch?v=vruug4_sfDU) |
